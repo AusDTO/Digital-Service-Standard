@@ -11,7 +11,7 @@ phases:
   - beta
   - live
 ---
-# Digital-Service-Standard
+# Digital Service Standard
 The Digital Service Standard establishes the criteria that Australian Government digital services must meet to ensure our services are simpler, faster and easier to use. Meeting the criteria means we can consistently provide high quality services and satisfy our users' needs.
 ###We Seek Your Feedback
 We appreciate and encourage your feedback and suggestions on these documents. These can be insignificant matters (such as, typos or grammatical errors) or suggesting new areas of guidance. Comments, content and feature suggestions and discussions are welcome via GitHub Issues and on the website (coming soon). 
