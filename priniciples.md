@@ -20,4 +20,4 @@ Listed below are our design principles for all digital services.
 
 9.  Be consistent, not uniform 
 
-10. Make things open: it makes things better 
+110. Make things open: it makes things better 
