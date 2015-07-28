@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+    <meta charset="utf-8" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="dcterms.language" content="en" />
+<link rel="shortcut icon" href="https://www.dto.gov.au/sites/g/files/net261/f/austgov_0.jpg" type="image/jpeg" />
+<link rel="icon" href="https://www.dto.gov.au/sites/g/files/net261/f/iconomist/austgov_1.jpg" type="image/jpeg" />
+<link rel="schema.AGLSTERMS" href="http://www.agls.gov.au/agls/terms/" />
+<meta name="dcterms.modified" content="2015-07-20T18:47+10:00" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.date" content="2015-06-19T12:14+10:00" />
+<meta name="dcterms.creator" content="Sharyn Clarkson" />
+<meta name="dcterms.description" content="Our challenge: How do we get the right information and services to people when and where they need it?" />
+<meta name="dcterms.publisher" content="Digital Transformation Office, Australian Government" />
+<meta name="dcterms.title" content="Transforming Government Information" />
+<meta name="description" content="Our challenge: How do we get the right information and services to people when and where they need it?" />
+<meta name="keywords" content="government, digital, structural reform, content, information, government as an api, government as a platform" />
+<meta name="generator" content="Drupal 7 (http://drupal.org) + govCMS (http://govcms.gov.au)" />
+<link rel="canonical" href="https://www.dto.gov.au/blog/transforming-government-information" />
+<link rel="shortlink" href="https://www.dto.gov.au/node/761" />
+    <title>Transforming Government Information | Digital Transformation Office, Australian Government</title>
+
+            <meta name="MobileOptimized" content="width">
+        <meta name="HandheldFriendly" content="true">
+        <meta name="viewport" content="width=device-width">
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1"> <!--SS-stops zooming on inputs on mobile devices-->
+        <meta http-equiv="cleartype" content="on">
+
+    <style>
+@import url("https://www.dto.gov.au/modules/system/system.base.css?ns683m");
+@import url("https://www.dto.gov.au/modules/comment/comment.css?ns683m");
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/date/date_api/date.css?ns683m");
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/date/date_popup/themes/datepicker.1.7.css?ns683m");
+@import url("https://www.dto.gov.au/modules/field/theme/field.css?ns683m");
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/google_analytics_reports/google_analytics_reports/google_analytics_reports.css?ns683m");
+@import url("https://www.dto.gov.au/modules/node/node.css?ns683m");
+@import url("https://www.dto.gov.au/modules/search/search.css?ns683m");
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/toc_filter/toc_filter.css?ns683m");
+@import url("https://www.dto.gov.au/modules/user/user.css?ns683m");
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/video_filter/video_filter.css?ns683m");
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/views/css/views.css?ns683m");
+</style>
+<style>
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/ctools/css/ctools.css?ns683m");
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/panels/css/panels.css?ns683m");
+@import url("https://www.dto.gov.au/modules/filter/filter.css?ns683m");
+</style>
+<style>.url-textfield{display:none !important;}
+</style>
+<style>
+@import url("https://www.dto.gov.au/sites/g/files/net261/themes/site/dto_whitesite/css/styles.css?ns683m");
+@import url("https://www.dto.gov.au/sites/g/files/net261/themes/site/dto_whitesite/libraries/gray/css/gray.min.css?ns683m");
+@import url("https://www.dto.gov.au/sites/g/files/net261/themes/site/dto_whitesite/css/font-awesome.min.css?ns683m");
+</style>
+    <script src="https://www.dto.gov.au/misc/jquery.js?v=1.4.4"></script>
+<script src="https://www.dto.gov.au/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.dto.gov.au/misc/drupal.js?ns683m"></script>
+<script src="https://www.dto.gov.au/misc/form.js?v=7.38"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/modules/contrib/google_analytics_reports/google_analytics_reports/google_analytics_reports.js?ns683m"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/modules/contrib/toc_filter/toc_filter.js?ns683m"></script>
+<script src="https://www.google.com/jsapi"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/modules/contrib/google_analytics/googleanalytics.js?ns683m"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-61222473-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");ga('create', 'UA-54970022-1', 'auto', {'name': 'govcms'}); ga('govcms.send', 'pageview', {'anonymizeIp': true});</script>
+<script src="https://www.dto.gov.au/misc/textarea.js?v=7.38"></script>
+<script src="https://www.dto.gov.au/modules/filter/filter.js?ns683m"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/libraries/html5placeholder/jquery.placeholder.js?ns683m"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/libraries/superfish/supposition.js?ns683m"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/libraries/superfish/superfish.js?ns683m"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/libraries/superfish/supersubs.js?ns683m"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/modules/contrib/superfish/superfish.js?ns683m"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/themes/govcms/govcms_zen/js/tinynav.min.js?ns683m"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/themes/govcms/govcms_zen/js/script.js?ns683m"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/themes/govcms/govcms_zen/js/superfish.js?ns683m"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/themes/govcms/govcms_zen/js/hoverIntent.js?ns683m"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/themes/govcms/govcms_zen/js/responsiveslides.js?ns683m"></script>
+<script src="https://www.dto.gov.au/sites/g/files/net261/themes/site/dto_whitesite/js/agency.js?ns683m"></script>
+<script src="https://www.dto.gov.au/sites/g/files/net261/themes/site/dto_whitesite/libraries/gray/js/jquery.gray.js?ns683m"></script>
+<script src="https://www.dto.gov.au/sites/g/files/net261/themes/site/dto_whitesite/js/jquery-menu.js?ns683m"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dto_whitesite","theme_token":"xnmMGyBPniyEEmEys0uwbAPItqZAgpAZ5RXSaNC_oYE","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/form.js":1,"profiles\/govcms\/modules\/contrib\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.js":1,"profiles\/govcms\/modules\/contrib\/toc_filter\/toc_filter.js":1,"https:\/\/www.google.com\/jsapi":1,"profiles\/govcms\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"misc\/textarea.js":1,"modules\/filter\/filter.js":1,"profiles\/govcms\/libraries\/html5placeholder\/jquery.placeholder.js":1,"profiles\/govcms\/libraries\/superfish\/supposition.js":1,"profiles\/govcms\/libraries\/superfish\/superfish.js":1,"profiles\/govcms\/libraries\/superfish\/supersubs.js":1,"profiles\/govcms\/modules\/contrib\/superfish\/superfish.js":1,"profiles\/govcms\/themes\/govcms\/govcms_zen\/js\/tinynav.min.js":1,"profiles\/govcms\/themes\/govcms\/govcms_zen\/js\/script.js":1,"profiles\/govcms\/themes\/govcms\/govcms_zen\/js\/superfish.js":1,"profiles\/govcms\/themes\/govcms\/govcms_zen\/js\/hoverIntent.js":1,"profiles\/govcms\/themes\/govcms\/govcms_zen\/js\/responsiveslides.js":1,"sites\/g\/files\/net261\/themes\/site\/dto_whitesite\/js\/agency.js":1,"sites\/g\/files\/net261\/themes\/site\/dto_whitesite\/libraries\/gray\/js\/jquery.gray.js":1,"sites\/g\/files\/net261\/themes\/site\/dto_whitesite\/js\/jquery-menu.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"profiles\/govcms\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/govcms\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"profiles\/govcms\/modules\/contrib\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"profiles\/govcms\/modules\/contrib\/toc_filter\/toc_filter.css":1,"modules\/user\/user.css":1,"profiles\/govcms\/modules\/contrib\/video_filter\/video_filter.css":1,"profiles\/govcms\/modules\/contrib\/views\/css\/views.css":1,"profiles\/govcms\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/govcms\/modules\/contrib\/panels\/css\/panels.css":1,"modules\/filter\/filter.css":1,"profiles\/govcms\/libraries\/superfish\/css\/superfish.css":1,"0":1,"sites\/g\/files\/net261\/themes\/site\/dto_whitesite\/system.menus.css":1,"sites\/g\/files\/net261\/themes\/site\/dto_whitesite\/system.messages.css":1,"sites\/g\/files\/net261\/themes\/site\/dto_whitesite\/system.theme.css":1,"profiles\/govcms\/themes\/govcms\/govcms_zen\/css\/govcms_styles.css":1,"profiles\/govcms\/themes\/govcms\/govcms_zen\/css\/superfish.css":1,"sites\/g\/files\/net261\/themes\/site\/dto_whitesite\/govcms_zen.css":1,"sites\/g\/files\/net261\/themes\/site\/dto_whitesite\/govcms_styles.css":1,"sites\/g\/files\/net261\/themes\/site\/dto_whitesite\/css\/styles.css":1,"sites\/g\/files\/net261\/themes\/site\/dto_whitesite\/libraries\/gray\/css\/gray.min.css":1,"sites\/g\/files\/net261\/themes\/site\/dto_whitesite\/css\/font-awesome.min.css":1}},"googleAnalyticsReportsAjaxUrl":"\/google-analytics-reports\/ajax","toc_filter_smooth_scroll_duration":"","currentPath":"node\/761","currentPathIsAdmin":false,"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"superfish":{"1":{"id":"1","sf":{"delay":"0","animation":{"opacity":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}},"tagmap":[],"wysiwyg":{"triggers":{"edit-comment-body-und-0-value":{"field":"edit-comment-body-und-0-value","resizable":1,"activeFormat":"plain_text"}}}});</script>
+            <!--[if lt IE 9]>
+        <script src="/profiles/govcms/themes/contrib/zen/js/html5-respond.js"></script>
+        <![endif]-->
+    </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-761 node-type-blog-article section-blog" >
+<div id="skip-link">
+            <!--
+        <a href="#main-menu" class="skip-link element-invisible element-focusable">Jump to navigation</a>
+        -->
+        <a href="#main-content" class="skip-link element-invisible element-focusable">Skip to main content</a>
+</div>
+
+<!--<div class="layout-centered page-wrapper">-->
+<div class="menu-open"></div>
+<div class="ie-warning"><span class="warning-text">It looks like you're using an old version of Internet Explorer. For the best experience, please update your browser.</span></div>
+  <header class="header" role="banner">
+  <div class="nav-head-container">
+    <a href="/" title="Home" rel="home" class="header__logo" id="logo"><img src="https://www.dto.gov.au/sites/g/files/net261/f/dto_crest_inline_0.png" alt="Home" class="header__logo-image" />
+    <!--<div class="mobile-header">Digital Transformation Office</div></a>-->
+    <!--<a href="/" title="Home" rel="home" class="header__logo" id="logo"><img src="/sites/all/themes/custom/dto_whitesite/images/update/government-crest.png" alt="Home" class="header__logo-image" /><span class="title">Digital Transformation Office</span></a>-->
+<a class="mobile-nav" href="#open-menu"><div class="top"></div><div class="middle"></div><div class="bottom"></div>MENU</a>
+    <nav class="header__secondary-menu" role="navigation">
+          </nav>
+
+      <div class="header__region region region-header">
+    
+<div id="block-search-api-page-default-search" class="block block-search-api-page contextual-links-region first last odd">
+
+      
+  <div class="block__content">
+    <form class="search-form-widget" action="/comment/511" method="post" id="search-api-page-search-form-default-search" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-keys-1">
+  <label class="element-invisible" for="edit-keys-1">Search dto.gov.au </label>
+ <input placeholder="Search dto.gov.au" type="text" id="edit-keys-1" name="keys_1" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<input type="hidden" name="id" value="1" />
+<button type="submit" id="edit-submit-1" name="op" value="Search" class="form-submit" />Search</button><input type="hidden" name="form_build_id" value="form-U_xCSRceTx3nn53mz3HwF_P9pS883YXjKPw58r4XlYg" />
+<input type="hidden" name="form_id" value="search_api_page_search_form_default_search" />
+</div></form>  </div>
+
+</div>
+  </div>
+    </div>
+  </header>
+    <div class="region region-navigation">
+    
+<div id="block-superfish-1" class="block block-superfish contextual-links-region first last odd">
+
+      
+  <div class="block__content">
+    <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-5 sf-parent-items-1 sf-single-items-4"><li id="menu-589-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/" class="sf-depth-1">Home</a></li><li id="menu-2391-1" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/blog" class="sf-depth-1">Blog</a></li><li id="menu-1391-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-6 sf-parent-children-3 sf-single-children-3 menuparent"><a href="/standard" class="sf-depth-1 menuparent">Digital Service Standard</a><ul><li id="menu-2221-1" class="first odd sf-item-1 sf-depth-2"><a href="/standard" title="" class="sf-depth-2">The Standard</a></li><li id="menu-2286-1" class="middle even sf-item-2 sf-depth-2"><a href="/design-guides" class="sf-depth-2">Design guides</a></li><li id="menu-2226-1" class="middle odd sf-item-3 sf-depth-2"><a href="/standard/digital-transformation-plan" class="sf-depth-2">Transformation planning</a></li><li id="menu-2296-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/standard/common-government-solutions" class="sf-depth-2">Common solutions</a></li><li id="menu-2341-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/standard/case-studies" class="sf-depth-2">Case studies</a></li><li id="menu-2291-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="/standard/glossary" class="sf-depth-2">Glossary</a></li></ul></li><li id="menu-1231-1" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="/engage" title="" class="sf-depth-1">Engage</a></li><li id="menu-2626-1" class="last odd sf-item-5 sf-depth-1 sf-no-children"><a href="/about" class="sf-depth-1">About us</a></li></ul>  </div>
+
+</div>
+  </div>
+<div class="layout-centered page-wrapper">
+  
+  
+  <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="/">Home</a> / </li><li><a href="/blog">Blog</a> / </li><li>Transforming Government Information</li></ol></nav>
+  
+
+    <div class="region region-highlighted layout-full">
+    
+<div id="block-block-46" class="block block-block contextual-links-region first last odd">
+
+      
+  <div class="block__content">
+    <p>Want to keep updated? Join our <a href="http://eepurl.com/bcEu2D">DTO mailing list</a> for regular updates.</p>
+  </div>
+
+</div>
+  </div>
+    <div class="layout-sidebar-right">
+
+    
+
+    <div class="layout-sidebar-right__main main-content" role="main">
+
+      <a href="#skip-link" id="skip-content" class="element-invisible">Go to top of page</a>
+      <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Transforming Government Information</h1>
+                                          
+
+<div id="block-service-links-service-links" class="block block-service-links contextual-links-region first last odd">
+
+        <h2 class="block__title block-title">Share to:</h2>
+    
+  <div class="block__content">
+    <div class="service-links"><a href="http://www.facebook.com/sharer.php?u=https%3A//www.dto.gov.au/blog/transforming-government-information&amp;t=Transforming%20Government%20Information" title="Share on Facebook" class="service-links-facebook" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/facebook.png" alt="Facebook logo" /></a> <a href="http://twitter.com/share?url=https%3A//www.dto.gov.au/blog/transforming-government-information&amp;text=Transforming%20Government%20Information" title="Share this on Twitter" class="service-links-twitter" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/twitter.png" alt="Twitter logo" /></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//www.dto.gov.au/blog/transforming-government-information&amp;title=Transforming%20Government%20Information&amp;summary=Our%20challenge%3A%20How%20do%20we%20get%20the%20right%20information%20and%20services%20to%20people%26nbsp%3Bwhen%20and%20where%20they%20need%20it%3FThe%20public%20relies%20on%20Government%20for%20a%20broad%20range%20of%20information%20%E2%80%93%20advice%20for%20individuals%20and%20businesses%2C%20what%20services%20are%20available%20and%20how%20to%20access%20them%2C%20and%20how%20various%20rules%20and%20laws%20impact%20our%20lives.&amp;source=Digital%20Transformation%20Office%2C%20Australian%20Government" title="Publish this post to LinkedIn" class="service-links-linkedin" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/linkedin.png" alt="LinkedIn logo" /></a> <a href="mailto:?subject=Transforming%20Government%20Information&amp;body=https%3A//www.dto.gov.au/blog/transforming-government-information" title="Share via email" class="service-links-email" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/email.png" alt="email logo" /></a></div>  </div>
+
+</div>
+<div  about="/blog/transforming-government-information" typeof="sioc:Item foaf:Document" class="ds-1col node node-blog-article view-mode-full clearfix">
+
+  
+  <div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">19/06/2015 - 12:14pm</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even">Sharyn Clarkson</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>Our challenge: How do we get the right information and services to people when and where they need it?</strong></p>
+<p>The public relies on Government for a broad range of information – advice for individuals and businesses, what services are available and how to access them, and how various rules and laws impact our lives.</p>
+<p>The government’s digital environment has grown organically over the last couple of decades. At the moment, information is largely created and managed within agencies and published across more than 1200 disparate gov.au websites, plus a range of social media accounts, apps and other digital formats.</p>
+<p>This creates some difficulties for people looking for government information. By publishing within agency silos we are presenting people with an agency-centric view of government information. This is a problem because people largely don’t understand or care about how government organises itself and the structure of government does not map to the needs of people. Having a baby or travelling overseas? Up to a dozen government agencies may have information relevant to you. And as people’s needs span more than one agency, they end up with a disjointed and confusing user experience as they have to navigate across disparate government sites. And even if you begin at your favourite search engine how do you know which of the many government search results is the right place to start?</p>
+<p>There are two government entry points already in place to help users – Australia.gov.au and business.gov.au – but they largely act as an umbrella across the 1200+ sites and currently only provide a very thin layer of whole of government information and mainly refer people off to other websites.</p>
+<p>The establishment of the DTO has provided the first opportunity for people to come together and better understand how our underlying structural landscape is impacting people’s experience with government. It’s also given us an opportunity to take a step back and ask some of the big questions about how we manage information and what problems can only really be solved through whole of government transformation.</p>
+<p>How do we make information and services easier to find? How do we make sure we provide information that people can trust and rely upon at times of need? How should the gov.au landscape be organised to make it easier for us to meet user’s needs and expectations? How many websites should we have – assuming 1200 is too many? What makes up a better user experience – does it mean all sites should look and feel the same? How can we provide government information at the places people naturally go looking for assistance – even if these are not government sites?</p>
+<p>As we asked these questions we started to come across some central ideas:</p>
+<ul><li>What if we could decouple the authoring and management of information from the publishing process, so the subject experts in government still manage their content but we have flexibility to present it in more user-centric ways?</li>
+<li>What if we unleashed government information? Making it possible for state and local governments, non-profit groups and businesses to deliver content and services alongside their own information to give better value users.</li>
+<li>Should we move the bureaucratic content (information about agencies and how they are managed such as annual reports, budget statements and operating rules) out of the way of core content and services for people? Can we simplify our environment and base it around topics and life events instead of agencies? What if we had people in government responsible for curating these topics and life events across agencies and creating simpler pathways for users?</li>
+</ul><p style="margin-left:18.0pt">We think one of the most important things government can do to drive change is make our information and services consumable – across agencies and by non-government organisations. We want to move to an API-enabled publishing model, where authoritative content is created once, managed by experts, but can be published in many places. This will help government do a better job of focussing around people’s needs, but also opens up government information to third parties who can innovate and create new opportunities and value for users.</p>
+<p style="margin-left:18.0pt">We also think that there is an underlying cultural change that needs to happen across government to make this work, a breaking down of some embedded processes and reaching out across agency and jurisdiction borders.</p>
+<p style="margin-left:18.0pt">Over the coming months we will be using an evidence-based design approach to flesh these ideas out – using prototypes to test with end users and consulting with agencies and other sectors. From this we will build a whole of government strategy to transform the way we provide government information to the public.</p>
+<p style="margin-left:18.0pt"><strong>What do you think?</strong></p>
+<p style="margin-left:18.0pt">It’s going to take some work to get this right – please tell us what you think of our ideas so far. Have we asked the right questions? Are we taking the right approaches? How do we prioritise this work?</p>
+</div></div></div><div class="field field-name-service-links-block field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="service-links"><a href="http://www.facebook.com/sharer.php?u=https%3A//www.dto.gov.au/blog/transforming-government-information&amp;t=Transforming%20Government%20Information" title="Share on Facebook" class="service-links-facebook" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/facebook.png" alt="Facebook logo" /></a> <a href="http://twitter.com/share?url=https%3A//www.dto.gov.au/blog/transforming-government-information&amp;text=Transforming%20Government%20Information" title="Share this on Twitter" class="service-links-twitter" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/twitter.png" alt="Twitter logo" /></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//www.dto.gov.au/blog/transforming-government-information&amp;title=Transforming%20Government%20Information&amp;summary=Our%20challenge%3A%20How%20do%20we%20get%20the%20right%20information%20and%20services%20to%20people%26nbsp%3Bwhen%20and%20where%20they%20need%20it%3FThe%20public%20relies%20on%20Government%20for%20a%20broad%20range%20of%20information%20%E2%80%93%20advice%20for%20individuals%20and%20businesses%2C%20what%20services%20are%20available%20and%20how%20to%20access%20them%2C%20and%20how%20various%20rules%20and%20laws%20impact%20our%20lives.&amp;source=Digital%20Transformation%20Office%2C%20Australian%20Government" title="Publish this post to LinkedIn" class="service-links-linkedin" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/linkedin.png" alt="LinkedIn logo" /></a> <a href="mailto:?subject=Transforming%20Government%20Information&amp;body=https%3A//www.dto.gov.au/blog/transforming-government-information" title="Share via email" class="service-links-email" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/email.png" alt="email logo" /></a></div></div></div></div><div class="field field-name-related-blogs-block field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2 class="block-title">Related blogs</h2><div class="view view-related-blogs view-id-related_blogs view-display-id-block_2 view-dom-id-b223ce75978a065eb4aebf35c047fe63">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/where-are-we-heading-future-state-user-experience">Where are we heading: A future state for user experience</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/government-working-government-lessons-onegov">Government working with government: Lessons from OneGov</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/hacking-better-government-services">Hacking for better government services</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div></div></div><div id="comments" class="comment-wrapper">
+          <h2 class="title">Comments (32)</h2>
+        <a id="comment-506"></a>
+<article class="comment comment-by-anonymous first odd clearfix" about="/comment/506#comment-506" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+            <span property="dc:date dc:created" content="2015-06-22T09:58:42+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Anonymous</span> replied on <time pubdate datetime="2015-06-22T09:58:42+10:00">Mon, 2015-06-22 09:58</time></span>      <a href="/comment/506#comment-506" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/transforming-government-information" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>What is being done to address the quality of government information presented on websites?  Making information and services easier to find is a great goal.  It doesn&#039;t help much though if once you find the right information, the information itself is poorly written, complicated, poorly structured and presented, full of jargon, out of date - essentially difficult to understand.  It is also unlikely that others will want to consume bad content (no matter how good the APIs are).</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="/comment/reply/761/506">reply</a></li>
+</ul></article>
+
+<div class="indented"><a id="comment-511"></a>
+<article class="comment comment-by-anonymous even clearfix" about="/comment/511#comment-511" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+            <span property="dc:date dc:created" content="2015-06-22T11:21:31+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">S Clarkson</span> replied on <time pubdate datetime="2015-06-22T11:21:31+10:00">Mon, 2015-06-22 11:21</time></span>      <a href="/comment/511#comment-511" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/transforming-government-information" class="rdf-meta element-hidden"></span><span rel="sioc:reply_of" resource="/comment/506#comment-506" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>Yes, completely agree.  We think this needs a variety of approaches.  </p>
+<p>We are planning to create and implement a whole of government content model because this will help subject matter experts understand what they should include and how to structure their content depending on what they are writing about.  It would make content across government more consistent in how it is constructed and presented.</p>
+<p>We think creating Chief Editors against each topic (rather than site) this would go some way to getting rid of conflicting, inaccurate or out of date information. Conflicting information is amplified by multiple agencies/sites writing on the same topic but from a slightly different angle.  We also understand the difficulties of reusing content from somewhere else when it&#039;s a cut and paste at a given point in time.  We think consuming content via API in real time will make it easier to keep the information current and give the owner of that content more assurance that people are reusing the latest version.</p>
+<p>As for poorly written content or use of jargon we will be implementing a &#039;plain English&#039; assessment tool.  At the moment we are testing a couple of tools and getting a better understanding of how they work.  The intent is that we will regularly run a tool across all publically available content and then report on the results through the DTO Dashboard.  The Digital Service Standard strongly supports plain English and provides guidance and support that should help web teams to insist on those standards within their agencies.</p>
+<p>We are very open to more ideas on what else needs to happen to make government content better and easier to understand.  What would you like to see happen?</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="/comment/reply/761/511">reply</a></li>
+</ul></article>
+
+<div class="indented"><a id="comment-526"></a>
+<article class="comment comment-by-anonymous odd clearfix" about="/comment/526#comment-526" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+            <span property="dc:date dc:created" content="2015-06-22T15:49:29+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Bobby Graham</span> replied on <time pubdate datetime="2015-06-22T15:49:29+10:00">Mon, 2015-06-22 15:49</time></span>      <a href="/comment/526#comment-526" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/transforming-government-information" class="rdf-meta element-hidden"></span><span rel="sioc:reply_of" resource="/comment/511#comment-511" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>I think creating Chief Editors is a good idea: most government agencies are large publishers, but they may not recognise or acknowledge this part of their business. Would a Chief Editor oversee the process from commissioning to publishing? That might assist agencies follow the appropriate processes to produce their content digital first (as opposed to thinking only of print).</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="/comment/reply/761/526">reply</a></li>
+</ul></article>
+
+<div class="indented"><a id="comment-556"></a>
+<article class="comment comment-by-node-author even clearfix" about="/comment/556#comment-556" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+        <span class="user-picture">
+    <img typeof="foaf:Image" src="https://www.dto.gov.au/sites/g/files/net261/f/pictures/picture-356-1435041168.jpg" alt="Sharyn Clarkson&#039;s picture" title="Sharyn Clarkson&#039;s picture" />  </span>
+      <span property="dc:date dc:created" content="2015-06-23T18:58:39+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/sharyn-clarkson" typeof="sioc:UserAccount" property="foaf:name" datatype="">Sharyn Clarkson</span> replied on <time pubdate datetime="2015-06-23T18:58:39+10:00">Tue, 2015-06-23 18:58</time></span>      <a href="/comment/556#comment-556" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/transforming-government-information" class="rdf-meta element-hidden"></span><span rel="sioc:reply_of" resource="/comment/526#comment-526" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>Hi Bobby,</p>
+<p>I'd expect an editorial role to span the full range of activities from commissioning to publishing.  I think especially in larger agencies a Chief Editor could never be only the only person putting forward ideas for new content or identifying gaps but maybe they would own the process - and through that process they could ensure digital first. </p>
+<p>We have some great examples in the APS of high quality content being produced by agencies that have given their Editors the authority to oversee the process and the quality for their agency content.  We are very keen to learn from them and hear from others so we can propose something that will work.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="/comment/reply/761/556">reply</a></li>
+</ul></article>
+
+<div class="indented"><a id="comment-571"></a>
+<article class="comment comment-by-anonymous odd clearfix" about="/comment/571#comment-571" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+            <span property="dc:date dc:created" content="2015-06-24T11:38:18+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Bobby Graham</span> replied on <time pubdate datetime="2015-06-24T11:38:18+10:00">Wed, 2015-06-24 11:38</time></span>      <a href="/comment/571#comment-571" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/transforming-government-information" class="rdf-meta element-hidden"></span><span rel="sioc:reply_of" resource="/comment/556#comment-556" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>Hi Sharyn - this discussion about Chief Editors is particularly interesting to me as I&#039;m delivering a presentation to the Society of Editors on what it means to be an editor in the digital age. I give you a mention! - and look forward to working with you to deliver better content.<br />
+See <a href="https://medium.com/@bgpublishers/how-to-be-a-digital-editor-90a91510debd?source=reading-list-published_user">https://medium.com/@bgpublishers/how-to-be-a-digital-editor-90a91510debd...</a></p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="/comment/reply/761/571">reply</a></li>
+</ul></article>
+
+<div class="indented"><a id="comment-606"></a>
+<article class="comment comment-by-node-author even clearfix" about="/comment/606#comment-606" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+        <span class="user-picture">
+    <img typeof="foaf:Image" src="https://www.dto.gov.au/sites/g/files/net261/f/pictures/picture-356-1435041168.jpg" alt="Sharyn Clarkson&#039;s picture" title="Sharyn Clarkson&#039;s picture" />  </span>
+      <span property="dc:date dc:created" content="2015-06-25T09:40:43+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/sharyn-clarkson" typeof="sioc:UserAccount" property="foaf:name" datatype="">Sharyn Clarkson</span> replied on <time pubdate datetime="2015-06-25T09:40:43+10:00">Thu, 2015-06-25 09:40</time></span>      <a href="/comment/606#comment-606" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/transforming-government-information" class="rdf-meta element-hidden"></span><span rel="sioc:reply_of" resource="/comment/571#comment-571" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>That would be great!  Let me know if the Editors are keen to debate the Chief Editor idea and tell us how they would design a role I could create a blog topic around this so have their say and we could all learn.</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="/comment/reply/761/606">reply</a></li>
+</ul></article>
+</div></div><a id="comment-626"></a>
+<article class="comment comment-by-anonymous odd clearfix" about="/comment/626#comment-626" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+            <span property="dc:date dc:created" content="2015-06-25T13:20:50+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Ted</span> replied on <time pubdate datetime="2015-06-25T13:20:50+10:00">Thu, 2015-06-25 13:20</time></span>      <a href="/comment/626#comment-626" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/transforming-government-information" class="rdf-meta element-hidden"></span><span rel="sioc:reply_of" resource="/comment/526#comment-526" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>Consider the pros and cons of centralised vs decentralised publishing. The role of a chief editor is different for each of these models.</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="/comment/reply/761/626">reply</a></li>
+</ul></article>
+</div></div></div><a id="comment-516"></a>
+<article class="comment comment-by-anonymous even clearfix" about="/comment/516#comment-516" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+            <span property="dc:date dc:created" content="2015-06-22T15:03:42+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Justin B</span> replied on <time pubdate datetime="2015-06-22T15:03:42+10:00">Mon, 2015-06-22 15:03</time></span>      <a href="/comment/516#comment-516" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/transforming-government-information" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>Some really good intial thinking here. No doubt a massive challenge, but a worthwhile one. I think the issue about publishing within inter-agency silos runs deeper, as many agencies have intra-agency silos. These silos are often based around user categorisations (eg, market segments) that are developed by the agency itself, and often don&#039;t translate to the realities of the external users world. The agency website often mirrors those categorisations, creating inherent design floors and usability issues for the user. Whether the driver for these silos is about control, politics or other, it&#039;s one of the cultural traits that will need to be broken down for these concepts to gain momemtum.</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="/comment/reply/761/516">reply</a></li>
+</ul></article>
+
+<div class="indented"><a id="comment-561"></a>
+<article class="comment comment-by-node-author odd clearfix" about="/comment/561#comment-561" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+        <span class="user-picture">
+    <img typeof="foaf:Image" src="https://www.dto.gov.au/sites/g/files/net261/f/pictures/picture-356-1435041168.jpg" alt="Sharyn Clarkson&#039;s picture" title="Sharyn Clarkson&#039;s picture" />  </span>
+      <span property="dc:date dc:created" content="2015-06-23T20:25:52+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/sharyn-clarkson" typeof="sioc:UserAccount" property="foaf:name" datatype="">Sharyn Clarkson</span> replied on <time pubdate datetime="2015-06-23T20:25:52+10:00">Tue, 2015-06-23 20:25</time></span>      <a href="/comment/561#comment-561" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/transforming-government-information" class="rdf-meta element-hidden"></span><span rel="sioc:reply_of" resource="/comment/516#comment-516" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>Thanks Justin,</p>
+<p>I agree with your observations on silos.  It's a hard one to crack because I bet most people don't go to work wanting to perpetuate their silos.  I reckon it's mostly an unintended consequence of breaking work into manageable chunks (ie teams) that then gets made worse the busier you are.</p>
+<p>Chief Editors are one possible way to help deliver more holistic content to users but we know we need to go further and look at the cultural drivers that support (or undermine) being able to work across  silos and deliver what people need.  So what are the values and behaviours we need to reward...or stop rewarding?</p>
+<p>What would you like to change if you had the opportunity?</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="/comment/reply/761/561">reply</a></li>
+</ul></article>
+
+<div class="indented"><a id="comment-586"></a>
+<article class="comment comment-by-anonymous even clearfix" about="/comment/586#comment-586" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+            <span property="dc:date dc:created" content="2015-06-24T12:31:03+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Justin B</span> replied on <time pubdate datetime="2015-06-24T12:31:03+10:00">Wed, 2015-06-24 12:31</time></span>      <a href="/comment/586#comment-586" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/transforming-government-information" class="rdf-meta element-hidden"></span><span rel="sioc:reply_of" resource="/comment/561#comment-561" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>Hi Sharyn</p>
+<p>I agree Chief Editors would be a valuable resource, as long as each agency is committed to providing the editors with an appropriate level of authority to avoid them being perceived as blockers creating bottlenecks. This needs to be coupled with a strategic approach to information creation and delivery designed at the whole-of-government level that each agency is working towards (covering both content and delivery).</p>
+<p>At the moment, I see an imbalance between the authority of subject matter experts and comms/publishing staff in many agencies. Things are slowly changing, but in my experience, the subject matter experts will win the argument on whether something gets published or not 8 or 9 times out of 10. This has led to the proliferation of &quot;low value&quot; duplicated, overly technical content bogging down government websites.</p>
+<p>One of the biggest problems I think we face culturally is this tendancy to encourage/reward &quot;input&quot; as a measure of success (eg, &quot;we created &quot;x&quot; amount of content to support our clients&quot;). This measure is often used to prove to management &quot;how busy we are&quot;, &quot;how productive we&#039;ve been&quot;, &quot;why I should get that promotion&quot;. There isn&#039;t a whole lot of emphasis placed on measuring/rewarding the effectiveness of our work, how we did we reduce complexity, how did remove an irritant, how did we improve a service etc. The &quot;so what&quot; question.</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="/comment/reply/761/586">reply</a></li>
+</ul></article>
+</div></div><h2 class="element-invisible">Pages</h2><ul class="pager-responsive pager-responsive__list"><li class="pager-responsive__pages"><ul class="pager-responsive__list"><li class="pager-responsive__item pager-responsive__item-current">1</li><li class="pager-responsive__item"><a class="pager-responsive__link" title="Go to page 2" href="/blog/transforming-government-information?page=1">2</a></li><li class="pager-responsive__item"><a class="pager-responsive__link" title="Go to page 3" href="/blog/transforming-government-information?page=2">3</a></li><li class="pager-responsive__item"><a class="pager-responsive__link" title="Go to page 4" href="/blog/transforming-government-information?page=3">4</a></li></ul></li><li class="pager-responsive__start-nav"><ul class="pager-responsive__list"><li class="pager-responsive__item pager-responsive__item-nav"><a class="pager-responsive__link" title="Go to first page" href="/blog/transforming-government-information">« first</a></li><li class="pager-responsive__item pager-responsive__item-nav"><a class="pager-responsive__link" title="Go to previous page" href="/blog/transforming-government-information">‹ previous</a></li></ul></li><li class="pager-responsive__end-nav"><ul class="pager-responsive__list"><li class="pager-responsive__item pager-responsive__item-nav"><a class="pager-responsive__link" title="Go to next page" href="/blog/transforming-government-information?page=1">next ›</a></li><li class="pager-responsive__item pager-responsive__item-nav"><a class="pager-responsive__link" title="Go to last page" href="/blog/transforming-government-information?page=3">last »</a></li></ul></li></ul>      <h2 class="title comment-form">Add new comment</h2>
+    <form class="comment-form" action="/comment/reply/761" method="post" id="comment-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Your name </label>
+ <input type="text" id="edit-name" name="name" value="" size="30" maxlength="60" class="form-text" />
+</div>
+<div class="field-type-text-long field-name-comment-body field-widget-text-textarea form-wrapper" id="edit-comment-body"><div id="comment-body-add-more-wrapper"><div class="text-format-wrapper"><div class="form-item form-type-textarea form-item-comment-body-und-0-value">
+  <label for="edit-comment-body-und-0-value">Comment <span class="form-required" title="This field is required.">(mandatory)</span></label>
+ <div class="form-textarea-wrapper resizable"><textarea class="text-full wysiwyg form-textarea required" required="true" id="edit-comment-body-und-0-value" name="comment_body[und][0][value]" cols="60" rows="5"></textarea></div>
+</div>
+<fieldset class="filter-wrapper form-wrapper" id="edit-comment-body-und-0-format"><div class="fieldset-wrapper"><div class="filter-help form-wrapper" id="edit-comment-body-und-0-format-help"><p><a href="/filter/tips" target="_blank">More information about text formats</a></p></div><div class="filter-guidelines form-wrapper" id="edit-comment-body-und-0-format-guidelines"><div class="filter-guidelines-item filter-guidelines-plain_text"><h3>Plain text</h3><ul class="tips"><li>No HTML tags allowed.</li><li>Web page addresses and e-mail addresses turn into links automatically.</li><li>Lines and paragraphs break automatically.</li></ul></div></div></div></fieldset>
+</div>
+</div></div><input type="hidden" name="form_build_id" value="form-R1Szu4j8LcEC95TjXc9f2ksH6IcTt-T8nQyhCSnnVYk" />
+<input type="hidden" name="form_id" value="comment_node_blog_article_form" />
+<div class="url-textfield"><div class="form-item form-type-textfield form-item-url">
+  <label for="edit-url">Leave this field blank </label>
+ <input autocomplete="off" type="text" id="edit-url" name="url" value="" size="20" maxlength="128" class="form-text" />
+</div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><button type="submit" id="edit-submit" name="op" value="Save" class="form-submit" />Save</button><button type="submit" id="edit-preview" name="op" value="Preview" class="form-submit" />Preview</button></div></div></form>  </div>
+</div>
+
+          </div>
+
+          <aside class="layout-sidebar-right__sidebar_two sidebar sidebar-right" role="complementary">
+          <section class="region region-sidebar-two column sidebar">
+    
+<div id="block-views-related-blogs-block-2" class="block block-views contextual-links-region first last odd">
+
+        <h2 class="block__title block-title">Related blogs</h2>
+    
+  <div class="block__content">
+    <div class="view view-related-blogs view-id-related_blogs view-display-id-block_2 view-dom-id-cf0df4d5e2242dea2736f9df6fe0a30c">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/where-are-we-heading-future-state-user-experience">Where are we heading: A future state for user experience</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/government-working-government-lessons-onegov">Government working with government: Lessons from OneGov</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/hacking-better-government-services">Hacking for better government services</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div>
+  </section>
+      </aside>
+
+    
+  </div>
+
+  
+
+</div>
+
+<footer class="footer">
+	<div class="connect-with-dto">
+    <h2>Connect with DTO</h2>
+    <a href="https://twitter.com/AusDTO" title="DTO Twitter"><div class="twitter-icon"></div></a>
+    <a href="https://www.youtube.com/channel/UCmDkFN3UlK2wSKDQQhd-Y-A" title="DTO Youtube"><div class="youtube-icon"></div></a>
+    <a href="https://www.linkedin.com/company/digital-transformation-office" title="DTO Linkedin"><div class="linkedin-icon"></div></a>
+    </div>
+    <div class="footer-links">
+   <!--<a href="/" title="Home" rel="home" class="header__logo" id="logo"><img src="sites/all/themes/custom/dto_whitesite/images/update/government-crest.png" alt="Home" class="header__logo-image" /><span class="title">Digital Transformation Office</span></a>-->
+      <div id="footer_bottom" class="region region-footer-bottom clearfix">
+    
+<div id="block-menu-menu-footer-sub-menu" class="block block-menu contextual-links-region first last odd" role="navigation">
+
+        <h2 class="block__title block-title">Footer Sub Menu</h2>
+    
+  <div class="block__content">
+    <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/about" title="Link to about the DTO" class="menu__link">About</a></li>
+<li class="menu__item is-leaf leaf"><a href="/web-accessibility" class="menu__link">Accessibility</a></li>
+<li class="menu__item is-leaf leaf"><a href="/copyright" class="menu__link">Copyright</a></li>
+<li class="menu__item is-leaf leaf"><a href="/disclaimer" class="menu__link">Disclaimer</a></li>
+<li class="menu__item is-leaf leaf"><a href="/privacy-statement" class="menu__link">Privacy Statement</a></li>
+<li class="menu__item is-leaf leaf"><a href="/budget" title="" class="menu__link">Budget</a></li>
+<li class="menu__item is-leaf leaf"><a href="/sitemap" title="" class="menu__link">Site map</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/engage" title="" class="menu__link">Contact us</a></li>
+</ul>  </div>
+
+</div>
+  </div>
+    </div>
+  
+</footer>
+
+</body>
+</html>

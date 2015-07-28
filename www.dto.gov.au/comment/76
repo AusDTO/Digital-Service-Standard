@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+    <meta charset="utf-8" />
+<meta name="dcterms.language" content="en" />
+<link rel="shortcut icon" href="https://www.dto.gov.au/sites/g/files/net261/f/austgov_0.jpg" type="image/jpeg" />
+<link rel="schema.AGLSTERMS" href="http://www.agls.gov.au/agls/terms/" />
+<link rel="icon" href="https://www.dto.gov.au/sites/g/files/net261/f/iconomist/austgov_1.jpg" type="image/jpeg" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="dcterms.modified" content="2015-07-21T11:08+10:00" />
+<meta name="dcterms.title" content="Introducing the Digital Transformation Office" />
+<meta name="dcterms.description" content="Video transcript: Hi, I&#039;m David Hazlehurst. I&#039;m the acting CEO of the government&#039;s new Digital Transformation Office. The DTO has been created to lead a new approach to the government delivering information and services to Australians." />
+<meta name="dcterms.publisher" content="Digital Transformation Office, Australian Government" />
+<meta name="dcterms.date" content="2015-04-07T12:51+10:00" />
+<meta name="dcterms.creator" content="David Hazlehurst" />
+<meta name="description" content="Video transcript: Hi, I&#039;m David Hazlehurst. I&#039;m the acting CEO of the government&#039;s new Digital Transformation Office. The DTO has been created to lead a new approach to the government delivering information and services to Australians." />
+<meta name="generator" content="Drupal 7 (http://drupal.org) + govCMS (http://govcms.gov.au)" />
+<link rel="canonical" href="https://www.dto.gov.au/blog/introducing-digital-transformation-office" />
+<link rel="shortlink" href="https://www.dto.gov.au/node/206" />
+    <title>Introducing the Digital Transformation Office | Digital Transformation Office, Australian Government</title>
+
+            <meta name="MobileOptimized" content="width">
+        <meta name="HandheldFriendly" content="true">
+        <meta name="viewport" content="width=device-width">
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1"> <!--SS-stops zooming on inputs on mobile devices-->
+        <meta http-equiv="cleartype" content="on">
+
+    <style>
+@import url("https://www.dto.gov.au/modules/system/system.base.css?ns683m");
+@import url("https://www.dto.gov.au/modules/comment/comment.css?ns683m");
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/date/date_api/date.css?ns683m");
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/date/date_popup/themes/datepicker.1.7.css?ns683m");
+@import url("https://www.dto.gov.au/modules/field/theme/field.css?ns683m");
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/google_analytics_reports/google_analytics_reports/google_analytics_reports.css?ns683m");
+@import url("https://www.dto.gov.au/modules/node/node.css?ns683m");
+@import url("https://www.dto.gov.au/modules/search/search.css?ns683m");
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/toc_filter/toc_filter.css?ns683m");
+@import url("https://www.dto.gov.au/modules/user/user.css?ns683m");
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/video_filter/video_filter.css?ns683m");
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/views/css/views.css?ns683m");
+</style>
+<style>
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/ctools/css/ctools.css?ns683m");
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/panels/css/panels.css?ns683m");
+@import url("https://www.dto.gov.au/modules/filter/filter.css?ns683m");
+</style>
+<style>.url-textfield{display:none !important;}
+</style>
+<style>
+@import url("https://www.dto.gov.au/sites/g/files/net261/themes/site/dto_whitesite/css/styles.css?ns683m");
+@import url("https://www.dto.gov.au/sites/g/files/net261/themes/site/dto_whitesite/libraries/gray/css/gray.min.css?ns683m");
+@import url("https://www.dto.gov.au/sites/g/files/net261/themes/site/dto_whitesite/css/font-awesome.min.css?ns683m");
+</style>
+    <script src="https://www.dto.gov.au/misc/jquery.js?v=1.4.4"></script>
+<script src="https://www.dto.gov.au/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.dto.gov.au/misc/drupal.js?ns683m"></script>
+<script src="https://www.dto.gov.au/misc/form.js?v=7.38"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/modules/contrib/google_analytics_reports/google_analytics_reports/google_analytics_reports.js?ns683m"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/modules/contrib/toc_filter/toc_filter.js?ns683m"></script>
+<script src="https://www.google.com/jsapi"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/modules/contrib/google_analytics/googleanalytics.js?ns683m"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-61222473-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");ga('create', 'UA-54970022-1', 'auto', {'name': 'govcms'}); ga('govcms.send', 'pageview', {'anonymizeIp': true});</script>
+<script src="https://www.dto.gov.au/misc/textarea.js?v=7.38"></script>
+<script src="https://www.dto.gov.au/modules/filter/filter.js?ns683m"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/libraries/html5placeholder/jquery.placeholder.js?ns683m"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/libraries/superfish/supposition.js?ns683m"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/libraries/superfish/superfish.js?ns683m"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/libraries/superfish/supersubs.js?ns683m"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/modules/contrib/superfish/superfish.js?ns683m"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/themes/govcms/govcms_zen/js/tinynav.min.js?ns683m"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/themes/govcms/govcms_zen/js/script.js?ns683m"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/themes/govcms/govcms_zen/js/superfish.js?ns683m"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/themes/govcms/govcms_zen/js/hoverIntent.js?ns683m"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/themes/govcms/govcms_zen/js/responsiveslides.js?ns683m"></script>
+<script src="https://www.dto.gov.au/sites/g/files/net261/themes/site/dto_whitesite/js/agency.js?ns683m"></script>
+<script src="https://www.dto.gov.au/sites/g/files/net261/themes/site/dto_whitesite/libraries/gray/js/jquery.gray.js?ns683m"></script>
+<script src="https://www.dto.gov.au/sites/g/files/net261/themes/site/dto_whitesite/js/jquery-menu.js?ns683m"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dto_whitesite","theme_token":"r7FN4rEnvaBAprif8ZBdqamFzep2LdeIgVofTwcBkXs","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/form.js":1,"profiles\/govcms\/modules\/contrib\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.js":1,"profiles\/govcms\/modules\/contrib\/toc_filter\/toc_filter.js":1,"https:\/\/www.google.com\/jsapi":1,"profiles\/govcms\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"misc\/textarea.js":1,"modules\/filter\/filter.js":1,"profiles\/govcms\/libraries\/html5placeholder\/jquery.placeholder.js":1,"profiles\/govcms\/libraries\/superfish\/supposition.js":1,"profiles\/govcms\/libraries\/superfish\/superfish.js":1,"profiles\/govcms\/libraries\/superfish\/supersubs.js":1,"profiles\/govcms\/modules\/contrib\/superfish\/superfish.js":1,"profiles\/govcms\/themes\/govcms\/govcms_zen\/js\/tinynav.min.js":1,"profiles\/govcms\/themes\/govcms\/govcms_zen\/js\/script.js":1,"profiles\/govcms\/themes\/govcms\/govcms_zen\/js\/superfish.js":1,"profiles\/govcms\/themes\/govcms\/govcms_zen\/js\/hoverIntent.js":1,"profiles\/govcms\/themes\/govcms\/govcms_zen\/js\/responsiveslides.js":1,"sites\/g\/files\/net261\/themes\/site\/dto_whitesite\/js\/agency.js":1,"sites\/g\/files\/net261\/themes\/site\/dto_whitesite\/libraries\/gray\/js\/jquery.gray.js":1,"sites\/g\/files\/net261\/themes\/site\/dto_whitesite\/js\/jquery-menu.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"profiles\/govcms\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/govcms\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"profiles\/govcms\/modules\/contrib\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"profiles\/govcms\/modules\/contrib\/toc_filter\/toc_filter.css":1,"modules\/user\/user.css":1,"profiles\/govcms\/modules\/contrib\/video_filter\/video_filter.css":1,"profiles\/govcms\/modules\/contrib\/views\/css\/views.css":1,"profiles\/govcms\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/govcms\/modules\/contrib\/panels\/css\/panels.css":1,"modules\/filter\/filter.css":1,"profiles\/govcms\/libraries\/superfish\/css\/superfish.css":1,"0":1,"sites\/g\/files\/net261\/themes\/site\/dto_whitesite\/system.menus.css":1,"sites\/g\/files\/net261\/themes\/site\/dto_whitesite\/system.messages.css":1,"sites\/g\/files\/net261\/themes\/site\/dto_whitesite\/system.theme.css":1,"profiles\/govcms\/themes\/govcms\/govcms_zen\/css\/govcms_styles.css":1,"profiles\/govcms\/themes\/govcms\/govcms_zen\/css\/superfish.css":1,"sites\/g\/files\/net261\/themes\/site\/dto_whitesite\/govcms_zen.css":1,"sites\/g\/files\/net261\/themes\/site\/dto_whitesite\/govcms_styles.css":1,"sites\/g\/files\/net261\/themes\/site\/dto_whitesite\/css\/styles.css":1,"sites\/g\/files\/net261\/themes\/site\/dto_whitesite\/libraries\/gray\/css\/gray.min.css":1,"sites\/g\/files\/net261\/themes\/site\/dto_whitesite\/css\/font-awesome.min.css":1}},"googleAnalyticsReportsAjaxUrl":"\/google-analytics-reports\/ajax","toc_filter_smooth_scroll_duration":"","currentPath":"node\/206","currentPathIsAdmin":false,"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"superfish":{"1":{"id":"1","sf":{"delay":"0","animation":{"opacity":"show"},"speed":"\u0027fast\u0027","autoArrows":false,"dropShadows":false,"disableHI":false},"plugins":{"supposition":true,"bgiframe":false,"supersubs":{"minWidth":"12","maxWidth":"27","extraWidth":1}}}},"tagmap":[],"wysiwyg":{"triggers":{"edit-comment-body-und-0-value":{"field":"edit-comment-body-und-0-value","resizable":1,"activeFormat":"plain_text"}}}});</script>
+            <!--[if lt IE 9]>
+        <script src="/profiles/govcms/themes/contrib/zen/js/html5-respond.js"></script>
+        <![endif]-->
+    </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-206 node-type-blog-article section-blog" >
+<div id="skip-link">
+            <!--
+        <a href="#main-menu" class="skip-link element-invisible element-focusable">Jump to navigation</a>
+        -->
+        <a href="#main-content" class="skip-link element-invisible element-focusable">Skip to main content</a>
+</div>
+
+<!--<div class="layout-centered page-wrapper">-->
+<div class="menu-open"></div>
+<div class="ie-warning"><span class="warning-text">It looks like you're using an old version of Internet Explorer. For the best experience, please update your browser.</span></div>
+  <header class="header" role="banner">
+  <div class="nav-head-container">
+    <a href="/" title="Home" rel="home" class="header__logo" id="logo"><img src="https://www.dto.gov.au/sites/g/files/net261/f/dto_crest_inline_0.png" alt="Home" class="header__logo-image" />
+    <!--<div class="mobile-header">Digital Transformation Office</div></a>-->
+    <!--<a href="/" title="Home" rel="home" class="header__logo" id="logo"><img src="/sites/all/themes/custom/dto_whitesite/images/update/government-crest.png" alt="Home" class="header__logo-image" /><span class="title">Digital Transformation Office</span></a>-->
+<a class="mobile-nav" href="#open-menu"><div class="top"></div><div class="middle"></div><div class="bottom"></div>MENU</a>
+    <nav class="header__secondary-menu" role="navigation">
+          </nav>
+
+      <div class="header__region region region-header">
+    
+<div id="block-search-api-page-default-search" class="block block-search-api-page contextual-links-region first last odd">
+
+      
+  <div class="block__content">
+    <form class="search-form-widget" action="/comment/76" method="post" id="search-api-page-search-form-default-search" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-keys-1">
+  <label class="element-invisible" for="edit-keys-1">Search dto.gov.au </label>
+ <input placeholder="Search dto.gov.au" type="text" id="edit-keys-1" name="keys_1" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<input type="hidden" name="id" value="1" />
+<button type="submit" id="edit-submit-1" name="op" value="Search" class="form-submit" />Search</button><input type="hidden" name="form_build_id" value="form-GxQcrLmCzc1SdgQngudkMXCXum690u9fpnWwhB869fo" />
+<input type="hidden" name="form_id" value="search_api_page_search_form_default_search" />
+</div></form>  </div>
+
+</div>
+  </div>
+    </div>
+  </header>
+    <div class="region region-navigation">
+    
+<div id="block-superfish-1" class="block block-superfish contextual-links-region first last odd">
+
+      
+  <div class="block__content">
+    <ul id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-5 sf-parent-items-1 sf-single-items-4"><li id="menu-589-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/" class="sf-depth-1">Home</a></li><li id="menu-2391-1" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/blog" class="sf-depth-1">Blog</a></li><li id="menu-1391-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-6 sf-parent-children-3 sf-single-children-3 menuparent"><a href="/standard" class="sf-depth-1 menuparent">Digital Service Standard</a><ul><li id="menu-2221-1" class="first odd sf-item-1 sf-depth-2"><a href="/standard" title="" class="sf-depth-2">The Standard</a></li><li id="menu-2286-1" class="middle even sf-item-2 sf-depth-2"><a href="/design-guides" class="sf-depth-2">Design guides</a></li><li id="menu-2226-1" class="middle odd sf-item-3 sf-depth-2"><a href="/standard/digital-transformation-plan" class="sf-depth-2">Transformation planning</a></li><li id="menu-2296-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/standard/common-government-solutions" class="sf-depth-2">Common solutions</a></li><li id="menu-2341-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/standard/case-studies" class="sf-depth-2">Case studies</a></li><li id="menu-2291-1" class="last even sf-item-6 sf-depth-2 sf-no-children"><a href="/standard/glossary" class="sf-depth-2">Glossary</a></li></ul></li><li id="menu-1231-1" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="/engage" title="" class="sf-depth-1">Engage</a></li><li id="menu-2626-1" class="last odd sf-item-5 sf-depth-1 sf-no-children"><a href="/about" class="sf-depth-1">About us</a></li></ul>  </div>
+
+</div>
+  </div>
+<div class="layout-centered page-wrapper">
+  
+  
+  <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="/">Home</a> / </li><li><a href="/blog">Blog</a> / </li><li>Introducing the Digital Transformation Office</li></ol></nav>
+  
+
+    <div class="region region-highlighted layout-full">
+    
+<div id="block-block-46" class="block block-block contextual-links-region first last odd">
+
+      
+  <div class="block__content">
+    <p>Want to keep updated? Join our <a href="http://eepurl.com/bcEu2D">DTO mailing list</a> for regular updates.</p>
+  </div>
+
+</div>
+  </div>
+    <div class="layout-sidebar-right">
+
+    
+
+    <div class="layout-sidebar-right__main main-content" role="main">
+
+      <a href="#skip-link" id="skip-content" class="element-invisible">Go to top of page</a>
+      <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Introducing the Digital Transformation Office</h1>
+                                          
+
+<div id="block-service-links-service-links" class="block block-service-links contextual-links-region first last odd">
+
+        <h2 class="block__title block-title">Share to:</h2>
+    
+  <div class="block__content">
+    <div class="service-links"><a href="http://www.facebook.com/sharer.php?u=https%3A//www.dto.gov.au/blog/introducing-digital-transformation-office&amp;t=Introducing%20the%20Digital%20Transformation%20Office" title="Share on Facebook" class="service-links-facebook" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/facebook.png" alt="Facebook logo" /></a> <a href="http://twitter.com/share?url=https%3A//www.dto.gov.au/blog/introducing-digital-transformation-office&amp;text=Introducing%20the%20Digital%20Transformation%20Office" title="Share this on Twitter" class="service-links-twitter" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/twitter.png" alt="Twitter logo" /></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//www.dto.gov.au/blog/introducing-digital-transformation-office&amp;title=Introducing%20the%20Digital%20Transformation%20Office&amp;summary=%26nbsp%3BTranscriptHi%20I%27m%20David%20Hazlehurst.%20I%27m%20the%20acting%20CEO%20of%20the%20government%27s%20new%20Digital%20Transformation%20Office.The%20DTO%20has%20been%20created%20to%20lead%20a%20new%20approach%20to%20the%20government%20delivering%20information%20and%20services%20to%20Australians.%26nbsp%3B&amp;source=Digital%20Transformation%20Office%2C%20Australian%20Government" title="Publish this post to LinkedIn" class="service-links-linkedin" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/linkedin.png" alt="LinkedIn logo" /></a> <a href="mailto:?subject=Introducing%20the%20Digital%20Transformation%20Office&amp;body=https%3A//www.dto.gov.au/blog/introducing-digital-transformation-office" title="Share via email" class="service-links-email" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/email.png" alt="email logo" /></a></div>  </div>
+
+</div>
+<div  about="/blog/introducing-digital-transformation-office" typeof="sioc:Item foaf:Document" class="ds-1col node node-blog-article view-mode-full clearfix">
+
+  
+  <div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">07/04/2015 - 12:51pm</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even">David Hazlehurst</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><iframe allowfullscreen="" src="https://www.youtube.com/embed/SE79lT2pPbk" frameborder="0" height="315" width="516"></iframe></p>
+<div> </div>
+<h2>Transcript</h2>
+<p>Hi I'm David Hazlehurst. I'm the acting CEO of the government's new Digital Transformation Office.</p>
+<p>The DTO has been created to lead a new approach to the government delivering information and services to Australians. </p>
+<p>We know that Australians expect the same kind of easy interaction that they get when they're doing their online banking or shopping on their mobile device when they deal with government. We also know that people don't want to be smothered with forms or have to queue up in a government office to interact with government. So we'll be working across government to drive a relentless focus on the needs of the user. </p>
+<p>We will be taking an agile and open approach to the way in which services and information are developed. We'll be seeking your ideas about what's most important to people and what should be done first. We'll be sharing our ideas early and openly and seeking feedback and when we actually deploy services and put information out there we'll be iterating that information and those services to improve them in response to feedback. We also want to create an ecosystem in which the best ideas, methods and the best people from the private sector can be blended with the best of the public sector in order to deliver great results for the public.</p>
+<p>To make a start today we're going live and releasing an alpha version of the new digital service standard. The standard will set out the criteria that all Australian government services and information will need to meet to ensure they're easier to find and easier to interact with. From the middle of 2015 all government agencies will need to ensure that services and information that they are developing or improving, comply with the standard. Most importantly the standard will put the needs of the user first. Releasing the standard in this way, in an Alpha form and seeking feedback, is a reflection of the new approach we want to take. </p>
+<p>Getting the input from the public and from experts out there in the community including overseas on the best way in which these services can be delivered. So if you're interested follow us on <a href="https://twitter.com/ausdto">Twitter</a>. Get engaged through <a href="http://www.dto.gov.au/">our website</a> and stay tuned for bigger announcements from Malcolm Turnbull the Minister for Communications.</p>
+<p>David Hazlehurst<br />Acting CEO</p>
+</div></div></div><div class="field field-name-service-links-block field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="service-links"><a href="http://www.facebook.com/sharer.php?u=https%3A//www.dto.gov.au/blog/introducing-digital-transformation-office&amp;t=Introducing%20the%20Digital%20Transformation%20Office" title="Share on Facebook" class="service-links-facebook" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/facebook.png" alt="Facebook logo" /></a> <a href="http://twitter.com/share?url=https%3A//www.dto.gov.au/blog/introducing-digital-transformation-office&amp;text=Introducing%20the%20Digital%20Transformation%20Office" title="Share this on Twitter" class="service-links-twitter" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/twitter.png" alt="Twitter logo" /></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//www.dto.gov.au/blog/introducing-digital-transformation-office&amp;title=Introducing%20the%20Digital%20Transformation%20Office&amp;summary=%26nbsp%3BTranscriptHi%20I%27m%20David%20Hazlehurst.%20I%27m%20the%20acting%20CEO%20of%20the%20government%27s%20new%20Digital%20Transformation%20Office.The%20DTO%20has%20been%20created%20to%20lead%20a%20new%20approach%20to%20the%20government%20delivering%20information%20and%20services%20to%20Australians.%26nbsp%3B&amp;source=Digital%20Transformation%20Office%2C%20Australian%20Government" title="Publish this post to LinkedIn" class="service-links-linkedin" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/linkedin.png" alt="LinkedIn logo" /></a> <a href="mailto:?subject=Introducing%20the%20Digital%20Transformation%20Office&amp;body=https%3A//www.dto.gov.au/blog/introducing-digital-transformation-office" title="Share via email" class="service-links-email" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/email.png" alt="email logo" /></a></div></div></div></div><div class="field field-name-related-blogs-block field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2 class="block-title">Related blogs</h2><div class="view view-related-blogs view-id-related_blogs view-display-id-block_2 view-dom-id-f1ff2eef5a9dc3a67412e5e49ec83a32">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/david-hazlehurst-depart-dto">David Hazlehurst to depart the DTO</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/introducing-our-new-ceo-fresh-uk-s-government-digital-service-gds">Introducing our new CEO – fresh from the UK’s Government Digital Service (GDS).</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/hacking-better-government-services">Hacking for better government services</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div></div></div><div id="comments" class="comment-wrapper">
+          <h2 class="title">Comments (8)</h2>
+        <a id="comment-11"></a>
+<article class="comment comment-by-anonymous first odd clearfix" about="/comment/11#comment-11" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+            <span property="dc:date dc:created" content="2015-04-08T18:08:13+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Pallavi</span> replied on <time pubdate datetime="2015-04-08T18:08:13+10:00">Wed, 2015-04-08 18:08</time></span>      <a href="/comment/11#comment-11" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/introducing-digital-transformation-office" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>Very Impressive. Looks like this will be outcome and mterics driven. Not sure how all this can be accomplished by 2017 though unless some specific services are targeted as the GDS, UK has done.</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="/comment/reply/206/11">reply</a></li>
+</ul></article>
+<a id="comment-26"></a>
+<article class="comment comment-by-anonymous even clearfix" about="/comment/26#comment-26" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+            <span property="dc:date dc:created" content="2015-04-14T16:01:51+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Anonymous</span> replied on <time pubdate datetime="2015-04-14T16:01:51+10:00">Tue, 2015-04-14 16:01</time></span>      <a href="/comment/26#comment-26" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/introducing-digital-transformation-office" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>Hi David. I can&#039;t seem to find comments published anywhere on the DTO Blog even though we are invited to comment. I would have thought the launch of the DTO would have generated some comments. I also can&#039;t find your blog moderation policy anywhere. Regards James</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="/comment/reply/206/26">reply</a></li>
+</ul></article>
+<a id="comment-31"></a>
+<article class="comment comment-by-anonymous odd clearfix" about="/comment/31#comment-31" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+            <span property="dc:date dc:created" content="2015-04-16T22:06:43+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Heidi</span> replied on <time pubdate datetime="2015-04-16T22:06:43+10:00">Thu, 2015-04-16 22:06</time></span>      <a href="/comment/31#comment-31" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/introducing-digital-transformation-office" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>Yay!</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="/comment/reply/206/31">reply</a></li>
+</ul></article>
+<a id="comment-66"></a>
+<article class="comment comment-by-anonymous even clearfix" about="/comment/66#comment-66" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+            <span property="dc:date dc:created" content="2015-04-20T15:25:00+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Craig</span> replied on <time pubdate datetime="2015-04-20T15:25:00+10:00">Mon, 2015-04-20 15:25</time></span>      <a href="/comment/66#comment-66" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/introducing-digital-transformation-office" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>Hi David,</p>
+<p>It's good to hear from you, but what's more critical is hearing from the teams doing the work to develop services and information. There's plenty of people 'out here' (beyond the public service) with experience and ideas - so don't fall into old-school methods of thinking, such as working in a bubble and then exposing your ideas for 'feedback' when its too late to cheaply change direction, or contracting Big 4 consultants to tell you what to do, then finding it doesn't work in practice.</p>
+<p>Instead involve the community in every stage of the process in a codesign/cocreation approach so you're not having to go back and reengineer solutions because public servants were unaware of some advanced technology or approach. Too many government agencies are afraid to engage external communities early, or to talk about their work with people outside the public sector. This leads to far too many unnecessary failures, embarrassment, loss of respect and the premature end of many otherwise well intended initiatives.</p>
+<p>Right now I'm cautiously hopeful about the DTO's ability to break the mold and create solutions of lasting value. However every day your blog is silent, every week your office is unable to talk about the specifics of what you're doing and every month you don't invite experts and the community to work actively with your team on a cooperative basis to deliver the best solutions for public problems (and yes, improving government efficiency and effectiveness is a social challenge, not just a public sector one), you will lose momentum and credibility amongst the communities best able to support you. Don't give us 'big announcements from the Minister for Communication' - give us daily announcements from team members at the front line of service redesign and an ongoing sustained conversation where every assumption is tested and every public sector norm is challenged.</p>
+<p>Thanks and good luck in breaking out of a 19th century organisational mold to leverage the power of highly educated and experienced individuals - both within and outside the public service.</p>
+<p>PS - and fix your blog commenting mechanism so that it correctly presents paragraphs - otherwise all the comments will be hard to read!</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="/comment/reply/206/66">reply</a></li>
+</ul></article>
+
+<div class="indented"><a id="comment-76"></a>
+<article class="comment comment-by-anonymous odd clearfix" about="/comment/76#comment-76" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+            <span property="dc:date dc:created" content="2015-04-23T14:17:29+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Jen</span> replied on <time pubdate datetime="2015-04-23T14:17:29+10:00">Thu, 2015-04-23 14:17</time></span>      <a href="/comment/76#comment-76" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/introducing-digital-transformation-office" class="rdf-meta element-hidden"></span><span rel="sioc:reply_of" resource="/comment/66#comment-66" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>Absolutely agree with the above.</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="/comment/reply/206/76">reply</a></li>
+</ul></article>
+<a id="comment-701"></a>
+<article class="comment comment-by-anonymous even clearfix" about="/comment/701#comment-701" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+            <span property="dc:date dc:created" content="2015-07-01T14:12:38+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Nisha</span> replied on <time pubdate datetime="2015-07-01T14:12:38+10:00">Wed, 2015-07-01 14:12</time></span>      <a href="/comment/701#comment-701" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/introducing-digital-transformation-office" class="rdf-meta element-hidden"></span><span rel="sioc:reply_of" resource="/comment/66#comment-66" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>Cannot agree more! Please conduct relevant and regular consultations with the experts of the new world technology right from the beginning of any digital project.</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="/comment/reply/206/701">reply</a></li>
+</ul></article>
+</div><a id="comment-86"></a>
+<article class="comment comment-by-anonymous odd clearfix" about="/comment/86#comment-86" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+            <span property="dc:date dc:created" content="2015-05-08T10:04:26+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Curmudgeon</span> replied on <time pubdate datetime="2015-05-08T10:04:26+10:00">Fri, 2015-05-08 10:04</time></span>      <a href="/comment/86#comment-86" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/introducing-digital-transformation-office" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>It&#039;s a small point, but an important one to remember - the Australian Government, at a Federal level, doesn&#039;t deliver many services.  Once you&#039;ve knocked off Centrelink, Medicare and the ATO for citizens, and Business.gov.au for companies, everything else is a rounding error.  Digital services are mostly a State and Local government problem.  Sure, the DTO will find some loose ends to tidy up - but at the federal level, the job is mostly done.</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="/comment/reply/206/86">reply</a></li>
+</ul></article>
+<a id="comment-91"></a>
+<article class="comment comment-by-anonymous last even clearfix" about="/comment/91#comment-91" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+            <span property="dc:date dc:created" content="2015-05-08T13:44:52+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">thoughts</span> replied on <time pubdate datetime="2015-05-08T13:44:52+10:00">Fri, 2015-05-08 13:44</time></span>      <a href="/comment/91#comment-91" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/introducing-digital-transformation-office" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>Can you also enable thumbs up and thumbs down so we can express our support for comments?</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="/comment/reply/206/91">reply</a></li>
+</ul></article>
+      <h2 class="title comment-form">Add new comment</h2>
+    <form class="comment-form" action="/comment/reply/206" method="post" id="comment-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Your name </label>
+ <input type="text" id="edit-name" name="name" value="" size="30" maxlength="60" class="form-text" />
+</div>
+<div class="field-type-text-long field-name-comment-body field-widget-text-textarea form-wrapper" id="edit-comment-body"><div id="comment-body-add-more-wrapper"><div class="text-format-wrapper"><div class="form-item form-type-textarea form-item-comment-body-und-0-value">
+  <label for="edit-comment-body-und-0-value">Comment <span class="form-required" title="This field is required.">(mandatory)</span></label>
+ <div class="form-textarea-wrapper resizable"><textarea class="text-full wysiwyg form-textarea required" required="true" id="edit-comment-body-und-0-value" name="comment_body[und][0][value]" cols="60" rows="5"></textarea></div>
+</div>
+<fieldset class="filter-wrapper form-wrapper" id="edit-comment-body-und-0-format"><div class="fieldset-wrapper"><div class="filter-help form-wrapper" id="edit-comment-body-und-0-format-help"><p><a href="/filter/tips" target="_blank">More information about text formats</a></p></div><div class="filter-guidelines form-wrapper" id="edit-comment-body-und-0-format-guidelines"><div class="filter-guidelines-item filter-guidelines-plain_text"><h3>Plain text</h3><ul class="tips"><li>No HTML tags allowed.</li><li>Web page addresses and e-mail addresses turn into links automatically.</li><li>Lines and paragraphs break automatically.</li></ul></div></div></div></fieldset>
+</div>
+</div></div><input type="hidden" name="form_build_id" value="form-ex58ZiUD--NAQene0WSy0XTQ7BcFHuK-6vNaNuIACw8" />
+<input type="hidden" name="form_id" value="comment_node_blog_article_form" />
+<div class="url-textfield"><div class="form-item form-type-textfield form-item-url">
+  <label for="edit-url">Leave this field blank </label>
+ <input autocomplete="off" type="text" id="edit-url" name="url" value="" size="20" maxlength="128" class="form-text" />
+</div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><button type="submit" id="edit-submit" name="op" value="Save" class="form-submit" />Save</button><button type="submit" id="edit-preview" name="op" value="Preview" class="form-submit" />Preview</button></div></div></form>  </div>
+</div>
+
+          </div>
+
+          <aside class="layout-sidebar-right__sidebar_two sidebar sidebar-right" role="complementary">
+          <section class="region region-sidebar-two column sidebar">
+    
+<div id="block-views-related-blogs-block-2" class="block block-views contextual-links-region first last odd">
+
+        <h2 class="block__title block-title">Related blogs</h2>
+    
+  <div class="block__content">
+    <div class="view view-related-blogs view-id-related_blogs view-display-id-block_2 view-dom-id-09b648e47354d67e5193c5fa58b4dc1f">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/david-hazlehurst-depart-dto">David Hazlehurst to depart the DTO</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/introducing-our-new-ceo-fresh-uk-s-government-digital-service-gds">Introducing our new CEO – fresh from the UK’s Government Digital Service (GDS).</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/hacking-better-government-services">Hacking for better government services</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div>
+  </section>
+      </aside>
+
+    
+  </div>
+
+  
+
+</div>
+
+<footer class="footer">
+	<div class="connect-with-dto">
+    <h2>Connect with DTO</h2>
+    <a href="https://twitter.com/AusDTO" title="DTO Twitter"><div class="twitter-icon"></div></a>
+    <a href="https://www.youtube.com/channel/UCmDkFN3UlK2wSKDQQhd-Y-A" title="DTO Youtube"><div class="youtube-icon"></div></a>
+    <a href="https://www.linkedin.com/company/digital-transformation-office" title="DTO Linkedin"><div class="linkedin-icon"></div></a>
+    </div>
+    <div class="footer-links">
+   <!--<a href="/" title="Home" rel="home" class="header__logo" id="logo"><img src="sites/all/themes/custom/dto_whitesite/images/update/government-crest.png" alt="Home" class="header__logo-image" /><span class="title">Digital Transformation Office</span></a>-->
+      <div id="footer_bottom" class="region region-footer-bottom clearfix">
+    
+<div id="block-menu-menu-footer-sub-menu" class="block block-menu contextual-links-region first last odd" role="navigation">
+
+        <h2 class="block__title block-title">Footer Sub Menu</h2>
+    
+  <div class="block__content">
+    <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/about" title="Link to about the DTO" class="menu__link">About</a></li>
+<li class="menu__item is-leaf leaf"><a href="/web-accessibility" class="menu__link">Accessibility</a></li>
+<li class="menu__item is-leaf leaf"><a href="/copyright" class="menu__link">Copyright</a></li>
+<li class="menu__item is-leaf leaf"><a href="/disclaimer" class="menu__link">Disclaimer</a></li>
+<li class="menu__item is-leaf leaf"><a href="/privacy-statement" class="menu__link">Privacy Statement</a></li>
+<li class="menu__item is-leaf leaf"><a href="/budget" title="" class="menu__link">Budget</a></li>
+<li class="menu__item is-leaf leaf"><a href="/sitemap" title="" class="menu__link">Site map</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/engage" title="" class="menu__link">Contact us</a></li>
+</ul>  </div>
+
+</div>
+  </div>
+    </div>
+  
+</footer>
+
+</body>
+</html>
