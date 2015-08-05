@@ -7,14 +7,8 @@
 <h3>Accessibility</h3>
   <a href="/design-guides/guide/assisted-digital">Assisted digital</a>
   <a href="/design-guides/guide/inclusive-services">Inclusive services</a>
-  <div class="views-row views-row-3 views-row-odd">
-      
-  <div class="views-field views-field-description">        <div class="field-content"></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/design-guides/guide/making-content-accessible">Making content accessible</a></span>  </div>  </div>
-  <div class="views-row views-row-4 views-row-even views-row-last">
-      
-  <div class="views-field views-field-description">        <div class="field-content"></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/design-guides/guide/testing-web-accessibility">Testing web accessibility</a></span>  </div>  </div>
+  <a href="/design-guides/guide/making-content-accessible">Making content accessible</a>
+  <a href="/design-guides/guide/testing-web-accessibility">Testing web accessibility</a>
   <h3>Building capability</h3>
   <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
       
