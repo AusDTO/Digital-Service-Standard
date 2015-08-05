@@ -4,8 +4,7 @@
 <p>The Design Guide is a growing collection of information to help Australian Government agencies meet the <a href="/standard">Digital Service Standard</a> (the Standard). Implementing the Standard enables us to deliver services that better satisfy the needs of our users.</p>
 <p>The Design Guide incorporates the information previously provided in the <a href="http://webguide.gov.au">Australian Government Web Guide</a>, with updates.</p>
 <p>We encourage you to <a href="/feedback?url_from=Howtoapply">provide feedback</a> on the current guidance and make suggestions for additional guides. Your input will help us develop the guidance you need to deliver easy to use, trusted and cost-effective digital services.</p>
-      <div class="view-content">
-        <h3>Accessibility</h3>
+<h3>Accessibility</h3>
   <div class="views-row views-row-1 views-row-odd views-row-first">
       
   <div class="views-field views-field-description">        <div class="field-content"></div>  </div>  
