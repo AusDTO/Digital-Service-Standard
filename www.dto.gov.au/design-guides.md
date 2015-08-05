@@ -1,6 +1,5 @@
 
-                    <h1 class="page__title title" id="page-title">Digital Service Design Guide</h1>
-                                          
+<h1>Digital Service Design Guide</h1>
 <div class="panel-flexible panels-flexible-41 clearfix" >
 <div class="panel-flexible-inside panels-flexible-41-inside">
 <div class="panels-flexible-region panels-flexible-region-41-center panels-flexible-region-first panels-flexible-region-last">
