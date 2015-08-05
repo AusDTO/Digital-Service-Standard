@@ -5,14 +5,8 @@
 <p>The Design Guide incorporates the information previously provided in the <a href="http://webguide.gov.au">Australian Government Web Guide</a>, with updates.</p>
 <p>We encourage you to <a href="/feedback?url_from=Howtoapply">provide feedback</a> on the current guidance and make suggestions for additional guides. Your input will help us develop the guidance you need to deliver easy to use, trusted and cost-effective digital services.</p>
 <h3>Accessibility</h3>
-  <div class="views-row views-row-1 views-row-odd views-row-first">
-      
-  <div class="views-field views-field-description">        <div class="field-content"></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/design-guides/guide/assisted-digital">Assisted digital</a></span>  </div>  </div>
-  <div class="views-row views-row-2 views-row-even">
-      
-  <div class="views-field views-field-description">        <div class="field-content"></div>  </div>  
-  <div class="views-field views-field-title">        <span class="field-content"><a href="/design-guides/guide/inclusive-services">Inclusive services</a></span>  </div>  </div>
+  <a href="/design-guides/guide/assisted-digital">Assisted digital</a>
+  <a href="/design-guides/guide/inclusive-services">Inclusive services</a>
   <div class="views-row views-row-3 views-row-odd">
       
   <div class="views-field views-field-description">        <div class="field-content"></div>  </div>  
