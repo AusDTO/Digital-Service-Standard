@@ -1,5 +1,6 @@
 <h1>Digital Transformation Coordinators</h1>
-Key agency contacts with the Digital Tr<p>All non-corporate Commonwealth entities (most former FMA Act agencies) are required by the <a href="/budget"><u>Digital Transformation Agenda</u></a> to have a Digital Transformation Coordinator (DTC).</p>
+<h2>Key agency contacts with the Digital Transformation Office</h2>
+<p>All non-corporate Commonwealth entities (most former FMA Act agencies) are required by the <a href="/budget"><u>Digital Transformation Agenda</u></a> to have a Digital Transformation Coordinator (DTC).</p>
 <p>The DTC is the primary person for liaison between the DTO and their portfolio/agency. They are typically at the SES Band 1 or 2 level. DTCs are important conduits for information between agencies and the DTO, as well as supporters and champions of the Digital Transformation Agenda. They coordinate and lead the development of the necessary plans and reporting arrangements for their agency.</p>
 <p>On behalf of their agency the DTC role involves:</p>
 <ul><li>developing a Digital Transformation Plan</li>
