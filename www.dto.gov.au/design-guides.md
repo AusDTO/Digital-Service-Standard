@@ -6,8 +6,11 @@
 <p>We encourage you to <a href="/feedback?url_from=Howtoapply">provide feedback</a> on the current guidance and make suggestions for additional guides. Your input will help us develop the guidance you need to deliver easy to use, trusted and cost-effective digital services.</p>
 <h3>Accessibility</h3>
   <a href="/design-guides/guide/assisted-digital">Assisted digital</a>
+  
   <a href="/design-guides/guide/inclusive-services">Inclusive services</a>
+  
   <a href="/design-guides/guide/making-content-accessible">Making content accessible</a>
+  
   <a href="/design-guides/guide/testing-web-accessibility">Testing web accessibility</a>
   <h3>Building capability</h3>
   <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
