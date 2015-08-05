@@ -9,18 +9,5 @@
 <p>We’re identifying where improvements are most urgently needed, and re-designing these services from the ground up.</p>
 <p>If you agree that dealing with the government should be (at least) as quick and easy as dealing with any other business, please <a href="https://www.dto.gov.au/engage">get in touch</a> to see how you can work with us.</p>
 <p>You can also keep up with us online though our <a href="/blog">blog</a>, <a href="https://twitter.com/ausdto">Twitter</a> or <a href="http://govspace.us10.list-manage.com/subscribe?u=18f172213d32ca205c7e524bd&amp;id=172d06cc83">mailing list</a>.</p>
-</div></div></div>
-  
-  
-</article>
-          </div>
-
-    
-  </div>
-
-  
-
 </div>
-
-
 </html>
