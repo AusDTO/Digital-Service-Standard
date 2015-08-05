@@ -1,13 +1,5 @@
 <h1>Creating cultural change</h1>
-                                          
-<article class="node-876 node node-basic-page view-mode-full clearfix" about="/standard/digital-transformation-plan/creating-cultural-change" typeof="sioc:Item foaf:Document">
-
-      <header>
-                  <span property="dc:title" content="Creating cultural change" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
-      
-          </header>
-  
-  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p style="font-size: 14.7679996490479px; line-height: 22.1520004272461px;"><a id="top" name="top"></a>Digital services and the technology on which they’re built should enable change. This allows you the freedom to evolve your services according to changing user needs, expectations and technology innovation.</p>
+Digital services and the technology on which they’re built should enable change. This allows you the freedom to evolve your services according to changing user needs, expectations and technology innovation.</p>
 <h2 style="line-height: 22.1520004272461px;">Why must I?</h2>
 <p style="font-size: 14.7679996490479px; line-height: 22.1520004272461px;">Improving the way that you produce and procure digital services is more about cultural and behavioural change than it is about IT. Technology alone cannot improve public services.</p>
 <h2 style="line-height: 22.1520004272461px;">How do I?</h2>
