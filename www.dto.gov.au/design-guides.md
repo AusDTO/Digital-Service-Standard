@@ -1,28 +1,9 @@
 
 <h1>Digital Service Design Guide</h1>
-<div class="panel-flexible panels-flexible-41 clearfix" >
-<div class="panel-flexible-inside panels-flexible-41-inside">
-<div class="panels-flexible-region panels-flexible-region-41-center panels-flexible-region-first panels-flexible-region-last">
-  <div class="inside panels-flexible-region-inside panels-flexible-region-41-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
-<div class="panel-pane pane-block pane-block-51" >
-  
-      
-  
-  <p>Helping you meet the Digital Service Standard.</p>
+<p>Helping you meet the Digital Service Standard.</p>
 <p>The Design Guide is a growing collection of information to help Australian Government agencies meet the <a href="/standard">Digital Service Standard</a> (the Standard). Implementing the Standard enables us to deliver services that better satisfy the needs of our users.</p>
 <p>The Design Guide incorporates the information previously provided in the <a href="http://webguide.gov.au">Australian Government Web Guide</a>, with updates.</p>
 <p>We encourage you to <a href="/feedback?url_from=Howtoapply">provide feedback</a> on the current guidance and make suggestions for additional guides. Your input will help us develop the guidance you need to deliver easy to use, trusted and cost-effective digital services.</p>
-
-  
-  </div>
-<div class="panel-pane pane-views pane-dss-guides" >
-  
-      
-  
-  <div class="view view-dss-guides view-id-dss_guides view-display-id-default view-dom-id-d6d66ccc6ecb1990b65a8125c29f1453 contextual-links-region">
-        
-  
-  
       <div class="view-content">
         <h3>Accessibility</h3>
   <div class="views-row views-row-1 views-row-odd views-row-first">
