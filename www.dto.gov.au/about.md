@@ -1,9 +1,4 @@
 <!DOCTYPE html>
-
-
-<!--<div class="layout-centered page-wrapper">-->
-<div class="menu-open"></div>
-<div class="ie-warning"><span class="warning-text">It looks like you're using an old version of Internet Explorer. For the best experience, please update your browser.</span></div>
   <header class="header" role="banner">
   <div class="nav-head-container">
     <a href="/" title="Home" rel="home" class="header__logo" id="logo"><img src="https://www.dto.gov.au/sites/g/files/net261/f/dto_crest_inline_0.png" alt="Home" class="header__logo-image" />
@@ -15,23 +10,7 @@
 
       <div class="header__region region region-header">
     
-<div id="block-search-api-page-default-search" class="block block-search-api-page contextual-links-region first last odd">
 
-      
-  <div class="block__content">
-    <form class="search-form-widget" action="/about" method="post" id="search-api-page-search-form-default-search" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-keys-1">
-  <label class="element-invisible" for="edit-keys-1">Search dto.gov.au </label>
- <input placeholder="Search dto.gov.au" type="text" id="edit-keys-1" name="keys_1" value="" size="15" maxlength="128" class="form-text" />
-</div>
-<input type="hidden" name="id" value="1" />
-<button type="submit" id="edit-submit-1" name="op" value="Search" class="form-submit" />Search</button><input type="hidden" name="form_build_id" value="form-qWcKAKkg0PoDUVU4J_kA5t2pXD7zTC8UOLm7v7oKaNY" />
-<input type="hidden" name="form_id" value="search_api_page_search_form_default_search" />
-</div></form>  </div>
-
-</div>
-  </div>
-    </div>
-  </header>
     <div class="region region-navigation">
     
 <div id="block-superfish-1" class="block block-superfish contextual-links-region first last odd">
