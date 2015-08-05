@@ -1,7 +1,6 @@
-<!DOCTYPE html>
   <header class="header" role="banner">
   <div class="nav-head-container">
-    <a href="/" title="Home" rel="home" class="header__logo" id="logo"><img src="https://www.dto.gov.au/sites/g/files/net261/f/dto_crest_inline_0.png" alt="Home" class="header__logo-image" />
+    <a href="/" title="Home" rel="home" class="header__logo" id="logo"><img src="https://www.dto.gov.au/sites/g/files/net261/f/dto_crest_inline_0.png" alt="Home" class="header__logo-image" /></a>
 
   
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Every day, more Australians choose to interact with government on their mobiles, tablets and computers rather than face-to-face or over the phone.</p>
