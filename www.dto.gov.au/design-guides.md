@@ -1,4 +1,16 @@
-
+---
+title: What is Digital Service Standard?
+subtitle: Introduction 
+type: guide
+audience:
+  primary: authors
+status: draft
+phases:
+  - discovery
+  - alpha
+  - beta
+  - live
+---
 <h1>Digital Service Design Guide</h1>
 <p>Helping you meet the Digital Service Standard.</p>
 <p>The Design Guide is a growing collection of information to help Australian Government agencies meet the <a href="/standard">Digital Service Standard</a> (the Standard). Implementing the Standard enables us to deliver services that better satisfy the needs of our users.</p>
