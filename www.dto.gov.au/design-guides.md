@@ -1,10 +1,10 @@
 ---
-title: What is Digital Service Standard?
+title: What is Digital Service Design Guide?
 subtitle: Introduction 
-type: guide
+type: List of guides
 audience:
-  primary: authors
-status: draft
+  primary: authors and practitioners
+status: Alpha
 phases:
   - discovery
   - alpha
