@@ -1,3 +1,7 @@
+---
+title: showing_the_thing_was_our_theme_last_week_in_the_standards_team.md
+layout: default
+---
 ‘Showing the thing’ was our theme last week in the Standards team
 =================================================================
 

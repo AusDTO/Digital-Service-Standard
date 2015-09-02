@@ -1,3 +1,7 @@
+---
+title: government_as_a_platform.md
+layout: default
+---
 Government as a platform
 ========================
 

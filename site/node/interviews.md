@@ -1,3 +1,7 @@
+---
+title: interviews.md
+layout: default
+---
 Interviews
 ==========
 

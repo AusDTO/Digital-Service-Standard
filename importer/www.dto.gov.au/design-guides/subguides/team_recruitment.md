@@ -1,3 +1,7 @@
+---
+title: team_recruitment.md
+layout: default
+---
 Team recruitment
 ================
 

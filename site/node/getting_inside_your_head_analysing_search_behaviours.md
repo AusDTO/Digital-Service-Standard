@@ -1,3 +1,7 @@
+---
+title: getting_inside_your_head_analysing_search_behaviours.md
+layout: default
+---
 Getting inside your head: Analysing search behaviours
 =====================================================
 

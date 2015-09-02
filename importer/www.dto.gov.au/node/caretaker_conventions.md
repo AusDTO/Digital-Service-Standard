@@ -1,3 +1,7 @@
+---
+title: caretaker_conventions.md
+layout: default
+---
 Caretaker Conventions
 =====================
 

@@ -1,3 +1,7 @@
+---
+title: its_here_the_digital_service_design_guides_have_arrived_in_alpha.md
+layout: default
+---
 It’s here: the Digital Service Design Guides have arrived in alpha
 ==================================================================
 

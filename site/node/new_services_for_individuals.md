@@ -1,3 +1,7 @@
+---
+title: new_services_for_individuals.md
+layout: default
+---
 New services for individuals
 ============================
 

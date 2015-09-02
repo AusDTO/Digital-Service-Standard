@@ -1,3 +1,7 @@
+---
+title: trusted_digital_identity_framework.md
+layout: default
+---
 Trusted Digital Identity Framework
 ==================================
 

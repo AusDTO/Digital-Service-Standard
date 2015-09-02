@@ -1,3 +1,7 @@
+---
+title: online_writing.md
+layout: default
+---
 Online writing
 ==============
 

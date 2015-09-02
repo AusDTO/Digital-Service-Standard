@@ -1,3 +1,7 @@
+---
+title: personas.md
+layout: default
+---
 Personas
 ========
 

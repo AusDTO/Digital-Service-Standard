@@ -1,3 +1,7 @@
+---
+title: service_integration.md
+layout: default
+---
 Service integration
 ===================
 

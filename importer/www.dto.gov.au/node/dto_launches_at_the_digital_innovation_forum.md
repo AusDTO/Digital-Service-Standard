@@ -1,3 +1,7 @@
+---
+title: dto_launches_at_the_digital_innovation_forum.md
+layout: default
+---
 DTO launches at the Digital Innovation Forum
 ============================================
 

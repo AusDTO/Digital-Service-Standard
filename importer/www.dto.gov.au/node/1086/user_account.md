@@ -1,3 +1,7 @@
+---
+title: user_account.md
+layout: default
+---
 User account
 ============
 

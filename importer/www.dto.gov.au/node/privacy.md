@@ -1,3 +1,7 @@
+---
+title: privacy.md
+layout: default
+---
 Privacy
 =======
 

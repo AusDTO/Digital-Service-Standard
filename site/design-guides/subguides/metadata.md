@@ -1,3 +1,7 @@
+---
+title: metadata.md
+layout: default
+---
 Metadata
 ========
 

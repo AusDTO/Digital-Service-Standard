@@ -1,3 +1,7 @@
+---
+title: making_content_accessible.md
+layout: default
+---
 Making content accessible
 =========================
 

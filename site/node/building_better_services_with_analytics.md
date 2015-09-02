@@ -1,3 +1,7 @@
+---
+title: building_better_services_with_analytics.md
+layout: default
+---
 Building better services with analytics
 =======================================
 

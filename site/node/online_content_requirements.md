@@ -1,3 +1,7 @@
+---
+title: online_content_requirements.md
+layout: default
+---
 Online content requirements
 ===========================
 

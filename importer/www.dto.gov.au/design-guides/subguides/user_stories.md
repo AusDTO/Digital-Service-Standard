@@ -1,3 +1,7 @@
+---
+title: user_stories.md
+layout: default
+---
 User stories
 ============
 

@@ -1,3 +1,7 @@
+---
+title: assisted_digital.md
+layout: default
+---
 Assisted digital
 ================
 

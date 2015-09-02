@@ -1,3 +1,7 @@
+---
+title: undefined.md
+layout: default
+---
 Digital Transformation Plan
 ===========================
 

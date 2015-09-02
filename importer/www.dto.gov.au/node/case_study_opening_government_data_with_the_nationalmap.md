@@ -1,3 +1,7 @@
+---
+title: case_study_opening_government_data_with_the_nationalmap.md
+layout: default
+---
 Case study: Opening government data with the NationalMap
 ========================================================
 

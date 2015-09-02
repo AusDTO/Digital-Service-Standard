@@ -1,3 +1,7 @@
+---
+title: david_hazlehurst_to_depart_the_dto.md
+layout: default
+---
 David Hazlehurst to depart the DTO
 ==================================
 

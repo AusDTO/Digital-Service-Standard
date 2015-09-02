@@ -1,3 +1,7 @@
+---
+title: cookies.md
+layout: default
+---
 Cookies
 =======
 

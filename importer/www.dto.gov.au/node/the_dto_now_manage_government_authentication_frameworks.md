@@ -1,3 +1,7 @@
+---
+title: the_dto_now_manage_government_authentication_frameworks.md
+layout: default
+---
 The DTO now manage Government authentication frameworks
 =======================================================
 

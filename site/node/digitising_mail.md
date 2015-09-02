@@ -1,3 +1,7 @@
+---
+title: digitising_mail.md
+layout: default
+---
 Digitising Mail
 ===============
 

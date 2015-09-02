@@ -1,3 +1,7 @@
+---
+title: meeting_the_needs_of_different_users.md
+layout: default
+---
 Meeting the needs of different users
 ====================================
 

@@ -1,3 +1,7 @@
+---
+title: introducing_the_digital_transformation_office.md
+layout: default
+---
 Introducing the Digital Transformation Office
 =============================================
 

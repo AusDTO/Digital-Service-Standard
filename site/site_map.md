@@ -1,3 +1,7 @@
+---
+title: site_map.md
+layout: default
+---
 Site map
 ========
 

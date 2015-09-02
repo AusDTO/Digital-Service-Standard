@@ -1,3 +1,7 @@
+---
+title: updates_to_the_scope_of_the_digital_service_standard.md
+layout: default
+---
 Updates to the Scope of the Digital Service Standard
 ====================================================
 

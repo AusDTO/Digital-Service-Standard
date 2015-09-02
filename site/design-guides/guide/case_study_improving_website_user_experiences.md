@@ -1,3 +1,7 @@
+---
+title: case_study_improving_website_user_experiences.md
+layout: default
+---
 Case study: Improving website user experiences
 ==============================================
 

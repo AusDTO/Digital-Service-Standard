@@ -1,3 +1,7 @@
+---
+title: web_accessibility.md
+layout: default
+---
 Web Accessibility
 =================
 

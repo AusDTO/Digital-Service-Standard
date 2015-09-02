@@ -1,3 +1,7 @@
+---
+title: user_centred_design.md
+layout: default
+---
 User-centred design
 ===================
 

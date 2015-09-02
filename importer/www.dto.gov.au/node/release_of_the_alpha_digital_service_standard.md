@@ -1,3 +1,7 @@
+---
+title: release_of_the_alpha_digital_service_standard.md
+layout: default
+---
 Release of the alpha Digital Service Standard
 =============================================
 

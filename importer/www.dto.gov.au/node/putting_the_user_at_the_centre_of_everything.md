@@ -1,3 +1,7 @@
+---
+title: putting_the_user_at_the_centre_of_everything.md
+layout: default
+---
 Putting the user at the centre of everything
 ============================================
 

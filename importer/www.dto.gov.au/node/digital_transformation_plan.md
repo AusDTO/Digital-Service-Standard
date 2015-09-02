@@ -1,3 +1,7 @@
+---
+title: digital_transformation_plan.md
+layout: default
+---
 Digital Transformation Plan
 ===========================
 

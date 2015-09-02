@@ -1,3 +1,7 @@
+---
+title: affinity_diagramming.md
+layout: default
+---
 Affinity diagramming
 ====================
 

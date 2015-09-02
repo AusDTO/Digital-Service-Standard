@@ -1,3 +1,7 @@
+---
+title: measurement.md
+layout: default
+---
 Measurement
 ===========
 

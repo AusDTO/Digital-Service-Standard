@@ -1,3 +1,7 @@
+---
+title: social_media.md
+layout: default
+---
 Social media
 ============
 

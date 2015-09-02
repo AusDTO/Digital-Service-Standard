@@ -1,3 +1,7 @@
+---
+title: prototyping.md
+layout: default
+---
 Prototyping
 ===========
 

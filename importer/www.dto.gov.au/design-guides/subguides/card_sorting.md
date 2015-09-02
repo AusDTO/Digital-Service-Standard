@@ -1,3 +1,7 @@
+---
+title: card_sorting.md
+layout: default
+---
 Card Sorting
 ============
 

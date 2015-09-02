@@ -1,3 +1,7 @@
+---
+title: digital_transformation_coordinators.md
+layout: default
+---
 Digital Transformation Coordinators
 ===================================
 

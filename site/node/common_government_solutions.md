@@ -1,3 +1,7 @@
+---
+title: common_government_solutions.md
+layout: default
+---
 Common government solutions
 ===========================
 

@@ -1,3 +1,7 @@
+---
+title: agile.md
+layout: default
+---
 Agile
 =====
 

@@ -1,3 +1,7 @@
+---
+title: privacy_statement.md
+layout: default
+---
 Privacy Statement
 =================
 

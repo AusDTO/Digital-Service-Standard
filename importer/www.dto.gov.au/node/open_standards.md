@@ -1,3 +1,7 @@
+---
+title: open_standards.md
+layout: default
+---
 Open standards
 ==============
 

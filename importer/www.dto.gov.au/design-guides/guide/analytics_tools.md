@@ -1,3 +1,7 @@
+---
+title: analytics_tools.md
+layout: default
+---
 Analytics tools
 ===============
 

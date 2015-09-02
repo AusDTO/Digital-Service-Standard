@@ -1,3 +1,7 @@
+---
+title: search_engine_optimisation.md
+layout: default
+---
 Search engine optimisation
 ==========================
 

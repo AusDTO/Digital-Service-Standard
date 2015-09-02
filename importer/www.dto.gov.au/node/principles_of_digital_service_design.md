@@ -1,3 +1,7 @@
+---
+title: principles_of_digital_service_design.md
+layout: default
+---
 Principles of digital service design
 ====================================
 

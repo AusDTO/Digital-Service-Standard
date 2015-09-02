@@ -1,3 +1,7 @@
+---
+title: case_study_connecting_with_users_on_social_media.md
+layout: default
+---
 Case study: Connecting with users on social media
 =================================================
 

@@ -1,3 +1,7 @@
+---
+title: workshops.md
+layout: default
+---
 Workshops
 =========
 

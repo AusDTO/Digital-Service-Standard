@@ -1,3 +1,7 @@
+---
+title: glossary.md
+layout: default
+---
 Glossary
 ========
 

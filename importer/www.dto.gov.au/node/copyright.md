@@ -1,3 +1,7 @@
+---
+title: copyright.md
+layout: default
+---
 Copyright
 =========
 

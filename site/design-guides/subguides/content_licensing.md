@@ -1,3 +1,7 @@
+---
+title: content_licensing.md
+layout: default
+---
 Content licensing
 =================
 

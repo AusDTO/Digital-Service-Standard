@@ -1,3 +1,7 @@
+---
+title: digital_community_of_practice_event_4_september.md
+layout: default
+---
 Digital Community of Practice event – 4 September
 =================================================
 

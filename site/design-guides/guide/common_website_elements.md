@@ -1,3 +1,7 @@
+---
+title: common_website_elements.md
+layout: default
+---
 Common website elements
 =======================
 

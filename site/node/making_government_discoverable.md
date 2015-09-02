@@ -1,3 +1,7 @@
+---
+title: making_government_discoverable.md
+layout: default
+---
 Making government discoverable
 ==============================
 

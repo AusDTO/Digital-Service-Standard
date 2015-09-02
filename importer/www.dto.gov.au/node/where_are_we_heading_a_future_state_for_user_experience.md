@@ -1,3 +1,7 @@
+---
+title: where_are_we_heading_a_future_state_for_user_experience.md
+layout: default
+---
 Where are we heading: A future state for user experience
 ========================================================
 

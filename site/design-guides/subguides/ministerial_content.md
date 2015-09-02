@@ -1,3 +1,7 @@
+---
+title: ministerial_content.md
+layout: default
+---
 Ministerial content
 ===================
 

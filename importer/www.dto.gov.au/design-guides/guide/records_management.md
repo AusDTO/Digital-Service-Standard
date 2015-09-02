@@ -1,3 +1,7 @@
+---
+title: records_management.md
+layout: default
+---
 Records management
 ==================
 

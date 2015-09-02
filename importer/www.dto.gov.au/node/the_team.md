@@ -1,3 +1,7 @@
+---
+title: the_team.md
+layout: default
+---
 The team
 ========
 

@@ -1,3 +1,7 @@
+---
+title: professional_research_methods.md
+layout: default
+---
 Professional research methods
 =============================
 

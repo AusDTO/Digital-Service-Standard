@@ -1,3 +1,7 @@
+---
+title: scope_of_the_digital_service_standard.md
+layout: default
+---
 Scope of the Digital Service Standard
 =====================================
 

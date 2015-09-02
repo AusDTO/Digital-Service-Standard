@@ -1,3 +1,7 @@
+---
+title: case_studies.md
+layout: default
+---
 Case studies
 ============
 

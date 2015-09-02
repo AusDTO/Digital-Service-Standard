@@ -1,3 +1,7 @@
+---
+title: user_research.md
+layout: default
+---
 User research
 =============
 

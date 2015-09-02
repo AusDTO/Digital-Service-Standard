@@ -1,3 +1,7 @@
+---
+title: open_and_secure.md
+layout: default
+---
 Open and secure
 ===============
 

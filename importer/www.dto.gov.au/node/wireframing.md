@@ -1,3 +1,7 @@
+---
+title: wireframing.md
+layout: default
+---
 Wireframing
 ===========
 

@@ -1,3 +1,7 @@
+---
+title: api.md
+layout: default
+---
 API
 ===
 

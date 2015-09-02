@@ -1,3 +1,7 @@
+---
+title: statistical_data_integration.md
+layout: default
+---
 Statistical data integration
 ============================
 

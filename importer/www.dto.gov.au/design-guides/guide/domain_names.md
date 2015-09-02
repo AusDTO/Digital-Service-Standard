@@ -1,3 +1,7 @@
+---
+title: domain_names.md
+layout: default
+---
 Domain names
 ============
 

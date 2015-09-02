@@ -1,3 +1,7 @@
+---
+title: inclusive_services.md
+layout: default
+---
 Inclusive services
 ==================
 

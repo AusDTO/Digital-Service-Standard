@@ -1,3 +1,7 @@
+---
+title: disclaimer.md
+layout: default
+---
 Disclaimer
 ==========
 

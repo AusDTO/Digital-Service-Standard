@@ -1,3 +1,7 @@
+---
+title: building_digital_services.md
+layout: default
+---
 Building digital services
 =========================
 

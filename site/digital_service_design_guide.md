@@ -1,3 +1,7 @@
+---
+title: digital_service_design_guide.md
+layout: default
+---
 Digital Service Design Guide
 ============================
 

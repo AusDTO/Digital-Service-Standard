@@ -1,3 +1,7 @@
+---
+title: foi_act_and_information_publication_scheme.md
+layout: default
+---
 FOI Act and Information Publication Scheme
 ==========================================
 

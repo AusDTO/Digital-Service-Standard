@@ -1,3 +1,7 @@
+---
+title: user_pathways.md
+layout: default
+---
 User pathways
 =============
 

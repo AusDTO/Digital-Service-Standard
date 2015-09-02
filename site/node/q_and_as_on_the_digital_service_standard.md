@@ -1,3 +1,7 @@
+---
+title: q_and_as_on_the_digital_service_standard.md
+layout: default
+---
 Q & As on the Digital Service Standard
 ======================================
 

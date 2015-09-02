@@ -1,3 +1,7 @@
+---
+title: high_level_design.md
+layout: default
+---
 High level design
 =================
 

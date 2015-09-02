@@ -1,3 +1,7 @@
+---
+title: open_data.md
+layout: default
+---
 Open data
 =========
 

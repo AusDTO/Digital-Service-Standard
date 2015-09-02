@@ -1,3 +1,7 @@
+---
+title: talking_digital_id.md
+layout: default
+---
 Talking Digital ID
 ==================
 

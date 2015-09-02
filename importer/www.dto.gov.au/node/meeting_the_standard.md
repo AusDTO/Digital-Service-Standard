@@ -1,3 +1,7 @@
+---
+title: meeting_the_standard.md
+layout: default
+---
 Meeting the Standard
 ====================
 

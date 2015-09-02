@@ -1,3 +1,7 @@
+---
+title: ethnographic_research.md
+layout: default
+---
 Ethnographic research
 =====================
 

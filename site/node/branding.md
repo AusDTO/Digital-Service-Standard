@@ -1,3 +1,7 @@
+---
+title: branding.md
+layout: default
+---
 Branding
 ========
 

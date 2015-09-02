@@ -1,3 +1,7 @@
+---
+title: code_sharing.md
+layout: default
+---
 Code sharing
 ============
 

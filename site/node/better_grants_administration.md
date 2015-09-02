@@ -1,3 +1,7 @@
+---
+title: better_grants_administration.md
+layout: default
+---
 Better grants administration
 ============================
 

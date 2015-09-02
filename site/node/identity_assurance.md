@@ -1,3 +1,7 @@
+---
+title: identity_assurance.md
+layout: default
+---
 Identity assurance
 ==================
 

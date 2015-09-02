@@ -1,3 +1,7 @@
+---
+title: content_management_system.md
+layout: default
+---
 Content management system
 =========================
 

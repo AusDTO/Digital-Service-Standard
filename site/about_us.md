@@ -1,3 +1,7 @@
+---
+title: about_us.md
+layout: default
+---
 About us
 ========
 

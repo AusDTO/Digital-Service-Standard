@@ -1,3 +1,7 @@
+---
+title: scenarios.md
+layout: default
+---
 Scenarios
 =========
 

@@ -1,3 +1,7 @@
+---
+title: contracts.md
+layout: default
+---
 Contracts
 =========
 

@@ -1,3 +1,7 @@
+---
+title: digital_service_standard.md
+layout: default
+---
 Digital Service Standard
 ========================
 

@@ -1,3 +1,7 @@
+---
+title: your_homepage_is_not_your_front_door.md
+layout: default
+---
 Your homepage is not your front door
 ====================================
 
