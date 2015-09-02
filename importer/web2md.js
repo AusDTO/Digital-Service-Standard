@@ -25,7 +25,7 @@ function web2md(filename, data) {
     }
     if ($('div.main-content').html()) {
       content = $('div.main-content').html();
-      title += '.html';
+      full_title = title + '.html';
       new_filename = path.join(path.dirname(filename), title);
       baseFile = path.parse(filename).base;
 
@@ -38,7 +38,7 @@ function web2md(filename, data) {
           throw err;
         }
         //console.log('Converted... ' + baseFile);
-        result = '---\ntitle: ' + title + '\nlayout: default\n---\n' + result;
+        result = '---\ntitle: ' + title + '\npermalink: ' + full_title + 'layout: default\n---\n' + result;
 
         fs.writeFile(new_filename, result, function(err) {
           if (err) {
@@ -48,10 +48,10 @@ function web2md(filename, data) {
 
         if (typeof(baseFile) !== "undefined" && typeof(title) !== "undefined") {
           //console.log('Adding mapping');
-          fs.appendFile('mapping.csv', baseFile + ',' + title + '\n'); //fails/suceeds silently
+          fs.appendFile('mapping.csv', baseFile + ',' + full_title + '\n'); //fails/suceeds silently
 
         } else {
-          console.log('!!!!! INVALID base file (' + baseFile + ') or title' + title);
+          console.log('!!!!! INVALID base file (' + baseFile + ') or title' + full_title);
         } //can I assume that the same filename wont be reused in another directory that I care about?
       });
     } else {
