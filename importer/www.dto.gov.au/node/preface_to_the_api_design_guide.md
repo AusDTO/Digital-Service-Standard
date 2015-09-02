@@ -44,11 +44,11 @@ Done.
 Related blogs
 -------------
 
-[Recruitment campaign to find Australia's best tech talent](1151.html)
+[Recruitment campaign to find Australia's best tech talent](recruitment_campaign_to_find_australias_best_tech_talent.md)
 
-[Your homepage is not your front door](1111.html)
+[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
 
-[Open and secure](1096.html)
+[Open and secure](open_and_secure.md)
 
 Comments (9)
 ------------
@@ -123,7 +123,7 @@ I don't have any insight into non-IT people's involvement in API design, product
 
 -   [reply](https://www.dto.gov.au/comment/reply/1081/1616)
 
-Tom Worthington replied on Mon, 2015-08-17 10:15 [Permalink](../comment/1736.html#comment-1736)
+Tom Worthington replied on Mon, 2015-08-17 10:15 [Permalink](../comment/1putting_the_user_at_the_centre_of_everything.md#comment-1736)
 
 Comment: 
 
@@ -131,7 +131,7 @@ The "Preface to the API Design Guide" is very well written, but I could not find
 
 -   [reply](https://www.dto.gov.au/comment/reply/1081/1736)
 
-![Chris Gough's picture](../sites/g/files/net466/f/pictures/picture-1476-1439264217.png "Chris Gough's picture") Chris Gough replied on Mon, 2015-08-17 17:12 [Permalink](../comment/1756.html#comment-1756)
+![Chris Gough's picture](../sites/g/files/net466/f/pictures/picture-1476-1439264217.png "Chris Gough's picture") Chris Gough replied on Mon, 2015-08-17 17:12 [Permalink](../comment/1updates_to_the_scope_of_the_digital_service_standard.md#comment-1756)
 
 Comment: 
 
@@ -150,7 +150,7 @@ Finally, the "read <https://apiguide.readthedocs.org/>" link at the bottom of th
 
 -   [reply](https://www.dto.gov.au/comment/reply/1081/1756)
 
-Tony Edwards replied on Wed, 2015-08-19 12:28 [Permalink](../comment/1771.html#comment-1771)
+Tony Edwards replied on Wed, 2015-08-19 12:28 [Permalink](../comment/1making_government_discoverable.md#comment-1771)
 
 Comment: 
 
@@ -159,7 +159,7 @@ I see this as a good approach apart from the "mandatory" expectation. It would b
 
 -   [reply](https://www.dto.gov.au/comment/reply/1081/1771)
 
-Dean replied on Tue, 2015-08-25 10:47 [Permalink](../comment/1931.html#comment-1931)
+Dean replied on Tue, 2015-08-25 10:47 [Permalink](../comment/1interviews.md#comment-1931)
 
 Comment: 
 
@@ -167,7 +167,7 @@ Do you have example of an application that the DTO has produced that applies the
 
 -   [reply](https://www.dto.gov.au/comment/reply/1081/1931)
 
-Paul Wojcik replied on Mon, 2015-08-31 10:55 [Permalink](../comment/1991.html#comment-1991)
+Paul Wojcik replied on Mon, 2015-08-31 10:55 [Permalink](../comment/1common_government_content_and_features.md#comment-1991)
 
 Comment: 
 

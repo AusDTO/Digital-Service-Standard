@@ -27,7 +27,7 @@ We will be taking an agile and open approach to the way in which services and in
 
 To make a start today we're going live and releasing an alpha version of the new digital service standard. The standard will set out the criteria that all Australian government services and information will need to meet to ensure they're easier to find and easier to interact with. From the middle of 2015 all government agencies will need to ensure that services and information that they are developing or improving, comply with the standard. Most importantly the standard will put the needs of the user first. Releasing the standard in this way, in an Alpha form and seeking feedback, is a reflection of the new approach we want to take. 
 
-Getting the input from the public and from experts out there in the community including overseas on the best way in which these services can be delivered. So if you're interested follow us on [Twitter](https://twitter.com/ausdto). Get engaged through [our website](../index.html) and stay tuned for bigger announcements from Malcolm Turnbull the Minister for Communications.
+Getting the input from the public and from experts out there in the community including overseas on the best way in which these services can be delivered. So if you're interested follow us on [Twitter](https://twitter.com/ausdto). Get engaged through [our website](../digital_service_standard.md) and stay tuned for bigger announcements from Malcolm Turnbull the Minister for Communications.
 
 David Hazlehurst
 Acting CEO
@@ -37,11 +37,11 @@ Acting CEO
 Related blogs
 -------------
 
-[Recruitment campaign to find Australia's best tech talent](1151.html)
+[Recruitment campaign to find Australia's best tech talent](recruitment_campaign_to_find_australias_best_tech_talent.md)
 
-[Digital Community of Practice event – 4 September](1136.html)
+[Digital Community of Practice event – 4 September](digital_community_of_practice_event_4_september.md)
 
-[‘Showing the thing’ was our theme last week in the Standards team](1131.html)
+[‘Showing the thing’ was our theme last week in the Standards team](showing_the_thing_was_our_theme_last_week_in_the_standards_team.md)
 
 Comments (8)
 ------------

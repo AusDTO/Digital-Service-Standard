@@ -12,7 +12,7 @@ Author: 
 
 Jacqui van Teulingen
 
-Since we [released the Digital Service Standard](../news-media/blog/release-alpha-digital-service-standard.html), we’ve had some great questions from our community. The following pick up some of the common themes we’ve been asked about.
+Since we [released the Digital Service Standard](../news-media/blog/release-alpha-digital-service-digital_service_standard.md), we’ve had some great questions from our community. The following pick up some of the common themes we’ve been asked about.
 
 *Q: Does the Standard just apply to Australian Government agencies? If so, what is the likelihood of it being adopted by other levels of government?*
 
@@ -51,11 +51,11 @@ We’ve already published parts of what will become the Guide in the material su
 Related blogs
 -------------
 
-[Digital Community of Practice event – 4 September](1136.html)
+[Digital Community of Practice event – 4 September](digital_community_of_practice_event_4_september.md)
 
-[‘Showing the thing’ was our theme last week in the Standards team](1131.html)
+[‘Showing the thing’ was our theme last week in the Standards team](showing_the_thing_was_our_theme_last_week_in_the_standards_team.md)
 
-[Your homepage is not your front door](1111.html)
+[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
 
 Add new comment
 ---------------

@@ -17,10 +17,10 @@ Australian Government departments, agencies and other bodies' online and offline
 How do I?
 ---------
 
--   [Download the correct template](551.html#download)
--   [Present the Design correctly](551.html#presentdesign)
--   [Refer correctly to the Australian Government in content](551.html#refercorrectly)
--   [Check guidance on common uses](551.html#checkguidance)
+-   [Download the correct template](branding.md#download)
+-   [Present the Design correctly](branding.md#presentdesign)
+-   [Refer correctly to the Australian Government in content](branding.md#refercorrectly)
+-   [Check guidance on common uses](branding.md#checkguidance)
 
 ### Download the correct template
 
@@ -36,7 +36,7 @@ The files are provided in Adobe Photoshop 6.0/Adobe Image Ready 3.0 formats as z
 
 **Template downloads **
 
-[Australian Government Design](551.html#ausgovdesign) (inline)
+[Australian Government Design](branding.md#ausgovdesign) (inline)
 
 ![example of australian government inline logo](../sites/g/files/net466/f/styles/large/public/aginline.gif%3Fitok=wnwp3xnk)
 
@@ -44,7 +44,7 @@ The files are provided in Adobe Photoshop 6.0/Adobe Image Ready 3.0 formats as z
 -   [48 pixels austgovt48\_i.zip (ZIP 16 KB)](http://webguide.gov.au/files/2010/08/austgovt48_i.zip)
 -   [64 pixels austgovt64\_i.zip (ZIP 20 KB)](http://webguide.gov.au/files/2010/08/austgovt64_i.zip)
 
-[Australian Government Design](551.html#ausgovdesign) (stacked)
+[Australian Government Design](branding.md#ausgovdesign) (stacked)
 
 ![example of australian government stacked logo](../sites/g/files/net466/f/styles/large/public/ag48stacked.gif%3Fitok=1Gi16LK_)
 
@@ -54,7 +54,7 @@ The files are provided in Adobe Photoshop 6.0/Adobe Image Ready 3.0 formats as z
 -   [48 pixels austgovt\_s.zip (ZIP 16 KB)](http://webguide.gov.au/files/2010/08/austgovt48_s.zip)
 -   [64 pixels austgovt\_s.zip (ZIP 20 KB)](http://webguide.gov.au/files/2010/08/austgovt64_s.zip)
 
-[Agency Design](551.html#ausgovdesign) (inline)
+[Agency Design](branding.md#ausgovdesign) (inline)
 
 ![example of agency inline logo](../sites/g/files/net466/f/styles/large/public/agency_stacked.jpg%3Fitok=24qLspxs)
 
@@ -62,7 +62,7 @@ The files are provided in Adobe Photoshop 6.0/Adobe Image Ready 3.0 formats as z
 -   [48 pixels dept\_agency48\_i.zip (ZIP 20 KB)](http://webguide.gov.au/files/2010/08/dept_agency48_i.zip)
 -   [64 pixels dept\_agency64\_i.zip (ZIP 24 KB)](http://webguide.gov.au/files/2010/08/dept_agency64_i.zip)
 
-[Agency Design](551.html#ausgovdesign) (stacked)
+[Agency Design](branding.md#ausgovdesign) (stacked)
 
 ![agency stacked design](../sites/g/files/net466/f/styles/large/public/agency_stacked_0.jpg%3Fitok=KrdCrvb1)
 
@@ -72,7 +72,7 @@ The files are provided in Adobe Photoshop 6.0/Adobe Image Ready 3.0 formats as z
 -   [48 pixels dept\_agency48\_s.zip (ZIP 20 KB)](http://webguide.gov.au/files/2010/08/dept_agency48_s.zip)
 -   [64 pixels dept\_agency64\_s.zip (ZIP 24 KB)](http://webguide.gov.au/files/2010/08/dept_agency64_s.zip)
 
-[Multiple agencies design](551.html#multipleagencies) (inline)
+[Multiple agencies design](branding.md#multipleagencies) (inline)
 
 ![example of multi-agency inline logo](../sites/g/files/net466/f/styles/large/public/multiple_agencies_inline.jpg%3Fitok=fHyKm3Y1)
 
@@ -82,7 +82,7 @@ The files are provided in Adobe Photoshop 6.0/Adobe Image Ready 3.0 formats as z
 -   [48 pixels multiple48\_i.zip (ZIP 24 KB)](http://webguide.gov.au/files/2010/08/multiple48_i.zip)
 -   [64 pixels multiple64\_i.zip (ZIP 32 KB)](http://webguide.gov.au/files/2010/08/dept_agency64_i.zip)
 
-[Multiple agencies design](551.html#multipleagencies) (stacked)
+[Multiple agencies design](branding.md#multipleagencies) (stacked)
 
 ![example of multi-agency stacked logo](../sites/g/files/net466/f/styles/large/public/multiple_agencie_stacked.jpg%3Fitok=uFTsnTCF)
 
@@ -92,7 +92,7 @@ The files are provided in Adobe Photoshop 6.0/Adobe Image Ready 3.0 formats as z
 -   [48 pixels multiple48\_s.zip (ZIP 24 KB)](http://webguide.gov.au/files/2010/08/multiple48_s.zip)
 -   [64 pixels multiple64\_s.zip (ZIP 32 KB)](http://webguide.gov.au/files/2010/08/multiple64_s.zip)
 
-[An Australian Government Initiative Design](551.html#austgovinitative) (inline)
+[An Australian Government Initiative Design](branding.md#austgovinitative) (inline)
 
 ![example of australian government initiative inline logo](../sites/g/files/net466/f/styles/large/public/aagi48inline2.gif%3Fitok=RG8tHdnb)
 
@@ -102,7 +102,7 @@ The files are provided in Adobe Photoshop 6.0/Adobe Image Ready 3.0 formats as z
 -   [48 pixels Initiative48\_i.zip (ZIP 16 KB)](http://webguide.gov.au/files/2010/08/initiative48_i.zip)
 -   [64 pixels Initiative64\_i.zip (ZIP 20 KB)](http://webguide.gov.au/files/2010/08/initiative64_i.zip)
 
-[An Australian Government Initiative Design](551.html#austgovinitative) (stacked)
+[An Australian Government Initiative Design](branding.md#austgovinitative) (stacked)
 
 ![example of australian government initiative stacked logo](../sites/g/files/net466/f/styles/large/public/aagi48stacked2.gif%3Fitok=roZOo-WE)
 
@@ -112,7 +112,7 @@ The files are provided in Adobe Photoshop 6.0/Adobe Image Ready 3.0 formats as z
 -   [48 pixels Initiative48\_s.zip (ZIP 16 KB)](http://webguide.gov.au/files/2010/08/initiative48_s.zip)
 -   [64 pixels Initiative64\_s.zip (ZIP 20 KB)](http://webguide.gov.au/files/2010/08/initiative64_s.zip)
 
-[Agency functions, divisions and branches](551.html#agencyfunctions) – hierarchy design (inline; stacked is also permitted)
+[Agency functions, divisions and branches](branding.md#agencyfunctions) – hierarchy design (inline; stacked is also permitted)
 
  
 
@@ -122,7 +122,7 @@ The files are provided in Adobe Photoshop 6.0/Adobe Image Ready 3.0 formats as z
 
 Not available
 
-[Agency functions, divisions and branches](551.html#agencyfunctions)– functions with distinct branding (inline; stacked is also permitted)
+[Agency functions, divisions and branches](branding.md#agencyfunctions)– functions with distinct branding (inline; stacked is also permitted)
 
  
 
@@ -130,7 +130,7 @@ Not available
 
 Not available
 
-[Agency Design co-branding](551.html#cobrand) (inline; the co-brand must appear to the right of the stacked or inline Australian Government Design)
+[Agency Design co-branding](branding.md#cobrand) (inline; the co-brand must appear to the right of the stacked or inline Australian Government Design)
 
 ![example of cobranded logo](../sites/g/files/net466/f/styles/large/public/cobranded-design_0.gif%3Fitok=-ZTntiOr)
 
@@ -142,7 +142,7 @@ Not available
 
  *The \*pixels sizing refers to the height of the Coat of Arms in each version of the design.*
 
-[Back to top](551.html#)
+[Back to top](branding.md#)
 
 ![Design size - 32/48/64 pixels](../sites/g/files/net466/f/styles/large/public/design_sizeguide1.gif%3Fitok=0Mr83hlt)
 
@@ -161,7 +161,7 @@ Both Designs consist of:
 -   the Commonwealth Coat of Arms (Conventional Version 3A Solid)
 -   appropriate words with text set in Times New Roman Bold.
 
-The Design can be configured as inline (horizontal) and stacked (with the Coat of Arms sitting above the centralised text) as illustrated in the [template table](551.html#download).
+The Design can be configured as inline (horizontal) and stacked (with the Coat of Arms sitting above the centralised text) as illustrated in the [template table](branding.md#download).
 
 #### Co-branding with an agency logo
 
@@ -186,7 +186,7 @@ The relevant Portfolio Secretary is responsible for how divisions, branches, off
 
 Program branding which includes a specific logo may be used in conjunction with the Australian Government Design, the Agency Design or the 'An Australian Government Initiative' Design.
 
-[Back to top](551.html#)
+[Back to top](branding.md#)
 
 ### Present the Design correctly
 
@@ -194,7 +194,7 @@ Program branding which includes a specific logo may be used in conjunction with 
 
 The logo must have prominence over and above other images and graphic elements. This means that is other logos, text or images must not be placed above or to the left of the logo when applied to Australian Government websites or applications. The logo must appear either at the top of the left-hand side of every page (for example, in the case of websites) or the top-centre of the screen (for example, in the case of mobile applications).
 
-Further guidance on [positioning the Design in specific contexts](551.html#checkguidance) is available at the end of this section.
+Further guidance on [positioning the Design in specific contexts](branding.md#checkguidance) is available at the end of this section.
 
 #### Design isolation zone
 
@@ -248,13 +248,13 @@ The treatment of the background in which the Design sits is crucial to its overa
 
  
 
-[Back to top](551.html#)
+[Back to top](branding.md#)
 
  
 
 #### Text Alternatives (alt text)
 
-Alt text is an [accessibility feature](456.html) used to supply contextual information as an alternative to images. The alt text for the Design (when used only as an image) should read as follows.
+Alt text is an [accessibility feature](making_content_accessible.md) used to supply contextual information as an alternative to images. The alt text for the Design (when used only as an image) should read as follows.
 
 **Usage**
 
@@ -289,7 +289,7 @@ Where the term ‘Commonwealth Government’ or ‘Federal Government’ was use
 
 The ‘Commonwealth of Australia’ is the legal entity established by the Constitution. It is sometimes referred to simply as ‘the Commonwealth’. You should only use ‘Commonwealth of Australia’ or ‘the Commonwealth’ to describe the entity established by the Constitution, such as in a legal context, or in a geographic sense.
 
-There is more guidance on [preferred terminology](396.html#usepreferred) available.
+There is more guidance on [preferred terminology](online_writing.md#usepreferred) available.
 
 #### Amending old content
 
@@ -403,9 +403,9 @@ Non-government:
 
  
 
-[Back to top](551.html#)
+[Back to top](branding.md#)
 
-**Last updated:** 20 July 2015  |  [Provide feedback on this page](../feedback%3Furl_from=Branding.html)
+**Last updated:** 20 July 2015  |  [Provide feedback on this page](../feedback%3Furl_from=branding.md)
 
 File: 
 

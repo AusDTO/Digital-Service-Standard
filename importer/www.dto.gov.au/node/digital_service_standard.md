@@ -3,11 +3,11 @@ Digital Service Standard
 
 The Digital Service Standard establishes the criteria that Australian Government digital services must meet to ensure our services are simpler, faster and easier to use. Meeting the criteria means we can consistently provide high quality services and satisfy our users' needs.
 
-All services within the [scope of the Standard](856.html) must meet the criteria before they can be launched. After launch, we will report against our service performance.
+All services within the [scope of the Standard](scope_of_the_digital_service_standard.md) must meet the criteria before they can be launched. After launch, we will report against our service performance.
 
 This Standard is in alpha phase and is intended for service delivery teams in Australian Government agencies. The alpha version was developed with Government agencies and will be continuously improved to reflect emerging best practice. We encourage your [feedback](../feedback-design-guidance%3Furl_from=standardpage.html) on the Standard to ensure it continues to deliver high quality outcomes.
 
-The Standard is supported by [Design Guides](../design-guides.html). The Guides will help agencies design trusted and cost-effective government services that are welcomed by users. In consultation with you - the service practitioners in government - we will continue to develop the Guides over the coming months, so stay tuned for updates.
+The Standard is supported by [Design Guides](../digital_service_design_guide.md). The Guides will help agencies design trusted and cost-effective government services that are welcomed by users. In consultation with you - the service practitioners in government - we will continue to develop the Guides over the coming months, so stay tuned for updates.
 
 You will notice we are speaking a new language; we are personalising our content and making things clearer. We welcome your participation, so get involved!  
 

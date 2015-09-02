@@ -3,14 +3,14 @@ Digital Transformation Plan
 
 Supporting agencies to transform their service delivery
 
-The Digital Transformation Office (DTO) is supporting agencies in planning their transformation to provide users with a better experience when dealing with government. The DTO has established a network of [Digital Transformation Coordinators](../node/1061.html) (DTCs) that supports each agency in the development of a Digital Transformation Plan and progress of services through digital transformation.
+The Digital Transformation Office (DTO) is supporting agencies in planning their transformation to provide users with a better experience when dealing with government. The DTO has established a network of [Digital Transformation Coordinators](../node/digital_transformation_coordinators.md) (DTCs) that supports each agency in the development of a Digital Transformation Plan and progress of services through digital transformation.
 
 Digital Transformation Plan
 ---------------------------
 
-All non-corporate Commonwealth agencies (most former *Financial Management Accountability Act 1997* agencies) with high volume transaction services (that is, 50,000 transactions per annum) [in scope of the Standard](../node/856.html) are required to develop and publish a Digital Transformation Plan.
+All non-corporate Commonwealth agencies (most former *Financial Management Accountability Act 1997* agencies) with high volume transaction services (that is, 50,000 transactions per annum) [in scope of the Standard](../node/scope_of_the_digital_service_standard.md) are required to develop and publish a Digital Transformation Plan.
 
-The Digital Transformation Plan enables agencies to be transparent about their planned transformation activities and report on their progress against the [Digital Transformation Agenda](../node/941.html). 
+The Digital Transformation Plan enables agencies to be transparent about their planned transformation activities and report on their progress against the [Digital Transformation Agenda](../node/2015_16_digital_transformation_agenda_budget_initiatives.md). 
 
 ### Scope
 
@@ -22,7 +22,7 @@ Your plan should explain the current service offerings and the user needs to be 
 -   **The future**: the vision for the digitally transformed agency.
 -   **How we will get there**
     -   identification of specific aspects of services that can be transformed quickly and enable significant improvements to the user experience
-    -   identification, prioritisation and planning the transformation of high volume transactional services to comply with the [Digital Service Standard](index.html)
+    -   identification, prioritisation and planning the transformation of high volume transactional services to comply with the [Digital Service Standard](digital_service_standard.md)
     -   an action plan that addresses the changes required at the organisational, cultural and capability levels.
 
 ### Preparing your plan
@@ -58,7 +58,7 @@ Key elements in planning agency transformation include:
 -   Leadership and culture – is it strong, well placed, does it need attention?
 -   Level of digital engagement with users
 -   Portfolio and organisational management – governance, structure
--   Compliance and processes; for example, processes to check the service aligns with [Digital Service Standard](index.html)
+-   Compliance and processes; for example, processes to check the service aligns with [Digital Service Standard](digital_service_standard.md)
 -   Service delivery partnerships; for example, with third parties
 -   Digital capabilities; including people, information and technology
 -   Service delivery contestability – is there a way to redesign the service in a way that is commercially contestable?
@@ -79,12 +79,12 @@ Agencies need enterprise-wide service level capability to support digital transf
 
 -   having the digital skills and capability to build services that are simple and easy to use
 -   addressing potential barriers to going digital (such as legislative, technical, infrastructure, service complexity, and so on)
--   catering for the needs of people who require [assisted digital](../node/361.html) support
+-   catering for the needs of people who require [assisted digital](../node/assisted_digital.md) support
 -   plans to integrate non-digital services with digital ones.
 
 ### Transformation implementation
 
-Agencies need to use an integrated approach, based on user needs, to build internal capability as well as services. Agencies should translate user needs into services that are simple and intuitive enough so that users succeed digitally, first time, every time. The [digital service design principles](../node/866.html) should underpin agency implementation.
+Agencies need to use an integrated approach, based on user needs, to build internal capability as well as services. Agencies should translate user needs into services that are simple and intuitive enough so that users succeed digitally, first time, every time. The [digital service design principles](../node/principles_of_digital_service_design.md) should underpin agency implementation.
 
 ### Evaluation and assessment
 
@@ -95,7 +95,7 @@ Some questions to consider include:
 -   Has the agency increased its digital capability?
 -   What is the agency’s capability to engage with users and undertake user-centred design, including prototyping and user testing?
 -   Do service delivery staff have the appropriate knowledge and skills as well as access to the digital transformation process?
--   Does the service comply with the [Digital Service Standard](index.html)?
+-   Does the service comply with the [Digital Service Standard](digital_service_standard.md)?
 -   Does the new service meet the key needs of the user and address user-engagement trends?
 -   What proportion of the service is now digital?
 -   What is the level of sophistication of the digital aspects of your services?

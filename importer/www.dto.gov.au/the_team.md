@@ -5,7 +5,7 @@ Establish teams with the right skills to create user-centred services that are d
 
 This guide outlines the different skills required in a sustainable multi-disciplinary team to design, build, operate and iterate a digital service that is in the [scope of the Standard](https://www.dto.gov.au/standard/digital-transition-plan/scope-digital-service-standard). The team should meet regularly, and work closely to deliver ongoing iterations of user-centred services. They should also have access to software tools and work in an environment that promotes collaboration and encourages fast decision making during developmental sprints.
 
-The team will need to engage with the [Digital Transformation Coordinator](node/1061.html) within their agency when establishing or redesigning a digital service.
+The team will need to engage with the [Digital Transformation Coordinator](node/digital_transformation_coordinators.md) within their agency when establishing or redesigning a digital service.
 
 The roles and skills outlined are required regardless of whether the service is a website, a transactional service, or a mobile app.
 
@@ -17,11 +17,11 @@ Assembling a multi-disciplinary team is considered best practice for building di
 How do I?
 ---------
 
-There are a range of skills and capabilities that need to work together to successfully provide a digital service. The focus is likely to shift as a project moves through the different [design phases](node/971.html#phases). The core team is likely to remain fairly constant, but may need to draw in additional resources and expertise at different stages.
+There are a range of skills and capabilities that need to work together to successfully provide a digital service. The focus is likely to shift as a project moves through the different [design phases](node/service_design_process.md#phases). The core team is likely to remain fairly constant, but may need to draw in additional resources and expertise at different stages.
 
--   [Identify the skills required](team.html#identify)
--   [Establish a team with appropriate roles](team.html#establish)
--   [Consider outsourcing the requirements](team.html#outsource)
+-   [Identify the skills required](the_team.md#identify)
+-   [Establish a team with appropriate roles](the_team.md#establish)
+-   [Consider outsourcing the requirements](the_team.md#outsource)
 
 ### Identify the skills required
 
@@ -45,9 +45,9 @@ While there are no specific rules on the roles or team structure used to fulfil 
 
 This list identifies key roles (in alphabetical order) defined as lead or technical and provides a description of the capability and skill required of each role. You will need to determine if these roles exist as part of your core team or are consultants you engage with on a casual or on-call basis.
 
-Depending on the project and resources you have on hand, you may need to [outsource](team.html#outsource) some of these roles.
+Depending on the project and resources you have on hand, you may need to [outsource](the_team.md#outsource) some of these roles.
 
-All team members are expected to have an understanding of the [accessibility](node/456.html) and [assisted digital](node/361.html) needs for users of a service.
+All team members are expected to have an understanding of the [accessibility](node/making_content_accessible.md) and [assisted digital](node/assisted_digital.md) needs for users of a service.
 
 #### Leading roles
 
@@ -69,7 +69,7 @@ These roles involve managing or leading a project.
 <td align="left"><p>Delivery Manager</p>
 <p>Enables teams to deliver high-quality services; removes obstacles or blockers to progress; and facilitates project meetings</p></td>
 <td align="left"><p>Service / Project Manager</p>
-<p>Owns the product or project, possibly supported by a <a href="team.html#technicalproductmgr">Technical Product Manager</a></p></td>
+<p>Owns the product or project, possibly supported by a <a href="the_team.md#technicalproductmgr">Technical Product Manager</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -92,9 +92,9 @@ These roles require application of specific technical knowledge and skillsets.
 <tbody>
 <tr class="odd">
 <td align="left"><p>Accessibility Expert</p>
-<p>Supports the team with an in-depth knowledge of best practice in <a href="node/456.html">accessible development</a></p></td>
+<p>Supports the team with an in-depth knowledge of best practice in <a href="node/making_content_accessible.md">accessible development</a></p></td>
 <td align="left"><p>Content Designer (author/editor)</p>
-<p>Ensures digital content, <a href="node/396.html">writing</a> in particular, meets the needs of the user and is as clear and as simple as is required by its users</p></td>
+<p>Ensures digital content, <a href="node/online_writing.md">writing</a> in particular, meets the needs of the user and is as clear and as simple as is required by its users</p></td>
 </tr>
 </tbody>
 </table>
@@ -111,9 +111,9 @@ Agencies are encouraged to list their ICT panels with multi-agency access provis
 
 *This content has been adapted from the *[*UK Government Service Design Manual guide on The team*](https://www.gov.uk/service-manual/the-team)* under the *[*Open Government* *Licence* *v2.0*](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2)*.*
 
-**Last updated:** 9 June 2015  |  [Provide feedback on this](feedback%3Furl_from=Theteam.html)[page](feedback%3Furl_from=Theteam.html)
+**Last updated:** 9 June 2015  |  [Provide feedback on this](feedback%3Furl_from=Thethe_team.md)[page](feedback%3Furl_from=Thethe_team.md)
 
 Subguides: 
 
-[Team recruitment](node/981.html)
+[Team recruitment](node/team_recruitment.md)
 

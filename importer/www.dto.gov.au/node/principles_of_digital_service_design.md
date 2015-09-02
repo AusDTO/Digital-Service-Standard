@@ -3,7 +3,7 @@ Principles of digital service design
 
 Guiding principles to design better services
 
-The design principles provide the foundation for the Digital Service Standard’s [service design process](971.html).
+The design principles provide the foundation for the Digital Service Standard’s [service design process](service_design_process.md).
 
 1. Users first
 --------------

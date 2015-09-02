@@ -42,11 +42,11 @@ We'll publish more details over the coming weeks but we want to check our thinki
 Related blogs
 -------------
 
-[Getting inside your head: Analysing search behaviours](1106.html)
+[Getting inside your head: Analysing search behaviours](getting_inside_your_head_analysing_search_behaviours.md)
 
-[Where are we heading: A future state for user experience](781.html)
+[Where are we heading: A future state for user experience](where_are_we_heading_a_future_state_for_user_experience.md)
 
-[Government working with government: Lessons from OneGov](791.html)
+[Government working with government: Lessons from OneGov](government_working_with_government_lessons_from_onegov.md)
 
 Comments (9)
 ------------
@@ -95,7 +95,7 @@ Suggestion: Another thing to measure could be availability / reliability of inte
 
 -   [reply](https://www.dto.gov.au/comment/reply/751/416)
 
-Nathanael Coyne replied on Tue, 2015-06-09 10:32 [Permalink](../comment/421.html#comment-421)
+Nathanael Coyne replied on Tue, 2015-06-09 10:32 [Permalink](../comment/code_sharing.md#comment-421)
 
 Comment: 
 
@@ -154,7 +154,7 @@ Dan.
 
 -   [reply](https://www.dto.gov.au/comment/reply/751/686)
 
-Stefan Willoughby replied on Tue, 2015-08-25 14:51 [Permalink](../comment/1936.html#comment-1936)
+Stefan Willoughby replied on Tue, 2015-08-25 14:51 [Permalink](../comment/1wireframing.md#comment-1936)
 
 Comment: 
 

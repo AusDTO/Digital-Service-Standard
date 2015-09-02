@@ -17,11 +17,11 @@ Why must I?
 How do I?
 ---------
 
--   [Assign responsibilities](976.html#assignresponsibilities)
--   [Capture content](976.html#capture)
--   [Manage content for ongoing access](976.html#manage)
--   [Store content](976.html#store)
--   [Dispose of content when no longer needed](976.html#dispose)
+-   [Assign responsibilities](records_management.md#assignresponsibilities)
+-   [Capture content](records_management.md#capture)
+-   [Manage content for ongoing access](records_management.md#manage)
+-   [Store content](records_management.md#store)
+-   [Dispose of content when no longer needed](records_management.md#dispose)
 
 ### Assign responsibilities
 

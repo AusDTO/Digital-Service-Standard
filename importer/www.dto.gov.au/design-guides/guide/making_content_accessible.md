@@ -15,11 +15,11 @@ The Australian Government has also approved the *[UN Convention on the Rights of
 How do I?
 ---------
 
--   [Ensure internal policy and procedures are compliant](../../node/456.html#ensure)
--   [Develop an accessible website layout and design](../../node/456.html#develop)
--   [Write accessible content](../../node/456.html#write)
--   [Select an appropriate format](../../node/456.html#select)
--   [Update your procurement processes](../../node/456.html#procurement)
+-   [Ensure internal policy and procedures are compliant](../../node/making_content_accessible.md#ensure)
+-   [Develop an accessible website layout and design](../../node/making_content_accessible.md#develop)
+-   [Write accessible content](../../node/making_content_accessible.md#write)
+-   [Select an appropriate format](../../node/making_content_accessible.md#select)
+-   [Update your procurement processes](../../node/making_content_accessible.md#procurement)
 
 ### Ensure internal policy and procedures are compliant
 
@@ -57,7 +57,7 @@ You should identify the purpose and intent of the content in order to determine 
 
 ![Attention](../../sites/g/files/net261/f/styles/large/public/attention32.png%3Fitok=wqHBFd4O "Attention") *Web accessibility should not be a reason for not publishing online content as no information is more inaccessible than inaccessible information. Instead, any material identified as non-compliant requires a risk assessment and to be managed accordingly. *
 
-[Top](../../node/456.html#)
+[Top](../../node/making_content_accessible.md#)
 
 ### Select an appropriate format
 
@@ -100,5 +100,5 @@ Updating your procurement processes can help your agency achieve value for money
 
 **Last updated:** 26 June 2015 ** |**  [Provide feedback on this page](../../feedback%3Furl_from=MakingContentAccessible.html)
 
-[Top](../../node/456.html#)
+[Top](../../node/making_content_accessible.md#)
 

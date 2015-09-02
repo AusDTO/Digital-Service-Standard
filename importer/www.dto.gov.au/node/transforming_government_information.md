@@ -47,16 +47,16 @@ It’s going to take some work to get this right – please tell us what you thi
 Related blogs
 -------------
 
-[How do Australians really feel about digital government services?](1101.html)
+[How do Australians really feel about digital government services?](how_do_australians_really_feel_about_digital_government_services.md)
 
-[Getting inside your head: Analysing search behaviours](1106.html)
+[Getting inside your head: Analysing search behaviours](getting_inside_your_head_analysing_search_behaviours.md)
 
-[Your homepage is not your front door](1111.html)
+[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
 
 Comments (32)
 -------------
 
-Anonymous replied on Mon, 2015-06-22 09:58 [Permalink](../comment/506.html#comment-506)
+Anonymous replied on Mon, 2015-06-22 09:58 [Permalink](../comment/identity_assurance.md#comment-506)
 
 Comment: 
 
@@ -64,7 +64,7 @@ What is being done to address the quality of government information presented on
 
 -   [reply](https://www.dto.gov.au/comment/reply/761/506)
 
-S Clarkson replied on Mon, 2015-06-22 11:21 [Permalink](../comment/511.html#comment-511)
+S Clarkson replied on Mon, 2015-06-22 11:21 [Permalink](../comment/testing_web_accessibility.md#comment-511)
 
 Comment: 
 
@@ -80,7 +80,7 @@ We are very open to more ideas on what else needs to happen to make government c
 
 -   [reply](https://www.dto.gov.au/comment/reply/761/511)
 
-Bobby Graham replied on Mon, 2015-06-22 15:49 [Permalink](../comment/526.html#comment-526)
+Bobby Graham replied on Mon, 2015-06-22 15:49 [Permalink](../comment/open_data.md#comment-526)
 
 Comment: 
 
@@ -88,7 +88,7 @@ I think creating Chief Editors is a good idea: most government agencies are larg
 
 -   [reply](https://www.dto.gov.au/comment/reply/761/526)
 
-![Sharyn Clarkson's picture](../sites/g/files/net466/f/pictures/picture-356-1435041168.jpg "Sharyn Clarkson's picture") Sharyn Clarkson replied on Tue, 2015-06-23 18:58 [Permalink](../comment/556.html#comment-556)
+![Sharyn Clarkson's picture](../sites/g/files/net466/f/pictures/picture-356-1435041168.jpg "Sharyn Clarkson's picture") Sharyn Clarkson replied on Tue, 2015-06-23 18:58 [Permalink](../comment/social_media.md#comment-556)
 
 Comment: 
 
@@ -106,7 +106,7 @@ We have some great examples in the APS of high quality content being produced 
 
 -   [reply](https://www.dto.gov.au/comment/reply/761/556)
 
-Bobby Graham replied on Wed, 2015-06-24 11:38 [Permalink](../comment/571.html#comment-571)
+Bobby Graham replied on Wed, 2015-06-24 11:38 [Permalink](../comment/building_digital_services.md#comment-571)
 
 Comment: 
 
@@ -139,7 +139,7 @@ Some really good intial thinking here. No doubt a massive challenge, but a worth
 
 -   [reply](https://www.dto.gov.au/comment/reply/761/516)
 
-![Sharyn Clarkson's picture](../sites/g/files/net466/f/pictures/picture-356-1435041168.jpg "Sharyn Clarkson's picture") Sharyn Clarkson replied on Tue, 2015-06-23 20:25 [Permalink](../comment/561.html#comment-561)
+![Sharyn Clarkson's picture](../sites/g/files/net466/f/pictures/picture-356-1435041168.jpg "Sharyn Clarkson's picture") Sharyn Clarkson replied on Tue, 2015-06-23 20:25 [Permalink](../comment/case_study_improving_website_user_experiences.md#comment-561)
 
 Comment: 
 
@@ -174,8 +174,8 @@ Pages
     -   [2](../blog/transforming-government-information%3Fpage=1.html "Go to page 2")
     -   [3](../blog/transforming-government-information%3Fpage=2.html "Go to page 3")
     -   [4](../blog/transforming-government-information%3Fpage=3.html "Go to page 4")
--   -   [« first](761.html "Go to first page")
-    -   [‹ previous](761.html "Go to previous page")
+-   -   [« first](transforming_government_information.md "Go to first page")
+    -   [‹ previous](transforming_government_information.md "Go to previous page")
 -   -   [next ›](../blog/transforming-government-information%3Fpage=1.html "Go to next page")
     -   [last »](../blog/transforming-government-information%3Fpage=3.html "Go to last page")
 

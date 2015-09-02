@@ -28,11 +28,11 @@ Communications Minister Malcolm Turnbull was recently joined by former White Hou
 Related blogs
 -------------
 
-[Recruitment campaign to find Australia's best tech talent](1151.html)
+[Recruitment campaign to find Australia's best tech talent](recruitment_campaign_to_find_australias_best_tech_talent.md)
 
-[Digital Community of Practice event – 4 September](1136.html)
+[Digital Community of Practice event – 4 September](digital_community_of_practice_event_4_september.md)
 
-[‘Showing the thing’ was our theme last week in the Standards team](1131.html)
+[‘Showing the thing’ was our theme last week in the Standards team](showing_the_thing_was_our_theme_last_week_in_the_standards_team.md)
 
 Add new comment
 ---------------

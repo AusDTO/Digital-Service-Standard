@@ -3,7 +3,7 @@ Performance testing
 
 Testing services across common platforms and devices
 
-This provides general guidance on the technical process of testing of your service across devices. There is also guidance available on [usability testing](../usability-testing.html) and [user research](481.html).
+This provides general guidance on the technical process of testing of your service across devices. There is also guidance available on [usability testing](../usability_testing.md) and [user research](user_research.md).
 
 Why must I?
 -----------
@@ -13,20 +13,20 @@ Government services should be universally accessible, regardless of how the user
 How do I?
 ---------
 
--   [Decide which browsers and OS to test](366.html#decide)
--   [Use a representative sample of users](366.html#use)
--   [Test end to end](366.html#test)
--   [Consider other kinds of testing](366.html#consider)
+-   [Decide which browsers and OS to test](performance_testing.md#decide)
+-   [Use a representative sample of users](performance_testing.md#use)
+-   [Test end to end](performance_testing.md#test)
+-   [Consider other kinds of testing](performance_testing.md#consider)
 
 ### Decide which browsers and OS to test
 
 While it is not practical to test your website or service against all possible configurations of browser, device and operating system (OS), you should test against the most common combinations.
 
-For existing services that are being improved, identifying the browsers, devices and OSs you should test is usually as easy as looking at your website analytics. Most [analytics tools](381.html) allow you to see which browsers, devices and operating systems being used to access your site. If you have built your service with web standards in mind, it will give it the best possible chance of working across all devices.
+For existing services that are being improved, identifying the browsers, devices and OSs you should test is usually as easy as looking at your website analytics. Most [analytics tools](analytics_tools.md) allow you to see which browsers, devices and operating systems being used to access your site. If you have built your service with web standards in mind, it will give it the best possible chance of working across all devices.
 
 For new services (and for verification of existing service analytics), you should check broader usage statistics through services such as [Market Share Statistics for Internet Technologies](http://marketshare.hitslink.com/) and [StatCounter Global Stats](http://gs.statcounter.com/).
 
-[Top](366.html#)
+[Top](performance_testing.md#)
 
 ### Sample model for browser and OS support
 
@@ -139,7 +139,7 @@ You might also decide to support the latest stable version of each browser plus 
 
 Whatever combinations you decide, you should publish the fully supported browsers on your website.
 
-[Top](366.html#)
+[Top](performance_testing.md#)
 
 ### Use a representative sample of users
 
@@ -187,16 +187,16 @@ Qualitative research techniques, such as surveys and analysis of website statist
 
 *This content has been adapted from the UK Government Digital Service Design Manual guides on:*
 
--   *[An introduction to user research techniques](https://www.gov.uk/service-manual/user-centred-design/user-research/index.html)*
+-   *[An introduction to user research techniques](https://www.gov.uk/service-manual/user-centred-design/user-research/digital_service_standard.md)*
 -   *​[Exploratory testing](https://www.gov.uk/service-manual/making-software/exploratory-testing.html)*
--   *​[Load and performance testing](https://www.gov.uk/service-manual/operations/load-and-performance-testing.html)*
+-   *​[Load and performance testing](https://www.gov.uk/service-manual/operations/load-and-performance_testing.md)*
 -   *[Testing code](https://www.gov.uk/service-manual/making-software/code-testing.html)*
--   *[Testing in an agile environment](https://www.gov.uk/service-manual/making-software/testing-in-agile.html)*
+-   *[Testing in an agile environment](https://www.gov.uk/service-manual/making-software/testing-in-agile.md)*
 -   *[Vulnerability and penetration testing](https://www.gov.uk/service-manual/operations/penetration-testing.html)*
 
 *[​​](https://www.gov.uk/service-manual/operations/penetration-testing.html)under the [Open Government Licence v2.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2).*
 
 **Last updated: **26 March 2015 ** |**  [Provide feedback on this page](../feedback%3Furl_from=Performance%2520testing.html)
 
-[Top](366.html#)
+[Top](performance_testing.md#)
 

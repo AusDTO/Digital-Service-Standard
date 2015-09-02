@@ -1,9 +1,9 @@
 Glossary
 ========
 
-This glossary will grow as guidance evolves. If you have found a term that needs to be defined here [let us know](../feedback%3Furl_from=Glossary.html).
+This glossary will grow as guidance evolves. If you have found a term that needs to be defined here [let us know](../feedback%3Furl_from=glossary.md).
 
-[A  -  F](891.html#a) | [G  -  L](891.html#g) | [M  -  R](891.html#m) | [S  -  Z](891.html#s)
+[A  -  F](glossary.md#a) | [G  -  L](glossary.md#g) | [M  -  R](glossary.md#m) | [S  -  Z](glossary.md#s)
 ---------------------------------------------------------------------------------------------
 
 Term
@@ -70,7 +70,7 @@ Indicates a course of action that is not recommended
 
 A **transaction** is a single exchange carried out between an individual or business and government to achieve an outcome. For example, registering to vote or applying for a passport.
 
-[Back to top](891.html#)
+[Back to top](glossary.md#)
 
-**Last updated:** 23 July 2015 ** |**  [Provide feedback on this page](../feedback%3Furl_from=Glossary.html)
+**Last updated:** 23 July 2015 ** |**  [Provide feedback on this page](../feedback%3Furl_from=glossary.md)
 

@@ -11,16 +11,16 @@ Improving the way that you produce and procure digital services is more about cu
 How do I?
 ---------
 
--   [Know what you need](876.html#need)
--   [Know what you may need to change](876.html#needtochange)
--   [Break down barriers to technology change](876.html#barriers)
--   [Encourage an environment that supports change](876.html#encourage)
+-   [Know what you need](creating_cultural_change.md#need)
+-   [Know what you may need to change](creating_cultural_change.md#needtochange)
+-   [Break down barriers to technology change](creating_cultural_change.md#barriers)
+-   [Encourage an environment that supports change](creating_cultural_change.md#encourage)
 
 ### Know what you need
 
 To create digital services based on user needs, not on organisational structures and processes, you need:
 
--   a [team](../team.html) that is knowledgeable about existing and emerging technology options
+-   a [team](../the_team.md) that is knowledgeable about existing and emerging technology options
 -   a governance and management structure that is an enabler, not a bottleneck or barrier to change
 -   flexible commercial models that meet your needs
 -   a diverse, competitive market from which to choose your suppliers or products
@@ -45,7 +45,7 @@ It may sometimes be necessary and more cost-effective to write-off previous fina
 
 If you’re in this position, it’s also likely that the architecture and hosting of your existing sites may need to be reviewed.
 
-[Top](876.html#)
+[Top](creating_cultural_change.md#)
 
 ### Break down barriers to change
 

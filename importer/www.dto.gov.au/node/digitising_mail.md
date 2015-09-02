@@ -31,7 +31,7 @@ We will also be expanding digital mail for businesses through a new digital acco
 Related blogs
 -------------
 
-[The Digital Transformation Agenda in the 2015-16 Federal Budget](731.html)
+[The Digital Transformation Agenda in the 2015-16 Federal Budget](the_digital_transformation_agenda_in_the_2015_16_federal_budget.md)
 
 Comments (19)
 -------------
@@ -60,7 +60,7 @@ Maybe DTO should consider using the Australia Post MyPost solution? Australia Po
 
 -   [reply](https://www.dto.gov.au/comment/reply/741/171)
 
-James replied on Tue, 2015-05-19 18:06 [Permalink](../comment/206.html#comment-206)
+James replied on Tue, 2015-05-19 18:06 [Permalink](../comment/introducing_the_digital_transformation_office.md#comment-206)
 
 Comment: 
 
@@ -129,8 +129,8 @@ Pages
 
 -   -   1
     -   [2](../blog/digitising-mail%3Fpage=1.html "Go to page 2")
--   -   [« first](741.html "Go to first page")
-    -   [‹ previous](741.html "Go to previous page")
+-   -   [« first](digitising_mail.md "Go to first page")
+    -   [‹ previous](digitising_mail.md "Go to previous page")
 -   -   [next ›](../blog/digitising-mail%3Fpage=1.html "Go to next page")
     -   [last »](../blog/digitising-mail%3Fpage=1.html "Go to last page")
 

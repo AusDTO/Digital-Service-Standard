@@ -52,7 +52,7 @@ Online tools
 
 Card sorts can also be conducted online using tools such as [OptimalSort](https://www.optimalworkshop.com/optimalsort). This is a cheap and effective way of reaching a large sample of users without needing to bring them into a dedicated lab facility for the study.
 
-*This content has been adapted from the* [*UK Government Design Guide on Card sorting*](https://www.gov.uk/service-manual/user-centred-design/card-sorting.html) *under the* [*Open Government Licence v2.0*](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2)*.*
+*This content has been adapted from the* [*UK Government Design Guide on Card sorting*](https://www.gov.uk/service-manual/user-centred-design/card_sorting.md) *under the* [*Open Government Licence v2.0*](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2)*.*
 
 **Last updated:** 20 July 2015  |  [Provide feedback on this page](../feedback%3Furl_from=Userresearch-Cardsorting.html)
 

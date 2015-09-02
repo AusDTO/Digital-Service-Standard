@@ -6,7 +6,7 @@ Services built on a shared core
 Government as a platform means we:
 
 -   influence core common platforms and channels across government to improve consistency and efficiency
--   enable systems and data to have[](546.html)[application programing interface](546.html) (API), where possible, to support flexible design of systems and, in many cases, public access and re-use
+-   enable systems and data to have[](api.md)[application programing interface](api.md) (API), where possible, to support flexible design of systems and, in many cases, public access and re-use
 -   present our individual portfolios and agendas as one government, supporting a whole-of-government user experience.
 
 Why must I?

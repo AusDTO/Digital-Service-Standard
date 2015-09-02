@@ -72,16 +72,16 @@ What do you think? Do you recognise these behaviours in yourself or in the users
 Related blogs
 -------------
 
-[How do Australians really feel about digital government services?](1101.html)
+[How do Australians really feel about digital government services?](how_do_australians_really_feel_about_digital_government_services.md)
 
-[Your homepage is not your front door](1111.html)
+[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
 
-[Where are we heading: A future state for user experience](781.html)
+[Where are we heading: A future state for user experience](where_are_we_heading_a_future_state_for_user_experience.md)
 
 Comments (6)
 ------------
 
-peter richards replied on Fri, 2015-08-21 10:51 [Permalink](../comment/1821.html#comment-1821)
+peter richards replied on Fri, 2015-08-21 10:51 [Permalink](../comment/1user_pathways.md#comment-1821)
 
 Comment: 
 
@@ -89,7 +89,7 @@ This is all good stuff - understanding behaviours is fundamental to improving di
 
 -   [reply](https://www.dto.gov.au/comment/reply/1106/1821)
 
-![Vanessa Roarty's picture](../sites/g/files/net466/f/pictures/picture-1561-1439443165.jpg "Vanessa Roarty's picture") Vanessa Roarty replied on Fri, 2015-08-21 20:02 [Permalink](../comment/1836.html#comment-1836)
+![Vanessa Roarty's picture](../sites/g/files/net466/f/pictures/picture-1561-1439443165.jpg "Vanessa Roarty's picture") Vanessa Roarty replied on Fri, 2015-08-21 20:02 [Permalink](../comment/1high_level_design.md#comment-1836)
 
 Comment: 
 
@@ -97,7 +97,7 @@ Hi Peter, ... and agreed! I hope the DTO and other agencies can demonstrate the 
 
 -   [reply](https://www.dto.gov.au/comment/reply/1106/1836)
 
-Jason Guo replied on Fri, 2015-08-21 15:57 [Permalink](../comment/1826.html#comment-1826)
+Jason Guo replied on Fri, 2015-08-21 15:57 [Permalink](../comment/1workshops.md#comment-1826)
 
 Comment: 
 
@@ -105,7 +105,7 @@ That's a good sum up Vanessa. One of the many challenges I faced when managing l
 
 -   [reply](https://www.dto.gov.au/comment/reply/1106/1826)
 
-Ben Winkler replied on Mon, 2015-08-24 10:26 [Permalink](../comment/1866.html#comment-1866)
+Ben Winkler replied on Mon, 2015-08-24 10:26 [Permalink](../comment/1principles_of_digital_service_design.md#comment-1866)
 
 Comment: 
 
@@ -117,7 +117,7 @@ Or, will there be a central service/area/department that deals with the front-en
 
 -   [reply](https://www.dto.gov.au/comment/reply/1106/1866)
 
-vbrefaus replied on Mon, 2015-08-24 11:04 [Permalink](../comment/1881.html#comment-1881)
+vbrefaus replied on Mon, 2015-08-24 11:04 [Permalink](../comment/1measurement.md#comment-1881)
 
 Comment: 
 
@@ -127,7 +127,7 @@ None of the above is new, it is all good stuff.
 
 -   [reply](https://www.dto.gov.au/comment/reply/1106/1881)
 
-Jeremy Gregson replied on Mon, 2015-08-24 13:12 [Permalink](../comment/1886.html#comment-1886)
+Jeremy Gregson replied on Mon, 2015-08-24 13:12 [Permalink](../comment/1common_government_solutions.md#comment-1886)
 
 Comment: 
 

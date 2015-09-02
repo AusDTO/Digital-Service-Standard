@@ -13,28 +13,28 @@ In 2010, the Australian Government endorsed the [Web Content Accessibility Guide
 How do I?
 ---------
 
--   [Identify your users​](../../node/436.html#identify)
--   [Address accessibility of your services](../../node/436.html#address)
--   [Provide equitable access for CALD audiences](../../node/436.html#provide)
--   [Consider the needs of Indigenous audiences](../../node/436.html#communications)
+-   [Identify your users​](../../node/inclusive_services.md#identify)
+-   [Address accessibility of your services](../../node/inclusive_services.md#address)
+-   [Provide equitable access for CALD audiences](../../node/inclusive_services.md#provide)
+-   [Consider the needs of Indigenous audiences](../../node/inclusive_services.md#communications)
 
 ### Identify your users
 
 In 2012, [18.5% of Australians (4.2 million)](http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/3A5561E876CDAC73CA257C210011AB9B?opendocument) reported having disability. Of those people 88% (3.7 million) reported a specific limitation or restriction that meant they were limited in the core activities of self-care, mobility or communication, or restricted in schooling or employment. Disability increases with age and [Australia, like most developed countries, has an ageing population](http://www.abs.gov.au/AUSSTATS/abs@.nsf/Previousproducts/3222.0Media%20Release12006%20to%202101?opendocument&tabname=Summary&prodno=3222.0&issue=2006%20to%202101&num=&view=).
 
-We also know that [27% of Australia’s population were born overseas](http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/by%20Subject/1301.0~2012~Main%20Features~Country%20of%20birth~54), and another [2.5% identify as being of Aboriginal and/or Torres Strait Islander origin](http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/2076.0main+features1102011). This means that many of your users may not be proficient with written English. This is a good reason to use plain English when [writing digital content](../../node/396.html).
+We also know that [27% of Australia’s population were born overseas](http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/by%20Subject/1301.0~2012~Main%20Features~Country%20of%20birth~54), and another [2.5% identify as being of Aboriginal and/or Torres Strait Islander origin](http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/2076.0main+features1102011). This means that many of your users may not be proficient with written English. This is a good reason to use plain English when [writing digital content](../../node/online_writing.md).
 
-Guidance on [user research](../../node/481.html) will help you identify the abilities of your audience.
+Guidance on [user research](../../node/user_research.md) will help you identify the abilities of your audience.
 
 ### Address the accessibility of your services
 
-Guidance on [making content accessible](../../node/456.html) and [testing web accessibility](../../testing-web-accessibility.html) for websites, online services and mobile apps is available. For specific advice on preparing accessible websites and services for older people, see the W3C’s [Web Accessibility and Older People: Meeting the Needs of Ageing Web Users](http://www.w3.org/WAI/older-users/developing.html).
+Guidance on [making content accessible](../../node/making_content_accessible.md) and [testing web accessibility](../../testing_web_accessibility.md) for websites, online services and mobile apps is available. For specific advice on preparing accessible websites and services for older people, see the W3C’s [Web Accessibility and Older People: Meeting the Needs of Ageing Web Users](http://www.w3.org/WAI/older-users/developing.html).
 
 ### Provide equitable access for CALD audiences
 
 There are a range of actions that agencies can undertake to improve their online content for users from diverse backgrounds.
 
--   [Use plain English](../../node/396.html#writeplain)
+-   [Use plain English](../../node/online_writing.md#writeplain)
 -   Consider making information available online in other languages
 -   Consider text-to-speech options
 -   Use design elements that are universally understood and culturally appropriate
@@ -55,5 +55,5 @@ The Australian Government Department of Finance has prepared reports on [Media c
 
 **Last updated: **26 March 2015 ** |**  [Provide feedback on this page](../../feedback%3Furl_from=DesigningInclusiveServices.html)
 
-[Top](../../node/436.html#)
+[Top](../../node/inclusive_services.md#)
 

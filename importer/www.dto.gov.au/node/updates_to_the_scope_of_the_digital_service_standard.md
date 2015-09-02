@@ -12,7 +12,7 @@ Author: 
 
 Digital Service Standard Team
 
-The [Digital Service Standard](../standard/index.html) describes a consultative and iterative approach to addressing user needs for all Australian Government digital services.
+The [Digital Service Standard](../standard/digital_service_standard.md) describes a consultative and iterative approach to addressing user needs for all Australian Government digital services.
 
 We’re taking our own medicine and listening to the feedback on the Standard received via this website and through other research activities we’ve been doing with our users over the last few months. Over the coming weeks you’ll be seeing more changes to the Standard and its supporting material as we refine it to incorporate your input.
 
@@ -25,18 +25,18 @@ We’ve also stated that the Standard does not apply to state, territory or loca
 
 Based on your feedback, we hope to release the beta version of the Standard in July with additional better practice guidance to help you implement it.  
 
-Please [let us know](201.html) if you have any questions or suggestions, and [follow us on Twitter](https://twitter.com/ausdto) to find out when significant updates are made.
+Please [let us know](feedback_on_design_guidance.md) if you have any questions or suggestions, and [follow us on Twitter](https://twitter.com/ausdto) to find out when significant updates are made.
 
 [![Facebook logo](https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/facebook.png)](http://www.facebook.com/sharer.php?u=https%3A//www.dto.gov.au/blog/updates-scope-digital-service-standard&t=Updates%20to%20the%20Scope%20of%20the%20Digital%20Service%20Standard "Share on Facebook") [![Twitter logo](https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/twitter.png)](http://twitter.com/share?url=https%3A//www.dto.gov.au/blog/updates-scope-digital-service-standard&text=Updates%20to%20the%20Scope%20of%20the%20Digital%20Service%20Standard "Share this on Twitter") [![LinkedIn logo](https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/linkedin.png)](http://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.dto.gov.au/blog/updates-scope-digital-service-standard&title=Updates%20to%20the%20Scope%20of%20the%20Digital%20Service%20Standard&summary=The%20Digital%20Service%20Standard%20describes%20a%20consultative%20and%20iterative%20approach%20to%20addressing%20user%20needs%20for%20all%20Australian%20Government%20digital%20services.We%E2%80%99re%20taking%20our%20own%20medicine%20and%20listening%20to%20the%20feedback%20on%20the%20Standard%20received%20via%20this%20website%20and%20through%20other%20research%20activities%20we%E2%80%99ve%20been%20doing%20with%20our%20users%20over%20the%20last%20few%20months.%20Over%20the%20coming%20weeks%20you%E2%80%99ll%20be%20seeing%20more%20changes%20to%20the%20Standard%20and%20its%20supporting%20material%20as%20we%20refine%20it%20to%20incorporate%20your%20input.&source=Digital%20Transformation%20Office "Publish this post to LinkedIn") [![email logo](https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/email.png)](mailto:?subject=Updates%20to%20the%20Scope%20of%20the%20Digital%20Service%20Standard&body=https%3A//www.dto.gov.au/blog/updates-scope-digital-service-standard "Share via email")
 
 Related blogs
 -------------
 
-[Digital Community of Practice event – 4 September](1136.html)
+[Digital Community of Practice event – 4 September](digital_community_of_practice_event_4_september.md)
 
-[‘Showing the thing’ was our theme last week in the Standards team](1131.html)
+[‘Showing the thing’ was our theme last week in the Standards team](showing_the_thing_was_our_theme_last_week_in_the_standards_team.md)
 
-[Your homepage is not your front door](1111.html)
+[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
 
 Comments (2)
 ------------

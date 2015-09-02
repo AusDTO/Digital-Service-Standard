@@ -55,16 +55,16 @@ OneGov shows state agencies can work together to provide great seamless services
 Related blogs
 -------------
 
-[How do Australians really feel about digital government services?](1101.html)
+[How do Australians really feel about digital government services?](how_do_australians_really_feel_about_digital_government_services.md)
 
-[Getting inside your head: Analysing search behaviours](1106.html)
+[Getting inside your head: Analysing search behaviours](getting_inside_your_head_analysing_search_behaviours.md)
 
-[Your homepage is not your front door](1111.html)
+[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
 
 Comments (2)
 ------------
 
-Alun Probert replied on Fri, 2015-07-10 16:19 [Permalink](../comment/926.html#comment-926)
+Alun Probert replied on Fri, 2015-07-10 16:19 [Permalink](../comment/ethnographic_research.md#comment-926)
 
 Comment: 
 
@@ -73,7 +73,7 @@ Great work and a perfect example of the opportunity to rethink the legacy infras
 
 -   [reply](https://www.dto.gov.au/comment/reply/791/926)
 
-simonfj replied on Fri, 2015-07-17 12:48 [Permalink](../comment/1011.html#comment-1011)
+simonfj replied on Fri, 2015-07-17 12:48 [Permalink](../comment/caretaker_conventions.md#comment-1011)
 
 Comment: 
 

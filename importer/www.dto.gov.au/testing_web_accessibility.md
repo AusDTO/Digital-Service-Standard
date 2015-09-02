@@ -17,10 +17,10 @@ The Australian Government has also endorsed the [UN Convention on the Rights of 
 How do I?
 ---------
 
--   [Stocktake services](node/511.html#stocktake)
--   [Assess capability](node/511.html#assess)
--   [Agree audit methodology](node/511.html#agree)
--   [Prepare report](node/511.html#prepare)
+-   [Stocktake services](node/testing_web_accessibility.md#stocktake)
+-   [Assess capability](node/testing_web_accessibility.md#assess)
+-   [Agree audit methodology](node/testing_web_accessibility.md#agree)
+-   [Prepare report](node/testing_web_accessibility.md#prepare)
 
 ### Stocktake services
 
@@ -33,9 +33,9 @@ You should capture and detail:
 -   currency of content (date created, last modified)
 -   technologies used to deliver dynamic functionality, including third-party providers.
 
-You should also use [analytics tools](node/381.html) to understand web traffic; particularly page visits, user demographics, and viewing platforms.
+You should also use [analytics tools](node/analytics_tools.md) to understand web traffic; particularly page visits, user demographics, and viewing platforms.
 
-[Top](node/511.html#)
+[Top](node/testing_web_accessibility.md#)
 
 ### Assess capability
 
@@ -85,7 +85,7 @@ The W3C has developed the [Website Accessibility Conformance Evaluation Methodol
 4.  Audit the sample
 5.  Report the finding
 
-[Top](node/511.html#)
+[Top](node/testing_web_accessibility.md#)
 
 ### Prepare report
 
@@ -116,5 +116,5 @@ The report should also support the development and maintenance of an ongoing web
 
 **Last updated:** 26 March 2015   |  [Provide feedback on this page](feedback%3Furl_from=Testingwebaccessibility.html)
 
-[Top](node/511.html#)
+[Top](node/testing_web_accessibility.md#)
 

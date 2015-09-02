@@ -15,9 +15,9 @@ Integrating existing Australian Government statistical data can be a cost effect
 How do I?
 ---------
 
--   [Determine if Commonwealth arrangements apply](986.html#determine)
--   [Seek integration approval](986.html#seekintegration)
--   [Use best practice resources](986.html#bestpractice)
+-   [Determine if Commonwealth arrangements apply](statistical_data_integration.md#determine)
+-   [Seek integration approval](statistical_data_integration.md#seekintegration)
+-   [Use best practice resources](statistical_data_integration.md#bestpractice)
 
 ### Determine if Commonwealth arrangements apply
 

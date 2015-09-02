@@ -37,16 +37,16 @@ He and the team will achieve great things.
 Related blogs
 -------------
 
-[Recruitment campaign to find Australia's best tech talent](1151.html)
+[Recruitment campaign to find Australia's best tech talent](recruitment_campaign_to_find_australias_best_tech_talent.md)
 
-[Your homepage is not your front door](1111.html)
+[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
 
-[Open and secure](1096.html)
+[Open and secure](open_and_secure.md)
 
 Comments (2)
 ------------
 
-Mark Paterson replied on Mon, 2015-07-20 09:23 [Permalink](../comment/1036.html#comment-1036)
+Mark Paterson replied on Mon, 2015-07-20 09:23 [Permalink](../comment/files_list_harradine_report.md#comment-1036)
 
 Comment: 
 
@@ -54,7 +54,7 @@ Paul picks up some great early momentum David. Good job!
 
 -   [reply](https://www.dto.gov.au/comment/reply/846/1036)
 
-Virginia Ryan replied on Mon, 2015-07-20 22:24 [Permalink](../comment/1076.html#comment-1076)
+Virginia Ryan replied on Mon, 2015-07-20 22:24 [Permalink](../comment/agile.md#comment-1076)
 
 Comment: 
 

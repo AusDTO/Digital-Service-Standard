@@ -3,9 +3,9 @@ Professional research methods
 
 More advanced user research techniques
 
-Many [user research activities](481.html) can be carried out by your team without a lot of prior experience or equipment. But when you need to find out something more specific or complex you may want to consider one or more of these professional techniques.
+Many [user research activities](user_research.md) can be carried out by your team without a lot of prior experience or equipment. But when you need to find out something more specific or complex you may want to consider one or more of these professional techniques.
 
-Each technique will be more relevant to one or more [service design phases](971.html#phases), but may be used in the others.
+Each technique will be more relevant to one or more [service design phases](service_design_process.md#phases), but may be used in the others.
 
 1. Discover and Define
 ----------------------

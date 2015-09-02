@@ -12,7 +12,7 @@ In the meantime, consider the following guidelines:
 3.  Investigate cloud hosted options for your site. It is government policy to take a cloud first approach to new websites.
 4.  Explore other existing options within your agency as there may be arrangements you can leverage to avoid duplication of infrastructure or contracts.
 
-Agencies must continue to ensure that any new websites meet all mandatory requirements around [accessibility](456.html), [branding](551.html), [design](../user-centred-design.html), [common look and feel](521.html), [security](466.html) and hosting arrangements.
+Agencies must continue to ensure that any new websites meet all mandatory requirements around [accessibility](making_content_accessible.md), [branding](branding.md), [design](../user_centred_design.md), [common look and feel](common_website_elements.md), [security](secure_services.md) and hosting arrangements.
 
 **Last updated**: 21 July 2015  |  [Provide feedback on this page](../feedback%3Furl_from=SelectingCMS.html)
 

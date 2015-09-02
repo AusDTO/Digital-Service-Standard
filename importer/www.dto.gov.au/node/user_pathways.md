@@ -7,9 +7,9 @@ User pathways are a design tool used to visually document the logical step-by-st
 
 User pathways enable you to:
 
--   develop a common understanding with stakeholders of the current [user experience](481.html) and interaction points before designing the future solution
--   manage and map the change between current and future [user experience](481.html) from people, process and technology perspectives
--   uncover issues early in the [design process](971.html).
+-   develop a common understanding with stakeholders of the current [user experience](user_research.md) and interaction points before designing the future solution
+-   manage and map the change between current and future [user experience](user_research.md) from people, process and technology perspectives
+-   uncover issues early in the [design process](service_design_process.md).
 
 Purpose
 -------
@@ -33,11 +33,11 @@ Typically user pathways are documents as flow charts, with different swimlanes f
 Test draft with stakeholders
 ----------------------------
 
-Gather stakeholders in a [workshop](826.html)to test the initial current state pathway. Be prepared to make amendments to the pathway right up to the end of the workshop.
+Gather stakeholders in a [workshop](workshops.md)to test the initial current state pathway. Be prepared to make amendments to the pathway right up to the end of the workshop.
 
 Keep the process steps at a consistent level of detail. Try not to get side tracked documenting the low-level actions unless you’re aiming for a very detailed pathway. Remember the focus of a user pathway is the user!
 
-After confirming the current state pathway is an accurate representation of the [user experience](481.html) as it exist, refocus your stakeholders onto the future user experience. Step through the pathway and identify where changes need to be made.
+After confirming the current state pathway is an accurate representation of the [user experience](user_research.md) as it exist, refocus your stakeholders onto the future user experience. Step through the pathway and identify where changes need to be made.
 
 As a group, compare the current to the future process and categorise the changes into people, process, policy/law and technology to start to articulate what needs to happen to deliver the future user experience. As you progress, capture any issues or risks that stakeholders identify and revisit afterwards.
 

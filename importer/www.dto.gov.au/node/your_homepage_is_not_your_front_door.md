@@ -26,23 +26,23 @@ When you look at a search engine as the first step in the user journey, what als
 
 Steve Jobs is reported to have said ‘Design is not just what it looks like and feels like. Design is how it works’. Providing good service online is much more than a good looking website and we know there is much, much more to search engine optimisation than homepage metadata.
 
-If you want to improve how government web pages work, have practical experience and can help us flesh out best practices in search engine optimisation for government agencies, come along to one of our upcoming workshops. To receive an invitation, please register your interest in analytics and search when you join our DTO mailing list. You can also read and review (provide feedback in the comments section below) our Alpha guidance for government agencies [Search Engine Optimisation](../design-guides/guide/search-engine-optimisation.html).  
+If you want to improve how government web pages work, have practical experience and can help us flesh out best practices in search engine optimisation for government agencies, come along to one of our upcoming workshops. To receive an invitation, please register your interest in analytics and search when you join our DTO mailing list. You can also read and review (provide feedback in the comments section below) our Alpha guidance for government agencies [Search Engine Optimisation](../design-guides/guide/search_engine_optimisation.md).  
 
 [![Facebook logo](https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/facebook.png)](http://www.facebook.com/sharer.php?u=https%3A//www.dto.gov.au/blog/your-homepage-not-your-front-door&t=Your%20homepage%20is%20not%20your%20front%20door "Share on Facebook") [![Twitter logo](https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/twitter.png)](http://twitter.com/share?url=https%3A//www.dto.gov.au/blog/your-homepage-not-your-front-door&text=Your%20homepage%20is%20not%20your%20front%20door "Share this on Twitter") [![LinkedIn logo](https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/linkedin.png)](http://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.dto.gov.au/blog/your-homepage-not-your-front-door&title=Your%20homepage%20is%20not%20your%20front%20door&summary=We%20spend%20a%20lot%20of%20time%20and%20energy%20perfecting%20our%20homepages.%20The%20design%2C%20content%2C%20layout%20and%20usability%2C%20but%20how%20many%20of%20us%20check%20what%20we%20look%20like%20in%20the%20user%E2%80%99s%20first%20step%3F%26nbsp%3B%20Search%20for%20your%20most%20popular%20content%20and%20see%20what%20the%20user%20sees.%20Common%20user%20behaviour%20indicates%20users%20find%20websites%20through%20search%20not%20by%20typing%20in%20the%20correct%20URL%20for%20your%20website%20homepage.%20We%20recently%20did%20some%20guerrilla%20user%20testing%20and%20hit%20the%20streets%20to%20ask%20how%20people%20used%20online%26nbsp%3B%20government%20services%20to%20see%20how%20they%20find%20what%20they%E2%80%99re%20looking%20for.&source=Digital%20Transformation%20Office "Publish this post to LinkedIn") [![email logo](https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/email.png)](mailto:?subject=Your%20homepage%20is%20not%20your%20front%20door&body=https%3A//www.dto.gov.au/blog/your-homepage-not-your-front-door "Share via email")
 
 Related blogs
 -------------
 
-[Recruitment campaign to find Australia's best tech talent](1151.html)
+[Recruitment campaign to find Australia's best tech talent](recruitment_campaign_to_find_australias_best_tech_talent.md)
 
-[Digital Community of Practice event – 4 September](1136.html)
+[Digital Community of Practice event – 4 September](digital_community_of_practice_event_4_september.md)
 
-[‘Showing the thing’ was our theme last week in the Standards team](1131.html)
+[‘Showing the thing’ was our theme last week in the Standards team](showing_the_thing_was_our_theme_last_week_in_the_standards_team.md)
 
 Comments (3)
 ------------
 
-![lhowdin's picture](../sites/g/files/net466/f/pictures/picture-856-1439170647.jpg "lhowdin's picture") lhowdin replied on Wed, 2015-08-19 13:10 [Permalink](../comment/1776.html#comment-1776)
+![lhowdin's picture](../sites/g/files/net466/f/pictures/picture-856-1439170647.jpg "lhowdin's picture") lhowdin replied on Wed, 2015-08-19 13:10 [Permalink](../comment/1hacking_for_better_government_services.md#comment-1776)
 
 Comment: 
 
@@ -50,7 +50,7 @@ You might also be interested in [Meta tags that Google understands.](https://su
 
 -   [reply](https://www.dto.gov.au/comment/reply/1111/1776)
 
-Ben Winkler replied on Mon, 2015-08-24 11:03 [Permalink](../comment/1876.html#comment-1876)
+Ben Winkler replied on Mon, 2015-08-24 11:03 [Permalink](../comment/1creating_cultural_change.md#comment-1876)
 
 Comment: 
 
@@ -60,7 +60,7 @@ Having tried (and failed) to find out the exact cost of getting ACT rego on a ca
 
 -   [reply](https://www.dto.gov.au/comment/reply/1111/1876)
 
-![lhowdin's picture](../sites/g/files/net466/f/pictures/picture-856-1439170647.jpg "lhowdin's picture") lhowdin replied on Tue, 2015-08-25 10:45 [Permalink](../comment/1926.html#comment-1926)
+![lhowdin's picture](../sites/g/files/net466/f/pictures/picture-856-1439170647.jpg "lhowdin's picture") lhowdin replied on Tue, 2015-08-25 10:45 [Permalink](../comment/1ethnographic_research.md#comment-1926)
 
 Comment: 
 

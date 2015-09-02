@@ -17,11 +17,11 @@ Why must I?
 How do I?
 ---------
 
--   [Assign responsibilities](../../node/976.html#assignresponsibilities)
--   [Capture content](../../node/976.html#capture)
--   [Manage content for ongoing access](../../node/976.html#manage)
--   [Store content](../../node/976.html#store)
--   [Dispose of content when no longer needed](../../node/976.html#dispose)
+-   [Assign responsibilities](../../node/records_management.md#assignresponsibilities)
+-   [Capture content](../../node/records_management.md#capture)
+-   [Manage content for ongoing access](../../node/records_management.md#manage)
+-   [Store content](../../node/records_management.md#store)
+-   [Dispose of content when no longer needed](../../node/records_management.md#dispose)
 
 ### Assign responsibilities
 

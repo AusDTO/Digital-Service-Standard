@@ -20,9 +20,9 @@ We’ll be discussing:
 
 -   the vision for government service delivery
 
--   the[Digital Service Standard](../standard/index.html)
+-   the[Digital Service Standard](../standard/digital_service_standard.md)
 
--   the[Digital Service Design Guide](../design-guides.html)
+-   the[Digital Service Design Guide](../digital_service_design_guide.md)
 
 -   how services will meet the standard.
 
@@ -33,16 +33,16 @@ We are webcasting this event so come along and join us! You can[register through
 Related blogs
 -------------
 
-[‘Showing the thing’ was our theme last week in the Standards team](1131.html)
+[‘Showing the thing’ was our theme last week in the Standards team](showing_the_thing_was_our_theme_last_week_in_the_standards_team.md)
 
-[Your homepage is not your front door](1111.html)
+[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
 
-[The DTO now manage Government authentication frameworks](1091.html)
+[The DTO now manage Government authentication frameworks](the_dto_now_manage_government_authentication_frameworks.md)
 
 Comments (1)
 ------------
 
-Tom Worthington replied on Mon, 2015-08-31 09:50 [Permalink](../comment/1981.html#comment-1981)
+Tom Worthington replied on Mon, 2015-08-31 09:50 [Permalink](../comment/1team_recruitment.md#comment-1981)
 
 Comment: 
 

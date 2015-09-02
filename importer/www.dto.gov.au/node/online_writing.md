@@ -3,16 +3,16 @@ Online writing
 
 Style guide for digital content
 
-This guide provides advice on how to write content for users of services in [scope of the Digital Service Standard](856.html). It may also be helpful for internal communication channels, such as an intranet, however it is written with external service content in mind. 
+This guide provides advice on how to write content for users of services in [scope of the Digital Service Standard](scope_of_the_digital_service_standard.md). It may also be helpful for internal communication channels, such as an intranet, however it is written with external service content in mind. 
 
 Why must I?
 -----------
 
 Digital services need clear and easy-to-understand content to help people find and use the information they require. By writing in plain English and using consistent spelling, grammar, tone and structure we make services easier to use. Clear content also means it's easier for people to keep using digital services independently without having to phone government or visit us in person.
 
-While we recommend plain English as the default, this style is not going to work for every user. That’s why we suggest this rule of thumb: **make communication as simple as its users need**. One group of users may need similar information to another, but in much greater detail. In certain circumstances your [user research](481.html) may tell you that you need to write the same content twice: one version for a general audience and another for technical users.
+While we recommend plain English as the default, this style is not going to work for every user. That’s why we suggest this rule of thumb: **make communication as simple as its users need**. One group of users may need similar information to another, but in much greater detail. In certain circumstances your [user research](user_research.md) may tell you that you need to write the same content twice: one version for a general audience and another for technical users.
 
-The Australian Government is committed to [making its websites more accessible](456.html) through conformance with the World Wide Web Consortium’s (W3C) [Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/TR/WCAG20/) at AA level, and AAA level for certain websites.
+The Australian Government is committed to [making its websites more accessible](making_content_accessible.md) through conformance with the World Wide Web Consortium’s (W3C) [Web Content Accessibility Guidelines (WCAG) 2.0](http://www.w3.org/TR/WCAG20/) at AA level, and AAA level for certain websites.
 
 The standard style references for Australian Government are:
 
@@ -24,13 +24,13 @@ The standard style references for Australian Government are:
 How do I?
 ---------
 
--   [Structure content](396.html#structure)
--   [Use preferred terms](396.html#usepreferred)
--   [Write in plain English](396.html#writeplain)
--   [Use minimal punctuation](396.html#useminimal)
--   [Write numbers consistently](396.html#writenumbers)
--   [Link to other content](396.html#linkother)
--   [Proofread](396.html#proofread)
+-   [Structure content](online_writing.md#structure)
+-   [Use preferred terms](online_writing.md#usepreferred)
+-   [Write in plain English](online_writing.md#writeplain)
+-   [Use minimal punctuation](online_writing.md#useminimal)
+-   [Write numbers consistently](online_writing.md#writenumbers)
+-   [Link to other content](online_writing.md#linkother)
+-   [Proofread](online_writing.md#proofread)
 
 ### Structure content
 
@@ -86,10 +86,10 @@ Use bullet lists by default. You should only use numbers or letters when it is n
 
 There are 4 types of lists
 
--   [Sentence fragments](396.html#sentence)
--   [Full sentences](396.html#fullsentences)
--   [Stand-alone items](396.html#standalone)
--   [Nested lists](396.html#nested)
+-   [Sentence fragments](online_writing.md#sentence)
+-   [Full sentences](online_writing.md#fullsentences)
+-   [Stand-alone items](online_writing.md#standalone)
+-   [Nested lists](online_writing.md#nested)
 
 ##### Sentence fragments
 
@@ -165,7 +165,7 @@ For nested lists use a lower-case first letter to start each item. There is no p
 
 Don’t use a colon at the end of an item leading into a sub-list (if the list returned to a running sentence there would be no temptation to do this as it would look incorrect).
 
-[Top](396.html#)
+[Top](online_writing.md#)
 
 ### Use preferred terms
 
@@ -184,14 +184,14 @@ Don’t use a colon at the end of an item leading into a sub-list (if the list r
 <tbody>
 <tr class="odd">
 <td align="left"><p>Australian Government</p>
-<p>Federal Government, or Commonwealth Government (<a href="551.html#refercorrectly">unless referring to the entity established by the Constitution</a>)</p></td>
+<p>Federal Government, or Commonwealth Government (<a href="branding.md#refercorrectly">unless referring to the entity established by the Constitution</a>)</p></td>
 <td align="left">state and territory, and local governments
 State and Territory and Local Governments</td>
 </tr>
 </tbody>
 </table>
 
-[Top](396.html#)
+[Top](online_writing.md#)
 
 ### Write in plain English
 
@@ -309,7 +309,7 @@ Things to consider when writing content for CALD audiences:
 -   perceptions of social and support concepts
 -   differences in socioeconomic background.
 
-There is more information on writing for CALD audiences in the [designing inclusive services](436.html) guide.
+There is more information on writing for CALD audiences in the [designing inclusive services](inclusive_services.md) guide.
 
 ##### Indigenous Australian audiences
 
@@ -325,9 +325,9 @@ Use correct terminology
 -   Don’t use ‘Australian Aborigine’ or the acronym ‘ATSI’
 -   ‘Indigenous’ is the preferred term when referring to a business entity or business function, for example Indigenous Specialist Officer, Indigenous Services Branch
 
-There is more information on writing for Indigenous Australian audiences in [designing inclusive services](436.html).
+There is more information on writing for Indigenous Australian audiences in [designing inclusive services](inclusive_services.md).
 
-[Top](396.html#)
+[Top](online_writing.md#)
 
 ### Use minimal punctuation
 
@@ -372,7 +372,7 @@ The following words are often incorrectly punctuated.
 
 See also the [UK Plain English Campaign’s guide to using apostrophes](http://www.plainenglish.co.uk/using-apostrophes.html).
 
-[Top](396.html#)
+[Top](online_writing.md#)
 
 ##### Possession
 
@@ -414,7 +414,7 @@ When 2 adjacent words are contracted into 1 you use an apostrophe to show that l
 
 Avoid using should’ve, could’ve, would’ve, and so forth. as these contractions are difficult to read.
 
-[Top](396.html#)
+[Top](online_writing.md#)
 
 ### Write numbers consistently
 
@@ -490,5 +490,5 @@ In particular, check:
 
 **Last updated:** 7 May 2015 ** |**  [Provide feedback on this page](../feedback%3Furl_from=WritingDigitalContent.html)
 
-[Top](396.html#)
+[Top](online_writing.md#)
 

@@ -12,7 +12,7 @@ Author: 
 
 The User Research Team
 
-The first design principle of the [Digital Service Standard](../standard/index.html) is “users first”. To support this we are working to better understand what users really need, expect, prefer and actually experience when interacting with government.
+The first design principle of the [Digital Service Standard](../standard/digital_service_standard.md) is “users first”. To support this we are working to better understand what users really need, expect, prefer and actually experience when interacting with government.
 
 There is no whole of government approach to understanding users. We are going to change that. Today there is a mountain of agency specific research but these results are often not shared and don’t take a whole of government view. The DTO has been collecting this research, analysing it and identifying key insights about user needs to share with the people designing and delivering government services.
 
@@ -47,11 +47,11 @@ Also, a question for agencies. What’s been your experience with user research?
 Related blogs
 -------------
 
-[Digital Community of Practice event – 4 September](1136.html)
+[Digital Community of Practice event – 4 September](digital_community_of_practice_event_4_september.md)
 
-[‘Showing the thing’ was our theme last week in the Standards team](1131.html)
+[‘Showing the thing’ was our theme last week in the Standards team](showing_the_thing_was_our_theme_last_week_in_the_standards_team.md)
 
-[How do Australians really feel about digital government services?](1101.html)
+[How do Australians really feel about digital government services?](how_do_australians_really_feel_about_digital_government_services.md)
 
 Comments (21)
 -------------
@@ -86,7 +86,7 @@ User self service is just pushing the task and responsibility on the user and aw
 
 -   [reply](https://www.dto.gov.au/comment/reply/736/131)
 
-pauls replied on Mon, 2015-05-18 12:44 [Permalink](../comment/141.html#comment-141)
+pauls replied on Mon, 2015-05-18 12:44 [Permalink](../comment/engage.md#comment-141)
 
 Comment: 
 
@@ -116,7 +116,7 @@ The one time cost of moving to a digital solution is going to be a significantly
 
 -   [reply](https://www.dto.gov.au/comment/reply/736/151)
 
-simonfj replied on Sun, 2015-06-21 13:56 [Permalink](../comment/501.html#comment-501)
+simonfj replied on Sun, 2015-06-21 13:56 [Permalink](../comment/government_as_a_platform.md#comment-501)
 
 Comment: 
 
@@ -218,8 +218,8 @@ Pages
 -   -   1
     -   [2](../blog/putting-user-centre-everything%3Fpage=1.html "Go to page 2")
     -   [3](../blog/putting-user-centre-everything%3Fpage=2.html "Go to page 3")
--   -   [« first](736.html "Go to first page")
-    -   [‹ previous](736.html "Go to previous page")
+-   -   [« first](putting_the_user_at_the_centre_of_everything.md "Go to first page")
+    -   [‹ previous](putting_the_user_at_the_centre_of_everything.md "Go to previous page")
 -   -   [next ›](../blog/putting-user-centre-everything%3Fpage=1.html "Go to next page")
     -   [last »](../blog/putting-user-centre-everything%3Fpage=2.html "Go to last page")
 

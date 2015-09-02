@@ -29,11 +29,11 @@ More details coming soon.
 Related blogs
 -------------
 
-[Your homepage is not your front door](1111.html)
+[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
 
-[Updates to the Scope of the Digital Service Standard](756.html)
+[Updates to the Scope of the Digital Service Standard](updates_to_the_scope_of_the_digital_service_standard.md)
 
-[The Digital Transformation Agenda in the 2015-16 Federal Budget](731.html)
+[The Digital Transformation Agenda in the 2015-16 Federal Budget](the_digital_transformation_agenda_in_the_2015_16_federal_budget.md)
 
 Comments (30)
 -------------
@@ -54,7 +54,7 @@ Around 1999-2000 I worked with an international consortium of banks from UK, Eur
 
 -   [reply](https://www.dto.gov.au/comment/reply/1056/1296)
 
-![Shannon Peterson's picture](../sites/g/files/net466/f/pictures/picture-1516-1439372098.jpg "Shannon Peterson's picture") Shannon Peterson replied on Thu, 2015-08-20 17:04 [Permalink](../comment/1796.html#comment-1796)
+![Shannon Peterson's picture](../sites/g/files/net466/f/pictures/picture-1516-1439372098.jpg "Shannon Peterson's picture") Shannon Peterson replied on Thu, 2015-08-20 17:04 [Permalink](../comment/1introducing_our_new_ceo_fresh_from_the_uks_government_digital_service_gds.md#comment-1796)
 
 Comment: 
 
@@ -129,7 +129,7 @@ As you say there are a lot of conversations in the identity space backed up by 
 
 Of particular interest to us here in the DTO are the UK IDA Program (the Government Digital Service ID Assurance Blog <https://identityassurance.blog.gov.uk/> contains valuable information about the UK.Gov Verify program) and the US National Strategy for Trusted identities in Cyberspace (<http://www.nist.gov/nstic/>) as both initiatives rely on the involvement of private sector identity service providers working in what amounts to a federated identity system.
 
-The focus in the DTO is the user.  This focus is central to the Digital Service Standard and associated Design Guide (check out [https://www.dto.gov.au/blog/it-s-here-digital-service-design-guides-have-arrived-alpha](1066.html))
+The focus in the DTO is the user.  This focus is central to the Digital Service Standard and associated Design Guide (check out [https://www.dto.gov.au/blog/it-s-here-digital-service-design-guides-have-arrived-alpha](its_here_the_digital_service_design_guides_have_arrived_in_alpha.md))
 
 In this regard the essence of the trust framework will be to provide people with a choice of how and with whom to establish their identity and to give them the ability to reuse that identity across government.  So its not a question of which organisation issues a credential - that is the choice of the individual.
 
@@ -139,7 +139,7 @@ Shannon
 
 -   [reply](https://www.dto.gov.au/comment/reply/1056/1806)
 
-simonfj replied on Sun, 2015-08-23 08:36 [Permalink](../comment/1856.html#comment-1856)
+simonfj replied on Sun, 2015-08-23 08:36 [Permalink](../comment/1scope_of_the_digital_service_standard.md#comment-1856)
 
 Comment: 
 
@@ -193,8 +193,8 @@ Pages
 -   -   1
     -   [2](../blog/talking-digital-id%3Fpage=1.html "Go to page 2")
     -   [3](../blog/talking-digital-id%3Fpage=2.html "Go to page 3")
--   -   [« first](1056.html "Go to first page")
-    -   [‹ previous](1056.html "Go to previous page")
+-   -   [« first](talking_digital_id.md "Go to first page")
+    -   [‹ previous](talking_digital_id.md "Go to previous page")
 -   -   [next ›](../blog/talking-digital-id%3Fpage=1.html "Go to next page")
     -   [last »](../blog/talking-digital-id%3Fpage=2.html "Go to last page")
 

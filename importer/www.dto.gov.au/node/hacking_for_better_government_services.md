@@ -31,11 +31,11 @@ For more information on GovHack, see the [GovHack website](https://www.govhack.o
 Related blogs
 -------------
 
-[Recruitment campaign to find Australia's best tech talent](1151.html)
+[Recruitment campaign to find Australia's best tech talent](recruitment_campaign_to_find_australias_best_tech_talent.md)
 
-[Getting inside your head: Analysing search behaviours](1106.html)
+[Getting inside your head: Analysing search behaviours](getting_inside_your_head_analysing_search_behaviours.md)
 
-[Your homepage is not your front door](1111.html)
+[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
 
 Add new comment
 ---------------

@@ -27,11 +27,11 @@ If you’d like a copy of these documents or service provider status in the inte
 Related blogs
 -------------
 
-[Recruitment campaign to find Australia's best tech talent](1151.html)
+[Recruitment campaign to find Australia's best tech talent](recruitment_campaign_to_find_australias_best_tech_talent.md)
 
-[Digital Community of Practice event – 4 September](1136.html)
+[Digital Community of Practice event – 4 September](digital_community_of_practice_event_4_september.md)
 
-[‘Showing the thing’ was our theme last week in the Standards team](1131.html)
+[‘Showing the thing’ was our theme last week in the Standards team](showing_the_thing_was_our_theme_last_week_in_the_standards_team.md)
 
 Comments (5)
 ------------
@@ -69,7 +69,7 @@ There is a need to demonstrate that such frameworks work. There are several Gove
 
 -   [reply](https://www.dto.gov.au/comment/reply/1091/1746)
 
-simonfj replied on Wed, 2015-08-19 09:31 [Permalink](../comment/1761.html#comment-1761)
+simonfj replied on Wed, 2015-08-19 09:31 [Permalink](../comment/1transforming_government_information.md#comment-1761)
 
 Comment: 
 
@@ -87,7 +87,7 @@ This might help us get past this insanity that every level of a Nation's governm
 
 -   [reply](https://www.dto.gov.au/comment/reply/1091/1761)
 
-Ambarish Natu replied on Fri, 2015-08-21 08:32 [Permalink](../comment/1811.html#comment-1811)
+Ambarish Natu replied on Fri, 2015-08-21 08:32 [Permalink](../comment/1personas.md#comment-1811)
 
 Comment: 
 

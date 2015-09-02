@@ -15,10 +15,10 @@ Under the [gov.au Policy and governance framework](http://www.domainname.gov.au/
 How do I?
 ---------
 
--   [Determine if a gov.au domain name should be used](../../node/441.html#determine)
--   [Choose a domain name](../../node/441.html#choose)
--   [Manage your domain name](../../node/441.html#manage)
--   [Retire unused domain names](../../node/441.html#retire)
+-   [Determine if a gov.au domain name should be used](../../node/domain_names.md#determine)
+-   [Choose a domain name](../../node/domain_names.md#choose)
+-   [Manage your domain name](../../node/domain_names.md#manage)
+-   [Retire unused domain names](../../node/domain_names.md#retire)
 
 ### Determine if a gov.au domain name should be used
 

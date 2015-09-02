@@ -5,7 +5,7 @@ Prioritising user needs
 
 User stories are an essential part of the agile toolkit. They’re a way of organising user requirements into manageable chunks that create tangible value, and can be discussed and prioritised independently.
 
-We used user stories to develop the [alpha Digital Service Standard](../../standard/index.html).
+We used user stories to develop the [alpha Digital Service Standard](../../standard/digital_service_standard.md).
 
 A user story is a brief statement that explains:
 
@@ -22,9 +22,9 @@ Research
 
 Stories can come from many places, but the most common sources are:
 
--   Story writing workshops: usually at the start of a project, [the team](../../team.html) will get together to develop [personas](../../node/811.html), [user pathways](../../node/821.html), [scenarios](../../node/831.html) and [user stories](../../node/816.html).
--   [Interviews](../../node/931.html) with real users: ideally, you will set up a user panel which [the team](../../team.html) have ongoing access to.
--   User representatives in your [team](../../team.html): this may include the delivery manager or service / product owner.
+-   Story writing workshops: usually at the start of a project, [the team](../../the_team.md) will get together to develop [personas](../../node/personas.md), [user pathways](../../node/user_pathways.md), [scenarios](../../node/scenarios.md) and [user stories](../../node/user_stories.md).
+-   [Interviews](../../node/interviews.md) with real users: ideally, you will set up a user panel which [the team](../../the_team.md) have ongoing access to.
+-   User representatives in your [team](../../the_team.md): this may include the delivery manager or service / product owner.
 -   Observation: watching real users of your service.
 
 Create
@@ -64,7 +64,7 @@ Categorise your user stories based on their:
 
 You should keep your user stories visible and accessible to the team to continually remind you about ‘what users want’. A good way to do this is via a physical Kanban or Scrum board in a high traffic area.
 
-*This content has been adapted from the [UK Government Digital Service Design Manual guide on Writing user stories](https://www.gov.uk/service-manual/agile/writing-user-stories.html) under the [Open Government Licence 2.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2).*
+*This content has been adapted from the [UK Government Digital Service Design Manual guide on Writing user stories](https://www.gov.uk/service-manual/agile/writing-user_stories.md) under the [Open Government Licence 2.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2).*
 
 **Last updated:** 20 July 2015  |  [Provide feedback on this page](../../feedback%3Furl_from=Userresearch-Userstories.html)
 

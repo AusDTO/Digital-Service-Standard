@@ -3,11 +3,11 @@ Agile
 
 Iterative and user-centred design and development
 
-Agile development is about iterating quickly to deliver value to your users. In contrast to traditional development methodologies like [waterfall](https://en.wikipedia.org/wiki/Waterfall_model), agile development requires [continuous delivery](../../node/1076.html#continuousdelivery), improvement and feedback from users. The benefit is that teams can quickly adapt and align services with [user needs](../../node/1076.html#userstories) in rapidly changing environments.
+Agile development is about iterating quickly to deliver value to your users. In contrast to traditional development methodologies like [waterfall](https://en.wikipedia.org/wiki/Waterfall_model), agile development requires [continuous delivery](../../node/agile.md#continuousdelivery), improvement and feedback from users. The benefit is that teams can quickly adapt and align services with [user needs](../../node/agile.md#userstories) in rapidly changing environments.
 
 Agile practices don’t guarantee success: you can still fail, but failure should be treated as an opportunity to learn. The ideas of learning by doing, failing fast, and adapting and adjusting to changes are all core agile practices. The agile team should create and promote a culture that experiments and learns from failure. Don’t be afraid to assess, adjust and experiment with new ideas.
 
-There are many agile tools, processes and methodologies, such as [scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) or [kanban](https://en.wikipedia.org/wiki/Kanban_(development)). But working in an agile way does not mean just using a certain tool. Agile is a [principle-based approach](http://agilemanifesto.org/principles.html) that requires a change in mindset with regard to how the project vision is created, right down to the way the team [prioritises work](../../node/1076.html#prioritising) and runs [daily meetings](../../node/1076.html#dailystandups).
+There are many agile tools, processes and methodologies, such as [scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) or [kanban](https://en.wikipedia.org/wiki/Kanban_(development)). But working in an agile way does not mean just using a certain tool. Agile is a [principle-based approach](http://agilemanifesto.org/principles.html) that requires a change in mindset with regard to how the project vision is created, right down to the way the team [prioritises work](../../node/agile.md#prioritising) and runs [daily meetings](../../node/agile.md#dailystandups).
 
 Don’t be too intimidated by agile: it’s about bringing together your existing people (business owners, designers and technical developers) to work together in a different way. Pick something small and manageable to begin with, [follow the principles](http://agilemanifesto.org/principles.html), empower the team to solve problems during sprints, and ensure valuable releases through excellent quality assurance. There are plenty of great articles (for example [why mixing development methodologies can be a bad idea](https://gds.blog.gov.uk/2015/07/10/you-cant-be-half-agile/)) available and places to ask questions online. 
 
@@ -18,22 +18,22 @@ We are working on making agile easier for agencies to use for service design. Yo
 Why must I?
 -----------
 
-An agile approach is essential to producing high-quality services that both meet user needs and are of value to the user. Working agile helps [the team](../../team.html) to adapt quickly to user feedback, accurately estimate its speed and output, and encourages a culture that fails and recovers fast. That is, experimenting often and learning quickly from failures.
+An agile approach is essential to producing high-quality services that both meet user needs and are of value to the user. Working agile helps [the team](../../the_team.md) to adapt quickly to user feedback, accurately estimate its speed and output, and encourages a culture that fails and recovers fast. That is, experimenting often and learning quickly from failures.
 
 How do I?
 ---------
 
--   [User stories](../../node/1076.html#userstories)
--   [Roadmap](../../node/1076.html#roadmap)
--   [Agile teams](../../node/1076.html#agileteams)
--   [Sprints](../../node/1076.html#sprints)
--   [Backlog](../../node/1076.html#backlog)
--   [Continuous delivery](../../node/1076.html#continuousdelivery)
--   [Agile meetings](../../node/1076.html#agilemeetings)
+-   [User stories](../../node/agile.md#userstories)
+-   [Roadmap](../../node/agile.md#roadmap)
+-   [Agile teams](../../node/agile.md#agileteams)
+-   [Sprints](../../node/agile.md#sprints)
+-   [Backlog](../../node/agile.md#backlog)
+-   [Continuous delivery](../../node/agile.md#continuousdelivery)
+-   [Agile meetings](../../node/agile.md#agilemeetings)
 
 ### User stories
 
-User stories are a way to understand and capture your user needs. They are a fundamental [user research tool](../../node/816.html) for identifying stakeholders and context.
+User stories are a way to understand and capture your user needs. They are a fundamental [user research tool](../../node/user_stories.md) for identifying stakeholders and context.
 
 A user story is generally only a few sentences on a role, a need/feature and why:
 
@@ -47,7 +47,7 @@ Examples:
 -   “As a tax agent, I want to see my client’s details online so that I can help them meet their obligations.”
 -   “As a tax officer, I want to know that the taxpayer has entered correct information so that I can correctly assess their tax return.”
 
-Once you have a collection of user stories that fit into the services’ overall objective you can use them to prioritise the team’s work into [sprints](../../node/1076.html#sprints).
+Once you have a collection of user stories that fit into the services’ overall objective you can use them to prioritise the team’s work into [sprints](../../node/agile.md#sprints).
 
 ### Roadmap
 
@@ -71,7 +71,7 @@ A fully functioning agile team is comprised of 3 kinds of roles:
 
 Your team members should share knowledge and build partnerships based on openness, transparency, trust and mutual respect. They should be permitted to continuously improve, innovate and make mistakes but quickly learn from them!
 
-If the team is new to agile (here’s [4 warning signs that a team is not agile](http://www.cio.com/article/2920900/agile-development/4-warning-signs-that-your-team-is-not-agile.htmlhttp:/www.cio.com/article/2920900/agile-development/4-warning-signs-that-your-team-is-not-agile.html)) you may need to work on [creating cultural change](../../node/876.html).
+If the team is new to agile (here’s [4 warning signs that a team is not agile](http://www.cio.com/article/2920900/agile-development/4-warning-signs-that-your-team-is-not-agile.mdhttp:/www.cio.com/article/2920900/agile-development/4-warning-signs-that-your-team-is-not-agile.md)) you may need to work on [creating cultural change](../../node/creating_cultural_change.md).
 
 ### Sprints
 
@@ -81,23 +81,23 @@ Sprints are generally used in work with key delivery timelines for releases. Oth
 
 Each sprint has several iterations and a release plan. Generally, the team will use user stories to prioritise the backlog of tasks that will be carried out by each member in each sprint. The work must be made ready for assessment by the product owner against established success criteria. Each sprint should be of equal length, typically 2 weeks, however you can use longer or shorter sprints in your project in agreement with your sprint goals.
 
-The process usually starts with a [sprint planning](../../node/1076.html#sprintplanning) event, in order to:
+The process usually starts with a [sprint planning](../../node/agile.md#sprintplanning) event, in order to:
 
 -   get the development and working environments set up
 -   agree to some of the design principles (such as, architecture, technical, product, interaction, content)
--   prepare the product [backlog](../../node/1076.html#backlog) (the workload) for the first sprint.
+-   prepare the product [backlog](../../node/agile.md#backlog) (the workload) for the first sprint.
 
 ### Backlog
 
-Each [sprint](../../node/1076.html#sprints) or unit of work draws on a backlog of prioritised user stories. A well maintained backlog supports an iterative development cycle by enabling the team to track progress at regular intervals, reflecting on what’s been learned and adjusting for future sprints.
+Each [sprint](../../node/agile.md#sprints) or unit of work draws on a backlog of prioritised user stories. A well maintained backlog supports an iterative development cycle by enabling the team to track progress at regular intervals, reflecting on what’s been learned and adjusting for future sprints.
 
 #### Prioritising
 
-Create a list of all the work items arising from [user stories](../../node/816.html) that need to be done to achieve the [roadmap](../../node/1076.html#roadmap) vision. This includes features, bugs, design tasks, technical tasks, administration tasks and research activities, but should be organised into simple user stories as much as possible.
+Create a list of all the work items arising from [user stories](../../node/user_stories.md) that need to be done to achieve the [roadmap](../../node/agile.md#roadmap) vision. This includes features, bugs, design tasks, technical tasks, administration tasks and research activities, but should be organised into simple user stories as much as possible.
 
 Consider how you might do a small portion of tasks that could be validated with users, even if it is just a small part of the overall interaction. Focus on a single feature at a time. It can be tempting for team members to individually pursue a variety of different directions, but that makes it difficult to produce a cohesive product or service. Working together means that at the end of the effort, there is not only something to share with the project owner but also something concrete to test with users.
 
-Anything that isn’t feasible for the team to work on should be kept in a separate place, where it can be returned to at the next [sprint planning](../../node/1076.html#sprintplanning) session. Some agile approaches refer to this list as the ‘icebox’.
+Anything that isn’t feasible for the team to work on should be kept in a separate place, where it can be returned to at the next [sprint planning](../../node/agile.md#sprintplanning) session. Some agile approaches refer to this list as the ‘icebox’.
 
 #### Backlog grooming
 
@@ -111,9 +111,9 @@ User stories and supporting tasks, such as bugs, should be added to the backlog 
 
 Continuous delivery is an important agile concept. Whether you are a using a sprint-based methodology like scrum to deliver software through alpha, beta and live phases; or using kanban to manage the day-to-day workload of a service desk, you will still be progressing through continuous cycles of planning, testing and release.
 
-As you follow the [service design process](../../node/971.html), particularly from the Create and Iterate phase onwards, the team will be regularly alternating between development work and verifying that work with users. Each sprint, or unit of work, will produce a product and deployable code that can be tested with users. The next iteration will build on the previous one getting you closer to the vision outlined in the [roadmap](../../node/1076.html#roadmap).
+As you follow the [service design process](../../node/service_design_process.md), particularly from the Create and Iterate phase onwards, the team will be regularly alternating between development work and verifying that work with users. Each sprint, or unit of work, will produce a product and deployable code that can be tested with users. The next iteration will build on the previous one getting you closer to the vision outlined in the [roadmap](../../node/agile.md#roadmap).
 
-You should accelerate the feedback cycle: the smaller the feedback cycle (in days or weeks at most), the sooner you can act and readjust your course. The process begins with the agreement of acceptance criteria standards for each [user story](../../node/1076.html#userstories). You can either do this when you first write your user stories or later in the form of acceptance tests when you start development work.
+You should accelerate the feedback cycle: the smaller the feedback cycle (in days or weeks at most), the sooner you can act and readjust your course. The process begins with the agreement of acceptance criteria standards for each [user story](../../node/agile.md#userstories). You can either do this when you first write your user stories or later in the form of acceptance tests when you start development work.
 
 #### Minimum viable product
 
@@ -131,7 +131,7 @@ Although testing is done both manually and through automation, the majority of y
 
 ### Agile meetings
 
-Clear and frequent communication among [the team](../../team.html) is key to agile work. Regular focused meetings are part of this – in particular, brief daily team stand-ups. Other common reoccurring meetings include sprint planning and sprint reviews (in scrum), and retrospectives.
+Clear and frequent communication among [the team](../../the_team.md) is key to agile work. Regular focused meetings are part of this – in particular, brief daily team stand-ups. Other common reoccurring meetings include sprint planning and sprint reviews (in scrum), and retrospectives.
 
 #### Daily stand-ups
 
@@ -147,7 +147,7 @@ Stand-ups meetings are not meant for solving issues. Instead, arrange a huddle a
 
 #### Sprint planning and reviews
 
-The team should meet before and after each sprint. Prior to the [sprint](../../node/1076.html#sprints), the team prioritises the [user stories](../../node/1076.html#userstories) in scope, the tasks required to complete them, and their acceptance criteria. After the sprint, the team members should confirm the completed work against the acceptance criteria. You can include stakeholders in this meeting to explain which user stories have and have not been completed and why.
+The team should meet before and after each sprint. Prior to the [sprint](../../node/agile.md#sprints), the team prioritises the [user stories](../../node/agile.md#userstories) in scope, the tasks required to complete them, and their acceptance criteria. After the sprint, the team members should confirm the completed work against the acceptance criteria. You can include stakeholders in this meeting to explain which user stories have and have not been completed and why.
 
 #### Retrospectives
 
@@ -161,7 +161,7 @@ A retrospective should cover:
 -   what went badly
 -   how to improve the working environment or process for the next sprint/iteration/project.
 
-*This guide has been adapted from the UK Government Service Design Manual guides on [Agile](https://www.gov.uk/service-manual/agile/index.html), [What agile looks like](https://www.gov.uk/service-manual/agile/what-agile-looks-like.html) and [Features of agile](https://www.gov.uk/service-manual/agile/features-of-agile.html) under the [Open Government Licence v2.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/); the [US Digital Services Playbook - Play 4: Build the service using agile and iterative practices](https://playbook.cio.gov/#play4); and [18F’s Agile Principles and Practices](https://pages.18f.gov/agile/index.html).*
+*This guide has been adapted from the UK Government Service Design Manual guides on [Agile](https://www.gov.uk/service-manual/agile/digital_service_standard.md), [What agile looks like](https://www.gov.uk/service-manual/agile/what-agile-looks-like.html) and [Features of agile](https://www.gov.uk/service-manual/agile/features-of-agile.md) under the [Open Government Licence v2.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/); the [US Digital Services Playbook - Play 4: Build the service using agile and iterative practices](https://playbook.cio.gov/#play4); and [18F’s Agile Principles and Practices](https://pages.18f.gov/agile/digital_service_standard.md).*
 
 **Last updated:** 5 August 2015 | [Provide feedback on this page](../../feedback%3Furl_from=Agile%2520development.html)
 

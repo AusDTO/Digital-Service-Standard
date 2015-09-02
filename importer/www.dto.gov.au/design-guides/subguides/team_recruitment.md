@@ -13,14 +13,14 @@ The Government has a commitment to deliver government services digitally from st
 How do I?
 ---------
 
--   [Determine skills required](../../node/981.html#determine)
--   [Identify skills available in your agency](../../node/981.html#identify)
--   [Review recruitment and selection guidelines](../../node/981.html#selection)
--   [Recruit the right skills](../../node/981.html#recruit)
+-   [Determine skills required](../../node/team_recruitment.md#determine)
+-   [Identify skills available in your agency](../../node/team_recruitment.md#identify)
+-   [Review recruitment and selection guidelines](../../node/team_recruitment.md#selection)
+-   [Recruit the right skills](../../node/team_recruitment.md#recruit)
 
 ### Determine skills required
 
-Agencies should identify the skills and experience required to deliver their digital services. Many of the skills needed to lead and deliver these services are relatively new to government and are highly sought after. More guidance is available on [the team](../../team.html).
+Agencies should identify the skills and experience required to deliver their digital services. Many of the skills needed to lead and deliver these services are relatively new to government and are highly sought after. More guidance is available on [the team](../../the_team.md).
 
 ### Identify skills available in your agency
 

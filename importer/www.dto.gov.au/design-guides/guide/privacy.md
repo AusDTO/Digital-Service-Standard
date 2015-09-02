@@ -19,12 +19,12 @@ Why must I?
 How do I?
 ---------
 
--   [Identify personal information](../../node/491.html#identify)
--   [Understand what you are collecting and what you are going to do with it](../../node/491.html#understand)
--   [Protect the information you handle](../../node/491.html#protect)
--   [Consider a privacy impact assessment, privacy by design, and other tools](../../node/491.html#consider)
--   [Confirm compliance with the APPs](../../node/491.html#confirm)
--   [Engage with key privacy officers](../../node/491.html#engage)
+-   [Identify personal information](../../node/privacy.md#identify)
+-   [Understand what you are collecting and what you are going to do with it](../../node/privacy.md#understand)
+-   [Protect the information you handle](../../node/privacy.md#protect)
+-   [Consider a privacy impact assessment, privacy by design, and other tools](../../node/privacy.md#consider)
+-   [Confirm compliance with the APPs](../../node/privacy.md#confirm)
+-   [Engage with key privacy officers](../../node/privacy.md#engage)
 
 ### Identify personal information
 

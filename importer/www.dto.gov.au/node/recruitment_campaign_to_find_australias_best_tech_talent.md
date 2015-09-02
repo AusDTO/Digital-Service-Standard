@@ -36,23 +36,23 @@ We are looking for a wide range of digital specialists: talented and tenacious p
 
 If you want to do extraordinary things and make a difference: join us!
 
-You can view our [current vacancies](../index.html#sign-me-up) and apply now.
+You can view our [current vacancies](../digital_service_standard.md#sign-me-up) and apply now.
 
 [![Facebook logo](https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/facebook.png)](http://www.facebook.com/sharer.php?u=https%3A//www.dto.gov.au/blog/recruitment-campaign-find-australias-best-tech-talent&t=Recruitment%20campaign%20to%20find%20Australia%27s%20best%20tech%20talent "Share on Facebook") [![Twitter logo](https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/twitter.png)](http://twitter.com/share?url=https%3A//www.dto.gov.au/blog/recruitment-campaign-find-australias-best-tech-talent&text=Recruitment%20campaign%20to%20find%20Australia%27s%20best%20tech%20talent "Share this on Twitter") [![LinkedIn logo](https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/linkedin.png)](http://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.dto.gov.au/blog/recruitment-campaign-find-australias-best-tech-talent&title=Recruitment%20campaign%20to%20find%20Australia%27s%20best%20tech%20talent&summary=We%20think%20Australia%20can%20be%20the%20best%20in%20the%20world%20at%20digital%20government.&source=Digital%20Transformation%20Office "Publish this post to LinkedIn") [![email logo](https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/email.png)](mailto:?subject=Recruitment%20campaign%20to%20find%20Australia%27s%20best%20tech%20talent&body=https%3A//www.dto.gov.au/blog/recruitment-campaign-find-australias-best-tech-talent "Share via email")
 
 Related blogs
 -------------
 
-[Your homepage is not your front door](1111.html)
+[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
 
-[Open and secure](1096.html)
+[Open and secure](open_and_secure.md)
 
-[The DTO now manage Government authentication frameworks](1091.html)
+[The DTO now manage Government authentication frameworks](the_dto_now_manage_government_authentication_frameworks.md)
 
 Comments (2)
 ------------
 
-Michael replied on Thu, 2015-08-27 13:55 [Permalink](../comment/1961.html#comment-1961)
+Michael replied on Thu, 2015-08-27 13:55 [Permalink](../comment/1trusted_digital_identity_framework.md#comment-1961)
 
 Comment: 
 
@@ -61,7 +61,7 @@ Hi, I am interested to see the nature of job roles being advertised for DTO, - h
 
 -   [reply](https://www.dto.gov.au/comment/reply/1151/1961)
 
-R replied on Mon, 2015-08-31 11:47 [Permalink](../comment/1996.html#comment-1996)
+R replied on Mon, 2015-08-31 11:47 [Permalink](../comment/1ministerial_content.md#comment-1996)
 
 Comment: 
 

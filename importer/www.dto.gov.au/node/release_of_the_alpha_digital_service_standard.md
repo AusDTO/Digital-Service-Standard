@@ -12,7 +12,7 @@ Author: 
 
 Jacqui van Teulingen
 
-A new approach to the design and delivery of digital services starts today with the release of the [alpha Digital Service Standard](../standard/index.html). The standard establishes the criteria that all Australian digital government services must meet to ensure they are simpler, faster and easier to use.
+A new approach to the design and delivery of digital services starts today with the release of the [alpha Digital Service Standard](../standard/digital_service_standard.md). The standard establishes the criteria that all Australian digital government services must meet to ensure they are simpler, faster and easier to use.
 
 Most people expect to be able to access government services and information anytime and from anywhere, using any internet-connected device. They expect services to be simple, seamless, fast and intuitive. Common standards for design and delivery of government services and information will make interacting and transacting with government easier for everyone.
 
@@ -31,11 +31,11 @@ We will be talking about the standard, what it means and how to apply it over th
 Related blogs
 -------------
 
-[Digital Community of Practice event – 4 September](1136.html)
+[Digital Community of Practice event – 4 September](digital_community_of_practice_event_4_september.md)
 
-[‘Showing the thing’ was our theme last week in the Standards team](1131.html)
+[‘Showing the thing’ was our theme last week in the Standards team](showing_the_thing_was_our_theme_last_week_in_the_standards_team.md)
 
-[Your homepage is not your front door](1111.html)
+[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
 
 Comments (4)
 ------------
@@ -56,13 +56,13 @@ Can you please email us [link removed] when these are released - clients are ask
 
 -   [reply](https://www.dto.gov.au/comment/reply/536/596)
 
-Romany - DTO replied on Fri, 2015-06-26 14:54 [Permalink](../comment/641.html#comment-641)
+Romany - DTO replied on Fri, 2015-06-26 14:54 [Permalink](../comment/dto_launches_at_the_digital_innovation_forum.md#comment-641)
 
 Comment: 
 
 Hi Jenny,
 
-Thanks for your interest! To be notified when major updates are released, we suggest you [subscribe to our mailing list](../contact-us.html).
+Thanks for your interest! To be notified when major updates are released, we suggest you [subscribe to our mailing list](../engage.md).
 
 -   [reply](https://www.dto.gov.au/comment/reply/536/641)
 

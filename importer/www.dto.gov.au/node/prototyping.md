@@ -3,7 +3,7 @@ Prototyping
 
 Creating models to test user experience
 
-A prototype is an initial model of a digital product or interface built to test the [usability](../usability-testing.html) and [user experience](481.html) of a product. This includes testing information architecture, task flows, and look and feel. Prototypes simulate the visual, graphic, usability, content and navigational elements of the end digital solution or product.
+A prototype is an initial model of a digital product or interface built to test the [usability](../usability_testing.md) and [user experience](user_research.md) of a product. This includes testing information architecture, task flows, and look and feel. Prototypes simulate the visual, graphic, usability, content and navigational elements of the end digital solution or product.
 
 Prototyping is an easy way to quickly test a digital product with users and stakeholders. They can vary in fidelity from very simple paper-based mockups to interactive online examples. This makes prototyping a more cost effective method than developing fully functional products to test, which encourages an iterative development cycle of building, testing and improving.
 
@@ -14,12 +14,12 @@ Other benefits of prototyping include the ability to:
 -   serve as a platform to draw out and capture user behaviours, expectations and desired outcomes
 -   incorporate conditions of the computer or device, including interface and interactive elements (especially in high fidelity prototypes).
 
-More [benefits of prototyping](http://www.usability.gov/how-to-and-tools/methods/prototyping.htmlhttp:/www.usability.gov/how-to-and-tools/methods/prototyping.html) are discussed at Usability.gov.
+More [benefits of prototyping](http://www.usability.gov/how-to-and-tools/methods/prototyping.mdhttp:/www.usability.gov/how-to-and-tools/methods/prototyping.md) are discussed at Usability.gov.
 
 Wireframe or prototype?
 -----------------------
 
-The lines between a [wireframe](936.html) and a prototype are sometimes blurred but there are distinct differences. The primary purpose of a prototype should be to test the user experience and surface usability issues. A wireframe is a visual guide or screen blueprint that represents the framework of the service or product. Generally you would use prototypes to test specific aspect of a design; a wireframe will give you the ability to test broader concepts
+The lines between a [wireframe](wireframing.md) and a prototype are sometimes blurred but there are distinct differences. The primary purpose of a prototype should be to test the user experience and surface usability issues. A wireframe is a visual guide or screen blueprint that represents the framework of the service or product. Generally you would use prototypes to test specific aspect of a design; a wireframe will give you the ability to test broader concepts
 
 General [differences between wireframes and low and high fidelity prototypes](http://www.uxmatters.com/mt/archives/2010/05/sketches-and-wireframes-and-prototypes-oh-my-creating-your-own-magical-wizard-experience.php) include:
 
@@ -58,7 +58,7 @@ High
 Start small
 -----------
 
-Whether evolving a [wireframe](936.html) or starting a prototype from scratch, the key is to start small. Build a few key screens that demonstrate the [user experience](481.html), including key navigational elements. Good screens to start with include a home page, generic content item and a web form with text field.
+Whether evolving a [wireframe](wireframing.md) or starting a prototype from scratch, the key is to start small. Build a few key screens that demonstrate the [user experience](user_research.md), including key navigational elements. Good screens to start with include a home page, generic content item and a web form with text field.
 
 Low and high fidelity
 ---------------------
@@ -96,7 +96,7 @@ Examples of high-fidelity platforms
 Test with users
 ---------------
 
-Test the prototype with users and capture insights. When showing them the prototypes ask them to verbalise their thinking and take notes of what they say and what elements they point at. Refer to [user research](481.html) for types of testing you can conduct.
+Test the prototype with users and capture insights. When showing them the prototypes ask them to verbalise their thinking and take notes of what they say and what elements they point at. Refer to [user research](user_research.md) for types of testing you can conduct.
 
 Iterate prototype
 -----------------
@@ -105,5 +105,5 @@ Iterate the prototype based on user feedback and repeat the process to progress 
 
 Continue to share your prototypes with the development team to allow them to gather and build requirements and also understand the desired outcome.
 
-**Last updated:** 20 July 2015  |  [Provide feedback on this page](../feedback%3Furl_from=Userresearch-Prototyping.html)
+**Last updated:** 20 July 2015  |  [Provide feedback on this page](../feedback%3Furl_from=Userresearch-prototyping.md)
 

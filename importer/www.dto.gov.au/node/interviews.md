@@ -3,7 +3,7 @@ Interviews
 
 Connecting with people
 
-Interviews are a way to connect with people and an opportunity to hear them describe their experiences in their own words. They can be used to find out what people want from a product or service. Interviews can also be a quick way to gather feedback or ideas about a [prototype](841.html) before getting too far into design and development.
+Interviews are a way to connect with people and an opportunity to hear them describe their experiences in their own words. They can be used to find out what people want from a product or service. Interviews can also be a quick way to gather feedback or ideas about a [prototype](prototyping.md) before getting too far into design and development.
 
 An interview can be one on one or in a small group from a cross section of users or potential users with insight into the topic you’re exploring. They can be conducted in person, online or on the phone, depending on circumstances. Interviews can take anywhere from 1-2 hours depending on length and number of questions.
 
@@ -56,5 +56,5 @@ The best way to gain insights is to hold a debriefing session as soon as possibl
 -   provide key observations and quotes
 -   identify relationships between like users and the answers they provided.
 
-**Last updated:** 20 July 2015  |  [Provide feedback on this page](../feedback%3Furl_from=Userresearch-Interviews.html)
+**Last updated:** 20 July 2015  |  [Provide feedback on this page](../feedback%3Furl_from=Userresearch-interviews.md)
 

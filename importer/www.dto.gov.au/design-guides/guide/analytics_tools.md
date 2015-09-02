@@ -8,26 +8,26 @@ Understanding how users discover and interact with information is a key step in 
 Why must I?
 -----------
 
-Analytics play an important role in every phase of the [service design process](../../node/971.html), for example:
+Analytics play an important role in every phase of the [service design process](../../node/service_design_process.md), for example:
 
 -   Discovery and Define: understand user pathways and interactions with existing or like services.
 -   Create and Iterate: identify and remove user pain points.
 -   Deliver, Evaluate and Improve: plan for enhancements.
 
-Analytics also help organisations to identify appropriate times to [retire services](../../node/971.html#retire)[ ](../../node/971.html#retire)due to inactivity or unsuccessful adoption.
+Analytics also help organisations to identify appropriate times to [retire services](../../node/service_design_process.md#retire)[ ](../../node/service_design_process.md#retire)due to inactivity or unsuccessful adoption.
 
 How do I?
 ---------
 
--   [Consider a whole-of-government approach](../../node/381.html#Whole-of-government)
--   [Assess analytics tools](../../node/381.html#Assess-analytics-tools)
--   [Ensure data security](../../node/381.html#data-security)
+-   [Consider a whole-of-government approach](../../node/analytics_tools.md#Whole-of-government)
+-   [Assess analytics tools](../../node/analytics_tools.md#Assess-analytics-tools)
+-   [Ensure data security](../../node/analytics_tools.md#data-security)
 
-There is comprehensive guidance on [using analytics tools](https://www.gov.uk/service-manual/making-software/analytics-tools.html) in the UK Government Service Design Manual. You can also [contact the Digital Transformation Office](../../contact-us.html) (DTO) for assistance when assessing analytics tools.
+There is comprehensive guidance on [using analytics tools](https://www.gov.uk/service-manual/making-software/analytics_tools.md) in the UK Government Service Design Manual. You can also [contact the Digital Transformation Office](../../engage.md) (DTO) for assistance when assessing analytics tools.
 
 ### Consider a whole-of-government approach
 
-A whole-of-government approach to analytics will help us [build better services](../../news-media/blog/building-better-services-analytics.html)[](../../news-media/blog/building-better-services-analytics.html)and improve the total experience of dealing with government. Contact your agency’s [Digital Transformation Coordinator](../../node/1061.html)[](https://www.dto.gov.au/digital-transformation-plan/digital-transformation-coordinators)for details on how to participate in the current trial.
+A whole-of-government approach to analytics will help us [build better services](../../news-media/blog/building-better-services-analytics.html)[](../../news-media/blog/building-better-services-analytics.html)and improve the total experience of dealing with government. Contact your agency’s [Digital Transformation Coordinator](../../node/digital_transformation_coordinators.md)[](https://www.dto.gov.au/digital-transformation-plan/digital-transformation-coordinators)for details on how to participate in the current trial.
 
 ### Assess analytics tools
 

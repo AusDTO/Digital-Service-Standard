@@ -3,7 +3,7 @@ Feedback on design guidance
 
 We appreciate your feedback; what would you like to tell us?
 
-We are working in an agile way and [user stories](816.html) help us to better meet your needs. To enable us to better process your suggestions please tell us your role, the task/s you need to complete and the goal/s you are trying to achieve. For example: '**as a** web developer, **I want** to access common code for government websites, **so that I can** develop webpages that are compliant’.
+We are working in an agile way and [user stories](user_stories.md) help us to better meet your needs. To enable us to better process your suggestions please tell us your role, the task/s you need to complete and the goal/s you are trying to achieve. For example: '**as a** web developer, **I want** to access common code for government websites, **so that I can** develop webpages that are compliant’.
 
 Your feedback
 
