@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.dto.gov.au/frontpage" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Digital Transformation Office</title>
+    <link>https://www.dto.gov.au/frontpage</link>
+    <description></description>
+    <language>en</language>
+          <item>
+    <title>Your homepage is not your front door</title>
+    <link>https://www.dto.gov.au/blog/your-homepage-not-your-front-door</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;We spend a lot of time and energy perfecting our homepages. The design, content, layout and usability, but how many of us check what we look like in the user’s first step?  Search for your most popular content and see what the user sees. Common user behaviour indicates users find websites through search not by typing in the correct URL for your website homepage. We recently did some guerrilla user testing and hit the streets to ask how people used online  government services to see how they find what they’re looking for.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 18 Aug 2015 04:29:54 +0000</pubDate>
+ <dc:creator>lhowdin</dc:creator>
+ <guid isPermaLink="false">1111 at https://www.dto.gov.au</guid>
+  </item>
+  <item>
+    <title>Open and secure</title>
+    <link>https://www.dto.gov.au/blog/open-and-secure</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Yes, you really can.&lt;/p&gt;
+&lt;p&gt;We&#039;ve all seen that security through obscurity doesn&#039;t work. It leaves us in the dark on how our data is stored, protected and used. You shouldn’t have to take our word that our systems are secure, or that we fix our vulnerabilities - you should be able to see it in our designs, our code, our build and our operations. Being open invites trust - you should be able to trust us not because we tell you that you should, or because we&#039;re the only supplier, but because we’ve earned it.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 14 Aug 2015 01:43:48 +0000</pubDate>
+ <dc:creator>Mark Mckenzie</dc:creator>
+ <guid isPermaLink="false">1096 at https://www.dto.gov.au</guid>
+  </item>
+  <item>
+    <title>Preface to the API Design Guide</title>
+    <link>https://www.dto.gov.au/blog/preface-api-design-guide</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A design guide with developer empathy.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 07 Aug 2015 01:06:38 +0000</pubDate>
+ <dc:creator>Chris Gough</dc:creator>
+ <guid isPermaLink="false">1081 at https://www.dto.gov.au</guid>
+  </item>
+  </channel>
+</rss>
