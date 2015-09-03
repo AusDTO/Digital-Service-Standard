@@ -39,7 +39,7 @@ Government agencies will be expected to:
 
 2.  Establish a sustainable multi-disciplinary team that can design,
     build, operate and iterate the service, led by an experienced
-    service manager​
+    service manager with decision-making responsibility
 
 3.  Adopt a user-centred design approach​
 
@@ -56,10 +56,10 @@ Government agencies will be expected to:
     address security risks, legal responsibilities and privacy
     considerations​
 
-7.  Build the service using agile, iterative and user-centred methods
+7.  Build the service using agile, iterative, collaborative and user-centred methods
 
-8.  Build the service with common look, feel, tone and function that
-    meets the needs of users​
+8.  Build the service with consistent look, feel, tone and function that
+    meets the needs of users including those with disability
 
 9.  Use web service APIs, open standards and common government solutions
     where possible and make all new source code open and reusable where
