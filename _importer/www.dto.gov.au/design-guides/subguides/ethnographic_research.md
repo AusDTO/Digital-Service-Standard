@@ -1,5 +1,6 @@
 ---
-title: ethnographic_research.md
+title: ethnographic_research
+permalink: ethnographic_research.html
 layout: default
 ---
 Ethnographic research

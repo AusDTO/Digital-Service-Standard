@@ -1,5 +1,6 @@
 ---
-title: workshops.md
+title: workshops
+permalink: foi_act_and_information_publication_scheme.md
 layout: default
 ---
 Workshops
@@ -22,7 +23,7 @@ Provide participants with information upfront rather than leaving it to the last
 Invite the right people
 -----------------------
 
-Do your research and make sure the [right people](../../the_team.md) are in the room. They should be people who are experts in the content, but also have the right level of authority to make the decisions that you require. Also make sure you’ve got the right representatives to actually solve problems and propose solutions.
+Do your research and make sure the [right people](../../foi_act_and_information_publication_scheme.md) are in the room. They should be people who are experts in the content, but also have the right level of authority to make the decisions that you require. Also make sure you’ve got the right representatives to actually solve problems and propose solutions.
 
 Take regular breaks
 -------------------
@@ -71,5 +72,5 @@ Common misconceptions about workshops include:
 -   **Workshops are too long**: a workshop can be any length of time. It just needs to be appropriate to cover the topics. Think carefully about how much time you allocate to each session. You may need a series of workshops if you need information from one session or topic to progress with others.
 -   **You need to plan workshops weeks in advance**: you only require enough time to work out clear outcomes, for the planner and participants to prepare, and to find a meeting place and time for the right people to attend.
 
-**Last updated:** 20 July 2015  |  [Provide feedback on this page](../../feedback%3Furl_from=Userresearch-workshops.md)
+**Last updated:** 20 July 2015  |  [Provide feedback on this page](../../feedback%3Furl_from=Userresearch-foi_act_and_information_publication_scheme.md)
 

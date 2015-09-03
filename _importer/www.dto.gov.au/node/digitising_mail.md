@@ -1,5 +1,6 @@
 ---
-title: digitising_mail.md
+title: digitising_mail
+permalink: digitising_mail.html
 layout: default
 ---
 Digitising Mail
@@ -35,12 +36,12 @@ We will also be expanding digital mail for businesses through a new digital acco
 Related blogs
 -------------
 
-[The Digital Transformation Agenda in the 2015-16 Federal Budget](the_digital_transformation_agenda_in_the_2015_16_federal_budget.md)
+[The Digital Transformation Agenda in the 2015-16 Federal Budget](foi_act_and_information_publication_scheme.md)
 
 Comments (19)
 -------------
 
-Nicole replied on Mon, 2015-05-18 14:04 [Permalink](../comment/156.html#comment-156)
+Nicole replied on Mon, 2015-05-18 14:04 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-156)
 
 Comment: 
 
@@ -48,7 +49,7 @@ How will someone know if there is Gov Mail for them? Assume there will be some p
 
 -   [reply](https://www.dto.gov.au/comment/reply/741/156)
 
-M replied on Mon, 2015-05-18 15:20 [Permalink](../comment/161.html#comment-161)
+M replied on Mon, 2015-05-18 15:20 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-161)
 
 Comment: 
 
@@ -56,7 +57,7 @@ Are there any policies around the appropriate use of myGov mail by agencies? The
 
 -   [reply](https://www.dto.gov.au/comment/reply/741/161)
 
-Leigh Berrell replied on Mon, 2015-05-18 16:30 [Permalink](../comment/171.html#comment-171)
+Leigh Berrell replied on Mon, 2015-05-18 16:30 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-171)
 
 Comment: 
 
@@ -64,7 +65,7 @@ Maybe DTO should consider using the Australia Post MyPost solution? Australia Po
 
 -   [reply](https://www.dto.gov.au/comment/reply/741/171)
 
-James replied on Tue, 2015-05-19 18:06 [Permalink](../comment/introducing_the_digital_transformation_office.md#comment-206)
+James replied on Tue, 2015-05-19 18:06 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-206)
 
 Comment: 
 
@@ -72,7 +73,7 @@ Totally agree about Auspost providing us with this service.
 
 -   [reply](https://www.dto.gov.au/comment/reply/741/206)
 
-David Walsh replied on Mon, 2015-05-18 16:52 [Permalink](../comment/176.html#comment-176)
+David Walsh replied on Mon, 2015-05-18 16:52 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-176)
 
 Comment: 
 
@@ -80,7 +81,7 @@ The Auspost website is pretty slick, I don't know how this differs ? why would I
 
 -   [reply](https://www.dto.gov.au/comment/reply/741/176)
 
-Peter Kelley replied on Tue, 2015-05-19 09:41 [Permalink](../comment/181.html#comment-181)
+Peter Kelley replied on Tue, 2015-05-19 09:41 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-181)
 
 Comment: 
 
@@ -88,7 +89,7 @@ There needs to be an API for this to allow businesses to develop integration sol
 
 -   [reply](https://www.dto.gov.au/comment/reply/741/181)
 
-Hannah - DTO replied on Tue, 2015-05-19 16:18 [Permalink](../comment/191.html#comment-191)
+Hannah - DTO replied on Tue, 2015-05-19 16:18 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-191)
 
 Comment: 
 
@@ -102,7 +103,7 @@ In terms of Australia Post's MyPost service, people have been able to have their
 
 -   [reply](https://www.dto.gov.au/comment/reply/741/191)
 
-Hero Protaganist replied on Thu, 2015-05-21 11:41 [Permalink](../comment/236.html#comment-236)
+Hero Protaganist replied on Thu, 2015-05-21 11:41 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-236)
 
 Comment: 
 
@@ -110,7 +111,7 @@ Nice.
 
 -   [reply](https://www.dto.gov.au/comment/reply/741/236)
 
-T replied on Thu, 2015-05-21 16:44 [Permalink](../comment/246.html#comment-246)
+T replied on Thu, 2015-05-21 16:44 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-246)
 
 Comment: 
 
@@ -120,7 +121,7 @@ Can't wait.
 
 -   [reply](https://www.dto.gov.au/comment/reply/741/246)
 
-Harryws replied on Mon, 2015-05-25 09:37 [Permalink](../comment/271.html#comment-271)
+Harryws replied on Mon, 2015-05-25 09:37 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-271)
 
 Comment: 
 
@@ -133,8 +134,8 @@ Pages
 
 -   -   1
     -   [2](../blog/digitising-mail%3Fpage=1.html "Go to page 2")
--   -   [« first](digitising_mail.md "Go to first page")
-    -   [‹ previous](digitising_mail.md "Go to previous page")
+-   -   [« first](foi_act_and_information_publication_scheme.md "Go to first page")
+    -   [‹ previous](foi_act_and_information_publication_scheme.md "Go to previous page")
 -   -   [next ›](../blog/digitising-mail%3Fpage=1.html "Go to next page")
     -   [last »](../blog/digitising-mail%3Fpage=1.html "Go to last page")
 
@@ -145,7 +146,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

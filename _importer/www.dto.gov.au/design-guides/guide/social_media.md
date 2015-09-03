@@ -1,5 +1,6 @@
 ---
-title: social_media.md
+title: social_media
+permalink: social_media.html
 layout: default
 ---
 Social media
@@ -9,7 +10,7 @@ How and when to use social media
 
 Social media provides unique opportunities to engage with users and other stakeholders on a personal level. It also enables agencies to access a much wider audience than traditional communication methods. It can be a very powerful tool to get feedback on early ideas, concepts and prototypes for digital services.
 
-This guide will evolve over the coming months. If you would like specific guidance on something please [let us know](../../engage.md).
+This guide will evolve over the coming months. If you would like specific guidance on something please [let us know](../../foi_act_and_information_publication_scheme.md).
 
 Why must I?
 -----------
@@ -19,9 +20,9 @@ It is not a mandatory requirement to use social media. However, it can enable yo
 How do I?
 ---------
 
--   [Understand social media activities](../../node/social_media.md#understand)
--   [Develop an engagement strategy](../../node/social_media.md#develop)
--   [Keep your knowledge current](../../node/social_media.md#keep)
+-   [Understand social media activities](../../node/foi_act_and_information_publication_scheme.md#understand)
+-   [Develop an engagement strategy](../../node/foi_act_and_information_publication_scheme.md#develop)
+-   [Keep your knowledge current](../../node/foi_act_and_information_publication_scheme.md#keep)
 
 ### Understand social media activities
 
@@ -30,7 +31,7 @@ It is important to understand the different ways social media is used before you
 -   **Communication** – getting your message out, or alerts, building a public narrative, setting the public record. For example, [Queensland Police Service’s disaster management (PDF 601 KB)](https://www.police.qld.gov.au/corporatedocs/reportsPublications/other/Documents/QPSSocialMediaCaseStudy.pdf), the [Australian Bureau of Statistics Census Spotlight](http://www.finance.gov.au/collaboration-services-skills/australian-government-ict-awards-program/excellence-in-egovernment-winners-finalist/).
 -   **Consultation** – getting public feedback on something. For example, public Sphere and legislative consultations like [Pittsburgh Open Data Legislation wiki](https://sites.google.com/site/pghopendataleg/draft-legislation-wiki).
 -   **Co-development and crowdsourcing** – developing something with or collecting information from citizens. For example, [Trove](http://trove.nla.gov.au/) and GovHack.
--   **Service support** – directly supporting citizens online. For example, the [Department of Human Services connecting with clients via social media](../../node/case_study_connecting_with_users_on_social_media.md).
+-   **Service support** – directly supporting citizens online. For example, the [Department of Human Services connecting with clients via social media](../../node/foi_act_and_information_publication_scheme.md).
 
 A [short guide and resources for using social media](http://www.finance.gov.au/blog/2013/07/10/online-engagement-courses-%E2%80%93-final-report/) has been developed to provide advice to support the Australian Public Service.
 

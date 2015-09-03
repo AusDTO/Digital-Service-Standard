@@ -1,5 +1,6 @@
 ---
-title: service_design_process.md
+title: service_design_process
+permalink: service_design_process.html
 layout: default
 ---
 Service design process
@@ -11,13 +12,13 @@ The service design process is an iterative and flexible approach which ensures u
 
 The process consists of 3 phases:
 
-1.  [Discover and Define](service_design_process.md#discoverdefine)
-2.  [Create and Iterate](service_design_process.md#createiterate)
-3.  [Deliver, Evaluate and Improve](service_design_process.md#deliverevaluateimprove).
+1.  [Discover and Define](foi_act_and_information_publication_scheme.md#discoverdefine)
+2.  [Create and Iterate](foi_act_and_information_publication_scheme.md#createiterate)
+3.  [Deliver, Evaluate and Improve](foi_act_and_information_publication_scheme.md#deliverevaluateimprove).
 
-You can move between the phases at any time. Services that can no longer be improved should be considered for [retirement](service_design_process.md#retire).
+You can move between the phases at any time. Services that can no longer be improved should be considered for [retirement](foi_act_and_information_publication_scheme.md#retire).
 
-The phases are supported by [design principles](principles_of_digital_service_design.md) to ensure good design outcomes are achieved.
+The phases are supported by [design principles](foi_act_and_information_publication_scheme.md) to ensure good design outcomes are achieved.
 
 ![Service Design Process](../sites/g/files/net466/f/styles/large/public/service_design_graphic_v3.png%3Fitok=xs3WCLpS "Service Design Process")
 
@@ -49,11 +50,11 @@ Clarify the problem or opportunity for change, understand and come to an agreed 
 
 #### *Undertake user research *
 
-Identify your users and get to know them. Analyse existing or undertake new [user research](user_research.md) to: 
+Identify your users and get to know them. Analyse existing or undertake new [user research](foi_act_and_information_publication_scheme.md) to: 
 
 -   get valuable insight into users’ expectations of future government services, or their experience and thoughts on an existing service
 -   understand more about users’ overall experience with government, not just the service you are designing
--   understand what proportion of your users will need [assisted digital support](assisted_digital.md).
+-   understand what proportion of your users will need [assisted digital support](foi_act_and_information_publication_scheme.md).
 
 #### *Conduct environmental scan*
 
@@ -65,11 +66,11 @@ This should provide you with a better understanding of the legacy interfaces and
 
 #### *Form the team*
 
-Identify and bring together stakeholders and core members to form [the team](../the_team.md).
+Identify and bring together stakeholders and core members to form [the team](../foi_act_and_information_publication_scheme.md).
 
 #### *Get together*
 
-Run a series of [workshops](workshops.md) with the team. Start with an ABCD approach to drive a conversation and develop supporting documentation.
+Run a series of [workshops](foi_act_and_information_publication_scheme.md) with the team. Start with an ABCD approach to drive a conversation and develop supporting documentation.
 
 1.  Where are we now?
 2.  Where do we want to be?
@@ -78,15 +79,15 @@ Run a series of [workshops](workshops.md) with the team. Start with an ABCD 
 
 #### *Tools*
 
--   [Workshops](workshops.md)
--   [High level design](high_level_design.md)
+-   [Workshops](foi_act_and_information_publication_scheme.md)
+-   [High level design](foi_act_and_information_publication_scheme.md)
 -   ABCD modelling
--   [Personas](personas.md) and [scenarios](scenarios.md)
--   [User pathways](user_pathways.md)
--   [Wireframes](wireframing.md)
--   [Prototypes](prototyping.md)
+-   [Personas](foi_act_and_information_publication_scheme.md) and [scenarios](foi_act_and_information_publication_scheme.md)
+-   [User pathways](foi_act_and_information_publication_scheme.md)
+-   [Wireframes](foi_act_and_information_publication_scheme.md)
+-   [Prototypes](foi_act_and_information_publication_scheme.md)
 -   Sketches / whiteboard diagrams
--   [KPI assessment](measurement.md)
+-   [KPI assessment](foi_act_and_information_publication_scheme.md)
 
 ### 2. Create and Iterate
 
@@ -94,17 +95,17 @@ Create and iterate an end-to-end solution that fits within the natural pathway o
 
 -   Research, design and test with users in an iterative way to ensure the service fits their needs
 -   Balance user needs with the government agenda when exploring options and designing services, taking into consideration their environment and constraints
--   Concentrate on delivering services which make the [user journey](user_pathways.md) and experience as simple, clear and as fast as possible while maintaining integrity of the service
+-   Concentrate on delivering services which make the [user journey](foi_act_and_information_publication_scheme.md) and experience as simple, clear and as fast as possible while maintaining integrity of the service
 
 #### *Develop options*
 
-Develop options by using [user research](user_research.md) and involving a wide range of stakeholders from the private, industry and other parts of the public sector. Run a series of workshops with these stakeholders to develop your options.
+Develop options by using [user research](foi_act_and_information_publication_scheme.md) and involving a wide range of stakeholders from the private, industry and other parts of the public sector. Run a series of workshops with these stakeholders to develop your options.
 
 When considering options, agree on what operational support and resourcing is needed to maintain the service or product post-production and who will provide it.
 
 #### *Test early and test often*
 
-Create and share the emerging design and thinking as early as possible. Be willing to share your draft [wireframes](wireframing.md) or [prototypes](prototyping.md) with increasing detail and functionality (for example, low and high fidelity prototypes). Keep in mind people are less likely to provide feedback on something that looks finished. Early engagement and consultation will help you to:
+Create and share the emerging design and thinking as early as possible. Be willing to share your draft [wireframes](foi_act_and_information_publication_scheme.md) or [prototypes](foi_act_and_information_publication_scheme.md) with increasing detail and functionality (for example, low and high fidelity prototypes). Keep in mind people are less likely to provide feedback on something that looks finished. Early engagement and consultation will help you to:
 
 -   grasp concepts quickly
 -   promote discussion and feedback
@@ -126,23 +127,23 @@ Capture and document insights obtained from the user research activities you und
 
 #### *Tools*
 
--   [User research](user_research.md)
--   [Workshops](workshops.md)
--   [User pathways](user_pathways.md)
--   [High level design / blueprints](high_level_design.md)
--   [Prototyping](prototyping.md)
--   [Usability testing](../usability_testing.md)
--   [User stories](user_stories.md)
+-   [User research](foi_act_and_information_publication_scheme.md)
+-   [Workshops](foi_act_and_information_publication_scheme.md)
+-   [User pathways](foi_act_and_information_publication_scheme.md)
+-   [High level design / blueprints](foi_act_and_information_publication_scheme.md)
+-   [Prototyping](foi_act_and_information_publication_scheme.md)
+-   [Usability testing](../foi_act_and_information_publication_scheme.md)
+-   [User stories](foi_act_and_information_publication_scheme.md)
 
 ### 3. Deliver, Evaluate and Improve
 
-Deliver the service according to feedback received during [usability testing](../usability_testing.md). As far as possible think about the future changing needs of users and aim to support scalability to accommodate changes.  
+Deliver the service according to feedback received during [usability testing](../foi_act_and_information_publication_scheme.md). As far as possible think about the future changing needs of users and aim to support scalability to accommodate changes.  
 
 #### *Go live*
 
-Check the service meets the Australian Government requirements on [accessibility](making_content_accessible.md), [branding](branding.md) and [common website elements](common_website_elements.md).
+Check the service meets the Australian Government requirements on [accessibility](foi_act_and_information_publication_scheme.md), [branding](foi_act_and_information_publication_scheme.md) and [common website elements](foi_act_and_information_publication_scheme.md).
 
-Ensure your analytics are configured accurately to monitor the [key performance indicators](measurement.md) identified in building your service.
+Ensure your analytics are configured accurately to monitor the [key performance indicators](foi_act_and_information_publication_scheme.md) identified in building your service.
 
 Make sure you have planned the transition or integration of any existing services.
 
@@ -164,23 +165,23 @@ Monitoring of the service should allow sufficient time to cover usage periods an
 
 Services will continue to undergo evaluation and improvement; reacting to new needs and demands of the wider environment.
 
-You may need to repeat the whole design process for smaller pieces of work as the service continues running. Find something that needs improvement; research solutions; iterate; and release. That should be a constant rhythm for the [operating team](../the_team.md), and done rapidly.
+You may need to repeat the whole design process for smaller pieces of work as the service continues running. Find something that needs improvement; research solutions; iterate; and release. That should be a constant rhythm for the [operating team](../foi_act_and_information_publication_scheme.md), and done rapidly.
 
 #### *Tools*
 
--   [User research](user_research.md)
+-   [User research](foi_act_and_information_publication_scheme.md)
 -   User feedback
 -   Dashboard
--   [KPI assessment](measurement.md)
+-   [KPI assessment](foi_act_and_information_publication_scheme.md)
 
 Retiring a service
 ------------------
 
 When it is clear a service is no longer required, or those particular user needs are better met through a different service, it may be time to retire it.
 
-![Attention](../sites/g/files/net261/f/styles/large/public/attention32.png%3Fitok=wqHBFd4O "Attention")** Legislative requirements**: there are [records management requirements](records_management.md) under the [*Archives Act 1983*](http://www.comlaw.gov.au/Series/C2004A02796) and [*Evidence Act 1995*](http://www.austlii.edu.au/au/legis/cth/consol_act/ea199580/) for Australian Government agencies.
+![Attention](../sites/g/files/net261/f/styles/large/public/attention32.png%3Fitok=wqHBFd4O "Attention")** Legislative requirements**: there are [records management requirements](foi_act_and_information_publication_scheme.md) under the [*Archives Act 1983*](http://www.comlaw.gov.au/Series/C2004A02796) and [*Evidence Act 1995*](http://www.austlii.edu.au/au/legis/cth/consol_act/ea199580/) for Australian Government agencies.
 
-In parallel to the work required to retire a services, and sometimes during the 3 phases, it will be necessary to archive content and records relating to the service. Whenever content is removed from a site you must consider the [records managing requirements](records_management.md) and appropriate archiving actions. ‘Archiving’, in this case meaning taking material out of active use and storing it elsewhere.
+In parallel to the work required to retire a services, and sometimes during the 3 phases, it will be necessary to archive content and records relating to the service. Whenever content is removed from a site you must consider the [records managing requirements](foi_act_and_information_publication_scheme.md) and appropriate archiving actions. ‘Archiving’, in this case meaning taking material out of active use and storing it elsewhere.
 
 If there is an agency need to retain the material for an extended time, and it is not eligible for transfer to the National Archives of Australia, you will need to put in place preservation strategies to make sure the information being archived will remain accessible in the future, even after multiple changes to hardware and software.
 
@@ -188,7 +189,7 @@ If there is an agency need to retain the material for an extended time, and it i
 
 **Last updated:** 21 July 2015 ** |**  [Provide feedback on this page](../feedback%3Furl_from=DesignProcess.html)
 
-[Top](service_design_process.md#)
+[Top](foi_act_and_information_publication_scheme.md#)
 
  
 

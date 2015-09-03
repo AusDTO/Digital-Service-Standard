@@ -1,5 +1,6 @@
 ---
-title: wireframing.md
+title: wireframing
+permalink: foi_act_and_information_publication_scheme.md
 layout: default
 ---
 Wireframing
@@ -7,7 +8,7 @@ Wireframing
 
 Low-fidelity visual representations of designs or concepts
 
-Wireframes are two-dimensional representations of digital products, such as an app, website or software. Wireframes should be a low-fidelity illustration of what information will be communicated, where it will go, and the key interface elements. A good wireframe will provide a foundation for a high-fidelity [prototype](../../node/prototyping.md).
+Wireframes are two-dimensional representations of digital products, such as an app, website or software. Wireframes should be a low-fidelity illustration of what information will be communicated, where it will go, and the key interface elements. A good wireframe will provide a foundation for a high-fidelity [prototype](../../node/foi_act_and_information_publication_scheme.md).
 
 Creating wireframes will help you to:
 
@@ -35,7 +36,7 @@ There should be three types of visual elements:
 
 -   categories of information: strictly headings, no content
 -   structure of information
--   key user interface elements and [common web elements](../../node/common_website_elements.md) (such as headers, footers and buttons).
+-   key user interface elements and [common web elements](../../node/foi_act_and_information_publication_scheme.md) (such as headers, footers and buttons).
 
 The content categories should give an idea of the type of information a content block will contain. If you already have some basic content written it can be as simple as using the existing headings and sub-headings.
 
@@ -48,7 +49,7 @@ Organise elements on the base template to build a few key screens that demonstra
 
 When designing and consulting with users, they may get caught on the lack of text. To counter this, use placeholder text such as *Lorem Ipsum* to give a more accurate visualisation of content in the blocks.
 
-Further guidance on creating [wireframe screens](http://www.usability.gov/how-to-and-tools/methods/wireframing.md) is available at Usability.gov.
+Further guidance on creating [wireframe screens](http://www.usability.gov/how-to-and-tools/methods/foi_act_and_information_publication_scheme.md) is available at Usability.gov.
 
 ![A person pointing at a page](../../sites/g/files/net261/f/styles/large/public/wireframing.jpg%3Fitok=hU1qCktW)
 
@@ -57,7 +58,7 @@ Caption: A paper wireframe of typical screen.
 Test and improve
 ----------------
 
-Use a combination of [user research](../../node/user_research.md) techniques to test the wireframes. When sharing with users ask them to verbalise their thinking out loud. Take notes of what they say and what is pointed out. Keep improving the screens in response. Test with users as many times as you need to develop a refined wireframe before you proceed to [prototyping](../../node/prototyping.md).
+Use a combination of [user research](../../node/foi_act_and_information_publication_scheme.md) techniques to test the wireframes. When sharing with users ask them to verbalise their thinking out loud. Take notes of what they say and what is pointed out. Keep improving the screens in response. Test with users as many times as you need to develop a refined wireframe before you proceed to [prototyping](../../node/foi_act_and_information_publication_scheme.md).
 
-**Last updated:** 20 July 2015  |  [Provide feedback on this page](../../feedback%3Furl_from=Userresearch-wireframing.md)
+**Last updated:** 20 July 2015  |  [Provide feedback on this page](../../feedback%3Furl_from=Userresearch-foi_act_and_information_publication_scheme.md)
 

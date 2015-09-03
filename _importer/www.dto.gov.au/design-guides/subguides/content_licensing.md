@@ -1,5 +1,6 @@
 ---
-title: content_licensing.md
+title: content_licensing
+permalink: content_licensing.html
 layout: default
 ---
 Content licensing

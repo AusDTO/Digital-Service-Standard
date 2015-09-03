@@ -1,5 +1,6 @@
 ---
-title: content_management_system.md
+title: content_management_system
+permalink: content_management_system.html
 layout: default
 ---
 Content management system
@@ -16,7 +17,7 @@ In the meantime, consider the following guidelines:
 3.  Investigate cloud hosted options for your site. It is government policy to take a cloud first approach to new websites.
 4.  Explore other existing options within your agency as there may be arrangements you can leverage to avoid duplication of infrastructure or contracts.
 
-Agencies must continue to ensure that any new websites meet all mandatory requirements around [accessibility](../../node/making_content_accessible.md), [branding](../../node/branding.md), [design](../../user_centred_design.md), [common look and feel](../../node/common_website_elements.md), [security](../../node/secure_services.md) and hosting arrangements.
+Agencies must continue to ensure that any new websites meet all mandatory requirements around [accessibility](../../node/foi_act_and_information_publication_scheme.md), [branding](../../node/foi_act_and_information_publication_scheme.md), [design](../../foi_act_and_information_publication_scheme.md), [common look and feel](../../node/foi_act_and_information_publication_scheme.md), [security](../../node/foi_act_and_information_publication_scheme.md) and hosting arrangements.
 
 **Last updated**: 21 July 2015  |  [Provide feedback on this page](../../feedback%3Furl_from=SelectingCMS.html)
 

@@ -1,5 +1,6 @@
 ---
-title: common_website_elements.md
+title: common_website_elements
+permalink: common_website_elements.html
 layout: default
 ---
 Common website elements
@@ -12,57 +13,57 @@ There are common content items and site features that must be included on every 
 How do I?
 ---------
 
-The Digital Transformation Office is currently consulting on how [common government content and features](../../node/common_government_content_and_features.md) can be adopted across Australian Government websites to make them easier for people to use.
+The Digital Transformation Office is currently consulting on how [common government content and features](../../node/foi_act_and_information_publication_scheme.md) can be adopted across Australian Government websites to make them easier for people to use.
 
 Australian Government websites must:
 
--   manage [ministerial content](../../node/ministerial_content.md)
--   meet the [Online Content Requirements](../../node/online_content_requirements.md)
+-   manage [ministerial content](../../node/foi_act_and_information_publication_scheme.md)
+-   meet the [Online Content Requirements](../../node/foi_act_and_information_publication_scheme.md)
 -   identify the agency
 -   provide contact details
 -   provide a website disclaimer
 -   use uniform navigation
--   assess privacy impacts of [cookies](../../node/cookies.md)
--   comply with the [Caretaker Conventions](../../node/caretaker_conventions.md) during election periods
--   use correct [metadata](../../node/metadata.md)
--   use appropriate [content licensing](../../node/content_licensing.md)
+-   assess privacy impacts of [cookies](../../node/foi_act_and_information_publication_scheme.md)
+-   comply with the [Caretaker Conventions](../../node/foi_act_and_information_publication_scheme.md) during election periods
+-   use correct [metadata](../../node/foi_act_and_information_publication_scheme.md)
+-   use appropriate [content licensing](../../node/foi_act_and_information_publication_scheme.md)
 -   provide a copyright notice
 -   use open licensing where possible.
 
-There are specific requirements for agencies about how to [refer correctly to the Australian Government in content](../../node/branding.md#refercorrectly).
+There are specific requirements for agencies about how to [refer correctly to the Australian Government in content](../../node/foi_act_and_information_publication_scheme.md#refercorrectly).
 
 The primary websites of Australian Government agencies must also:
 
--   meet additional [Online Content Requirements](../../node/online_content_requirements.md)
+-   meet additional [Online Content Requirements](../../node/foi_act_and_information_publication_scheme.md)
 -   publish details of individual grants
 -   make all forms digitally available
 -   publish media releases and speeches
 -   publish non-commercial agency publications
--   meet the requirements of the [FOI Act and Information Publication Scheme](../subguides/foi-act-and-information-publication-scheme/digital_service_standard.md) including providing a disclosure log
--   list [contracts](../../node/contracts.md)
--   provide [files list (Harradine report)](../../node/files_list_harradine_report.md).
+-   meet the requirements of the [FOI Act and Information Publication Scheme](../subguides/foi-act-and-information-publication-scheme/foi_act_and_information_publication_scheme.md) including providing a disclosure log
+-   list [contracts](../../node/foi_act_and_information_publication_scheme.md)
+-   provide [files list (Harradine report)](../../node/foi_act_and_information_publication_scheme.md).
 
 **Last updated:** 21 July 2015 | [Provide feedback on this page](../../feedback%3Furl_from=Common%2520website%2520elements.html)
 
 Subguides: 
 
-[Caretaker Conventions](../../node/caretaker_conventions.md)
+[Caretaker Conventions](../../node/foi_act_and_information_publication_scheme.md)
 
-[Common government content and features](../../node/common_government_content_and_features.md)
+[Common government content and features](../../node/foi_act_and_information_publication_scheme.md)
 
-[Content licensing](../../node/content_licensing.md)
+[Content licensing](../../node/foi_act_and_information_publication_scheme.md)
 
-[Contracts](../../node/contracts.md)
+[Contracts](../../node/foi_act_and_information_publication_scheme.md)
 
-[Cookies](../../node/cookies.md)
+[Cookies](../../node/foi_act_and_information_publication_scheme.md)
 
-[Files list (Harradine report)](../../node/files_list_harradine_report.md)
+[Files list (Harradine report)](../../node/foi_act_and_information_publication_scheme.md)
 
-[FOI Act and Information Publication Scheme](../subguides/foi-act-and-information-publication-scheme/digital_service_standard.md)
+[FOI Act and Information Publication Scheme](../subguides/foi-act-and-information-publication-scheme/foi_act_and_information_publication_scheme.md)
 
-[Metadata](../../node/metadata.md)
+[Metadata](../../node/foi_act_and_information_publication_scheme.md)
 
-[Ministerial content](../../node/ministerial_content.md)
+[Ministerial content](../../node/foi_act_and_information_publication_scheme.md)
 
-[Online content requirements](../../node/online_content_requirements.md)
+[Online content requirements](../../node/foi_act_and_information_publication_scheme.md)
 

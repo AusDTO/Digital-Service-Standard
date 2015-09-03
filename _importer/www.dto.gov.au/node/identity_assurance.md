@@ -1,5 +1,6 @@
 ---
-title: identity_assurance.md
+title: identity_assurance
+permalink: identity_assurance.html
 layout: default
 ---
 Identity assurance

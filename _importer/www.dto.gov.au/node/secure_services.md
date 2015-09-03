@@ -1,5 +1,6 @@
 ---
-title: secure_services.md
+title: secure_services
+permalink: secure_services.html
 layout: default
 ---
 Secure services

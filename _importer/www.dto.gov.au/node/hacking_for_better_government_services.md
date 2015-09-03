@@ -1,5 +1,6 @@
 ---
-title: hacking_for_better_government_services.md
+title: hacking_for_better_government_services
+permalink: hacking_for_better_government_services.html
 layout: default
 ---
 Hacking for better government services
@@ -22,7 +23,7 @@ We are here to transform government for the digital age, making services better,
 
 Put simply, govhackers have one goal: to build great things with government data. This clearly fits with our goals here at the DTO. To support GovHack’s work, we are sponsoring two prizes in 2015, as well as providing mentors for the competition and supporting the Red Carpet Awards in September. We look forward to a future of ongoing collaboration with this community.
 
-For the competition, we have developed a proof of concept [register of government services](../news-media/blog/making-government-discoverable.html). This will help people effectively move from finding information to accessing services. Some agencies have developed service catalogues that are of great value to the public, but to date there is no single or complete view of services across the federal government.
+For the competition, we have developed a proof of concept [register of government services](../news-media/blog/foi_act_and_information_publication_scheme.md). This will help people effectively move from finding information to accessing services. Some agencies have developed service catalogues that are of great value to the public, but to date there is no single or complete view of services across the federal government.
 
  
 
@@ -35,11 +36,11 @@ For more information on GovHack, see the [GovHack website](https://www.govhack.o
 Related blogs
 -------------
 
-[Recruitment campaign to find Australia's best tech talent](recruitment_campaign_to_find_australias_best_tech_talent.md)
+[Recruitment campaign to find Australia's best tech talent](foi_act_and_information_publication_scheme.md)
 
-[Getting inside your head: Analysing search behaviours](getting_inside_your_head_analysing_search_behaviours.md)
+[Getting inside your head: Analysing search behaviours](foi_act_and_information_publication_scheme.md)
 
-[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
+[Your homepage is not your front door](foi_act_and_information_publication_scheme.md)
 
 Add new comment
 ---------------
@@ -48,7 +49,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

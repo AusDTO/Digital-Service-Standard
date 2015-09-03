@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+	
+    <meta charset="utf-8" />
+<meta name="dcterms.language" content="en" />
+<link rel="shortcut icon" href="../sites/g/files/net466/f/austgov_0.jpg" type="image/jpeg" />
+<link rel="schema.AGLSTERMS" href="http://www.agls.gov.au/agls/terms/" />
+<link rel="icon" href="../sites/g/files/net466/f/iconomist/austgov_1.jpg" type="image/jpeg" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="dcterms.modified" content="2015-08-12T09:38+10:00" />
+<meta name="dcterms.title" content="Preface to the API Design Guide" />
+<meta name="dcterms.description" content="A design guide with developer empathy." />
+<meta name="dcterms.publisher" content="Digital Transformation Office" />
+<meta name="dcterms.date" content="2015-08-07T11:06+10:00" />
+<meta name="dcterms.creator" content="Chris Gough" />
+<meta name="description" content="A design guide with developer empathy." />
+<meta name="generator" content="Drupal 7 (http://drupal.org) + govCMS (http://govcms.gov.au)" />
+<link rel="canonical" href="../node/1081.html" />
+<link rel="shortlink" href="../node/1081.html" />
+    <title>Preface to the API Design Guide | Digital Transformation Office</title>
+    
+    <meta property="og:image" content="https://www.dto.gov.au/sites/g/files/net466/f/styles/large/public/dto_icn_150x80px_midblue.png?itok=zvy6Xc24"/><!--linkedin link logo-->
+	<link rel="image_src" href="../sites/g/files/net466/f/styles/large/public/dto_icn_150x80px_midblue.png%3Fitok=zvy6Xc24" /> <!--facebook link logo-->
+	
+            <meta name="MobileOptimized" content="width">
+        <meta name="HandheldFriendly" content="true">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!--<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">--> <!--SS-stops zooming on inputs on mobile devices-->
+        <meta http-equiv="cleartype" content="on">
+
+    <style>
+@import url("https://www.dto.gov.au/modules/system/system.base.css?ntxi7t");
+@import url("https://www.dto.gov.au/modules/comment/comment.css?ntxi7t");
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/date/date_api/date.css?ntxi7t");
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/date/date_popup/themes/datepicker.1.7.css?ntxi7t");
+@import url("https://www.dto.gov.au/modules/field/theme/field.css?ntxi7t");
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/google_analytics_reports/google_analytics_reports/google_analytics_reports.css?ntxi7t");
+@import url("https://www.dto.gov.au/modules/node/node.css?ntxi7t");
+@import url("https://www.dto.gov.au/modules/search/search.css?ntxi7t");
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/toc_filter/toc_filter.css?ntxi7t");
+@import url("https://www.dto.gov.au/modules/user/user.css?ntxi7t");
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/video_filter/video_filter.css?ntxi7t");
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/views/css/views.css?ntxi7t");
+</style>
+<style>
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/ctools/css/ctools.css?ntxi7t");
+@import url("https://www.dto.gov.au/profiles/govcms/modules/contrib/panels/css/panels.css?ntxi7t");
+@import url("https://www.dto.gov.au/modules/filter/filter.css?ntxi7t");
+</style>
+<style>.url-textfield{display:none !important;}
+</style>
+<style>
+@import url("../sites/g/files/net466/themes/site/dto_whitesite/libraries/gray/css/gray.min.css%3Fntxi7t.css");
+@import url("../sites/g/files/net466/themes/site/dto_whitesite/css/font-awesome.min.css%3Fntxi7t.css");
+@import url("../sites/g/files/net466/themes/site/dto_whitesite/css/magnific-popup.css%3Fntxi7t.css");
+@import url("../sites/g/files/net466/themes/site/dto_whitesite/css/styles.css%3Fntxi7t.css");
+</style>
+    <script src="https://code.jquery.com/jquery-1.7.0.min.js?v=1.4.4"></script>
+<script src="https://www.dto.gov.au/misc/jquery.once.js?v=1.2"></script>
+<script src="https://www.dto.gov.au/misc/drupal.js?ntxi7t"></script>
+<script src="https://www.dto.gov.au/misc/form.js?v=7.39"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/modules/contrib/google_analytics_reports/google_analytics_reports/google_analytics_reports.js?ntxi7t"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/modules/contrib/toc_filter/toc_filter.js?ntxi7t"></script>
+<script src="https://www.google.com/jsapi"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/modules/contrib/google_analytics/googleanalytics.js?ntxi7t"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-61222473-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");ga('create', 'UA-54970022-1', 'auto', {'name': 'govcms'}); ga('govcms.send', 'pageview', {'anonymizeIp': true});</script>
+<script src="https://www.dto.gov.au/misc/textarea.js?v=7.39"></script>
+<script src="https://www.dto.gov.au/modules/filter/filter.js?ntxi7t"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/libraries/html5placeholder/jquery.placeholder.js?ntxi7t"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/themes/govcms/govcms_zen/js/tinynav.min.js?ntxi7t"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/themes/govcms/govcms_zen/js/script.js?ntxi7t"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/themes/govcms/govcms_zen/js/superfish.js?ntxi7t"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/themes/govcms/govcms_zen/js/hoverIntent.js?ntxi7t"></script>
+<script src="https://www.dto.gov.au/profiles/govcms/themes/govcms/govcms_zen/js/responsiveslides.js?ntxi7t"></script>
+<script src="../sites/g/files/net466/themes/site/dto_whitesite/js/agency.js%3Fntxi7t"></script>
+<script src="../sites/g/files/net466/themes/site/dto_whitesite/libraries/gray/js/jquery.gray.js%3Fntxi7t"></script>
+<script src="../sites/g/files/net466/themes/site/dto_whitesite/js/highcharts.js%3Fntxi7t"></script>
+<script src="../sites/g/files/net466/themes/site/dto_whitesite/js/exporting.js%3Fntxi7t"></script>
+<script src="../sites/g/files/net466/themes/site/dto_whitesite/js/data.js%3Fntxi7t"></script>
+<script src="../sites/g/files/net466/themes/site/dto_whitesite/js/jquery.magnific-popup.js%3Fntxi7t"></script>
+<script src="../sites/g/files/net466/themes/site/dto_whitesite/js/jquery-menu.js%3Fntxi7t"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dto_whitesite","theme_token":"Rdfc27ccHP5LVjQ8kpYsvlWG2y66RYz0cpYcAPnZTBw","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/form.js":1,"profiles\/govcms\/modules\/contrib\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.js":1,"profiles\/govcms\/modules\/contrib\/toc_filter\/toc_filter.js":1,"https:\/\/www.google.com\/jsapi":1,"profiles\/govcms\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"misc\/textarea.js":1,"modules\/filter\/filter.js":1,"profiles\/govcms\/libraries\/html5placeholder\/jquery.placeholder.js":1,"profiles\/govcms\/themes\/govcms\/govcms_zen\/js\/tinynav.min.js":1,"profiles\/govcms\/themes\/govcms\/govcms_zen\/js\/script.js":1,"profiles\/govcms\/themes\/govcms\/govcms_zen\/js\/superfish.js":1,"profiles\/govcms\/themes\/govcms\/govcms_zen\/js\/hoverIntent.js":1,"profiles\/govcms\/themes\/govcms\/govcms_zen\/js\/responsiveslides.js":1,"sites\/g\/files\/net466\/themes\/site\/dto_whitesite\/js\/agency.js":1,"sites\/g\/files\/net466\/themes\/site\/dto_whitesite\/libraries\/gray\/js\/jquery.gray.js":1,"sites\/g\/files\/net466\/themes\/site\/dto_whitesite\/js\/highcharts.js":1,"sites\/g\/files\/net466\/themes\/site\/dto_whitesite\/js\/exporting.js":1,"sites\/g\/files\/net466\/themes\/site\/dto_whitesite\/js\/data.js":1,"sites\/g\/files\/net466\/themes\/site\/dto_whitesite\/js\/jquery.magnific-popup.js":1,"sites\/g\/files\/net466\/themes\/site\/dto_whitesite\/js\/jquery-menu.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"profiles\/govcms\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/govcms\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"profiles\/govcms\/modules\/contrib\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"profiles\/govcms\/modules\/contrib\/toc_filter\/toc_filter.css":1,"modules\/user\/user.css":1,"profiles\/govcms\/modules\/contrib\/video_filter\/video_filter.css":1,"profiles\/govcms\/modules\/contrib\/views\/css\/views.css":1,"profiles\/govcms\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/govcms\/modules\/contrib\/panels\/css\/panels.css":1,"modules\/filter\/filter.css":1,"0":1,"sites\/g\/files\/net466\/themes\/site\/dto_whitesite\/system.menus.css":1,"sites\/g\/files\/net466\/themes\/site\/dto_whitesite\/system.messages.css":1,"sites\/g\/files\/net466\/themes\/site\/dto_whitesite\/system.theme.css":1,"profiles\/govcms\/themes\/govcms\/govcms_zen\/css\/govcms_styles.css":1,"profiles\/govcms\/themes\/govcms\/govcms_zen\/css\/superfish.css":1,"sites\/g\/files\/net466\/themes\/site\/dto_whitesite\/govcms_zen.css":1,"sites\/g\/files\/net466\/themes\/site\/dto_whitesite\/govcms_styles.css":1,"sites\/g\/files\/net466\/themes\/site\/dto_whitesite\/libraries\/gray\/css\/gray.min.css":1,"sites\/g\/files\/net466\/themes\/site\/dto_whitesite\/css\/font-awesome.min.css":1,"sites\/g\/files\/net466\/themes\/site\/dto_whitesite\/css\/magnific-popup.css":1,"sites\/g\/files\/net466\/themes\/site\/dto_whitesite\/css\/styles.css":1}},"googleAnalyticsReportsAjaxUrl":"\/google-analytics-reports\/ajax","toc_filter_smooth_scroll_duration":"","currentPath":"node\/1081","currentPathIsAdmin":false,"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/comment\/1616":true,"\/comment\/reply\/1081":true},"tagmap":[],"wysiwyg":{"triggers":{"edit-comment-body-und-0-value":{"field":"edit-comment-body-und-0-value","resizable":1,"activeFormat":"plain_text"}}}});</script>
+            <!--[if lt IE 9]>
+        <script src="/profiles/govcms/themes/contrib/zen/js/html5-respond.js"></script>
+        <![endif]-->
+    </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-1081 node-type-blog-article section-blog" >
+<div id="skip-link">
+            <!--
+        <a href="#main-menu" class="skip-link element-invisible element-focusable">Jump to navigation</a>
+        -->
+        <a href="1616.html#main-content" class="skip-link element-invisible element-focusable">Skip to main content</a>
+</div>
+
+<!--<div class="layout-centered page-wrapper">-->
+<!--<div class="menu-open"></div>-->
+<div class="ie-warning"><span class="warning-text">It looks like you're using an old version of Internet Explorer. For the best experience, please update your browser.</span></div>
+  <header class="header" role="banner">
+  <div class="nav-head-container">
+    <a href="../index.html" title="Home" rel="home" class="header__logo" id="logo"><img src="../sites/g/files/net466/f/dto_crest_inline_0.png" alt="Home" class="header__logo-image" />
+    <!--<div class="mobile-header">Digital Transformation Office</div></a>-->
+    <!--<a href="/" title="Home" rel="home" class="header__logo" id="logo"><img src="/sites/all/themes/custom/dto_whitesite/images/update/government-crest.png" alt="Home" class="header__logo-image" /><span class="title">Digital Transformation Office</span></a>-->
+<a class="mobile-nav" href="1616.html#open-menu"><div class="top"></div><div class="middle"></div><div class="bottom"></div>MENU</a>
+    <nav class="header__secondary-menu" role="navigation">
+          </nav>
+
+      <div class="header__region region region-header">
+    
+<div id="block-search-api-page-default-search" class="block block-search-api-page contextual-links-region first odd">
+
+      
+  <div class="block__content">
+    <form class="search-form-widget" action="1616.html" method="post" id="search-api-page-search-form-default-search" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-keys-1">
+  <label class="element-invisible" for="edit-keys-1">Search dto.gov.au </label>
+ <input placeholder="Search dto.gov.au" type="text" id="edit-keys-1" name="keys_1" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<input type="hidden" name="id" value="1" />
+<button type="submit" id="edit-submit-1" name="op" value="Search" class="form-submit" />Search</button><input type="hidden" name="form_build_id" value="form-NctI9CPY-VIAAx9qLxiyzKcIPSNGI7dYeYdlnEKpviw" />
+<input type="hidden" name="form_id" value="search_api_page_search_form_default_search" />
+</div></form>  </div>
+
+</div>
+
+<div id="block-block-56" class="block block-block contextual-links-region even">
+
+      
+  <div class="block__content">
+    <p><a class="sb-icon-search" href="1616.html#open-search"> </a></p>
+  </div>
+
+</div>
+
+<div id="block-menu-block-2" class="block block-menu-block contextual-links-region last odd" role="navigation">
+
+      
+  <div class="block__content">
+    <div class="menu-block-wrapper menu-block-2 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="menu__item is-leaf first leaf menu-mlid-589"><a href="../index.html" class="menu__link">Home</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-2391"><a href="../news-media/blog.1.html" class="menu__link">Blog</a></li>
+<li class="menu__item is-parent is-leaf leaf has-children menu-mlid-1391"><a href="../standard/index.html" class="menu__link">Digital Service Standard</a></li>
+<li class="menu__item is-leaf leaf menu-mlid-1231"><a href="../contact-us.html" title="" class="menu__link">Engage</a></li>
+<li class="menu__item is-leaf last leaf menu-mlid-2626"><a href="../node/1051.html" class="menu__link">About us</a></li>
+</ul></div>
+  </div>
+
+</div>
+  </div>
+    </div>
+  </header>
+  <div class="layout-centered page-wrapper">
+  
+  
+  <nav class="breadcrumb" role="navigation"><h2 class="element-invisible">You are here</h2><ol><li><a href="../index.html">Home</a> / </li><li><a href="../news-media/blog.1.html">Blog</a> / </li><li>Preface to the API Design Guide</li></ol></nav>
+  
+
+    <div class="region region-highlighted layout-full">
+    
+<div id="block-block-46" class="block block-block contextual-links-region first last odd">
+
+      
+  <div class="block__content">
+    <p>Want to keep updated? Join our <a href="http://eepurl.com/bcEu2D">DTO mailing list</a> for regular updates from our <a href="../feed">RSS feed</a>.</p>
+  </div>
+
+</div>
+  </div>
+      <div class="layout-sidebar-right">
+
+    
+
+    <div class="layout-sidebar-right__main main-content" role="main">
+
+      <a href="1616.html#skip-link" id="skip-content" class="element-invisible">Go to top of page</a>
+      <a id="main-content"></a>
+                    <h1 class="page__title title" id="page-title">Preface to the API Design Guide</h1>
+                                          
+
+<div id="block-service-links-service-links" class="block block-service-links contextual-links-region first last odd">
+
+        <h2 class="block__title block-title">Share to:</h2>
+    
+  <div class="block__content">
+    <div class="service-links"><a href="http://www.facebook.com/sharer.php?u=https%3A//www.dto.gov.au/blog/preface-api-design-guide&amp;t=Preface%20to%20the%20API%20Design%20Guide" title="Share on Facebook" class="service-links-facebook" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/facebook.png" alt="Facebook logo" /></a> <a href="http://twitter.com/share?url=https%3A//www.dto.gov.au/blog/preface-api-design-guide&amp;text=Preface%20to%20the%20API%20Design%20Guide" title="Share this on Twitter" class="service-links-twitter" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/twitter.png" alt="Twitter logo" /></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//www.dto.gov.au/blog/preface-api-design-guide&amp;title=Preface%20to%20the%20API%20Design%20Guide&amp;summary=A%20design%20guide%20with%20developer%20empathy.&amp;source=Digital%20Transformation%20Office" title="Publish this post to LinkedIn" class="service-links-linkedin" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/linkedin.png" alt="LinkedIn logo" /></a> <a href="mailto:?subject=Preface%20to%20the%20API%20Design%20Guide&amp;body=https%3A//www.dto.gov.au/blog/preface-api-design-guide" title="Share via email" class="service-links-email" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/email.png" alt="email logo" /></a></div>  </div>
+
+</div>
+<div  about="/blog/preface-api-design-guide" typeof="sioc:Item foaf:Document" class="ds-1col node node-blog-article node-promoted view-mode-full clearfix">
+
+  
+  <div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">07/08/2015 - 11:06am</div></div></div><div class="field field-name-author field-type-ds field-label-inline clearfix"><div class="field-label">Author:&nbsp;</div><div class="field-items"><div class="field-item even">Chris Gough</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>A design guide with developer empathy.</p>
+<p>Like websites, shop-fronts and call centres, APIs (Application Programming Interfaces) could be viewed as simply another channel for delivering services online. APIs power many of today’s websites and mobile apps, and are becoming increasingly important in the digital economy. This is because APIs can be incorporated into downstream applications, whereby third-parties reuse and recombine them in creative ways. Good APIs strip a digital service down to its simplest possible form, so that the value of the service can be amplified through third-party reuse.</p>
+<p>The principle of user-centred design is at the core of website and application development. It’s about ergonomics; can a user “consume a digital service” without bad design getting in their way? Getting this right requires empathy for users, backed by evidence regarding user-preferences. Although a well known principle, it is not always well practised.</p>
+<p>In some ways, developer empathy is exactly the same; developers are people too, and the users of web APIs. The key difference is that when developers use an API, they often create additional value for many people. A well designed end-user experience results in a single good user experience. A well-designed API on the other hand can result in many good user experiences, often enjoyed by those the original service designer did not envision.</p>
+<blockquote><div>
+<p>We have developer empathy. If our interfaces are hard to use, we consider that a bug. We are an engineer-led company. Everything we do tries to be compatible with our API.</p>
+<p class="attribution">—Steve Mayzac, Elasticsearch (around 6.20 into <a class="reference external" href="https://www.youtube.com/watch?v=uxfvNwl_MGc">https://www.youtube.com/watch?v=uxfvNwl_MGc</a>).</p>
+</div>
+</blockquote>
+<p>User empathy is focused on ergonomics at the point of delivery. Developer empathy is focused on painless systems integration. Good API design is still fundamentally about ergonomics, but the context is different. As a user, successful design has the quality of affordance (obviousness, “don’t make me think”). For developers, good API design also incorporates this quality (through idioms and good documentation). Further, good API design allows developers to integrate their applications with your systems in a decoupled manner; they are able to reuse the resources exposed by your API in previously unimagined ways. Lastly, good APIs are stable and adhere the ‘principle of least surprise’: developers are able to rely on your API to behave in a predictable manner.</p>
+<p>The gold standard in developer empathy is found in thriving open source projects. Collaboration, peer review and a responsive community are the hallmarks of such projects. Organisations that do well in this space nurture their relationship with developers as though their survival depends on it (quite often because it does). This does not describe Australian Government IT of today, but hopefully describes the “government as a platform” of tomorrow. Some things are certain: APIs are important, they can generate additional and significant value, developer empathy is critical to successs and we need all the help we can get.</p>
+<p>The DTO planned to release a draft API design guide describing contemporary best practices in API design and developer empathy. The final document would be mandatory policy that all Commonwealth agencies must follow, and that citizens could be entitled to expect. The purpose of releasing a draft was to get feedback, but at the last minute we had a better idea...</p>
+<p>We want feedback from developers, right? So we figured: why not convert it to a developer-friendly format, published in a version control system with a public ticket system for issues and support, and invited our users to help us make it better?</p>
+<p>Done.</p>
+<blockquote><div>
+<ul><li>read <a class="reference external" href="https://apiguide.readthedocs.org/">https://apiguide.readthedocs.org/</a></li>
+<li>discuss <a class="reference external" href="https://github.com/AusDTO/apiguide/issues">https://github.com/AusDTO/apiguide/issues</a></li>
+<li>kanban <a class="reference external" href="https://waffle.io/AusDTO/apiguide">https://waffle.io/AusDTO/apiguide</a></li>
+<li>fork <a class="reference external" href="https://github.com/AusDTO/apiguide.git">https://github.com/AusDTO/apiguide.git</a></li>
+</ul></div>
+</blockquote>
+</div></div></div><div class="field field-name-service-links-block field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><div class="service-links"><a href="http://www.facebook.com/sharer.php?u=https%3A//www.dto.gov.au/blog/preface-api-design-guide&amp;t=Preface%20to%20the%20API%20Design%20Guide" title="Share on Facebook" class="service-links-facebook" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/facebook.png" alt="Facebook logo" /></a> <a href="http://twitter.com/share?url=https%3A//www.dto.gov.au/blog/preface-api-design-guide&amp;text=Preface%20to%20the%20API%20Design%20Guide" title="Share this on Twitter" class="service-links-twitter" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/twitter.png" alt="Twitter logo" /></a> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//www.dto.gov.au/blog/preface-api-design-guide&amp;title=Preface%20to%20the%20API%20Design%20Guide&amp;summary=A%20design%20guide%20with%20developer%20empathy.&amp;source=Digital%20Transformation%20Office" title="Publish this post to LinkedIn" class="service-links-linkedin" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/linkedin.png" alt="LinkedIn logo" /></a> <a href="mailto:?subject=Preface%20to%20the%20API%20Design%20Guide&amp;body=https%3A//www.dto.gov.au/blog/preface-api-design-guide" title="Share via email" class="service-links-email" rel="nofollow"><img typeof="foaf:Image" src="https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/email.png" alt="email logo" /></a></div></div></div></div><div class="field field-name-related-blogs-block field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h2 class="block-title">Related blogs</h2><div class="view view-related-blogs view-id-related_blogs view-display-id-block_2 view-dom-id-ac68359638ecc14760c9768bf908965f">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/1151.html">Recruitment campaign to find Australia&#039;s best tech talent</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/1111.html">Your homepage is not your front door</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/1096.html">Open and secure</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div></div></div><div id="comments" class="comment-wrapper">
+          <h2 class="title">Comments (9)</h2>
+        <a id="comment-1606"></a>
+<article class="comment comment-by-anonymous first odd clearfix" about="/comment/1606#comment-1606" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+            <span property="dc:date dc:created" content="2015-08-12T08:09:47+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">David Ives</span> replied on <time pubdate datetime="2015-08-12T08:09:47+10:00">Wed, 2015-08-12 08:09</time></span>      <a href="1606.html#comment-1606" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/preface-api-design-guide" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>It is good to see some work on UX improvements. There seems to be a growing trend - in web and software UIs - to litter the page with information and menus, without any real structure. Simplicity is important.</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="https://www.dto.gov.au/comment/reply/1081/1606">reply</a></li>
+</ul></article>
+
+<div class="indented"><a id="comment-1621"></a>
+<article class="comment comment-by-node-author even clearfix" about="/comment/1621#comment-1621" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+        <span class="user-picture">
+    <img typeof="foaf:Image" src="../sites/g/files/net466/f/pictures/picture-1476-1439264217.png" alt="Chris Gough&#039;s picture" title="Chris Gough&#039;s picture" />  </span>
+      <span property="dc:date dc:created" content="2015-08-12T13:20:02+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/chris-gough" typeof="sioc:UserAccount" property="foaf:name" datatype="">Chris Gough</span> replied on <time pubdate datetime="2015-08-12T13:20:02+10:00">Wed, 2015-08-12 13:20</time></span>      <a href="1621.html#comment-1621" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/preface-api-design-guide" class="rdf-meta element-hidden"></span><span rel="sioc:reply_of" resource="/comment/1606#comment-1606" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>Are you saying the layout of the draft API guide is uncluttered? Thanks but I can't take any credit for that, just adopted the most popular template from readthedocs. Within DTO we base our work on research into what users actually need, and product teams are structured so there's a UX person involved in every iteration. Trying to bolt UX onto something at the end doesn't seem to work very well.</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="https://www.dto.gov.au/comment/reply/1081/1621">reply</a></li>
+</ul></article>
+</div><a id="comment-1611"></a>
+<article class="comment comment-by-anonymous odd clearfix" about="/comment/1611#comment-1611" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+            <span property="dc:date dc:created" content="2015-08-12T08:54:55+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Craig Thomler</span> replied on <time pubdate datetime="2015-08-12T08:54:55+10:00">Wed, 2015-08-12 08:54</time></span>      <a href="1611.html#comment-1611" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/preface-api-design-guide" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>It&#039;s a good start &amp; I am absorbing the detail before commenting in Github.</p>
+<p>I was surprised that the Secure API section was a &#039;TODO&#039; as even in a draft this will be of key interest to a number of agencies with secure processes. Seeing this fleshed out, even with the DTO&#039;s broad thinking in the area, would help focus agency thoughts and feedback.</p>
+<p>There is substantial need to attract feedback from private and not-for-profit sectors who would consume and use government APIs, to avoid baking in an approach which restricts API use.</p>
+<p>I wil promote the draft through my startup circles as they contain people with a great deal of experience both in creating &amp; consuming APIs. </p>
+<p>It would be valuable for the DTO to also  take targeted approach to engage software providers who might consume government APIs (such as for accounting packages) - leaving it up to people finding the online draft (when many many not yet even know about the DTO) could present issues down the track.</p>
+<p>I&#039;d also suggest running online &amp; faceto face sessions both with gov IT people (which I assume you&#039;re already doing) and with external entities to solidify what you intend, build interest &amp; engagement and seek feedback. A few targeted articles in IT press would assist as well - don&#039;t rely on a journalist writing it for you (their spin may not reflect your intent).</p>
+<p>I also hope that the DTO is planning a change program around any mandatory implementation of APIs, as it will take time and education to get government IT teams all thinking in a similar vein &amp; shifting their approach to accommodate it. This is a very big change and needs top to bottom buy in - not just from IT people - if you want to embed the approach.</p>
+<p>I presume you have timelines for adoption of APIs and metrics for the success of the process (not just for individual APIs as in the doc), and it would be preferable to release these plans in draft for discussion as well as the specification.</p>
+<p>Cheers</p>
+<p>Craig</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="https://www.dto.gov.au/comment/reply/1081/1611">reply</a></li>
+</ul></article>
+
+<div class="indented"><a id="comment-1616"></a>
+<article class="comment comment-by-node-author even clearfix" about="/comment/1616#comment-1616" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+        <span class="user-picture">
+    <img typeof="foaf:Image" src="../sites/g/files/net466/f/pictures/picture-1476-1439264217.png" alt="Chris Gough&#039;s picture" title="Chris Gough&#039;s picture" />  </span>
+      <span property="dc:date dc:created" content="2015-08-12T13:02:43+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/chris-gough" typeof="sioc:UserAccount" property="foaf:name" datatype="">Chris Gough</span> replied on <time pubdate datetime="2015-08-12T13:02:43+10:00">Wed, 2015-08-12 13:02</time></span>      <a href="1616.html#comment-1616" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/preface-api-design-guide" class="rdf-meta element-hidden"></span><span rel="sioc:reply_of" resource="/comment/1611#comment-1611" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>&gt; I was surprised that the Secure API section was a 'TODO'...</p>
+<p>I agree it's a big and important topic. The question was; should we wait and publish later, or push out something incomplete now? The internal conversation about security seems to be caught up in a few bespoke edge-cases, feedback from people with a wealth of real world experience would be very helpful.</p>
+<p>&gt; It would be valuable for the DTO to also take targeted approach to engage software providers who might consume government APIs...</p>
+<p>That's a good suggestion, but I suspect it's not sufficient. API "discoverability" is an important quality, but we need to achieve it in an open way. I've raised a ticket for this specific suggestion, and hope that over time other ideas will surface too.</p>
+<p><a href="https://github.com/AusDTO/apiguide/issues/38">https://github.com/AusDTO/apiguide/issues/38</a></p>
+<p>&gt; I also hope that the DTO is planning a change program around any mandatory implementation of APIs</p>
+<p>You are right about the pragmatics of change, but we are encouraging APIs not mandating them (or any other technical architecture). The mandate will be "if you are doing an API, you must conform with this and that, and you should conform with these other things unless you have a good reason not to" (not "you must do an API").</p>
+<p>We don't actually have timelines for adoption and metrics yet, but if/when we do we'll document them in a transparent way.</p>
+<p>This part of your comment is really making me scratch my head:</p>
+<p>&gt; This is a very big change and needs top to bottom buy in - not just from IT people - if you want to embed the approach</p>
+<p>I don't have any insight into non-IT people's involvement in API design, production or consumption. Can you elaborate?</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="https://www.dto.gov.au/comment/reply/1081/1616">reply</a></li>
+</ul></article>
+</div><a id="comment-1736"></a>
+<article class="comment comment-by-anonymous odd clearfix" about="/comment/1736#comment-1736" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+            <span property="dc:date dc:created" content="2015-08-17T10:15:44+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tom Worthington</span> replied on <time pubdate datetime="2015-08-17T10:15:44+10:00">Mon, 2015-08-17 10:15</time></span>      <a href="1736.html#comment-1736" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/preface-api-design-guide" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>The &quot;Preface to the API Design Guide&quot; is very well written, but I could not find a link to the actual &quot;API Design Guide&quot;. Has the guide been written? If not, I suggest doing that first and worry about the preface later. Otherwise this starts to look like an episode of ABC TV&#039;s &quot;Utopia&quot;. ;-)</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="https://www.dto.gov.au/comment/reply/1081/1736">reply</a></li>
+</ul></article>
+
+<div class="indented"><a id="comment-1756"></a>
+<article class="comment comment-by-node-author even clearfix" about="/comment/1756#comment-1756" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+        <span class="user-picture">
+    <img typeof="foaf:Image" src="../sites/g/files/net466/f/pictures/picture-1476-1439264217.png" alt="Chris Gough&#039;s picture" title="Chris Gough&#039;s picture" />  </span>
+      <span property="dc:date dc:created" content="2015-08-17T17:12:19+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" about="/users/chris-gough" typeof="sioc:UserAccount" property="foaf:name" datatype="">Chris Gough</span> replied on <time pubdate datetime="2015-08-17T17:12:19+10:00">Mon, 2015-08-17 17:12</time></span>      <a href="1756.html#comment-1756" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/preface-api-design-guide" class="rdf-meta element-hidden"></span><span rel="sioc:reply_of" resource="/comment/1736#comment-1736" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>Thanks for the compliment Tom, and I'm sorry if the link to the guide itself wasn't obvious. It came as a surprise to me, but you are actually not the first person who read the blog post and missed the links at the end. Maybe it would have been better if I had embedded the links in the text rather than finishing with a bullet list.</p>
+<p>To answer your question, yes the guide does exists however it is incomplete, it is a work in progress. This work is managed with a version control system called git, using a "social coding" web site called GitHub. These links at the bottom of the article are for people that use git, in case they want to observe or participate in our work.</p>
+<ul><li>fork <a class="reference external" href="https://github.com/AusDTO/apiguide.git">https://github.com/AusDTO/apiguide.git</a></li>
+<li>discuss <a class="reference external" href="https://github.com/AusDTO/apiguide/issues">https://github.com/AusDTO/apiguide/issues</a></li>
+</ul><p>The first link is for full read access to the work in progress, including a complete revision history (who changed what, when and with comments about why). The second link allows anyone to see the "ticket system" we use to record  issues and suggestions (etc.). They also allow anyone (with a free GitHub account) to raise tickets or participate in these discussions. It also supports people offering contributions through a mechanism called "pull requests" that is one of the ways that developers collaborate using the git tool-chain.</p>
+<p>The "kanban <a class="reference external" href="https://waffle.io/AusDTO/apiguide">https://waffle.io/AusDTO/apiguide</a>" link at the bottom of the article is another view of the same tickets which highlights which ones we are currently working on, and what ones have been closed recently. This is live/real-time view we use to communicate with our colleagues about the progress and management of our work on the apiguide.</p>
+<p>Finally, the "read <a class="reference external" href="https://apiguide.readthedocs.org/">https://apiguide.readthedocs.org/</a>" link at the bottom of the blog post is to the latest version of the API Design Guide. This automatically gets rebuilt and published moments after someone makes a change to the code in GitHub, which is nice but there is clearly a deficiency: Right now, the content under DIGITAL SERVICE STANDARD link on the dto.gov.au web site does not incorporate the API design guide. This is temporary, we are looking for a nice way to resolve that at the moment.</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="https://www.dto.gov.au/comment/reply/1081/1756">reply</a></li>
+</ul></article>
+</div><a id="comment-1771"></a>
+<article class="comment comment-by-anonymous odd clearfix" about="/comment/1771#comment-1771" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+            <span property="dc:date dc:created" content="2015-08-19T12:28:37+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Tony Edwards</span> replied on <time pubdate datetime="2015-08-19T12:28:37+10:00">Wed, 2015-08-19 12:28</time></span>      <a href="1771.html#comment-1771" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/preface-api-design-guide" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>I see this as a good approach apart from the &quot;mandatory&quot; expectation. It would be good to make it mandatory though this implies it is perfect, which could be subjective and open to conjecture.<br />
+As a more community based evolution, I suggest considering &quot;accreditation&quot; as a way of getting buy in. Reward and recognise those who deliver complying services that apply the API Guide and possibly provide the right to display an accrediation logo.</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="https://www.dto.gov.au/comment/reply/1081/1771">reply</a></li>
+</ul></article>
+<a id="comment-1931"></a>
+<article class="comment comment-by-anonymous even clearfix" about="/comment/1931#comment-1931" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+            <span property="dc:date dc:created" content="2015-08-25T10:47:23+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Dean</span> replied on <time pubdate datetime="2015-08-25T10:47:23+10:00">Tue, 2015-08-25 10:47</time></span>      <a href="1931.html#comment-1931" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/preface-api-design-guide" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>Do you have example of an application that the DTO has produced that applies these principles?</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="https://www.dto.gov.au/comment/reply/1081/1931">reply</a></li>
+</ul></article>
+<a id="comment-1991"></a>
+<article class="comment comment-by-anonymous last odd clearfix" about="/comment/1991#comment-1991" typeof="sioc:Post sioct:Comment">
+
+  <header>
+    <p class="submitted">
+            <span property="dc:date dc:created" content="2015-08-31T10:55:34+10:00" datatype="xsd:dateTime" rel="sioc:has_creator"><span class="username" xml:lang="" typeof="sioc:UserAccount" property="foaf:name" datatype="">Paul Wojcik</span> replied on <time pubdate datetime="2015-08-31T10:55:34+10:00">Mon, 2015-08-31 10:55</time></span>      <a href="1991.html#comment-1991" class="permalink" rel="bookmark">Permalink</a>    </p>
+
+            
+      </header>
+
+  <span rel="sioc:reply_of" resource="/blog/preface-api-design-guide" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-inline clearfix"><div class="field-label">Comment:&nbsp;</div><div class="field-items"><div class="field-item even" property="content:encoded"><p>Good start. </p>
+<p>I think we need to provide greater detail on the key decision points when choosing which Ubiquitous Standards we use. Standards change and there is often more than one.</p>
+<p>We need to make sure SOAP/XML is in that set, and a cross comparison with RESTful / JSON will help with making the right decision. It often becomes a religious discussion for techo&#039;s when comparing standards, so it would be good to provide an evidence based approach and not just a &#039;thou shalt&#039;.</p>
+<p>I also think that these design guides need to make particular reference to applying best practices within the Australian Government framework, eg ASD ISM top 4, or the privacy principles. Templates and guidance for Dept of Finance two pass process would also help agencies a great deal as well. I am sure there are many more.</p>
+</div></div></div>
+  
+  <ul class="links inline"><li class="comment-reply first last"><a href="https://www.dto.gov.au/comment/reply/1081/1991">reply</a></li>
+</ul></article>
+      <h2 class="title comment-form">Add new comment</h2>
+    <form class="comment-form" action="https://www.dto.gov.au/comment/reply/1081" method="post" id="comment-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Your name </label>
+ <input type="text" id="edit-name" name="name" value="" size="30" maxlength="60" class="form-text" />
+</div>
+<div class="field-type-text-long field-name-comment-body field-widget-text-textarea form-wrapper" id="edit-comment-body"><div id="comment-body-add-more-wrapper"><div class="text-format-wrapper"><div class="form-item form-type-textarea form-item-comment-body-und-0-value">
+  <label for="edit-comment-body-und-0-value">Comment <span class="form-required" title="This field is required.">(mandatory)</span></label>
+ <div class="form-textarea-wrapper resizable"><textarea class="text-full wysiwyg form-textarea required" required="true" id="edit-comment-body-und-0-value" name="comment_body[und][0][value]" cols="60" rows="5"></textarea></div>
+</div>
+<fieldset class="filter-wrapper form-wrapper" id="edit-comment-body-und-0-format"><div class="fieldset-wrapper"><div class="filter-help form-wrapper" id="edit-comment-body-und-0-format-help"><p><a href="../filter/tips.html" target="_blank">More information about text formats</a></p></div><div class="filter-guidelines form-wrapper" id="edit-comment-body-und-0-format-guidelines"><div class="filter-guidelines-item filter-guidelines-plain_text"><h3>Plain text</h3><ul class="tips"><li>No HTML tags allowed.</li><li>Web page addresses and e-mail addresses turn into links automatically.</li><li>Lines and paragraphs break automatically.</li></ul></div></div></div></fieldset>
+</div>
+</div></div><input type="hidden" name="form_build_id" value="form-l4TIjooxiAeDI-5JsDdUnY3y5CUhkbg63-48FkrHMOY" />
+<input type="hidden" name="form_id" value="comment_node_blog_article_form" />
+<div class="url-textfield"><div class="form-item form-type-textfield form-item-url">
+  <label for="edit-url">Leave this field blank </label>
+ <input autocomplete="off" type="text" id="edit-url" name="url" value="" size="20" maxlength="128" class="form-text" />
+</div>
+</div><div class="form-actions form-wrapper" id="edit-actions"><button type="submit" id="edit-submit" name="op" value="Save" class="form-submit" />Save</button><button type="submit" id="edit-preview" name="op" value="Preview" class="form-submit" />Preview</button></div></div></form>  </div>
+</div>
+
+          </div>
+
+          <aside class="layout-sidebar-right__sidebar_two sidebar sidebar-right" role="complementary">
+          <section class="region region-sidebar-two column sidebar">
+    
+<div id="block-views-related-blogs-block-2" class="block block-views contextual-links-region first last odd">
+
+        <h2 class="block__title block-title">Related blogs</h2>
+    
+  <div class="block__content">
+    <div class="view view-related-blogs view-id-related_blogs view-display-id-block_2 view-dom-id-6b394da88bcf25b862e6e1812406bf16">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/1151.html">Recruitment campaign to find Australia&#039;s best tech talent</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/1111.html">Your homepage is not your front door</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/1096.html">Open and secure</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+</div>
+  </section>
+      </aside>
+
+    
+  </div>
+
+<div class="recruitment-form">
+	<script type="text/javascript" id="rbox-loader-script">
+if(!window._rbox){
+_rbox = { host_protocol:document.location.protocol, ready:function(cb){this.onready=cb;} };
+(function(d, e) {
+    var s, t, i, src=['/static/client-src-served/widget/36555/rbox_api.js', '/static/client-src-served/widget/36555/rbox_impl.js'];
+    t = d.getElementsByTagName(e); t=t[t.length - 1];
+    for(i=0; i<src.length; i++) {
+        s = d.createElement(e); s.src = _rbox.host_protocol + '//w.recruiterbox.com' + eval("src" + String.fromCharCode(91) + String(i) + String.fromCharCode(93));
+        t.parentNode.insertBefore(s, t.nextSibling);
+    }})(document, 'script');
+}
+</script>
+</div>	  
+
+</div>
+
+<script type="text/javascript" id="rbox-loader-script">
+if(!window._rbox){
+_rbox = { host_protocol:document.location.protocol, ready:function(cb){this.onready=cb;} };
+(function(d, e) {
+    var s, t, i, src=['/static/client-src-served/widget/36555/rbox_api.js', '/static/client-src-served/widget/36555/rbox_impl.js'];
+    t = d.getElementsByTagName(e); t=t[t.length - 1];
+    for(i=0; i<src.length; i++) {
+        s = d.createElement(e); s.src = _rbox.host_protocol + '//w.recruiterbox.com' + eval("src" + String.fromCharCode(91) + String(i) + String.fromCharCode(93));
+        t.parentNode.insertBefore(s, t.nextSibling);
+    }})(document, 'script');
+}
+</script>
+<footer class="footer">
+	<div class="connect-with-dto">
+    <h2>Connect with DTO</h2>
+    <a href="https://twitter.com/AusDTO" title="DTO Twitter"><div class="twitter-icon"></div></a>
+    <a href="https://www.youtube.com/channel/UCmDkFN3UlK2wSKDQQhd-Y-A" title="DTO Youtube"><div class="youtube-icon"></div></a>
+    <a href="https://www.linkedin.com/company/digital-transformation-office" title="DTO Linkedin"><div class="linkedin-icon"></div></a>
+    <a href="https://github.com/AusDTO" title="DTO Github"><div class="github-icon"></div></a>
+    </div>
+    <div class="footer-links">
+   <!--<a href="/" title="Home" rel="home" class="header__logo" id="logo"><img src="sites/all/themes/custom/dto_whitesite/images/update/government-crest.png" alt="Home" class="header__logo-image" /><span class="title">Digital Transformation Office</span></a>-->
+      <div id="footer_bottom" class="region region-footer-bottom clearfix">
+    
+<div id="block-menu-menu-footer-sub-menu" class="block block-menu contextual-links-region first last odd" role="navigation">
+
+        <h2 class="block__title block-title">Footer Sub Menu</h2>
+    
+  <div class="block__content">
+    <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="../node/1051.html" title="Link to about the DTO" class="menu__link">About</a></li>
+<li class="menu__item is-leaf leaf"><a href="../node/901.html" class="menu__link">Accessibility</a></li>
+<li class="menu__item is-leaf leaf"><a href="../node/896.html" class="menu__link">Copyright</a></li>
+<li class="menu__item is-leaf leaf"><a href="../node/906.html" class="menu__link">Disclaimer</a></li>
+<li class="menu__item is-leaf leaf"><a href="../node/911.html" class="menu__link">Privacy Statement</a></li>
+<li class="menu__item is-leaf leaf"><a href="../node/941.html" title="" class="menu__link">Budget</a></li>
+<li class="menu__item is-leaf leaf"><a href="../sitemap.html" title="" class="menu__link">Site map</a></li>
+<li class="menu__item is-leaf last leaf"><a href="../contact-us.html" title="" class="menu__link">Contact us</a></li>
+</ul>  </div>
+
+</div>
+  </div>
+    </div>
+  
+</footer>
+
+</body>
+</html>

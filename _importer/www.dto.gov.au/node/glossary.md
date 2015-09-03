@@ -1,13 +1,14 @@
 ---
-title: glossary.md
+title: glossary
+permalink: foi_act_and_information_publication_scheme.md
 layout: default
 ---
 Glossary
 ========
 
-This glossary will grow as guidance evolves. If you have found a term that needs to be defined here [let us know](../feedback%3Furl_from=glossary.md).
+This glossary will grow as guidance evolves. If you have found a term that needs to be defined here [let us know](../feedback%3Furl_from=foi_act_and_information_publication_scheme.md).
 
-[A  -  F](glossary.md#a) | [G  -  L](glossary.md#g) | [M  -  R](glossary.md#m) | [S  -  Z](glossary.md#s)
+[A  -  F](foi_act_and_information_publication_scheme.md#a) | [G  -  L](foi_act_and_information_publication_scheme.md#g) | [M  -  R](foi_act_and_information_publication_scheme.md#m) | [S  -  Z](foi_act_and_information_publication_scheme.md#s)
 ---------------------------------------------------------------------------------------------
 
 Term
@@ -74,7 +75,7 @@ Indicates a course of action that is not recommended
 
 A **transaction** is a single exchange carried out between an individual or business and government to achieve an outcome. For example, registering to vote or applying for a passport.
 
-[Back to top](glossary.md#)
+[Back to top](foi_act_and_information_publication_scheme.md#)
 
-**Last updated:** 23 July 2015 ** |**  [Provide feedback on this page](../feedback%3Furl_from=glossary.md)
+**Last updated:** 23 July 2015 ** |**  [Provide feedback on this page](../feedback%3Furl_from=foi_act_and_information_publication_scheme.md)
 

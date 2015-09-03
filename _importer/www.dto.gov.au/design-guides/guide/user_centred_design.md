@@ -1,5 +1,6 @@
 ---
-title: user_centred_design.md
+title: user_centred_design
+permalink: user_centred_design.html
 layout: default
 ---
 User-centred design
@@ -25,36 +26,36 @@ Why must I?
 
 Most users don’t choose to use our services; most of the time they have to. So it is our responsibility to improve and develop digital services that are easy and convenient. We want users to continue dealing with government online because they can see and experience the value and benefits in doing so.
 
-A user-centred approach is supported by [*Ahead of the game: Blueprint for the reform of Australian Government administration*](http://pandora.nla.gov.au/pan/119327/20100401-1449/www.dpmc.gov.au/publications/aga_reform/aga_reform_blueprint/digital_service_standard.md) (2010) to deliver better services.
+A user-centred approach is supported by [*Ahead of the game: Blueprint for the reform of Australian Government administration*](http://pandora.nla.gov.au/pan/119327/20100401-1449/www.dpmc.gov.au/publications/aga_reform/aga_reform_blueprint/foi_act_and_information_publication_scheme.md) (2010) to deliver better services.
 
 How do I?
 ---------
 
--   [Follow the design process](../../user_centred_design.md#followdesign)
--   [Conduct user research](../../user_centred_design.md#conductuser)
--   [Undertake usability testing](../../user_centred_design.md#usabilitytesting)
--   [Share your findings](../../user_centred_design.md#sharefindings)
+-   [Follow the design process](../../foi_act_and_information_publication_scheme.md#followdesign)
+-   [Conduct user research](../../foi_act_and_information_publication_scheme.md#conductuser)
+-   [Undertake usability testing](../../foi_act_and_information_publication_scheme.md#usabilitytesting)
+-   [Share your findings](../../foi_act_and_information_publication_scheme.md#sharefindings)
 
 ### Follow the design process
 
-Keep the user at the centre of the [design process](../../node/service_design_process.md): they are the subject matter experts on what’s easy to use and what isn’t. This means:
+Keep the user at the centre of the [design process](../../node/foi_act_and_information_publication_scheme.md): they are the subject matter experts on what’s easy to use and what isn’t. This means:
 
 -   making sure users are the focus throughout the design process
 -   listening and acting when you receive users’ input and feedback.
 
-Be transparent throughout the [design process](../../node/service_design_process.md) by designing with users; continually testing and building concepts, ideas and prototypes from paper prototypes through to working code. We should accept when we have made a mistake (we’re only human) and re-iterate and test again so the service can be the best it can be for our users.
+Be transparent throughout the [design process](../../node/foi_act_and_information_publication_scheme.md) by designing with users; continually testing and building concepts, ideas and prototypes from paper prototypes through to working code. We should accept when we have made a mistake (we’re only human) and re-iterate and test again so the service can be the best it can be for our users.
 
 ### Conduct user research
 
-Conduct [user research](../../node/user_research.md) at the beginning and throughout the process to discover user needs, perspectives, natural systems, processes, motivations, attitudes, values and expectations to create a positive user experience.
+Conduct [user research](../../node/foi_act_and_information_publication_scheme.md) at the beginning and throughout the process to discover user needs, perspectives, natural systems, processes, motivations, attitudes, values and expectations to create a positive user experience.
 
 ### Undertake usability testing
 
-Undertake [usability testing](../../usability_testing.md) to benchmark and assess how user friendly a services is. This allows designers and developers to identify problems early and to fix them before the service is released more broadly.
+Undertake [usability testing](../../foi_act_and_information_publication_scheme.md) to benchmark and assess how user friendly a services is. This allows designers and developers to identify problems early and to fix them before the service is released more broadly.
 
 ### Share your findings
 
-Present and make your findings available to [the team](../../the_team.md). Document your processes, actions and results in a place that’s easily accessible. It’s likely that you’ll need to come back to them to recall what you discovered and to check how a particular theme or feature has developed over the course of the design iterations.
+Present and make your findings available to [the team](../../foi_act_and_information_publication_scheme.md). Document your processes, actions and results in a place that’s easily accessible. It’s likely that you’ll need to come back to them to recall what you discovered and to check how a particular theme or feature has developed over the course of the design iterations.
 
 **Last updated: **26 June 2015 ** |**  [Provide feedback on this page](../../feedback%3Furl_from=UserCenteredDesign.html)
 

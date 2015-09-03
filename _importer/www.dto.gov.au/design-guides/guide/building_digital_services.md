@@ -1,5 +1,6 @@
 ---
-title: building_digital_services.md
+title: building_digital_services
+permalink: building_digital_services.html
 layout: default
 ---
 Building digital services
@@ -9,7 +10,7 @@ Building user-centric government digital services for customer to government (C2
 
 The purpose of this guide is to assist agencies to understand government language and terminology and the obligations they need to meet to deliver a digital service. It is also intended to provide support for agencies to help then acquire resources and skills they may lack.
 
-In the context of this guide, ‘building’ includes solution architecture as well as software configuration for commercial off-the-shelf (COTS) solutions and software development (bespoke). Guidance on [user-centred design](../../user_centred_design.md) is available in other guides.
+In the context of this guide, ‘building’ includes solution architecture as well as software configuration for commercial off-the-shelf (COTS) solutions and software development (bespoke). Guidance on [user-centred design](../../foi_act_and_information_publication_scheme.md) is available in other guides.
 
 We recognise that many agencies already have expertise, resources and experience to build digital services far beyond what can be described here. As with other guides, you may only require a quick review of the top-level checklist items, rather than all of the linked detailed guidance.  
 
@@ -34,16 +35,16 @@ How do I?
 
 This checklist is not a comprehensive guide on how to build a digital service. However, as it evolves it aims to help agencies identify their obligations, as well as provide better practice advice. It is also intended that this guide will assist agencies to identify additional resources they may require to build a digital service.
 
--   [Identify existing experience and capability](../../node/building_digital_services.md#identify)
--   [Reuse, buy, build (in that order)](../../node/building_digital_services.md#reuse)
--   [Understand service obligations](../../node/building_digital_services.md#understand)
--   [Use an iterative and user-centred methodology](../../node/building_digital_services.md#use)
--   [Use open standards](../../node/building_digital_services.md#useopen)
--   [Select the right tools](../../node/building_digital_services.md#select)
+-   [Identify existing experience and capability](../../node/foi_act_and_information_publication_scheme.md#identify)
+-   [Reuse, buy, build (in that order)](../../node/foi_act_and_information_publication_scheme.md#reuse)
+-   [Understand service obligations](../../node/foi_act_and_information_publication_scheme.md#understand)
+-   [Use an iterative and user-centred methodology](../../node/foi_act_and_information_publication_scheme.md#use)
+-   [Use open standards](../../node/foi_act_and_information_publication_scheme.md#useopen)
+-   [Select the right tools](../../node/foi_act_and_information_publication_scheme.md#select)
 
 ### Identify existing experience and capability
 
-Agencies’ [skills](../../the_team.md), experience and capability to build digital services vary across government. Understanding the current level of experience and capability is important to help you recognise when and where you may need expert help.
+Agencies’ [skills](../../foi_act_and_information_publication_scheme.md), experience and capability to build digital services vary across government. Understanding the current level of experience and capability is important to help you recognise when and where you may need expert help.
 
 ### Reuse, buy, build (in that order)
 
@@ -51,7 +52,7 @@ There are many existing government capabilities and platforms that you can reuse
 
 If you need something not yet produced in government, open source or existing commercial off-the- shelf (COTS) products should suit your need. Certain [cloud computing service models](http://en.wikipedia.org/wiki/Cloud_computing#Service_models) can reduce the need for internal technical expertise in producing the required service.
 
-The Digital Transformation Office is coordinating the development of many [core platforms](../../node/common_government_solutions.md) for government. These core platforms should be used before building your own similar software solution.
+The Digital Transformation Office is coordinating the development of many [core platforms](../../node/foi_act_and_information_publication_scheme.md) for government. These core platforms should be used before building your own similar software solution.
 
 ### Understand service obligations
 
@@ -67,15 +68,15 @@ This guide will include a list of obligations, their level of compliance require
 
 Digital services may use one or more [project management](http://en.wikipedia.org/wiki/Project_management) (for example, PRINCE2) and [software development](http://en.wikipedia.org/wiki/Software_development_process) methodologies (for example, waterfall or agile) or a combination of these.
 
-The [Digital Service Standard](../../standard/digital_service_standard.md) requires agencies to build services using agile, iterative and user-centred methods. [Waterfall](http://en.wikipedia.org/wiki/Waterfall_model) should only be used by exception and where it can be shown to better meet user needs. Projects may need the best of both formal and agile methods, playing to their respective strengths. Producing successful digital services is about knowing when to use the right tool at the right time.
+The [Digital Service Standard](../../standard/foi_act_and_information_publication_scheme.md) requires agencies to build services using agile, iterative and user-centred methods. [Waterfall](http://en.wikipedia.org/wiki/Waterfall_model) should only be used by exception and where it can be shown to better meet user needs. Projects may need the best of both formal and agile methods, playing to their respective strengths. Producing successful digital services is about knowing when to use the right tool at the right time.
 
-We will be extending this guide and others with more detail on software development methodologies and case studies. In the meantime, we recommend looking at the [UK Government’s guidance on agile methodologies](https://www.gov.uk/service-manual/agile/digital_service_standard.md) and how the [how the Australian Government Department of Finance’s Online Service Branch uses Agile](http://www.finance.gov.au/blog/2014/06/16/behold-the-power-of-agile/) to deliver service products.
+We will be extending this guide and others with more detail on software development methodologies and case studies. In the meantime, we recommend looking at the [UK Government’s guidance on agile methodologies](https://www.gov.uk/service-manual/agile/foi_act_and_information_publication_scheme.md) and how the [how the Australian Government Department of Finance’s Online Service Branch uses Agile](http://www.finance.gov.au/blog/2014/06/16/behold-the-power-of-agile/) to deliver service products.
 
 ### Use open standards
 
-Open standards enable you to leverage defined protocols, approaches and data or information interchange. There is more information available in the [using open standards](../../node/open_standards.md) guide.
+Open standards enable you to leverage defined protocols, approaches and data or information interchange. There is more information available in the [using open standards](../../node/foi_act_and_information_publication_scheme.md) guide.
 
-[Top](../../node/building_digital_services.md#)
+[Top](../../node/foi_act_and_information_publication_scheme.md#)
 
 ### Select the right tools
 
@@ -97,7 +98,7 @@ Business analysts will need tools that help in the gathering and documenting of 
 
 ##### User experience
 
-Tools to support [usability testing](../../usability_testing.md) including generation of mock-ups, prototypes and capturing user-experience feedback should be used. Some government agencies have specialist user-testing facilities that may assist in engaging and testing with your user groups.
+Tools to support [usability testing](../../foi_act_and_information_publication_scheme.md) including generation of mock-ups, prototypes and capturing user-experience feedback should be used. Some government agencies have specialist user-testing facilities that may assist in engaging and testing with your user groups.
 
 ##### Design tools
 
@@ -149,5 +150,5 @@ Once a system is in production a number of tools are needed to manage and operat
 
 **Last updated**: 27 March 2015  |  [Provide feedback on this page](../../feedback%3Furl_from=BuildingDigitalServices.html)
 
-[Top](../../node/building_digital_services.md#)
+[Top](../../node/foi_act_and_information_publication_scheme.md#)
 

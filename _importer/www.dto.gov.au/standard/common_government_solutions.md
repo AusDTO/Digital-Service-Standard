@@ -1,5 +1,6 @@
 ---
-title: common_government_solutions.md
+title: common_government_solutions
+permalink: common_government_solutions.html
 layout: default
 ---
 Common government solutions

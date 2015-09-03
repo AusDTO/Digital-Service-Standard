@@ -1,5 +1,6 @@
 ---
-title: building_better_services_with_analytics.md
+title: building_better_services_with_analytics
+permalink: building_better_services_with_analytics.html
 layout: default
 ---
 Building better services with analytics
@@ -46,16 +47,16 @@ We'll publish more details over the coming weeks but we want to check our thinki
 Related blogs
 -------------
 
-[Getting inside your head: Analysing search behaviours](getting_inside_your_head_analysing_search_behaviours.md)
+[Getting inside your head: Analysing search behaviours](foi_act_and_information_publication_scheme.md)
 
-[Where are we heading: A future state for user experience](where_are_we_heading_a_future_state_for_user_experience.md)
+[Where are we heading: A future state for user experience](foi_act_and_information_publication_scheme.md)
 
-[Government working with government: Lessons from OneGov](government_working_with_government_lessons_from_onegov.md)
+[Government working with government: Lessons from OneGov](foi_act_and_information_publication_scheme.md)
 
 Comments (9)
 ------------
 
-Drew Robinson replied on Tue, 2015-06-02 14:54 [Permalink](../comment/351.html#comment-351)
+Drew Robinson replied on Tue, 2015-06-02 14:54 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-351)
 
 Comment: 
 
@@ -65,7 +66,7 @@ Recently we've developed a small web app and used a log streaming tool to keep a
 
 -   [reply](https://www.dto.gov.au/comment/reply/751/351)
 
-Craig Thomler replied on Wed, 2015-06-03 09:25 [Permalink](../comment/356.html#comment-356)
+Craig Thomler replied on Wed, 2015-06-03 09:25 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-356)
 
 Comment: 
 
@@ -81,7 +82,7 @@ Note that it is also very useful for communication campaigns, as different messa
 
 -   [reply](https://www.dto.gov.au/comment/reply/751/356)
 
-Alithea Seemann replied on Wed, 2015-06-03 11:25 [Permalink](../comment/371.html#comment-371)
+Alithea Seemann replied on Wed, 2015-06-03 11:25 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-371)
 
 Comment: 
 
@@ -90,7 +91,7 @@ Sounds great! I really love the idea of this data being made available across ma
 
 -   [reply](https://www.dto.gov.au/comment/reply/751/371)
 
-Jill Tanner replied on Tue, 2015-06-09 09:25 [Permalink](../comment/416.html#comment-416)
+Jill Tanner replied on Tue, 2015-06-09 09:25 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-416)
 
 Comment: 
 
@@ -99,7 +100,7 @@ Suggestion: Another thing to measure could be availability / reliability of inte
 
 -   [reply](https://www.dto.gov.au/comment/reply/751/416)
 
-Nathanael Coyne replied on Tue, 2015-06-09 10:32 [Permalink](../comment/code_sharing.md#comment-421)
+Nathanael Coyne replied on Tue, 2015-06-09 10:32 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-421)
 
 Comment: 
 
@@ -111,7 +112,7 @@ I think that better collection, processing and sharing of analytics data will be
 
 -   [reply](https://www.dto.gov.au/comment/reply/751/421)
 
-Alun Probert replied on Tue, 2015-06-09 12:22 [Permalink](../comment/426.html#comment-426)
+Alun Probert replied on Tue, 2015-06-09 12:22 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-426)
 
 Comment: 
 
@@ -119,7 +120,7 @@ Great initiative. The challenge will be in the interpretation of the data. It wi
 
 -   [reply](https://www.dto.gov.au/comment/reply/751/426)
 
-Jon Burg replied on Wed, 2015-06-24 23:15 [Permalink](../comment/601.html#comment-601)
+Jon Burg replied on Wed, 2015-06-24 23:15 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-601)
 
 Comment: 
 
@@ -131,7 +132,7 @@ For example, many enterprises start by matching their performance analytics with
 
 -   [reply](https://www.dto.gov.au/comment/reply/751/601)
 
-Dan Craddock replied on Tue, 2015-06-30 14:56 [Permalink](../comment/686.html#comment-686)
+Dan Craddock replied on Tue, 2015-06-30 14:56 [Permalink](../comment/6foi_act_and_information_publication_scheme.md#comment-686)
 
 Comment: 
 
@@ -158,7 +159,7 @@ Dan.
 
 -   [reply](https://www.dto.gov.au/comment/reply/751/686)
 
-Stefan Willoughby replied on Tue, 2015-08-25 14:51 [Permalink](../comment/1wireframing.md#comment-1936)
+Stefan Willoughby replied on Tue, 2015-08-25 14:51 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1936)
 
 Comment: 
 
@@ -175,7 +176,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

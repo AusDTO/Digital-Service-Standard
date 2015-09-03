@@ -1,5 +1,6 @@
 ---
-title: getting_inside_your_head_analysing_search_behaviours.md
+title: getting_inside_your_head_analysing_search_behaviours
+permalink: getting_inside_your_head_analysing_search_behaviours.html
 layout: default
 ---
 Getting inside your head: Analysing search behaviours
@@ -76,16 +77,16 @@ What do you think? Do you recognise these behaviours in yourself or in the users
 Related blogs
 -------------
 
-[How do Australians really feel about digital government services?](how_do_australians_really_feel_about_digital_government_services.md)
+[How do Australians really feel about digital government services?](foi_act_and_information_publication_scheme.md)
 
-[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
+[Your homepage is not your front door](foi_act_and_information_publication_scheme.md)
 
-[Where are we heading: A future state for user experience](where_are_we_heading_a_future_state_for_user_experience.md)
+[Where are we heading: A future state for user experience](foi_act_and_information_publication_scheme.md)
 
-Comments (6)
+Comments (8)
 ------------
 
-peter richards replied on Fri, 2015-08-21 10:51 [Permalink](../comment/1user_pathways.md#comment-1821)
+peter richards replied on Fri, 2015-08-21 10:51 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1821)
 
 Comment: 
 
@@ -93,7 +94,7 @@ This is all good stuff - understanding behaviours is fundamental to improving di
 
 -   [reply](https://www.dto.gov.au/comment/reply/1106/1821)
 
-![Vanessa Roarty's picture](../sites/g/files/net466/f/pictures/picture-1561-1439443165.jpg "Vanessa Roarty's picture") Vanessa Roarty replied on Fri, 2015-08-21 20:02 [Permalink](../comment/1high_level_design.md#comment-1836)
+![Vanessa Roarty's picture](../sites/g/files/net466/f/pictures/picture-1561-1439443165.jpg "Vanessa Roarty's picture") Vanessa Roarty replied on Fri, 2015-08-21 20:02 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1836)
 
 Comment: 
 
@@ -101,7 +102,7 @@ Hi Peter, ... and agreed! I hope the DTO and other agencies can demonstrate the 
 
 -   [reply](https://www.dto.gov.au/comment/reply/1106/1836)
 
-Jason Guo replied on Fri, 2015-08-21 15:57 [Permalink](../comment/1workshops.md#comment-1826)
+Jason Guo replied on Fri, 2015-08-21 15:57 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1826)
 
 Comment: 
 
@@ -109,7 +110,7 @@ That's a good sum up Vanessa. One of the many challenges I faced when managing l
 
 -   [reply](https://www.dto.gov.au/comment/reply/1106/1826)
 
-Ben Winkler replied on Mon, 2015-08-24 10:26 [Permalink](../comment/1principles_of_digital_service_design.md#comment-1866)
+Ben Winkler replied on Mon, 2015-08-24 10:26 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1866)
 
 Comment: 
 
@@ -121,7 +122,7 @@ Or, will there be a central service/area/department that deals with the front-en
 
 -   [reply](https://www.dto.gov.au/comment/reply/1106/1866)
 
-vbrefaus replied on Mon, 2015-08-24 11:04 [Permalink](../comment/1measurement.md#comment-1881)
+vbrefaus replied on Mon, 2015-08-24 11:04 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1881)
 
 Comment: 
 
@@ -131,7 +132,7 @@ None of the above is new, it is all good stuff.
 
 -   [reply](https://www.dto.gov.au/comment/reply/1106/1881)
 
-Jeremy Gregson replied on Mon, 2015-08-24 13:12 [Permalink](../comment/1common_government_solutions.md#comment-1886)
+Jeremy Gregson replied on Mon, 2015-08-24 13:12 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1886)
 
 Comment: 
 
@@ -140,6 +141,22 @@ What is new is that, back in the 1990s when we set up the first australia.gov.au
 
 -   [reply](https://www.dto.gov.au/comment/reply/1106/1886)
 
+Shannon Garner replied on Wed, 2015-09-02 19:02 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-2111)
+
+Comment: 
+
+I tested the statement about failed search terms being more interesting than successful ones today and... you are right Jeremy! My on-site search analysis showed some really interesting data and user behaviour, for example it would seem that people are confusing our organisation with another that uses the same acronym even though the two organisations are polar opposites in their core functions. Previously I might have used the successful search terms to tweak IA or modify content delivery for example, giving only a cursory glance at the failed search terms but this little snippet has provided a new perspective. Quite a powerful one actually so thanks!
+
+-   [reply](https://www.dto.gov.au/comment/reply/1106/2111)
+
+Shannon Garner replied on Wed, 2015-09-02 19:30 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-2116)
+
+Comment: 
+
+I'm also really interested in improving interaction pathways and SEO in on-site search. Using a "Google" approach in on-site search engine development (or re-shaping) would create an experience consistent with common search behaviour. This has got to be a good thing right? Much to the distaste of my esteemed ex-librarian colleagues who believe in maintaining the purity of traditional database search (eek!) there are great usability benefits to this approach to on-site search.
+
+-   [reply](https://www.dto.gov.au/comment/reply/1106/2116)
+
 Add new comment
 ---------------
 
@@ -147,7 +164,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

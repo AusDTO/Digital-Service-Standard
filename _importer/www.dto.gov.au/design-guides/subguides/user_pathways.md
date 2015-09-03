@@ -1,5 +1,6 @@
 ---
-title: user_pathways.md
+title: user_pathways
+permalink: user_pathways.html
 layout: default
 ---
 User pathways
@@ -11,9 +12,9 @@ User pathways are a design tool used to visually document the logical step-by-st
 
 User pathways enable you to:
 
--   develop a common understanding with stakeholders of the current [user experience](../../node/user_research.md) and interaction points before designing the future solution
--   manage and map the change between current and future [user experience](../../node/user_research.md) from people, process and technology perspectives
--   uncover issues early in the [design process](../../node/service_design_process.md).
+-   develop a common understanding with stakeholders of the current [user experience](../../node/foi_act_and_information_publication_scheme.md) and interaction points before designing the future solution
+-   manage and map the change between current and future [user experience](../../node/foi_act_and_information_publication_scheme.md) from people, process and technology perspectives
+-   uncover issues early in the [design process](../../node/foi_act_and_information_publication_scheme.md).
 
 Purpose
 -------
@@ -37,11 +38,11 @@ Typically user pathways are documents as flow charts, with different swimlanes f
 Test draft with stakeholders
 ----------------------------
 
-Gather stakeholders in a [workshop](../../node/workshops.md)to test the initial current state pathway. Be prepared to make amendments to the pathway right up to the end of the workshop.
+Gather stakeholders in a [workshop](../../node/foi_act_and_information_publication_scheme.md)to test the initial current state pathway. Be prepared to make amendments to the pathway right up to the end of the workshop.
 
 Keep the process steps at a consistent level of detail. Try not to get side tracked documenting the low-level actions unless you’re aiming for a very detailed pathway. Remember the focus of a user pathway is the user!
 
-After confirming the current state pathway is an accurate representation of the [user experience](../../node/user_research.md) as it exist, refocus your stakeholders onto the future user experience. Step through the pathway and identify where changes need to be made.
+After confirming the current state pathway is an accurate representation of the [user experience](../../node/foi_act_and_information_publication_scheme.md) as it exist, refocus your stakeholders onto the future user experience. Step through the pathway and identify where changes need to be made.
 
 As a group, compare the current to the future process and categorise the changes into people, process, policy/law and technology to start to articulate what needs to happen to deliver the future user experience. As you progress, capture any issues or risks that stakeholders identify and revisit afterwards.
 

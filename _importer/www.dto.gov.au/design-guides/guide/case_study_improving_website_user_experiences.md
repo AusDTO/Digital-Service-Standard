@@ -1,5 +1,6 @@
 ---
-title: case_study_improving_website_user_experiences.md
+title: case_study_improving_website_user_experiences
+permalink: case_study_improving_website_user_experiences.html
 layout: default
 ---
 Case study: Improving website user experiences

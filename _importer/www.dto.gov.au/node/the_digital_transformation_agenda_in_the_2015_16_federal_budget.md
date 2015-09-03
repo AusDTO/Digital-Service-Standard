@@ -1,5 +1,6 @@
 ---
-title: the_digital_transformation_agenda_in_the_2015_16_federal_budget.md
+title: the_digital_transformation_agenda_in_the_2015_16_federal_budget
+permalink: the_digital_transformation_agenda_in_the_2015_16_federal_foi_act_and_information_publication_scheme.md
 layout: default
 ---
 The Digital Transformation Agenda in the 2015-16 Federal Budget
@@ -26,13 +27,13 @@ Tonight’s Budget marks the start of an exciting period for the DTO.
 
 Funding of \$95.4 million has been allocated to establish the DTO as a standalone agency from 1 July and \$159.3 million will be used to deliver phase one of the Digital Transformation Agenda. This involves progressing work in five key areas:
 
-1.  The [Digital Service Standard](../standard/digital_service_standard.md) outlines a digital by design approach to government services. The standard will ensure that all new and redesigned services are designed consistently and will be simpler and easier to use.
-2.  The [Trusted Digital Identity Framework](trusted_digital_identity_framework.md) will give users choice and control if they choose to establish a digital identity. The use of digital identities will improve access to services, new products and markets for consumers and industry.
-3.  [New and improved services](new_services_for_individuals.md) for individuals that will improve the quality of online interactions with government. They include a Tell Us Once capability to update your personal details once across government, enhancements to the digital inbox through myGov, and a new voice identification service for identity.
+1.  The [Digital Service Standard](../standard/foi_act_and_information_publication_scheme.md) outlines a digital by design approach to government services. The standard will ensure that all new and redesigned services are designed consistently and will be simpler and easier to use.
+2.  The [Trusted Digital Identity Framework](foi_act_and_information_publication_scheme.md) will give users choice and control if they choose to establish a digital identity. The use of digital identities will improve access to services, new products and markets for consumers and industry.
+3.  [New and improved services](foi_act_and_information_publication_scheme.md) for individuals that will improve the quality of online interactions with government. They include a Tell Us Once capability to update your personal details once across government, enhancements to the digital inbox through myGov, and a new voice identification service for identity.
      
-4.  [Businesses will also receive new and improved services](new_services_for_business.md), including Tell Us Once for businesses and a new digital mailbox, which will be accessed with a wider range of credentials.
+4.  [Businesses will also receive new and improved services](foi_act_and_information_publication_scheme.md), including Tell Us Once for businesses and a new digital mailbox, which will be accessed with a wider range of credentials.
      
-5.  The [Better Grants Administration](better_grants_administration.md) initiative will streamline the administration of grants and reduce work for grants applicants. Two grants administration hubs will be developed, savings applicants and recipients time and money by enabling them to discover, register, and prequalify for grants that match their profile.​
+5.  The [Better Grants Administration](foi_act_and_information_publication_scheme.md) initiative will streamline the administration of grants and reduce work for grants applicants. Two grants administration hubs will be developed, savings applicants and recipients time and money by enabling them to discover, register, and prequalify for grants that match their profile.​
 
 Collaboration is very important to the DTO so over the coming weeks you will see us ramp up our engagement with individuals and businesses, and state and territory and local governments as work on the agenda moves into full gear.
 
@@ -45,16 +46,16 @@ Correction: The funding for the establishment of the DTO has been corrected from
 Related blogs
 -------------
 
-[Recruitment campaign to find Australia's best tech talent](recruitment_campaign_to_find_australias_best_tech_talent.md)
+[Recruitment campaign to find Australia's best tech talent](foi_act_and_information_publication_scheme.md)
 
-[Digital Community of Practice event – 4 September](digital_community_of_practice_event_4_september.md)
+[Digital Community of Practice event – 4 September](foi_act_and_information_publication_scheme.md)
 
-[‘Showing the thing’ was our theme last week in the Standards team](showing_the_thing_was_our_theme_last_week_in_the_standards_team.md)
+[‘Showing the thing’ was our theme last week in the Standards team](foi_act_and_information_publication_scheme.md)
 
 Comments (4)
 ------------
 
-Andrew Haynes replied on Tue, 2015-05-12 20:38 [Permalink](../comment/111.html#comment-111)
+Andrew Haynes replied on Tue, 2015-05-12 20:38 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-111)
 
 Comment: 
 
@@ -62,7 +63,7 @@ fantastic, bring on the digital transformation!
 
 -   [reply](https://www.dto.gov.au/comment/reply/731/111)
 
-Mike Sibly replied on Wed, 2015-05-13 14:08 [Permalink](../comment/116.html#comment-116)
+Mike Sibly replied on Wed, 2015-05-13 14:08 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-116)
 
 Comment: 
 
@@ -70,7 +71,7 @@ very exciting agenda!
 
 -   [reply](https://www.dto.gov.au/comment/reply/731/116)
 
-Harryws replied on Mon, 2015-05-18 10:51 [Permalink](../comment/136.html#comment-136)
+Harryws replied on Mon, 2015-05-18 10:51 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-136)
 
 Comment: 
 
@@ -80,7 +81,7 @@ Great work and the right agenda.
 
 -   [reply](https://www.dto.gov.au/comment/reply/731/136)
 
-jason replied on Thu, 2015-06-18 21:07 [Permalink](../comment/privacy.md#comment-491)
+jason replied on Thu, 2015-06-18 21:07 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-491)
 
 Comment: 
 
@@ -95,7 +96,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

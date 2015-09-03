@@ -1,5 +1,6 @@
 ---
-title: feedback_on_design_guidance.md
+title: feedback_on_design_guidance
+permalink: feedback_on_design_guidance.html
 layout: default
 ---
 Feedback on design guidance
@@ -7,7 +8,7 @@ Feedback on design guidance
 
 We appreciate your feedback; what would you like to tell us?
 
-We are working in an agile way and [user stories](user_stories.md) help us to better meet your needs. To enable us to better process your suggestions please tell us your role, the task/s you need to complete and the goal/s you are trying to achieve. For example: '**as a** web developer, **I want** to access common code for government websites, **so that I can** develop webpages that are compliant’.
+We are working in an agile way and [user stories](foi_act_and_information_publication_scheme.md) help us to better meet your needs. To enable us to better process your suggestions please tell us your role, the task/s you need to complete and the goal/s you are trying to achieve. For example: '**as a** web developer, **I want** to access common code for government websites, **so that I can** develop webpages that are compliant’.
 
 Your feedback
 

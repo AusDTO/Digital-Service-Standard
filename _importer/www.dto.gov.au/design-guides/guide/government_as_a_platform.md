@@ -1,5 +1,6 @@
 ---
-title: government_as_a_platform.md
+title: government_as_a_platform
+permalink: government_as_a_platform.html
 layout: default
 ---
 Government as a platform
@@ -10,7 +11,7 @@ Services built on a shared core
 Government as a platform means we:
 
 -   influence core common platforms and channels across government to improve consistency and efficiency
--   enable systems and data to have[](../../node/api.md)[application programing interface](../../node/api.md) (API), where possible, to support flexible design of systems and, in many cases, public access and re-use
+-   enable systems and data to have[](../../node/foi_act_and_information_publication_scheme.md)[application programing interface](../../node/foi_act_and_information_publication_scheme.md) (API), where possible, to support flexible design of systems and, in many cases, public access and re-use
 -   present our individual portfolios and agendas as one government, supporting a whole-of-government user experience.
 
 Why must I?

@@ -1,5 +1,6 @@
 ---
-title: personas.md
+title: personas
+permalink: foi_act_and_information_publication_scheme.md
 layout: default
 ---
 Personas
@@ -28,7 +29,7 @@ Creating personas
 The purpose of using personas is to create reliable and realistic representations of your client segments for reference. Personas are only as good as the research behind them, so they should be based on:
 
 -   qualitative research
--   some quantitative﻿﻿ [﻿﻿user research](http://www.usability.gov/what-and-why/user_research.md)
+-   some quantitative﻿﻿ [﻿﻿user research](http://www.usability.gov/what-and-why/foi_act_and_information_publication_scheme.md)
 -   [web analytics](http://www.usability.gov/what-and-why/web-analytics.html).
 
 A ‘typical user’ persona is given a name, photo, likes and dislikes, habits, background, expectations, and any other information that will help the design team identify with the user.
@@ -97,9 +98,9 @@ Katherine Whitaker
 
 Ensure the personas are placed in a visible central location where they can be seen by all stakeholders.
 
-Once each persona is developed, consider developing [scenarios](scenarios.md) then performing a walkthrough to influence your stakeholders to create better services. It’s important to note that personas are not a substitute for user testing.
+Once each persona is developed, consider developing [scenarios](foi_act_and_information_publication_scheme.md) then performing a walkthrough to influence your stakeholders to create better services. It’s important to note that personas are not a substitute for user testing.
 
-*This content has been adapted from* [*Usability.gov content on Personas*](http://www.usability.gov/how-to-and-tools/methods/personas.md)*.*
+*This content has been adapted from* [*Usability.gov content on Personas*](http://www.usability.gov/how-to-and-tools/methods/foi_act_and_information_publication_scheme.md)*.*
 
-**Last updated:** 21 July 2015  |  [Provide feedback on this page](../feedback%3Furl_from=Userresearch-personas.md)
+**Last updated:** 21 July 2015  |  [Provide feedback on this page](../feedback%3Furl_from=Userresearch-foi_act_and_information_publication_scheme.md)
 

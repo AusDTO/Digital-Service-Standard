@@ -1,5 +1,6 @@
 ---
-title: digital_community_of_practice_event_4_september.md
+title: digital_community_of_practice_event_4_september
+permalink: digital_community_of_practice_event_4_september.html
 layout: default
 ---
 Digital Community of Practice event – 4 September
@@ -24,9 +25,9 @@ We’ll be discussing:
 
 -   the vision for government service delivery
 
--   the[Digital Service Standard](../standard/digital_service_standard.md)
+-   the[Digital Service Standard](../standard/foi_act_and_information_publication_scheme.md)
 
--   the[Digital Service Design Guide](../digital_service_design_guide.md)
+-   the[Digital Service Design Guide](../foi_act_and_information_publication_scheme.md)
 
 -   how services will meet the standard.
 
@@ -37,22 +38,39 @@ We are webcasting this event so come along and join us! You can[register through
 Related blogs
 -------------
 
-[‘Showing the thing’ was our theme last week in the Standards team](showing_the_thing_was_our_theme_last_week_in_the_standards_team.md)
+[‘Showing the thing’ was our theme last week in the Standards team](foi_act_and_information_publication_scheme.md)
 
-[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
+[Your homepage is not your front door](foi_act_and_information_publication_scheme.md)
 
-[The DTO now manage Government authentication frameworks](the_dto_now_manage_government_authentication_frameworks.md)
+[The DTO now manage Government authentication frameworks](foi_act_and_information_publication_scheme.md)
 
-Comments (1)
+Comments (2)
 ------------
 
-Tom Worthington replied on Mon, 2015-08-31 09:50 [Permalink](../comment/1team_recruitment.md#comment-1981)
+Tom Worthington replied on Mon, 2015-08-31 09:50 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1981)
 
 Comment: 
 
 The Digital Service Standard doesn't read like a standard, more like a statement of aspirations. Perhaps that was the intention, but then it should not be called a standard. <http://blog.tomw.net.au/2015/08/australian-government-digital-service.html>
 
 -   [reply](https://www.dto.gov.au/comment/reply/1136/1981)
+
+Ambarish Natu replied on Mon, 2015-08-31 13:44 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-2001)
+
+Comment: 
+
+According to ISO/IEC Guide 2: 2004 – the term “standard” is defined as a document established by consensus and approved by a recognized body that provides for common and repeated use, rules, guidelines or characteristics for activities or their results, aimed at the achievement of the optimum degree of order in a given context
+
+According to the Agreement on Technical Barriers to Trade (TBT agreement) – “standard” is defined a document approved by a recognized body, that provides for common and repeated use, rules, guidelines or characteristics for products or related purposes and production methods with which compliance is not mandatory
+
+In both definitions - it clearly mentions the word - "Recognized Body" - The Digital Transformation Office is a Commonwealth Government Entity - <http://abr.business.gov.au/SearchByAbn.aspx?abn=96257979159>
+ That would make this office recognized.
+
+For the success of this standard - it needs the agreement from its stakeholders that DTO maintains this document, people will provide input and will be consensus driven.
+
+The standards you may be referring to is Australian Standards or International Standards (de jure or de facto). In this instance, the digital service standard may not be technical rule book, but it certainly can be called a standard.
+
+-   [reply](https://www.dto.gov.au/comment/reply/1136/2001)
 
 Add new comment
 ---------------
@@ -61,7 +79,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

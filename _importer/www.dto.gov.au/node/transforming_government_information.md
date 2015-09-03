@@ -1,5 +1,6 @@
 ---
-title: transforming_government_information.md
+title: transforming_government_information
+permalink: transforming_government_information.html
 layout: default
 ---
 Transforming Government Information
@@ -51,16 +52,16 @@ It’s going to take some work to get this right – please tell us what you thi
 Related blogs
 -------------
 
-[How do Australians really feel about digital government services?](how_do_australians_really_feel_about_digital_government_services.md)
+[How do Australians really feel about digital government services?](foi_act_and_information_publication_scheme.md)
 
-[Getting inside your head: Analysing search behaviours](getting_inside_your_head_analysing_search_behaviours.md)
+[Getting inside your head: Analysing search behaviours](foi_act_and_information_publication_scheme.md)
 
-[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
+[Your homepage is not your front door](foi_act_and_information_publication_scheme.md)
 
 Comments (32)
 -------------
 
-Anonymous replied on Mon, 2015-06-22 09:58 [Permalink](../comment/identity_assurance.md#comment-506)
+Anonymous replied on Mon, 2015-06-22 09:58 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-506)
 
 Comment: 
 
@@ -68,7 +69,7 @@ What is being done to address the quality of government information presented on
 
 -   [reply](https://www.dto.gov.au/comment/reply/761/506)
 
-S Clarkson replied on Mon, 2015-06-22 11:21 [Permalink](../comment/testing_web_accessibility.md#comment-511)
+S Clarkson replied on Mon, 2015-06-22 11:21 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-511)
 
 Comment: 
 
@@ -84,7 +85,7 @@ We are very open to more ideas on what else needs to happen to make government c
 
 -   [reply](https://www.dto.gov.au/comment/reply/761/511)
 
-Bobby Graham replied on Mon, 2015-06-22 15:49 [Permalink](../comment/open_data.md#comment-526)
+Bobby Graham replied on Mon, 2015-06-22 15:49 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-526)
 
 Comment: 
 
@@ -92,7 +93,7 @@ I think creating Chief Editors is a good idea: most government agencies are larg
 
 -   [reply](https://www.dto.gov.au/comment/reply/761/526)
 
-![Sharyn Clarkson's picture](../sites/g/files/net466/f/pictures/picture-356-1435041168.jpg "Sharyn Clarkson's picture") Sharyn Clarkson replied on Tue, 2015-06-23 18:58 [Permalink](../comment/social_media.md#comment-556)
+![Sharyn Clarkson's picture](../sites/g/files/net466/f/pictures/picture-356-1435041168.jpg "Sharyn Clarkson's picture") Sharyn Clarkson replied on Tue, 2015-06-23 18:58 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-556)
 
 Comment: 
 
@@ -110,7 +111,7 @@ We have some great examples in the APS of high quality content being produced 
 
 -   [reply](https://www.dto.gov.au/comment/reply/761/556)
 
-Bobby Graham replied on Wed, 2015-06-24 11:38 [Permalink](../comment/building_digital_services.md#comment-571)
+Bobby Graham replied on Wed, 2015-06-24 11:38 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-571)
 
 Comment: 
 
@@ -119,7 +120,7 @@ Hi Sharyn - this discussion about Chief Editors is particularly interesting to m
 
 -   [reply](https://www.dto.gov.au/comment/reply/761/571)
 
-![Sharyn Clarkson's picture](../sites/g/files/net466/f/pictures/picture-356-1435041168.jpg "Sharyn Clarkson's picture") Sharyn Clarkson replied on Thu, 2015-06-25 09:40 [Permalink](../comment/606.html#comment-606)
+![Sharyn Clarkson's picture](../sites/g/files/net466/f/pictures/picture-356-1435041168.jpg "Sharyn Clarkson's picture") Sharyn Clarkson replied on Thu, 2015-06-25 09:40 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-606)
 
 Comment: 
 
@@ -127,7 +128,7 @@ That would be great!  Let me know if the Editors are keen to debate the Chief E
 
 -   [reply](https://www.dto.gov.au/comment/reply/761/606)
 
-Ted replied on Thu, 2015-06-25 13:20 [Permalink](../comment/626.html#comment-626)
+Ted replied on Thu, 2015-06-25 13:20 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-626)
 
 Comment: 
 
@@ -135,7 +136,7 @@ Consider the pros and cons of centralised vs decentralised publishing. The role 
 
 -   [reply](https://www.dto.gov.au/comment/reply/761/626)
 
-Justin B replied on Mon, 2015-06-22 15:03 [Permalink](../comment/516.html#comment-516)
+Justin B replied on Mon, 2015-06-22 15:03 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-516)
 
 Comment: 
 
@@ -143,7 +144,7 @@ Some really good intial thinking here. No doubt a massive challenge, but a worth
 
 -   [reply](https://www.dto.gov.au/comment/reply/761/516)
 
-![Sharyn Clarkson's picture](../sites/g/files/net466/f/pictures/picture-356-1435041168.jpg "Sharyn Clarkson's picture") Sharyn Clarkson replied on Tue, 2015-06-23 20:25 [Permalink](../comment/case_study_improving_website_user_experiences.md#comment-561)
+![Sharyn Clarkson's picture](../sites/g/files/net466/f/pictures/picture-356-1435041168.jpg "Sharyn Clarkson's picture") Sharyn Clarkson replied on Tue, 2015-06-23 20:25 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-561)
 
 Comment: 
 
@@ -157,7 +158,7 @@ What would you like to change if you had the opportunity?
 
 -   [reply](https://www.dto.gov.au/comment/reply/761/561)
 
-Justin B replied on Wed, 2015-06-24 12:31 [Permalink](../comment/586.html#comment-586)
+Justin B replied on Wed, 2015-06-24 12:31 [Permalink](../comment/5foi_act_and_information_publication_scheme.md#comment-586)
 
 Comment: 
 
@@ -178,8 +179,8 @@ Pages
     -   [2](../blog/transforming-government-information%3Fpage=1.html "Go to page 2")
     -   [3](../blog/transforming-government-information%3Fpage=2.html "Go to page 3")
     -   [4](../blog/transforming-government-information%3Fpage=3.html "Go to page 4")
--   -   [« first](transforming_government_information.md "Go to first page")
-    -   [‹ previous](transforming_government_information.md "Go to previous page")
+-   -   [« first](foi_act_and_information_publication_scheme.md "Go to first page")
+    -   [‹ previous](foi_act_and_information_publication_scheme.md "Go to previous page")
 -   -   [next ›](../blog/transforming-government-information%3Fpage=1.html "Go to next page")
     -   [last »](../blog/transforming-government-information%3Fpage=3.html "Go to last page")
 
@@ -190,7 +191,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

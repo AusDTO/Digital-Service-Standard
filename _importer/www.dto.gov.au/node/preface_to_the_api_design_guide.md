@@ -1,5 +1,6 @@
 ---
-title: preface_to_the_api_design_guide.md
+title: preface_to_the_api_design_guide
+permalink: preface_to_the_api_design_guide.html
 layout: default
 ---
 Preface to the API Design Guide
@@ -48,16 +49,16 @@ Done.
 Related blogs
 -------------
 
-[Recruitment campaign to find Australia's best tech talent](recruitment_campaign_to_find_australias_best_tech_talent.md)
+[Recruitment campaign to find Australia's best tech talent](foi_act_and_information_publication_scheme.md)
 
-[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
+[Your homepage is not your front door](foi_act_and_information_publication_scheme.md)
 
-[Open and secure](open_and_secure.md)
+[Open and secure](foi_act_and_information_publication_scheme.md)
 
 Comments (9)
 ------------
 
-David Ives replied on Wed, 2015-08-12 08:09 [Permalink](../comment/1606.html#comment-1606)
+David Ives replied on Wed, 2015-08-12 08:09 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1606)
 
 Comment: 
 
@@ -65,7 +66,7 @@ It is good to see some work on UX improvements. There seems to be a growing tren
 
 -   [reply](https://www.dto.gov.au/comment/reply/1081/1606)
 
-![Chris Gough's picture](../sites/g/files/net466/f/pictures/picture-1476-1439264217.png "Chris Gough's picture") Chris Gough replied on Wed, 2015-08-12 13:20 [Permalink](../comment/1621.html#comment-1621)
+![Chris Gough's picture](../sites/g/files/net466/f/pictures/picture-1476-1439264217.png "Chris Gough's picture") Chris Gough replied on Wed, 2015-08-12 13:20 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1621)
 
 Comment: 
 
@@ -73,7 +74,7 @@ Are you saying the layout of the draft API guide is uncluttered? Thanks but I ca
 
 -   [reply](https://www.dto.gov.au/comment/reply/1081/1621)
 
-Craig Thomler replied on Wed, 2015-08-12 08:54 [Permalink](../comment/1611.html#comment-1611)
+Craig Thomler replied on Wed, 2015-08-12 08:54 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1611)
 
 Comment: 
 
@@ -99,7 +100,7 @@ Craig
 
 -   [reply](https://www.dto.gov.au/comment/reply/1081/1611)
 
-![Chris Gough's picture](../sites/g/files/net466/f/pictures/picture-1476-1439264217.png "Chris Gough's picture") Chris Gough replied on Wed, 2015-08-12 13:02 [Permalink](../comment/1616.html#comment-1616)
+![Chris Gough's picture](../sites/g/files/net466/f/pictures/picture-1476-1439264217.png "Chris Gough's picture") Chris Gough replied on Wed, 2015-08-12 13:02 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1616)
 
 Comment: 
 
@@ -127,7 +128,7 @@ I don't have any insight into non-IT people's involvement in API design, product
 
 -   [reply](https://www.dto.gov.au/comment/reply/1081/1616)
 
-Tom Worthington replied on Mon, 2015-08-17 10:15 [Permalink](../comment/1putting_the_user_at_the_centre_of_everything.md#comment-1736)
+Tom Worthington replied on Mon, 2015-08-17 10:15 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1736)
 
 Comment: 
 
@@ -135,7 +136,7 @@ The "Preface to the API Design Guide" is very well written, but I could not find
 
 -   [reply](https://www.dto.gov.au/comment/reply/1081/1736)
 
-![Chris Gough's picture](../sites/g/files/net466/f/pictures/picture-1476-1439264217.png "Chris Gough's picture") Chris Gough replied on Mon, 2015-08-17 17:12 [Permalink](../comment/1updates_to_the_scope_of_the_digital_service_standard.md#comment-1756)
+![Chris Gough's picture](../sites/g/files/net466/f/pictures/picture-1476-1439264217.png "Chris Gough's picture") Chris Gough replied on Mon, 2015-08-17 17:12 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1756)
 
 Comment: 
 
@@ -154,7 +155,7 @@ Finally, the "read <https://apiguide.readthedocs.org/>" link at the bottom of th
 
 -   [reply](https://www.dto.gov.au/comment/reply/1081/1756)
 
-Tony Edwards replied on Wed, 2015-08-19 12:28 [Permalink](../comment/1making_government_discoverable.md#comment-1771)
+Tony Edwards replied on Wed, 2015-08-19 12:28 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1771)
 
 Comment: 
 
@@ -163,7 +164,7 @@ I see this as a good approach apart from the "mandatory" expectation. It would b
 
 -   [reply](https://www.dto.gov.au/comment/reply/1081/1771)
 
-Dean replied on Tue, 2015-08-25 10:47 [Permalink](../comment/1interviews.md#comment-1931)
+Dean replied on Tue, 2015-08-25 10:47 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1931)
 
 Comment: 
 
@@ -171,7 +172,7 @@ Do you have example of an application that the DTO has produced that applies the
 
 -   [reply](https://www.dto.gov.au/comment/reply/1081/1931)
 
-Paul Wojcik replied on Mon, 2015-08-31 10:55 [Permalink](../comment/1common_government_content_and_features.md#comment-1991)
+Paul Wojcik replied on Mon, 2015-08-31 10:55 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1991)
 
 Comment: 
 
@@ -192,7 +193,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

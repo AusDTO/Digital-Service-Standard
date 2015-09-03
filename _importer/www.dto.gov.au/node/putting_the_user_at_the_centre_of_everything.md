@@ -1,5 +1,6 @@
 ---
-title: putting_the_user_at_the_centre_of_everything.md
+title: putting_the_user_at_the_centre_of_everything
+permalink: putting_the_user_at_the_centre_of_everything.html
 layout: default
 ---
 Putting the user at the centre of everything
@@ -16,7 +17,7 @@ Author: 
 
 The User Research Team
 
-The first design principle of the [Digital Service Standard](../standard/digital_service_standard.md) is “users first”. To support this we are working to better understand what users really need, expect, prefer and actually experience when interacting with government.
+The first design principle of the [Digital Service Standard](../standard/foi_act_and_information_publication_scheme.md) is “users first”. To support this we are working to better understand what users really need, expect, prefer and actually experience when interacting with government.
 
 There is no whole of government approach to understanding users. We are going to change that. Today there is a mountain of agency specific research but these results are often not shared and don’t take a whole of government view. The DTO has been collecting this research, analysing it and identifying key insights about user needs to share with the people designing and delivering government services.
 
@@ -51,16 +52,16 @@ Also, a question for agencies. What’s been your experience with user research?
 Related blogs
 -------------
 
-[Digital Community of Practice event – 4 September](digital_community_of_practice_event_4_september.md)
+[Digital Community of Practice event – 4 September](foi_act_and_information_publication_scheme.md)
 
-[‘Showing the thing’ was our theme last week in the Standards team](showing_the_thing_was_our_theme_last_week_in_the_standards_team.md)
+[‘Showing the thing’ was our theme last week in the Standards team](foi_act_and_information_publication_scheme.md)
 
-[How do Australians really feel about digital government services?](how_do_australians_really_feel_about_digital_government_services.md)
+[How do Australians really feel about digital government services?](foi_act_and_information_publication_scheme.md)
 
 Comments (21)
 -------------
 
-Nathan replied on Mon, 2015-05-18 09:50 [Permalink](../comment/121.html#comment-121)
+Nathan replied on Mon, 2015-05-18 09:50 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-121)
 
 Comment: 
 
@@ -68,7 +69,7 @@ Comment: 
 
 -   [reply](https://www.dto.gov.au/comment/reply/736/121)
 
-Man replied on Mon, 2015-05-18 10:05 [Permalink](../comment/126.html#comment-126)
+Man replied on Mon, 2015-05-18 10:05 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-126)
 
 Comment: 
 
@@ -80,7 +81,7 @@ Security and amendments to digital protections written into the constitution, an
 
 -   [reply](https://www.dto.gov.au/comment/reply/736/126)
 
-Harryws replied on Mon, 2015-05-18 10:44 [Permalink](../comment/131.html#comment-131)
+Harryws replied on Mon, 2015-05-18 10:44 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-131)
 
 Comment: 
 
@@ -90,7 +91,7 @@ User self service is just pushing the task and responsibility on the user and aw
 
 -   [reply](https://www.dto.gov.au/comment/reply/736/131)
 
-pauls replied on Mon, 2015-05-18 12:44 [Permalink](../comment/engage.md#comment-141)
+pauls replied on Mon, 2015-05-18 12:44 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-141)
 
 Comment: 
 
@@ -106,7 +107,7 @@ Note that the PDF format has been an open standard since July 2008, and that the
 
 -   [reply](https://www.dto.gov.au/comment/reply/736/141)
 
-Matthew replied on Mon, 2015-05-18 13:22 [Permalink](../comment/151.html#comment-151)
+Matthew replied on Mon, 2015-05-18 13:22 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-151)
 
 Comment: 
 
@@ -120,7 +121,7 @@ The one time cost of moving to a digital solution is going to be a significantly
 
 -   [reply](https://www.dto.gov.au/comment/reply/736/151)
 
-simonfj replied on Sun, 2015-06-21 13:56 [Permalink](../comment/government_as_a_platform.md#comment-501)
+simonfj replied on Sun, 2015-06-21 13:56 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-501)
 
 Comment: 
 
@@ -154,7 +155,7 @@ Sorry for the lengthy reply. But there come a time where we need to put the INDI
 
 -   [reply](https://www.dto.gov.au/comment/reply/736/501)
 
-Pia Waugh (DTO) replied on Mon, 2015-05-18 13:07 [Permalink](../comment/146.html#comment-146)
+Pia Waugh (DTO) replied on Mon, 2015-05-18 13:07 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-146)
 
 Comment: 
 
@@ -165,7 +166,7 @@ Cheers,
 
 -   [reply](https://www.dto.gov.au/comment/reply/736/146)
 
-DMA Canberra replied on Tue, 2015-05-26 11:52 [Permalink](../comment/311.html#comment-311)
+DMA Canberra replied on Tue, 2015-05-26 11:52 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-311)
 
 Comment: 
 
@@ -173,7 +174,7 @@ Agree, digital is about making it easier for citizens, but it absolutely IS also
 
 -   [reply](https://www.dto.gov.au/comment/reply/736/311)
 
-simonfj replied on Thu, 2015-06-18 14:02 [Permalink](../comment/486.html#comment-486)
+simonfj replied on Thu, 2015-06-18 14:02 [Permalink](../comment/4foi_act_and_information_publication_scheme.md#comment-486)
 
 Comment: 
 
@@ -200,7 +201,7 @@ All the best.
 
 -   [reply](https://www.dto.gov.au/comment/reply/736/486)
 
-JackC replied on Mon, 2015-05-18 15:45 [Permalink](../comment/166.html#comment-166)
+JackC replied on Mon, 2015-05-18 15:45 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-166)
 
 Comment: 
 
@@ -222,8 +223,8 @@ Pages
 -   -   1
     -   [2](../blog/putting-user-centre-everything%3Fpage=1.html "Go to page 2")
     -   [3](../blog/putting-user-centre-everything%3Fpage=2.html "Go to page 3")
--   -   [« first](putting_the_user_at_the_centre_of_everything.md "Go to first page")
-    -   [‹ previous](putting_the_user_at_the_centre_of_everything.md "Go to previous page")
+-   -   [« first](foi_act_and_information_publication_scheme.md "Go to first page")
+    -   [‹ previous](foi_act_and_information_publication_scheme.md "Go to previous page")
 -   -   [next ›](../blog/putting-user-centre-everything%3Fpage=1.html "Go to next page")
     -   [last »](../blog/putting-user-centre-everything%3Fpage=2.html "Go to last page")
 
@@ -234,7 +235,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

@@ -1,5 +1,6 @@
 ---
-title: files_list_harradine_report.md
+title: files_list_harradine_report
+permalink: files_list_harradine_report.html
 layout: default
 ---
 Files list (Harradine report)

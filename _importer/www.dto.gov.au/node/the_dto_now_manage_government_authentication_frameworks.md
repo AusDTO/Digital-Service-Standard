@@ -1,5 +1,6 @@
 ---
-title: the_dto_now_manage_government_authentication_frameworks.md
+title: the_dto_now_manage_government_authentication_frameworks
+permalink: the_dto_now_manage_government_authentication_frameworks.html
 layout: default
 ---
 The DTO now manage Government authentication frameworks
@@ -31,16 +32,16 @@ If you’d like a copy of these documents or service provider status in the inte
 Related blogs
 -------------
 
-[Recruitment campaign to find Australia's best tech talent](recruitment_campaign_to_find_australias_best_tech_talent.md)
+[Recruitment campaign to find Australia's best tech talent](foi_act_and_information_publication_scheme.md)
 
-[Digital Community of Practice event – 4 September](digital_community_of_practice_event_4_september.md)
+[Digital Community of Practice event – 4 September](foi_act_and_information_publication_scheme.md)
 
-[‘Showing the thing’ was our theme last week in the Standards team](showing_the_thing_was_our_theme_last_week_in_the_standards_team.md)
+[‘Showing the thing’ was our theme last week in the Standards team](foi_act_and_information_publication_scheme.md)
 
 Comments (5)
 ------------
 
-simonfj replied on Thu, 2015-08-13 12:31 [Permalink](../comment/1686.html#comment-1686)
+simonfj replied on Thu, 2015-08-13 12:31 [Permalink](../comment/16foi_act_and_information_publication_scheme.md#comment-1686)
 
 Comment: 
 
@@ -56,7 +57,7 @@ I appreciate that in Aus, it's considered that agencies only have other agencies
 
 -   [reply](https://www.dto.gov.au/comment/reply/1091/1686)
 
-BeingNiceBut.. replied on Fri, 2015-08-14 17:28 [Permalink](../comment/1726.html#comment-1726)
+BeingNiceBut.. replied on Fri, 2015-08-14 17:28 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1726)
 
 Comment: 
 
@@ -64,7 +65,7 @@ The title of this is very misleading. How about the DTO manage some (and by that
 
 -   [reply](https://www.dto.gov.au/comment/reply/1091/1726)
 
-Ambarish Natu replied on Mon, 2015-08-17 14:59 [Permalink](../comment/1746.html#comment-1746)
+Ambarish Natu replied on Mon, 2015-08-17 14:59 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1746)
 
 Comment: 
 
@@ -73,7 +74,7 @@ There is a need to demonstrate that such frameworks work. There are several Gove
 
 -   [reply](https://www.dto.gov.au/comment/reply/1091/1746)
 
-simonfj replied on Wed, 2015-08-19 09:31 [Permalink](../comment/1transforming_government_information.md#comment-1761)
+simonfj replied on Wed, 2015-08-19 09:31 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1761)
 
 Comment: 
 
@@ -91,7 +92,7 @@ This might help us get past this insanity that every level of a Nation's governm
 
 -   [reply](https://www.dto.gov.au/comment/reply/1091/1761)
 
-Ambarish Natu replied on Fri, 2015-08-21 08:32 [Permalink](../comment/1personas.md#comment-1811)
+Ambarish Natu replied on Fri, 2015-08-21 08:32 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1811)
 
 Comment: 
 
@@ -115,7 +116,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

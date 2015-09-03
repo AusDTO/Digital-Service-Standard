@@ -1,5 +1,6 @@
 ---
-title: metadata.md
+title: metadata
+permalink: foi_act_and_information_publication_scheme.md
 layout: default
 ---
 Metadata
@@ -9,7 +10,7 @@ Ensure that resources hosted on agency websites use the mandatory minimum set of
 
 The National Archives of Australia has [FAQ on applying AGLS in Australian Government departments](http://www.naa.gov.au/records-management/agency/create-capture-describe/describe/agls-faq.aspx) as well as online services to [validate existing metadata](http://www.agls.gov.au/validator) and [generate new metadata](http://www.agls.gov.au/generator).
 
-Guidance on [website records management requirements](records_management.md) is also available.
+Guidance on [website records management requirements](foi_act_and_information_publication_scheme.md) is also available.
 
-**Last updated:** 21 July 2015 | [Provide feedback on this page](../feedback%3Furl_from=metadata.md)
+**Last updated:** 21 July 2015 | [Provide feedback on this page](../feedback%3Furl_from=foi_act_and_information_publication_scheme.md)
 

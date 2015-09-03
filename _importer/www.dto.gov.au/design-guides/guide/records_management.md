@@ -1,5 +1,6 @@
 ---
-title: records_management.md
+title: records_management
+permalink: records_management.html
 layout: default
 ---
 Records management
@@ -21,11 +22,11 @@ Why must I?
 How do I?
 ---------
 
--   [Assign responsibilities](../../node/records_management.md#assignresponsibilities)
--   [Capture content](../../node/records_management.md#capture)
--   [Manage content for ongoing access](../../node/records_management.md#manage)
--   [Store content](../../node/records_management.md#store)
--   [Dispose of content when no longer needed](../../node/records_management.md#dispose)
+-   [Assign responsibilities](../../node/foi_act_and_information_publication_scheme.md#assignresponsibilities)
+-   [Capture content](../../node/foi_act_and_information_publication_scheme.md#capture)
+-   [Manage content for ongoing access](../../node/foi_act_and_information_publication_scheme.md#manage)
+-   [Store content](../../node/foi_act_and_information_publication_scheme.md#store)
+-   [Dispose of content when no longer needed](../../node/foi_act_and_information_publication_scheme.md#dispose)
 
 ### Assign responsibilities
 

@@ -1,5 +1,6 @@
 ---
-title: user_stories.md
+title: user_stories
+permalink: user_stories.html
 layout: default
 ---
 User stories
@@ -9,7 +10,7 @@ Prioritising user needs
 
 User stories are an essential part of the agile toolkit. They’re a way of organising user requirements into manageable chunks that create tangible value, and can be discussed and prioritised independently.
 
-We used user stories to develop the [alpha Digital Service Standard](../standard/digital_service_standard.md).
+We used user stories to develop the [alpha Digital Service Standard](../standard/foi_act_and_information_publication_scheme.md).
 
 A user story is a brief statement that explains:
 
@@ -26,9 +27,9 @@ Research
 
 Stories can come from many places, but the most common sources are:
 
--   Story writing workshops: usually at the start of a project, [the team](../the_team.md) will get together to develop [personas](personas.md), [user pathways](user_pathways.md), [scenarios](scenarios.md) and [user stories](user_stories.md).
--   [Interviews](interviews.md) with real users: ideally, you will set up a user panel which [the team](../the_team.md) have ongoing access to.
--   User representatives in your [team](../the_team.md): this may include the delivery manager or service / product owner.
+-   Story writing workshops: usually at the start of a project, [the team](../foi_act_and_information_publication_scheme.md) will get together to develop [personas](foi_act_and_information_publication_scheme.md), [user pathways](foi_act_and_information_publication_scheme.md), [scenarios](foi_act_and_information_publication_scheme.md) and [user stories](foi_act_and_information_publication_scheme.md).
+-   [Interviews](foi_act_and_information_publication_scheme.md) with real users: ideally, you will set up a user panel which [the team](../foi_act_and_information_publication_scheme.md) have ongoing access to.
+-   User representatives in your [team](../foi_act_and_information_publication_scheme.md): this may include the delivery manager or service / product owner.
 -   Observation: watching real users of your service.
 
 Create
@@ -68,7 +69,7 @@ Categorise your user stories based on their:
 
 You should keep your user stories visible and accessible to the team to continually remind you about ‘what users want’. A good way to do this is via a physical Kanban or Scrum board in a high traffic area.
 
-*This content has been adapted from the [UK Government Digital Service Design Manual guide on Writing user stories](https://www.gov.uk/service-manual/agile/writing-user_stories.md) under the [Open Government Licence 2.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2).*
+*This content has been adapted from the [UK Government Digital Service Design Manual guide on Writing user stories](https://www.gov.uk/service-manual/agile/writing-foi_act_and_information_publication_scheme.md) under the [Open Government Licence 2.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2).*
 
 **Last updated:** 20 July 2015  |  [Provide feedback on this page](../feedback%3Furl_from=Userresearch-Userstories.html)
 

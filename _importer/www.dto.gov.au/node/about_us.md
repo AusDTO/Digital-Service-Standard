@@ -1,5 +1,6 @@
 ---
-title: about_us.md
+title: about_us
+permalink: about_us.html
 layout: default
 ---
 About us
@@ -13,7 +14,7 @@ We’re working closely with individuals, businesses and industries as well as w
 
 We’re identifying where improvements are most urgently needed, and re-designing these services from the ground up.
 
-If you agree that dealing with the government should be (at least) as quick and easy as dealing with any other business, please [get in touch](../engage.md) to see how you can work with us.
+If you agree that dealing with the government should be (at least) as quick and easy as dealing with any other business, please [get in touch](../foi_act_and_information_publication_scheme.md) to see how you can work with us.
 
-You can also keep up with us online though our [blog](../news-media/blog.1.html), [Twitter](https://twitter.com/ausdto) or [mailing list](http://govspace.us10.list-manage.com/subscribe?u=18f172213d32ca205c7e524bd&id=172d06cc83).
+You can also keep up with us online though our [blog](../news-media/foi_act_and_information_publication_scheme.md), [Twitter](https://twitter.com/ausdto) or [mailing list](http://govspace.us10.list-manage.com/subscribe?u=18f172213d32ca205c7e524bd&id=172d06cc83).
 

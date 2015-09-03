@@ -1,5 +1,6 @@
 ---
-title: team_recruitment.md
+title: team_recruitment
+permalink: team_recruitment.html
 layout: default
 ---
 Team recruitment
@@ -17,14 +18,14 @@ The Government has a commitment to deliver government services digitally from st
 How do I?
 ---------
 
--   [Determine skills required](team_recruitment.md#determine)
--   [Identify skills available in your agency](team_recruitment.md#identify)
--   [Review recruitment and selection guidelines](team_recruitment.md#selection)
--   [Recruit the right skills](team_recruitment.md#recruit)
+-   [Determine skills required](foi_act_and_information_publication_scheme.md#determine)
+-   [Identify skills available in your agency](foi_act_and_information_publication_scheme.md#identify)
+-   [Review recruitment and selection guidelines](foi_act_and_information_publication_scheme.md#selection)
+-   [Recruit the right skills](foi_act_and_information_publication_scheme.md#recruit)
 
 ### Determine skills required
 
-Agencies should identify the skills and experience required to deliver their digital services. Many of the skills needed to lead and deliver these services are relatively new to government and are highly sought after. More guidance is available on [the team](../the_team.md).
+Agencies should identify the skills and experience required to deliver their digital services. Many of the skills needed to lead and deliver these services are relatively new to government and are highly sought after. More guidance is available on [the team](../foi_act_and_information_publication_scheme.md).
 
 ### Identify skills available in your agency
 

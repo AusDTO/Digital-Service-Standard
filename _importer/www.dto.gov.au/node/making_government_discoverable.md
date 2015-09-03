@@ -1,5 +1,6 @@
 ---
-title: making_government_discoverable.md
+title: making_government_discoverable
+permalink: making_government_discoverable.html
 layout: default
 ---
 Making government discoverable
@@ -53,23 +54,23 @@ We haven’t made any decisions yet on the exact tools and technology we will be
 
 Let us know your thoughts on the idea and on our approach in the comments below, and we’d love any examples you have where it has been done well. We see this as a first big step towards a more readily consumed and reusable “Government as an API” in Australia, and we look forward to working with you on developing a useful discovery layer for government. We also look forward to seeing what you can do with the APIs.
 
-We will continue to provide our thinking through blog links with the individual ideas and designs. We’ll also be holding a number of public consultations and consultative events over the next few months – so [subscribe to the DTO mailing list or the RSS feed](../engage.md) to stay involved.
+We will continue to provide our thinking through blog links with the individual ideas and designs. We’ll also be holding a number of public consultations and consultative events over the next few months – so [subscribe to the DTO mailing list or the RSS feed](../foi_act_and_information_publication_scheme.md) to stay involved.
 
 [![Facebook logo](https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/facebook.png)](http://www.facebook.com/sharer.php?u=https%3A//www.dto.gov.au/blog/making-government-discoverable&t=Making%20government%20discoverable "Share on Facebook") [![Twitter logo](https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/twitter.png)](http://twitter.com/share?url=https%3A//www.dto.gov.au/blog/making-government-discoverable&text=Making%20government%20discoverable "Share this on Twitter") [![LinkedIn logo](https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/linkedin.png)](http://www.linkedin.com/shareArticle?mini=true&url=https%3A//www.dto.gov.au/blog/making-government-discoverable&title=Making%20government%20discoverable&summary=If%20we%20want%20to%20give%20people%20the%20right%20information%20and%20services%20at%20the%20right%20time%2C%20we%20need%20to%20know%20more%20about%20what%20information%20and%20services%20the%20government%20offers.&source=Digital%20Transformation%20Office "Publish this post to LinkedIn") [![email logo](https://www.dto.gov.au/profiles/govcms/modules/features/govcms_share_links/images/email.png)](mailto:?subject=Making%20government%20discoverable&body=https%3A//www.dto.gov.au/blog/making-government-discoverable "Share via email")
 
 Related blogs
 -------------
 
-[Getting inside your head: Analysing search behaviours](getting_inside_your_head_analysing_search_behaviours.md)
+[Getting inside your head: Analysing search behaviours](foi_act_and_information_publication_scheme.md)
 
-[Where are we heading: A future state for user experience](where_are_we_heading_a_future_state_for_user_experience.md)
+[Where are we heading: A future state for user experience](foi_act_and_information_publication_scheme.md)
 
-[Government working with government: Lessons from OneGov](government_working_with_government_lessons_from_onegov.md)
+[Government working with government: Lessons from OneGov](foi_act_and_information_publication_scheme.md)
 
 Comments (10)
 -------------
 
-Darren Whitelaw replied on Thu, 2015-07-02 12:24 [Permalink](../comment/706.html#comment-706)
+Darren Whitelaw replied on Thu, 2015-07-02 12:24 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-706)
 
 Comment: 
 
@@ -77,7 +78,7 @@ Nice work! Just getting a catalogue of government services together is a big fir
 
 -   [reply](https://www.dto.gov.au/comment/reply/771/706)
 
-Stephen Hardy replied on Thu, 2015-07-02 15:00 [Permalink](../comment/711.html#comment-711)
+Stephen Hardy replied on Thu, 2015-07-02 15:00 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-711)
 
 Comment: 
 
@@ -85,7 +86,7 @@ I'd like an API for exploration of the "graph of government data and services". 
 
 -   [reply](https://www.dto.gov.au/comment/reply/771/711)
 
-Graham Williamson replied on Fri, 2015-07-03 09:07 [Permalink](../comment/726.html#comment-726)
+Graham Williamson replied on Fri, 2015-07-03 09:07 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-726)
 
 Comment: 
 
@@ -93,7 +94,7 @@ Yes - definition of an API to query the Discover Service is needed - there is al
 
 -   [reply](https://www.dto.gov.au/comment/reply/771/726)
 
-![Pia Waugh's picture](../sites/g/files/net466/f/pictures/picture-281-1437457645.png "Pia Waugh's picture") Pia Waugh replied on Fri, 2015-07-03 10:05 [Permalink](../comment/the_digital_transformation_agenda_in_the_2015_16_federal_budget.md#comment-731)
+![Pia Waugh's picture](../sites/g/files/net466/f/pictures/picture-281-1437457645.png "Pia Waugh's picture") Pia Waugh replied on Fri, 2015-07-03 10:05 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-731)
 
 Comment: 
 
@@ -101,7 +102,7 @@ Thanks Graham, and that is definitely the plan! Because the Discovery Service wi
 
 -   [reply](https://www.dto.gov.au/comment/reply/771/731)
 
-Chris replied on Fri, 2015-07-03 15:46 [Permalink](../comment/putting_the_user_at_the_centre_of_everything.md#comment-736)
+Chris replied on Fri, 2015-07-03 15:46 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-736)
 
 Comment: 
 
@@ -111,7 +112,7 @@ Public are no doubt seen as a monster threat to government workers: we have unli
 
 -   [reply](https://www.dto.gov.au/comment/reply/771/736)
 
-Chris replied on Sat, 2015-07-04 02:16 [Permalink](../comment/746.html#comment-746)
+Chris replied on Sat, 2015-07-04 02:16 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-746)
 
 Comment: 
 
@@ -121,7 +122,7 @@ Public are no doubt seen as a monster threat to government workers: we have unli
 
 -   [reply](https://www.dto.gov.au/comment/reply/771/746)
 
-Dan Craddock replied on Sun, 2015-07-05 17:12 [Permalink](../comment/where_are_we_heading_a_future_state_for_user_experience.md#comment-781)
+Dan Craddock replied on Sun, 2015-07-05 17:12 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-781)
 
 Comment: 
 
@@ -132,7 +133,7 @@ This would have so many applications - one that immediately springs to mind is t
 
 -   [reply](https://www.dto.gov.au/comment/reply/771/781)
 
-Joemmemm replied on Mon, 2015-07-06 09:15 [Permalink](../comment/scenarios.md#comment-831)
+Joemmemm replied on Mon, 2015-07-06 09:15 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-831)
 
 Comment: 
 
@@ -140,7 +141,7 @@ A bit concerned that you state you are working with DHS to undertake this POC as
 
 -   [reply](https://www.dto.gov.au/comment/reply/771/831)
 
-![Pia Waugh's picture](../sites/g/files/net466/f/pictures/picture-281-1437457645.png "Pia Waugh's picture") Pia Waugh replied on Mon, 2015-07-06 10:13 [Permalink](../comment/high_level_design.md#comment-836)
+![Pia Waugh's picture](../sites/g/files/net466/f/pictures/picture-281-1437457645.png "Pia Waugh's picture") Pia Waugh replied on Mon, 2015-07-06 10:13 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-836)
 
 Comment: 
 
@@ -151,7 +152,7 @@ Pia Waugh
 
 -   [reply](https://www.dto.gov.au/comment/reply/771/836)
 
-simonfj replied on Thu, 2015-07-23 16:21 [Permalink](../comment/1166.html#comment-1166)
+simonfj replied on Thu, 2015-07-23 16:21 [Permalink](../comment/11foi_act_and_information_publication_scheme.md#comment-1166)
 
 Comment: 
 
@@ -191,7 +192,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

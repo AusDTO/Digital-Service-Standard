@@ -1,5 +1,6 @@
 ---
-title: dtogovau_gets_the_first_of_many_makeovers.md
+title: dtogovau_gets_the_first_of_many_makeovers
+permalink: dtogovau_gets_the_first_of_many_makeovers.html
 layout: default
 ---
 dto.gov.au gets the first of many makeovers
@@ -20,7 +21,7 @@ Have you noticed things are different around here?
 
 We’ve tidied up the layout of our site, used simple icons for easy navigation and made it more compatible with Internet Explorer. 
 
-We’ve also added links to our [Digital Service Design Guides](../digital_service_design_guide.md) – a growing collection of information to help Australian Government agencies meet the [Digital Service Standard](../standard/digital_service_standard.md).
+We’ve also added links to our [Digital Service Design Guides](../foi_act_and_information_publication_scheme.md) – a growing collection of information to help Australian Government agencies meet the [Digital Service Standard](../standard/foi_act_and_information_publication_scheme.md).
 
 **But we know it can be better.**
 
@@ -31,16 +32,16 @@ We’re not perfect. Not yet. We expect to keep changing our site to better serv
 Related blogs
 -------------
 
-[Recruitment campaign to find Australia's best tech talent](recruitment_campaign_to_find_australias_best_tech_talent.md)
+[Recruitment campaign to find Australia's best tech talent](foi_act_and_information_publication_scheme.md)
 
-[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
+[Your homepage is not your front door](foi_act_and_information_publication_scheme.md)
 
-[Open and secure](open_and_secure.md)
+[Open and secure](foi_act_and_information_publication_scheme.md)
 
 Comments (16)
 -------------
 
-simonfj replied on Fri, 2015-07-31 11:19 [Permalink](../comment/1416.html#comment-1416)
+simonfj replied on Fri, 2015-07-31 11:19 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1416)
 
 Comment: 
 
@@ -64,7 +65,7 @@ It's good that you're "growing a collection of information to help Australian Go
 
 -   [reply](https://www.dto.gov.au/comment/reply/1071/1416)
 
-Etienne replied on Mon, 2015-08-03 09:37 [Permalink](../comment/1451.html#comment-1451)
+Etienne replied on Mon, 2015-08-03 09:37 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-1451)
 
 Comment: 
 
@@ -78,7 +79,7 @@ Cheers,
 
 -   [reply](https://www.dto.gov.au/comment/reply/1071/1451)
 
-![Brant Trim's picture](../sites/g/files/net466/f/pictures/picture-346-1439967175.jpg "Brant Trim's picture") Brant Trim replied on Wed, 2015-08-19 13:36 [Permalink](../comment/1786.html#comment-1786)
+![Brant Trim's picture](../sites/g/files/net466/f/pictures/picture-346-1439967175.jpg "Brant Trim's picture") Brant Trim replied on Wed, 2015-08-19 13:36 [Permalink](../comment/17foi_act_and_information_publication_scheme.md#comment-1786)
 
 Comment: 
 
@@ -88,7 +89,7 @@ As the keeper of many departmental websites previously, I understand your thinki
 
 -   [reply](https://www.dto.gov.au/comment/reply/1071/1786)
 
-![Brant Trim's picture](../sites/g/files/net466/f/pictures/picture-346-1439967175.jpg "Brant Trim's picture") Brant Trim replied on Wed, 2015-08-19 13:33 [Permalink](../comment/1where_are_we_heading_a_future_state_for_user_experience.md#comment-1781)
+![Brant Trim's picture](../sites/g/files/net466/f/pictures/picture-346-1439967175.jpg "Brant Trim's picture") Brant Trim replied on Wed, 2015-08-19 13:33 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1781)
 
 Comment: 
 
@@ -98,7 +99,7 @@ We thought long and hard about adding another website to the already large numbe
 
 -   [reply](https://www.dto.gov.au/comment/reply/1071/1781)
 
-Darren Whitelaw replied on Mon, 2015-08-03 09:26 [Permalink](../comment/1domain_names.md#comment-1441)
+Darren Whitelaw replied on Mon, 2015-08-03 09:26 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1441)
 
 Comment: 
 
@@ -106,7 +107,7 @@ New site looks much better... well done to the team working on this! Good to see
 
 -   [reply](https://www.dto.gov.au/comment/reply/1071/1441)
 
-Kylie Johnson replied on Mon, 2015-08-03 10:20 [Permalink](../comment/1secure_services.md#comment-1466)
+Kylie Johnson replied on Mon, 2015-08-03 10:20 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1466)
 
 Comment: 
 
@@ -114,7 +115,7 @@ I agree with Darren. It looks a lot better. Funny that he likes sprinkles on the
 
 -   [reply](https://www.dto.gov.au/comment/reply/1071/1466)
 
-Tom replied on Mon, 2015-08-03 11:17 [Permalink](../comment/1open_standards.md#comment-1471)
+Tom replied on Mon, 2015-08-03 11:17 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1471)
 
 Comment: 
 
@@ -122,7 +123,7 @@ Good work, just a heads up the LinkedIn icon in the footer is displaying incorre
 
 -   [reply](https://www.dto.gov.au/comment/reply/1071/1471)
 
-Simon Schwartz replied on Mon, 2015-08-03 11:23 [Permalink](../comment/1476.html#comment-1476)
+Simon Schwartz replied on Mon, 2015-08-03 11:23 [Permalink](../comment/14foi_act_and_information_publication_scheme.md#comment-1476)
 
 Comment: 
 
@@ -130,7 +131,7 @@ Thanks for the heads up Tom. We'll investigate.
 
 -   [reply](https://www.dto.gov.au/comment/reply/1071/1476)
 
-Andrew Barnett replied on Tue, 2015-08-04 18:36 [Permalink](../comment/1content_management_system.md#comment-1496)
+Andrew Barnett replied on Tue, 2015-08-04 18:36 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1496)
 
 Comment: 
 
@@ -138,7 +139,7 @@ User zoom seems to be disabled on mobile, which is a problem for accessibility. 
 
 -   [reply](https://www.dto.gov.au/comment/reply/1071/1496)
 
-Simon Schwartz replied on Wed, 2015-08-05 11:31 [Permalink](../comment/1identity_assurance.md#comment-1506)
+Simon Schwartz replied on Wed, 2015-08-05 11:31 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1506)
 
 Comment: 
 
@@ -151,8 +152,8 @@ Pages
 
 -   -   1
     -   [2](../blog/dtogovau-gets-first-many-makeovers%3Fpage=1.html "Go to page 2")
--   -   [« first](dtogovau_gets_the_first_of_many_makeovers.md "Go to first page")
-    -   [‹ previous](dtogovau_gets_the_first_of_many_makeovers.md "Go to previous page")
+-   -   [« first](foi_act_and_information_publication_scheme.md "Go to first page")
+    -   [‹ previous](foi_act_and_information_publication_scheme.md "Go to previous page")
 -   -   [next ›](../blog/dtogovau-gets-first-many-makeovers%3Fpage=1.html "Go to next page")
     -   [last »](../blog/dtogovau-gets-first-many-makeovers%3Fpage=1.html "Go to last page")
 
@@ -163,7 +164,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

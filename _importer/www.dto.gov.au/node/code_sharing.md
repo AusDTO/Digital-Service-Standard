@@ -1,5 +1,6 @@
 ---
-title: code_sharing.md
+title: code_sharing
+permalink: code_sharing.html
 layout: default
 ---
 Code sharing

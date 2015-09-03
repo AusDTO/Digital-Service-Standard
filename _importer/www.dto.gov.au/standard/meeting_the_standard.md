@@ -1,5 +1,6 @@
 ---
-title: meeting_the_standard.md
+title: meeting_the_standard
+permalink: meeting_the_foi_act_and_information_publication_scheme.md
 layout: default
 ---
 Meeting the Standard
@@ -7,15 +8,15 @@ Meeting the Standard
 
 Does the service meet the Standard?
 
-All services within the [scope of the Standard](../node/scope_of_the_digital_service_standard.md) must be assessed against the criteria of the [Standard](digital_service_standard.md) at each phase of service development.
+All services within the [scope of the Standard](../node/foi_act_and_information_publication_scheme.md) must be assessed against the criteria of the [Standard](foi_act_and_information_publication_scheme.md) at each phase of service development.
 
 The agency who owns the service must make sure their service meets and maintains the Standard, whether it is designed, built and operated by in-house, external or mixed teams. If a service does not meet the Standard it should not progress to the next phase.
 
 Helping you meet the Standard is important.
 
-1.  [Assurance against the Standard](../node/meeting_the_standard.md#assurance) - how to self-assess, provide evidence and report
-2.  [Keeping the Standard](../node/meeting_the_standard.md#keeping) - ensuring your service continues to meet the Standard
-3.  [Failing to meet the Standard](../node/meeting_the_standard.md#failing) - help is available 
+1.  [Assurance against the Standard](../node/foi_act_and_information_publication_scheme.md#assurance) - how to self-assess, provide evidence and report
+2.  [Keeping the Standard](../node/foi_act_and_information_publication_scheme.md#keeping) - ensuring your service continues to meet the Standard
+3.  [Failing to meet the Standard](../node/foi_act_and_information_publication_scheme.md#failing) - help is available 
 
 Assurance against the Standard
 ------------------------------
@@ -33,7 +34,7 @@ The Digital Transformation Office (DTO) is developing the assessment framework, 
 
 Service teams and Digital Transformation Coordinators must be satisfied that they have met the relevant criteria of the Standard. Once satisfied, the agency will report their progression to the next phase on a Digital Service Dashboard (currently being developed) and provide their assessment report.  
 
-If support is needed to assess the service, the DTO can help - please [contact us](../engage.md).
+If support is needed to assess the service, the DTO can help - please [contact us](../foi_act_and_information_publication_scheme.md).
 
 ### Providing evidence
 
@@ -59,7 +60,7 @@ In keeping the Standard, service teams must:
 -   show high levels of user satisfaction are maintained in the digital and assisted digital service
 -   show high levels of transaction completion are maintained in the digital and assisted digital service
 -   show cost per transaction is decreasing in line with plans submitted ahead of the service’s launch
--   show digital take-up is increasing in line with plans submitted ahead of the service’s launch, and [assisted digital support](../node/assisted_digital.md) is targeted at the people who really need it.
+-   show digital take-up is increasing in line with plans submitted ahead of the service’s launch, and [assisted digital support](../node/foi_act_and_information_publication_scheme.md) is targeted at the people who really need it.
 
 Failing to meet the standard
 ----------------------------
@@ -73,15 +74,15 @@ A service may fail to meet the Standard at 2 points:
 
 Progress towards meeting the Standard should be assessed and reported at every phase the service passes through.
 
-If the agency team performing the assessment aren’t satisfied that a service meets the relevant criteria of the Standard, the service should not progress to the next phase. Where an assessment fails to progress a service, [help is available](../engage.md).
+If the agency team performing the assessment aren’t satisfied that a service meets the relevant criteria of the Standard, the service should not progress to the next phase. Where an assessment fails to progress a service, [help is available](../foi_act_and_information_publication_scheme.md).
 
 ### Ongoing performance
 
 The DTO will use assessment reports and the Digital Service Dashboard to monitor service performance. This includes identifying services that are failing to maintain the performance targets set by agencies. Where a service does not meet its benchmarks, the DTO will work with Digital Transformation Coordinators and Service Managers to resolve the issue.
 
-*This content has been adapted from the UK Government Digital Service Design Manual guidance on the [UK Government Digital Service Design Manual guide on the Scope of the Standard](https://www.gov.uk/service-manual/digital-by-default/scope-of-the-digital_service_standard.md) under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/).*
+*This content has been adapted from the UK Government Digital Service Design Manual guidance on the [UK Government Digital Service Design Manual guide on the Scope of the Standard](https://www.gov.uk/service-manual/digital-by-default/scope-of-the-foi_act_and_information_publication_scheme.md) under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/).*
 
-Last updated: 30 March  |  [Provide feedback on this page](../feedback%3Furl_from=Meetingthedigital_service_standard.md)
+Last updated: 30 March  |  [Provide feedback on this page](../feedback%3Furl_from=Meetingthefoi_act_and_information_publication_scheme.md)
 
-[Top](../node/meeting_the_standard.md#)
+[Top](../node/foi_act_and_information_publication_scheme.md#)
 

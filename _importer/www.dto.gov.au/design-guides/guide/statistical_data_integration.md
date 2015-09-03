@@ -1,5 +1,6 @@
 ---
-title: statistical_data_integration.md
+title: statistical_data_integration
+permalink: statistical_data_integration.html
 layout: default
 ---
 Statistical data integration
@@ -19,9 +20,9 @@ Integrating existing Australian Government statistical data can be a cost effect
 How do I?
 ---------
 
--   [Determine if Commonwealth arrangements apply](../../node/statistical_data_integration.md#determine)
--   [Seek integration approval](../../node/statistical_data_integration.md#seekintegration)
--   [Use best practice resources](../../node/statistical_data_integration.md#bestpractice)
+-   [Determine if Commonwealth arrangements apply](../../node/foi_act_and_information_publication_scheme.md#determine)
+-   [Seek integration approval](../../node/foi_act_and_information_publication_scheme.md#seekintegration)
+-   [Use best practice resources](../../node/foi_act_and_information_publication_scheme.md#bestpractice)
 
 ### Determine if Commonwealth arrangements apply
 

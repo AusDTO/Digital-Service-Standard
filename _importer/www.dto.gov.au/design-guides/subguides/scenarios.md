@@ -1,5 +1,6 @@
 ---
-title: scenarios.md
+title: scenarios
+permalink: foi_act_and_information_publication_scheme.md
 layout: default
 ---
 Scenarios
@@ -65,5 +66,5 @@ Caption: An illustrated user scenario of a [new father returning to work](http:
 
 *This content has been adapted from the [New Zealand Government Web Toolkit on Scenarios](https://webtoolkit.govt.nz/guidance/service-design/tools/scenarios/) under the [Creative Commons Attribution 4.0 International license](http://creativecommons.org/licenses/by/4.0/).*
 
-**Last updated:** 20 July 2015  |  [Provide feedback on this page](../../feedback%3Furl_from=Userresearch-scenarios.md)
+**Last updated:** 20 July 2015  |  [Provide feedback on this page](../../feedback%3Furl_from=Userresearch-foi_act_and_information_publication_scheme.md)
 
