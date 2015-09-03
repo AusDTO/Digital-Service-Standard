@@ -1,5 +1,6 @@
 ---
-title: privacy.md
+title: privacy
+permalink: foi_act_and_information_publication_scheme.md
 layout: default
 ---
 Privacy
@@ -23,12 +24,12 @@ Why must I?
 How do I?
 ---------
 
--   [Identify personal information](../../node/privacy.md#identify)
--   [Understand what you are collecting and what you are going to do with it](../../node/privacy.md#understand)
--   [Protect the information you handle](../../node/privacy.md#protect)
--   [Consider a privacy impact assessment, privacy by design, and other tools](../../node/privacy.md#consider)
--   [Confirm compliance with the APPs](../../node/privacy.md#confirm)
--   [Engage with key privacy officers](../../node/privacy.md#engage)
+-   [Identify personal information](../../node/foi_act_and_information_publication_scheme.md#identify)
+-   [Understand what you are collecting and what you are going to do with it](../../node/foi_act_and_information_publication_scheme.md#understand)
+-   [Protect the information you handle](../../node/foi_act_and_information_publication_scheme.md#protect)
+-   [Consider a privacy impact assessment, privacy by design, and other tools](../../node/foi_act_and_information_publication_scheme.md#consider)
+-   [Confirm compliance with the APPs](../../node/foi_act_and_information_publication_scheme.md#confirm)
+-   [Engage with key privacy officers](../../node/foi_act_and_information_publication_scheme.md#engage)
 
 ### Identify personal information
 

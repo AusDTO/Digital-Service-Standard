@@ -1,5 +1,6 @@
 ---
-title: release_of_the_alpha_digital_service_standard.md
+title: release_of_the_alpha_digital_service_standard
+permalink: release_of_the_alpha_digital_service_foi_act_and_information_publication_scheme.md
 layout: default
 ---
 Release of the alpha Digital Service Standard
@@ -16,7 +17,7 @@ Author: 
 
 Jacqui van Teulingen
 
-A new approach to the design and delivery of digital services starts today with the release of the [alpha Digital Service Standard](../standard/digital_service_standard.md). The standard establishes the criteria that all Australian digital government services must meet to ensure they are simpler, faster and easier to use.
+A new approach to the design and delivery of digital services starts today with the release of the [alpha Digital Service Standard](../standard/foi_act_and_information_publication_scheme.md). The standard establishes the criteria that all Australian digital government services must meet to ensure they are simpler, faster and easier to use.
 
 Most people expect to be able to access government services and information anytime and from anywhere, using any internet-connected device. They expect services to be simple, seamless, fast and intuitive. Common standards for design and delivery of government services and information will make interacting and transacting with government easier for everyone.
 
@@ -35,16 +36,16 @@ We will be talking about the standard, what it means and how to apply it over th
 Related blogs
 -------------
 
-[Digital Community of Practice event – 4 September](digital_community_of_practice_event_4_september.md)
+[Digital Community of Practice event – 4 September](foi_act_and_information_publication_scheme.md)
 
-[‘Showing the thing’ was our theme last week in the Standards team](showing_the_thing_was_our_theme_last_week_in_the_standards_team.md)
+[‘Showing the thing’ was our theme last week in the Standards team](foi_act_and_information_publication_scheme.md)
 
-[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
+[Your homepage is not your front door](foi_act_and_information_publication_scheme.md)
 
 Comments (4)
 ------------
 
-Anonymous replied on Mon, 2015-04-13 09:28 [Permalink](../comment/16.html#comment-16)
+Anonymous replied on Mon, 2015-04-13 09:28 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-16)
 
 Comment: 
 
@@ -52,7 +53,7 @@ Are you going to going publish comments?
 
 -   [reply](https://www.dto.gov.au/comment/reply/536/16)
 
-Jenny replied on Wed, 2015-06-24 19:26 [Permalink](../comment/596.html#comment-596)
+Jenny replied on Wed, 2015-06-24 19:26 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-596)
 
 Comment: 
 
@@ -60,17 +61,17 @@ Can you please email us [link removed] when these are released - clients are ask
 
 -   [reply](https://www.dto.gov.au/comment/reply/536/596)
 
-Romany - DTO replied on Fri, 2015-06-26 14:54 [Permalink](../comment/dto_launches_at_the_digital_innovation_forum.md#comment-641)
+Romany - DTO replied on Fri, 2015-06-26 14:54 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-641)
 
 Comment: 
 
 Hi Jenny,
 
-Thanks for your interest! To be notified when major updates are released, we suggest you [subscribe to our mailing list](../engage.md).
+Thanks for your interest! To be notified when major updates are released, we suggest you [subscribe to our mailing list](../foi_act_and_information_publication_scheme.md).
 
 -   [reply](https://www.dto.gov.au/comment/reply/536/641)
 
-Jenny replied on Tue, 2015-06-30 21:48 [Permalink](../comment/691.html#comment-691)
+Jenny replied on Tue, 2015-06-30 21:48 [Permalink](../comment/6foi_act_and_information_publication_scheme.md#comment-691)
 
 Comment: 
 
@@ -85,7 +86,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

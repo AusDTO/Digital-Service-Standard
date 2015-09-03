@@ -1,5 +1,6 @@
 ---
-title: open_and_secure.md
+title: open_and_secure
+permalink: open_and_secure.html
 layout: default
 ---
 Open and secure
@@ -48,16 +49,16 @@ We have smart people developing for us, but you're smart too, so we'd love you t
 Related blogs
 -------------
 
-[Recruitment campaign to find Australia's best tech talent](recruitment_campaign_to_find_australias_best_tech_talent.md)
+[Recruitment campaign to find Australia's best tech talent](foi_act_and_information_publication_scheme.md)
 
-[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
+[Your homepage is not your front door](foi_act_and_information_publication_scheme.md)
 
-[The DTO now manage Government authentication frameworks](the_dto_now_manage_government_authentication_frameworks.md)
+[The DTO now manage Government authentication frameworks](foi_act_and_information_publication_scheme.md)
 
 Comments (3)
 ------------
 
-Rami S replied on Sun, 2015-08-16 19:43 [Permalink](../comment/1the_digital_transformation_agenda_in_the_2015_16_federal_budget.md#comment-1731)
+Rami S replied on Sun, 2015-08-16 19:43 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1731)
 
 Comment: 
 
@@ -65,7 +66,7 @@ Comment: 
 
 -   [reply](https://www.dto.gov.au/comment/reply/1096/1731)
 
-hrvoje replied on Mon, 2015-08-17 12:14 [Permalink](../comment/1digitising_mail.md#comment-1741)
+hrvoje replied on Mon, 2015-08-17 12:14 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1741)
 
 Comment: 
 
@@ -75,7 +76,7 @@ Mark,
 
 -   [reply](https://www.dto.gov.au/comment/reply/1096/1741)
 
-Ambarish Natu replied on Fri, 2015-08-21 19:18 [Permalink](../comment/1scenarios.md#comment-1831)
+Ambarish Natu replied on Fri, 2015-08-21 19:18 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1831)
 
 Comment: 
 
@@ -91,7 +92,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

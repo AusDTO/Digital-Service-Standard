@@ -1,5 +1,6 @@
 ---
-title: domain_names.md
+title: domain_names
+permalink: domain_names.html
 layout: default
 ---
 Domain names
@@ -19,10 +20,10 @@ Under the [gov.au Policy and governance framework](http://www.domainname.gov.au/
 How do I?
 ---------
 
--   [Determine if a gov.au domain name should be used](domain_names.md#determine)
--   [Choose a domain name](domain_names.md#choose)
--   [Manage your domain name](domain_names.md#manage)
--   [Retire unused domain names](domain_names.md#retire)
+-   [Determine if a gov.au domain name should be used](foi_act_and_information_publication_scheme.md#determine)
+-   [Choose a domain name](foi_act_and_information_publication_scheme.md#choose)
+-   [Manage your domain name](foi_act_and_information_publication_scheme.md#manage)
+-   [Retire unused domain names](foi_act_and_information_publication_scheme.md#retire)
 
 ### Determine if a gov.au domain name should be used
 

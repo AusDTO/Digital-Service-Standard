@@ -1,5 +1,6 @@
 ---
-title: cookies.md
+title: cookies
+permalink: foi_act_and_information_publication_scheme.md
 layout: default
 ---
 Cookies
@@ -17,7 +18,7 @@ A privacy statement could be something like:
 
 *All cookies will be immediately lost when you end your internet session and shut down your computer. Our copy of your information will be automatically deleted 20 minutes after you last used the system. This information is only used to help you use our website systems more efficiently, for example by maintaining a record of what text size you prefer to view pages in, not to track your movements through the internet, or to record private information about you.*
 
-Guidance on [Australian Government privacy requirements](privacy.md) is also available.
+Guidance on [Australian Government privacy requirements](foi_act_and_information_publication_scheme.md) is also available.
 
-**Last updated:** 21 July 2015 | [Provide feedback on this page](../feedback%3Furl_from=cookies.md)
+**Last updated:** 21 July 2015 | [Provide feedback on this page](../feedback%3Furl_from=foi_act_and_information_publication_scheme.md)
 

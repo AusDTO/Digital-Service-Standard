@@ -1,5 +1,6 @@
 ---
-title: digital_service_standard.md
+title: digital_service_standard
+permalink: digital_service_foi_act_and_information_publication_scheme.md
 layout: default
 ---
 Digital Service Standard
@@ -7,11 +8,11 @@ Digital Service Standard
 
 The Digital Service Standard establishes the criteria that Australian Government digital services must meet to ensure our services are simpler, faster and easier to use. Meeting the criteria means we can consistently provide high quality services and satisfy our users' needs.
 
-All services within the [scope of the Standard](node/scope_of_the_digital_service_standard.md) must meet the criteria before they can be launched. After launch, we will report against our service performance.
+All services within the [scope of the Standard](node/foi_act_and_information_publication_scheme.md) must meet the criteria before they can be launched. After launch, we will report against our service performance.
 
-This Standard is in alpha phase and is intended for service delivery teams in Australian Government agencies. The alpha version was developed with Government agencies and will be continuously improved to reflect emerging best practice. We encourage your [feedback](feedback-design-guidance%3Furl_from=standardpage.html) on the Standard to ensure it continues to deliver high quality outcomes.
+This Standard is in beta phase and is intended for service delivery teams in Australian Government agencies. The beta version was developed with Government agencies and will be continuously improved to reflect emerging best practice. We encourage your [feedback](feedback-design-guidance%3Furl_from=standardpage.html) on the Standard to ensure it continues to deliver high quality outcomes.
 
-The Standard is supported by [Design Guides](digital_service_design_guide.md). The Guides will help agencies design trusted and cost-effective government services that are welcomed by users. In consultation with you - the service practitioners in government - we will continue to develop the Guides over the coming months, so stay tuned for updates.
+The Standard is supported by [Design Guides](foi_act_and_information_publication_scheme.md). The Guides will help agencies design trusted and cost-effective government services that are welcomed by users. In consultation with you - the service practitioners in government - we will continue to develop the Guides over the coming months, so stay tuned for updates.
 
 You will notice we are speaking a new language; we are personalising our content and making things clearer. We welcome your participation, so get involved!  
 
@@ -22,7 +23,7 @@ Government agencies will be expected to:
 
 1.  Understand user needs, conduct research to develop a deep knowledge of who the service users are and what that means for digital and assisted digital service design​
 
-2.  Establish a sustainable multi-disciplinary team that can design, build, operate and iterate the service, led by an experienced service manager​
+2.  Establish a sustainable multi-disciplinary team that can design, build, operate and iterate the service, led by an experienced service manager​ with decision-making responsibility
 
 3.  Adopt a user-centred design approach​
 
@@ -32,9 +33,9 @@ Government agencies will be expected to:
 
 6.  Assess what personal user data and information the service will be providing, using or storing and put in place appropriate measures to address security risks, legal responsibilities and privacy considerations​
 
-7.  Build the service using agile, iterative and user-centred methods
+7.  Build the service using agile, iterative, collaborative and user-centred methods
 
-8.  Build the service with common look, feel, tone and function that meets the needs of users​
+8.  Build the service with consistent look, feel, tone and function that meets the needs of users​ including those with disability
 
 9.  Use web service APIs, open standards and common government solutions where possible and make all new source code open and reusable where appropriate
 
@@ -52,9 +53,14 @@ Government agencies will be expected to:
 
 16. Provide ongoing assurance, supported by analytics, that the service is simple and intuitive enough that users succeed first time unaided​
 
-![](https://www.dto.gov.au/modules/file/icons/application-pdf.png "application/pdf")[Print formatted version of the Digital Service Standard – PDF (129 kb)](sites/g/files/net466/f/Digital%20Service%20Standard%20-%20Print%20Version%202015-08-10%20-%20edit.pdf%3Fv=1439183520)
+Tools
+-----
+
+![](https://www.dto.gov.au/modules/file/icons/application-pdf.png "application/pdf")[Digital Service Standard Kanban poster - PDF (258 kb)](sites/g/files/net466/f/digital-service-standard-kanban%20poster_0.pdf)
+
+![](https://www.dto.gov.au/modules/file/icons/application-pdf.png "application/pdf")[Digital Service Standard poster - PDF (168 kb)](sites/g/files/net466/f/digital-service-standard-poster.pdf)
 
 *The Digital Service Standard has been adapted from the [UK Government’s Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default-26-points) under the [Open Government Licence v2.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/).*
 
-**Last updated**: 30 March 2015  |  [Provide feedback on this page ](feedback%3Furl_from=DigitalServiceStandardCriteria.html)
+**Last updated**: 03 September 2015  |  [Provide feedback on this page ](feedback%3Furl_from=DigitalServiceStandardCriteria.html)
 

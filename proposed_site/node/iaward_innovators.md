@@ -1,5 +1,6 @@
 ---
-title: iaward_innovators.md
+title: iaward_innovators
+permalink: iaward_innovators.html
 layout: default
 ---
 iAward innovators
@@ -33,11 +34,11 @@ A full list of the winners can be found [here](https://www.aiia.com.au/news/2381
 Related blogs
 -------------
 
-[Recruitment campaign to find Australia's best tech talent](recruitment_campaign_to_find_australias_best_tech_talent.md)
+[Recruitment campaign to find Australia's best tech talent](foi_act_and_information_publication_scheme.md)
 
-[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
+[Your homepage is not your front door](foi_act_and_information_publication_scheme.md)
 
-[Open and secure](open_and_secure.md)
+[Open and secure](foi_act_and_information_publication_scheme.md)
 
 Add new comment
 ---------------
@@ -46,7 +47,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

@@ -1,5 +1,6 @@
 ---
-title: affinity_diagramming.md
+title: affinity_diagramming
+permalink: affinity_diagramming.html
 layout: default
 ---
 Affinity diagramming

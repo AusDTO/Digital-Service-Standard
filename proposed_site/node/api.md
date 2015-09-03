@@ -1,5 +1,6 @@
 ---
-title: api.md
+title: api
+permalink: foi_act_and_information_publication_scheme.md
 layout: default
 ---
 API

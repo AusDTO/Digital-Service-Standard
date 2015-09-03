@@ -1,5 +1,6 @@
 ---
-title: how_do_australians_really_feel_about_digital_government_services.md
+title: how_do_australians_really_feel_about_digital_government_services
+permalink: how_do_australians_really_feel_about_digital_government_services.html
 layout: default
 ---
 How do Australians really feel about digital government services?
@@ -68,16 +69,16 @@ Read the full version of the report.
 Related blogs
 -------------
 
-[Getting inside your head: Analysing search behaviours](getting_inside_your_head_analysing_search_behaviours.md)
+[Getting inside your head: Analysing search behaviours](foi_act_and_information_publication_scheme.md)
 
-[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
+[Your homepage is not your front door](foi_act_and_information_publication_scheme.md)
 
-[Where are we heading: A future state for user experience](where_are_we_heading_a_future_state_for_user_experience.md)
+[Where are we heading: A future state for user experience](foi_act_and_information_publication_scheme.md)
 
-Comments (8)
-------------
+Comments (12)
+-------------
 
-Nick Housego replied on Mon, 2015-08-24 10:58 [Permalink](../comment/1digital_transformation_plan.md#comment-1871)
+Nick Housego replied on Mon, 2015-08-24 10:58 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1871)
 
 Comment: 
 
@@ -93,7 +94,7 @@ Cheers
 
 -   [reply](https://www.dto.gov.au/comment/reply/1101/1871)
 
-![Kristy Dam's picture](../sites/g/files/net466/f/pictures/picture-1581-1439519048.jpg "Kristy Dam's picture") Kristy Dam replied on Mon, 2015-08-24 16:13 [Permalink](../comment/1web_accessibility.md#comment-1901)
+![Kristy Dam's picture](../sites/g/files/net466/f/pictures/picture-1581-1439519048.jpg "Kristy Dam's picture") Kristy Dam replied on Mon, 2015-08-24 16:13 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1901)
 
 Comment: 
 
@@ -101,7 +102,7 @@ Hi Nick, thanks for your feedback and comments.  We do plan on running a sub-s
 
 -   [reply](https://www.dto.gov.au/comment/reply/1101/1901)
 
-Audrey Harris replied on Tue, 2015-08-25 17:11 [Permalink](../comment/12015_16_digital_transformation_agenda_budget_initiatives.md#comment-1941)
+Audrey Harris replied on Tue, 2015-08-25 17:11 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1941)
 
 Comment: 
 
@@ -109,7 +110,15 @@ With the less than satisfied approach to digital services from those in a rural 
 
 -   [reply](https://www.dto.gov.au/comment/reply/1101/1941)
 
-Olga Kustova replied on Mon, 2015-08-24 13:21 [Permalink](../comment/1glossary.md#comment-1891)
+![Kristy Dam's picture](../sites/g/files/net466/f/pictures/picture-1581-1439519048.jpg "Kristy Dam's picture") Kristy Dam replied on Mon, 2015-08-31 14:00 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-2006)
+
+Comment: 
+
+Hi Audrey, thanks for your question.  The sample size doesn't really allow us to draw strong conclusions around the reasons for dissatisfaction for those from rural/remote areas, but at the overall general population level, it would appear that dissatisfaction with the functionality of the service, rather than digital infrastructure, was cited by more respondents.  Having said that, I agree that both factors are equally important and need to be addressed moving forward.
+
+-   [reply](https://www.dto.gov.au/comment/reply/1101/2006)
+
+Olga Kustova replied on Mon, 2015-08-24 13:21 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1891)
 
 Comment: 
 
@@ -117,7 +126,7 @@ It would be interesting to compare the results with other countries, like UK, De
 
 -   [reply](https://www.dto.gov.au/comment/reply/1101/1891)
 
-Jeremy Gregson replied on Mon, 2015-08-24 14:47 [Permalink](../comment/1copyright.md#comment-1896)
+Jeremy Gregson replied on Mon, 2015-08-24 14:47 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1896)
 
 Comment: 
 
@@ -125,7 +134,7 @@ It's important to remember, when comparing government services with other sector
 
 -   [reply](https://www.dto.gov.au/comment/reply/1101/1896)
 
-![Kristy Dam's picture](../sites/g/files/net466/f/pictures/picture-1581-1439519048.jpg "Kristy Dam's picture") Kristy Dam replied on Mon, 2015-08-24 16:17 [Permalink](../comment/1disclaimer.md#comment-1906)
+![Kristy Dam's picture](../sites/g/files/net466/f/pictures/picture-1581-1439519048.jpg "Kristy Dam's picture") Kristy Dam replied on Mon, 2015-08-24 16:17 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1906)
 
 Comment: 
 
@@ -133,7 +142,7 @@ Hi Jeremy, thanks for your suggestion.  We will consider for future iterations 
 
 -   [reply](https://www.dto.gov.au/comment/reply/1101/1906)
 
-Miguel Carrasco replied on Tue, 2015-08-25 09:53 [Permalink](../comment/1affinity_diagramming.md#comment-1921)
+Miguel Carrasco replied on Tue, 2015-08-25 09:53 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1921)
 
 Comment: 
 
@@ -141,7 +150,15 @@ Great research - well done. Can you publish the raw data set on data.gov.au?
 
 -   [reply](https://www.dto.gov.au/comment/reply/1101/1921)
 
-Lucas replied on Wed, 2015-08-26 11:49 [Permalink](../comment/1new_services_for_business.md#comment-1951)
+![Kristy Dam's picture](../sites/g/files/net466/f/pictures/picture-1581-1439519048.jpg "Kristy Dam's picture") Kristy Dam replied on Mon, 2015-08-31 14:02 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-2011)
+
+Comment: 
+
+Thanks Miguel. We do intend to publish the data set on data.gov.au.  In the interim, please contact me directly if you would like to get hold of the data set. 
+
+-   [reply](https://www.dto.gov.au/comment/reply/1101/2011)
+
+Lucas replied on Wed, 2015-08-26 11:49 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1951)
 
 Comment: 
 
@@ -157,6 +174,16 @@ Good work, it will be an interesting journey to watch.
 
 -   [reply](https://www.dto.gov.au/comment/reply/1101/1951)
 
+Pages
+-----
+
+-   -   1
+    -   [2](../blog/how-do-australians-really-feel-about-digital-government-services%3Fpage=1.html "Go to page 2")
+-   -   [« first](foi_act_and_information_publication_scheme.md "Go to first page")
+    -   [‹ previous](foi_act_and_information_publication_scheme.md "Go to previous page")
+-   -   [next ›](../blog/how-do-australians-really-feel-about-digital-government-services%3Fpage=1.html "Go to next page")
+    -   [last »](../blog/how-do-australians-really-feel-about-digital-government-services%3Fpage=1.html "Go to last page")
+
 Add new comment
 ---------------
 
@@ -164,7 +191,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

@@ -1,5 +1,6 @@
 ---
-title: open_data.md
+title: open_data
+permalink: open_data.html
 layout: default
 ---
 Open data
@@ -45,16 +46,16 @@ Building your services on open formats and open standards means that you can mor
 How do I?
 ---------
 
--   [Open service data](../../node/open_data.md#openservice)
--   [Build on service data](../../node/open_data.md#buildon)
--   [Build trust](../../node/open_data.md#buildtrust)
--   [License data for re-use](../../node/open_data.md#licensedata)
+-   [Open service data](../../node/foi_act_and_information_publication_scheme.md#openservice)
+-   [Build on service data](../../node/foi_act_and_information_publication_scheme.md#buildon)
+-   [Build trust](../../node/foi_act_and_information_publication_scheme.md#buildtrust)
+-   [License data for re-use](../../node/foi_act_and_information_publication_scheme.md#licensedata)
 
-[Top](../../node/open_data.md#)
+[Top](../../node/foi_act_and_information_publication_scheme.md#)
 
 ### Open service data
 
-Overall, government produces a lot of data that describes the services that we offer and how well those services are performing. For example, data from [analytics tools](../../node/analytics_tools.md) and [key performance indicators](../../node/measurement.md). There’s also data on how people use these services and who those people are.
+Overall, government produces a lot of data that describes the services that we offer and how well those services are performing. For example, data from [analytics tools](../../node/foi_act_and_information_publication_scheme.md) and [key performance indicators](../../node/foi_act_and_information_publication_scheme.md). There’s also data on how people use these services and who those people are.
 
 Data about service performance allows Service Managers to see how well a service is running. It also means that users can hold us to account. Data about service performance should be public data.
 
@@ -76,9 +77,9 @@ People are already using your services, giving you lots of data about their beha
 
 In making your data open, you are encouraging greater use of the data and helping users to innovate.
 
-Developers need to be able to use the data, to share it, and combine it with other data to use in their own applications, for example through [application programming interfaces](../../node/api.md) (APIs).
+Developers need to be able to use the data, to share it, and combine it with other data to use in their own applications, for example through [application programming interfaces](../../node/foi_act_and_information_publication_scheme.md) (APIs).
 
-As with all government digital services, you’ll need to [understand the user need](../../node/user_research.md) for the data you publish.
+As with all government digital services, you’ll need to [understand the user need](../../node/foi_act_and_information_publication_scheme.md) for the data you publish.
 
 You’ll need to keep developers aware of what datasets you're releasing and to maintain relationships with the primary data users that are at the cutting edge of technology. They can help you to do things differently and in more agile ways. You can subscribe to the [data.gov.au blog](http://www.finance.gov.au/taxonomy/term/1274/feed/) to keep in touch.
 
@@ -96,9 +97,9 @@ You should provide easy access to material that you publish. You can encourage i
 
 You should use the Creative Commons Attribution 3.0 Australia (CC BY 3.0 AU) for publishing data and information, unless a clear case is made for another open licence. You can access the licence text on the Creative Commons website in either [plain English](http://creativecommons.org/licenses/by/3.0/au/deed.en) or [legal code](http://creativecommons.org/licenses/by/3.0/au/legalcode).
 
-*This content has been adapted from the* [*UK Government Design Manual guide on Open data*](https://www.gov.uk/service-manual/technology/open_data.md) *under the* [*Open Government Licence v2.0*](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2) *and from the* [*Australian Government Open Data Toolkit*](https://toolkit.data.gov.au/) *under the* [*Creative Commons Attribution 3.0 Australia licence*](https://creativecommons.org/licenses/by/3.0/au/deed.en)*.*
+*This content has been adapted from the* [*UK Government Design Manual guide on Open data*](https://www.gov.uk/service-manual/technology/foi_act_and_information_publication_scheme.md) *under the* [*Open Government Licence v2.0*](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2) *and from the* [*Australian Government Open Data Toolkit*](https://toolkit.data.gov.au/) *under the* [*Creative Commons Attribution 3.0 Australia licence*](https://creativecommons.org/licenses/by/3.0/au/deed.en)*.*
 
 **Last updated**: 21 July 2015  |  [Provide feedback on this page](../../feedback%3Furl_from=OpenData.html)
 
-[Top](../../node/open_data.md#)
+[Top](../../node/foi_act_and_information_publication_scheme.md#)
 

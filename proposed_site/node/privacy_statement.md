@@ -1,5 +1,6 @@
 ---
-title: privacy_statement.md
+title: privacy_statement
+permalink: privacy_statement.html
 layout: default
 ---
 Privacy Statement
@@ -78,7 +79,7 @@ We also follow the [Guidelines for Federal and ACT government websites](http://w
 Contact us
 ----------
 
-[Email us](../engage.md) about your privacy concerns.
+[Email us](../foi_act_and_information_publication_scheme.md) about your privacy concerns.
 
 Alternatively, you can write to us at:
 

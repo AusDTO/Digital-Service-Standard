@@ -1,5 +1,6 @@
 ---
-title: david_hazlehurst_to_depart_the_dto.md
+title: david_hazlehurst_to_depart_the_dto
+permalink: david_hazlehurst_to_depart_the_dto.html
 layout: default
 ---
 David Hazlehurst to depart the DTO
@@ -41,16 +42,16 @@ He and the team will achieve great things.
 Related blogs
 -------------
 
-[Recruitment campaign to find Australia's best tech talent](recruitment_campaign_to_find_australias_best_tech_talent.md)
+[Recruitment campaign to find Australia's best tech talent](foi_act_and_information_publication_scheme.md)
 
-[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
+[Your homepage is not your front door](foi_act_and_information_publication_scheme.md)
 
-[Open and secure](open_and_secure.md)
+[Open and secure](foi_act_and_information_publication_scheme.md)
 
 Comments (2)
 ------------
 
-Mark Paterson replied on Mon, 2015-07-20 09:23 [Permalink](../comment/files_list_harradine_report.md#comment-1036)
+Mark Paterson replied on Mon, 2015-07-20 09:23 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-1036)
 
 Comment: 
 
@@ -58,7 +59,7 @@ Paul picks up some great early momentum David. Good job!
 
 -   [reply](https://www.dto.gov.au/comment/reply/846/1036)
 
-Virginia Ryan replied on Mon, 2015-07-20 22:24 [Permalink](../comment/agile.md#comment-1076)
+Virginia Ryan replied on Mon, 2015-07-20 22:24 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-1076)
 
 Comment: 
 
@@ -74,7 +75,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

@@ -1,5 +1,6 @@
 ---
-title: case_study_opening_government_data_with_the_nationalmap.md
+title: case_study_opening_government_data_with_the_nationalmap
+permalink: case_study_opening_government_data_with_the_nationalmap.html
 layout: default
 ---
 Case study: Opening government data with the NationalMap
@@ -11,7 +12,7 @@ Collaborating to visualise Australian Government data
 
 *Caption: The NationalMap displaying the visualisation of the surface geology dataset.*
 
-The [NationalMap](http://nationalmap.gov.au/) is a browser-based visualisation and access tool for open government data. Together with [data.gov.au](http://data.gov.au/) and [FIND](http://find.ga.gov.au/) (the Australian Governments spatial data catalogue), it delivers on the Australian Government’s [open data](open_data.md) agenda, and provides access to the Open Data Network.
+The [NationalMap](http://nationalmap.gov.au/) is a browser-based visualisation and access tool for open government data. Together with [data.gov.au](http://data.gov.au/) and [FIND](http://find.ga.gov.au/) (the Australian Governments spatial data catalogue), it delivers on the Australian Government’s [open data](foi_act_and_information_publication_scheme.md) agenda, and provides access to the Open Data Network.
 
 The Open Data Network provides a ‘no wrong door’ approach to accessing openly available government data. This means users can enter the network at any node and reach the data they are looking for without needing to know who ‘owns’ that data.
 

@@ -1,5 +1,6 @@
 ---
-title: testing_web_accessibility.md
+title: testing_web_accessibility
+permalink: testing_web_accessibility.html
 layout: default
 ---
 Testing web accessibility
@@ -21,10 +22,10 @@ The Australian Government has also endorsed the [UN Convention on the Rights of 
 How do I?
 ---------
 
--   [Stocktake services](../../node/testing_web_accessibility.md#stocktake)
--   [Assess capability](../../node/testing_web_accessibility.md#assess)
--   [Agree audit methodology](../../node/testing_web_accessibility.md#agree)
--   [Prepare report](../../node/testing_web_accessibility.md#prepare)
+-   [Stocktake services](../../node/foi_act_and_information_publication_scheme.md#stocktake)
+-   [Assess capability](../../node/foi_act_and_information_publication_scheme.md#assess)
+-   [Agree audit methodology](../../node/foi_act_and_information_publication_scheme.md#agree)
+-   [Prepare report](../../node/foi_act_and_information_publication_scheme.md#prepare)
 
 ### Stocktake services
 
@@ -37,9 +38,9 @@ You should capture and detail:
 -   currency of content (date created, last modified)
 -   technologies used to deliver dynamic functionality, including third-party providers.
 
-You should also use [analytics tools](../../node/analytics_tools.md) to understand web traffic; particularly page visits, user demographics, and viewing platforms.
+You should also use [analytics tools](../../node/foi_act_and_information_publication_scheme.md) to understand web traffic; particularly page visits, user demographics, and viewing platforms.
 
-[Top](../../node/testing_web_accessibility.md#)
+[Top](../../node/foi_act_and_information_publication_scheme.md#)
 
 ### Assess capability
 
@@ -89,7 +90,7 @@ The W3C has developed the [Website Accessibility Conformance Evaluation Methodol
 4.  Audit the sample
 5.  Report the finding
 
-[Top](../../node/testing_web_accessibility.md#)
+[Top](../../node/foi_act_and_information_publication_scheme.md#)
 
 ### Prepare report
 
@@ -120,5 +121,5 @@ The report should also support the development and maintenance of an ongoing web
 
 **Last updated:** 26 March 2015   |  [Provide feedback on this page](../../feedback%3Furl_from=Testingwebaccessibility.html)
 
-[Top](../../node/testing_web_accessibility.md#)
+[Top](../../node/foi_act_and_information_publication_scheme.md#)
 

@@ -1,5 +1,6 @@
 ---
-title: showing_the_thing_was_our_theme_last_week_in_the_standards_team.md
+title: showing_the_thing_was_our_theme_last_week_in_the_standards_team
+permalink: showing_the_thing_was_our_theme_last_week_in_the_standards_foi_act_and_information_publication_scheme.md
 layout: default
 ---
 ‘Showing the thing’ was our theme last week in the Standards team
@@ -18,11 +19,11 @@ Jacqui van Teulingen
 
 We were very busy last week in the Standards team drawing on whiteboards, papers and napkins planning out how we are going to help agencies meet the Digital Service Standard and how services will be assessed against the Standard. We plan on publishing a set of prompts and evidence concepts similar to the UK [Prompts and Evidence](https://www.gov.uk/service-manual/digital-by-default) so that everyone understands what’s expected.
 
-During our ‘showing the thing’ week, we talked to [Digital Transformation Coordinators](digital_transformation_coordinators.md) and showed them the first draft of our framework. We road tested our ideas for how we plan to conduct assessments and discussed how all the transformation planning work they are doing fits into the whole digital service lifecycle. The feedback was great and is being turned into [user stories](user_stories.md) that we will start working on.
+During our ‘showing the thing’ week, we talked to [Digital Transformation Coordinators](foi_act_and_information_publication_scheme.md) and showed them the first draft of our framework. We road tested our ideas for how we plan to conduct assessments and discussed how all the transformation planning work they are doing fits into the whole digital service lifecycle. The feedback was great and is being turned into [user stories](foi_act_and_information_publication_scheme.md) that we will start working on.
 
 As much as ‘showing the thing’ is a critical step in demonstrating that a service meets the Standard, this week we were also shown the thing. Over in the UK, Christine, one of our team members, worked with the GDS Assessment team as an observer in an alpha assessment of a UK service. We will learn more about Christine’s observations and learnings as soon as she returns, but she did gleefully report: “I have been given my assessor sticker lol”! Thanks a bunch, GDS folks.
 
-To round out our ‘showing the thing’ theme we’ve also sent out a placeholder for a [Digital Community of Practice](../engage.md) get-together on 14 September. We will be sharing everything we’ve developed so far on meeting the Standard and the assessment process. So come along and help us to help you!
+To round out our ‘showing the thing’ theme we’ve also sent out a placeholder for a [Digital Community of Practice](../foi_act_and_information_publication_scheme.md) get-together on 14 September. We will be sharing everything we’ve developed so far on meeting the Standard and the assessment process. So come along and help us to help you!
 
  
 
@@ -33,11 +34,11 @@ To round out our ‘showing the thing’ theme we’ve also sent out a placehold
 Related blogs
 -------------
 
-[Digital Community of Practice event – 4 September](digital_community_of_practice_event_4_september.md)
+[Digital Community of Practice event – 4 September](foi_act_and_information_publication_scheme.md)
 
-[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
+[Your homepage is not your front door](foi_act_and_information_publication_scheme.md)
 
-[The DTO now manage Government authentication frameworks](the_dto_now_manage_government_authentication_frameworks.md)
+[The DTO now manage Government authentication frameworks](foi_act_and_information_publication_scheme.md)
 
 Add new comment
 ---------------
@@ -46,7 +47,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

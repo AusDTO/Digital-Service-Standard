@@ -1,5 +1,6 @@
 ---
-title: government_working_with_government_lessons_from_onegov.md
+title: government_working_with_government_lessons_from_onegov
+permalink: government_working_with_government_lessons_from_onegov.html
 layout: default
 ---
 Government working with government: Lessons from OneGov
@@ -59,16 +60,16 @@ OneGov shows state agencies can work together to provide great seamless services
 Related blogs
 -------------
 
-[How do Australians really feel about digital government services?](how_do_australians_really_feel_about_digital_government_services.md)
+[How do Australians really feel about digital government services?](foi_act_and_information_publication_scheme.md)
 
-[Getting inside your head: Analysing search behaviours](getting_inside_your_head_analysing_search_behaviours.md)
+[Getting inside your head: Analysing search behaviours](foi_act_and_information_publication_scheme.md)
 
-[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
+[Your homepage is not your front door](foi_act_and_information_publication_scheme.md)
 
 Comments (2)
 ------------
 
-Alun Probert replied on Fri, 2015-07-10 16:19 [Permalink](../comment/ethnographic_research.md#comment-926)
+Alun Probert replied on Fri, 2015-07-10 16:19 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-926)
 
 Comment: 
 
@@ -77,7 +78,7 @@ Great work and a perfect example of the opportunity to rethink the legacy infras
 
 -   [reply](https://www.dto.gov.au/comment/reply/791/926)
 
-simonfj replied on Fri, 2015-07-17 12:48 [Permalink](../comment/caretaker_conventions.md#comment-1011)
+simonfj replied on Fri, 2015-07-17 12:48 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-1011)
 
 Comment: 
 
@@ -105,7 +106,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

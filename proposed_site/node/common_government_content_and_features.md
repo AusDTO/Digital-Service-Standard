@@ -1,5 +1,6 @@
 ---
-title: common_government_content_and_features.md
+title: common_government_content_and_features
+permalink: common_government_content_and_features.html
 layout: default
 ---
 Common government content and features

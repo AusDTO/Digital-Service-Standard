@@ -1,5 +1,6 @@
 ---
-title: caretaker_conventions.md
+title: caretaker_conventions
+permalink: caretaker_conventions.html
 layout: default
 ---
 Caretaker Conventions

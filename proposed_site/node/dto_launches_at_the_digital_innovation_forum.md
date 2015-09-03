@@ -1,5 +1,6 @@
 ---
-title: dto_launches_at_the_digital_innovation_forum.md
+title: dto_launches_at_the_digital_innovation_forum
+permalink: dto_launches_at_the_digital_innovation_forum.html
 layout: default
 ---
 DTO launches at the Digital Innovation Forum
@@ -32,11 +33,11 @@ Communications Minister Malcolm Turnbull was recently joined by former White Hou
 Related blogs
 -------------
 
-[Recruitment campaign to find Australia's best tech talent](recruitment_campaign_to_find_australias_best_tech_talent.md)
+[Recruitment campaign to find Australia's best tech talent](foi_act_and_information_publication_scheme.md)
 
-[Digital Community of Practice event – 4 September](digital_community_of_practice_event_4_september.md)
+[Digital Community of Practice event – 4 September](foi_act_and_information_publication_scheme.md)
 
-[‘Showing the thing’ was our theme last week in the Standards team](showing_the_thing_was_our_theme_last_week_in_the_standards_team.md)
+[‘Showing the thing’ was our theme last week in the Standards team](foi_act_and_information_publication_scheme.md)
 
 Add new comment
 ---------------
@@ -45,7 +46,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

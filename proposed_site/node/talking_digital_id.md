@@ -1,5 +1,6 @@
 ---
-title: talking_digital_id.md
+title: talking_digital_id
+permalink: talking_digital_id.html
 layout: default
 ---
 Talking Digital ID
@@ -33,16 +34,16 @@ More details coming soon.
 Related blogs
 -------------
 
-[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
+[Your homepage is not your front door](foi_act_and_information_publication_scheme.md)
 
-[Updates to the Scope of the Digital Service Standard](updates_to_the_scope_of_the_digital_service_standard.md)
+[Updates to the Scope of the Digital Service Standard](foi_act_and_information_publication_scheme.md)
 
-[The Digital Transformation Agenda in the 2015-16 Federal Budget](the_digital_transformation_agenda_in_the_2015_16_federal_budget.md)
+[The Digital Transformation Agenda in the 2015-16 Federal Budget](foi_act_and_information_publication_scheme.md)
 
-Comments (30)
+Comments (31)
 -------------
 
-john gardner replied on Wed, 2015-07-22 15:16 [Permalink](../comment/1146.html#comment-1146)
+john gardner replied on Wed, 2015-07-22 15:16 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1146)
 
 Comment: 
 
@@ -50,7 +51,7 @@ Having worked on developing solutions for several federal government "digital id
 
 -   [reply](https://www.dto.gov.au/comment/reply/1056/1146)
 
-Don replied on Wed, 2015-07-29 14:06 [Permalink](../comment/1296.html#comment-1296)
+Don replied on Wed, 2015-07-29 14:06 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1296)
 
 Comment: 
 
@@ -58,7 +59,7 @@ Around 1999-2000 I worked with an international consortium of banks from UK, Eur
 
 -   [reply](https://www.dto.gov.au/comment/reply/1056/1296)
 
-![Shannon Peterson's picture](../sites/g/files/net466/f/pictures/picture-1516-1439372098.jpg "Shannon Peterson's picture") Shannon Peterson replied on Thu, 2015-08-20 17:04 [Permalink](../comment/1introducing_our_new_ceo_fresh_from_the_uks_government_digital_service_gds.md#comment-1796)
+![Shannon Peterson's picture](../sites/g/files/net466/f/pictures/picture-1516-1439372098.jpg "Shannon Peterson's picture") Shannon Peterson replied on Thu, 2015-08-20 17:04 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1796)
 
 Comment: 
 
@@ -78,7 +79,7 @@ Shannon
 
 -   [reply](https://www.dto.gov.au/comment/reply/1056/1796)
 
-Troy latter replied on Wed, 2015-07-22 21:46 [Permalink](../comment/1156.html#comment-1156)
+Troy latter replied on Wed, 2015-07-22 21:46 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1156)
 
 Comment: 
 
@@ -86,7 +87,7 @@ cant wait to be involved
 
 -   [reply](https://www.dto.gov.au/comment/reply/1056/1156)
 
-![Shannon Peterson's picture](../sites/g/files/net466/f/pictures/picture-1516-1439372098.jpg "Shannon Peterson's picture") Shannon Peterson replied on Thu, 2015-08-20 17:03 [Permalink](../comment/1801.html#comment-1801)
+![Shannon Peterson's picture](../sites/g/files/net466/f/pictures/picture-1516-1439372098.jpg "Shannon Peterson's picture") Shannon Peterson replied on Thu, 2015-08-20 17:03 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-1801)
 
 Comment: 
 
@@ -100,7 +101,7 @@ Shannon
 
 -   [reply](https://www.dto.gov.au/comment/reply/1056/1801)
 
-simonfj replied on Thu, 2015-07-23 15:39 [Permalink](../comment/1161.html#comment-1161)
+simonfj replied on Thu, 2015-07-23 15:39 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1161)
 
 Comment: 
 
@@ -119,7 +120,7 @@ The concept of one (public) institution sharing accepting credentials/attributes
 
 -   [reply](https://www.dto.gov.au/comment/reply/1056/1161)
 
-![Shannon Peterson's picture](../sites/g/files/net466/f/pictures/picture-1516-1439372098.jpg "Shannon Peterson's picture") Shannon Peterson replied on Thu, 2015-08-20 17:13 [Permalink](../comment/1806.html#comment-1806)
+![Shannon Peterson's picture](../sites/g/files/net466/f/pictures/picture-1516-1439372098.jpg "Shannon Peterson's picture") Shannon Peterson replied on Thu, 2015-08-20 17:13 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-1806)
 
 Comment: 
 
@@ -133,7 +134,7 @@ As you say there are a lot of conversations in the identity space backed up by 
 
 Of particular interest to us here in the DTO are the UK IDA Program (the Government Digital Service ID Assurance Blog <https://identityassurance.blog.gov.uk/> contains valuable information about the UK.Gov Verify program) and the US National Strategy for Trusted identities in Cyberspace (<http://www.nist.gov/nstic/>) as both initiatives rely on the involvement of private sector identity service providers working in what amounts to a federated identity system.
 
-The focus in the DTO is the user.  This focus is central to the Digital Service Standard and associated Design Guide (check out [https://www.dto.gov.au/blog/it-s-here-digital-service-design-guides-have-arrived-alpha](its_here_the_digital_service_design_guides_have_arrived_in_alpha.md))
+The focus in the DTO is the user.  This focus is central to the Digital Service Standard and associated Design Guide (check out [https://www.dto.gov.au/blog/it-s-here-digital-service-design-guides-have-arrived-alpha](foi_act_and_information_publication_scheme.md))
 
 In this regard the essence of the trust framework will be to provide people with a choice of how and with whom to establish their identity and to give them the ability to reuse that identity across government.  So its not a question of which organisation issues a credential - that is the choice of the individual.
 
@@ -143,7 +144,7 @@ Shannon
 
 -   [reply](https://www.dto.gov.au/comment/reply/1056/1806)
 
-simonfj replied on Sun, 2015-08-23 08:36 [Permalink](../comment/1scope_of_the_digital_service_standard.md#comment-1856)
+simonfj replied on Sun, 2015-08-23 08:36 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1856)
 
 Comment: 
 
@@ -161,7 +162,27 @@ It would also illustrate the point that, at present, individuals inside, and out
 
 -   [reply](https://www.dto.gov.au/comment/reply/1056/1856)
 
-Ann Poppelwell replied on Sat, 2015-07-25 15:08 [Permalink](../comment/1256.html#comment-1256)
+Mark King replied on Thu, 2015-09-03 03:20 [Permalink](../comment/21foi_act_and_information_publication_scheme.md#comment-2131)
+
+Comment: 
+
+Terminology matters.
+
+The term 'Individual' was used in the guide published by Cabinet Office (GPG 43-RSDOPS but then ignored, along with the distinction between identification and authentication). This is the unit for western notions of privacy, which doesn't fit all cultures and ignores family groupings that may be pertinent at the very least least for taxation and benefits. But if it's what is being done then it's clear.
+
+'User' has been over-used to move the focus from the agency to the people, but this has led to non-users, who have reasonable expectations and possible the need for redress, being ignored. It also fails to distinguish between the beneficiary of the service (e.g. blind grandfather) and the user of the computer.
+
+'Citizen' is both an emotive and a technical term, best avoided if you care about human rights unless in an appropriate context such as passports. There is thinking to be done, perhaps at UNCITRAL, on the international handling of resident non-citizens, dual citizens, and those seeking or under asylum. It is far from obvious that it is the business (or interest) of any government to take on the costs and liability for identifying a foreigner to other foreigners.
+
+'Person' can be a problem in places where people think of 'legal persons' (e.g. a body corporate in Australia). Technical terms like 'US person' should also be avoided unless seeking a digression about Manus, Guantanamo, Crimea, or Calais.
+
+'Standards' and norms: we have lost the distinction in English between essentially arbitrary choices for collaborating (driving on left, 240V) and quality assurance for consumers. The dynamics of producing and managing both of these is done by an existing and long established set of bodies. Guidelines are guidelines, not standards.
+
+The Whitehall ID (second framework) 'market' runs as follows: about 8 ice cream vans are approved, and each has agreed a secret price that it will get for each ice-cream served. Each child may have only one ice cream from each van, but can go to any or all of them. The taxpayer then pays a monthly total. There is no guarantee when or how many children will be at the beach. Only forecasts mentioning sunshine are published. Vans must remain all year. The dynamics of this unusual market appear to be novel; all providers have an interest in encouraging their customers to use all of their competitors, since the consumers don't pay and so cost to taxpayer is 8 times what it might be. There is a feature to keep cost down (and thus quality to the minimum acceptable): a limit of 10 vans is stipulated, each ice-cream supplier may only provide to 3 of the bidders. Only the cheapest 10 are eligible for permits (which they have to pay for), and if there are fewer bidders (but more than 4) the most expensive is excluded. (Thus, for example, if you are 7th in price, whether you are allowed in depends on how many more bidders there are, .) And next year's ice-cream for returning children will only be at half price.
+
+-   [reply](https://www.dto.gov.au/comment/reply/1056/2131)
+
+Ann Poppelwell replied on Sat, 2015-07-25 15:08 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1256)
 
 Comment: 
 
@@ -173,34 +194,17 @@ Thanks to both comments from John and Simonfj both great reads.
 
 -   [reply](https://www.dto.gov.au/comment/reply/1056/1256)
 
-Craig Thomler replied on Mon, 2015-07-27 11:41 [Permalink](../comment/1286.html#comment-1286)
-
-Comment: 
-
-Keep in mind in your discussions that a digital ID doesn't need to be issued or authorised by the Australian government. There's no reason that people couldn't use, for example, a bank ID, credit card ID, driver's license (from state govs), Frequent Flier card, or some other form of ID as their universal digital ID.
-
-Websites are not secured through government-issued credentials - SSL certificates are issued by private organisations - and I've not seen evidence that government is better or more efficient at identity management than organisations with an explicit interest in correctly identifying individuals due to both profit and legislative reasons.
-
-Given the history of government ID cards in Australia, with the Australia card, it'd be far easier (politically and technically), faster and potentially cheaper to integrate with existing ID services than build another one.
-
-While doing this, Australia also needs a serious review of our privacy framework to enforce reporting and consequences for mass privacy breaches. Currently if my ID is compromised via a US (government or corporate) service I get full information fairly quickly (not as quick as should be), but if my ID is compromised here in Australia, there's no requirement for the company or agency to actually tell me. That's a critical issue.
-
-Cheers,
-
-Craig
-
--   [reply](https://www.dto.gov.au/comment/reply/1056/1286)
-
 Pages
 -----
 
 -   -   1
     -   [2](../blog/talking-digital-id%3Fpage=1.html "Go to page 2")
     -   [3](../blog/talking-digital-id%3Fpage=2.html "Go to page 3")
--   -   [« first](talking_digital_id.md "Go to first page")
-    -   [‹ previous](talking_digital_id.md "Go to previous page")
+    -   [4](../blog/talking-digital-id%3Fpage=3.html "Go to page 4")
+-   -   [« first](foi_act_and_information_publication_scheme.md "Go to first page")
+    -   [‹ previous](foi_act_and_information_publication_scheme.md "Go to previous page")
 -   -   [next ›](../blog/talking-digital-id%3Fpage=1.html "Go to next page")
-    -   [last »](../blog/talking-digital-id%3Fpage=2.html "Go to last page")
+    -   [last »](../blog/talking-digital-id%3Fpage=3.html "Go to last page")
 
 Add new comment
 ---------------
@@ -209,7 +213,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

@@ -1,5 +1,6 @@
 ---
-title: q_and_as_on_the_digital_service_standard.md
+title: q_and_as_on_the_digital_service_standard
+permalink: q_and_as_on_the_digital_service_foi_act_and_information_publication_scheme.md
 layout: default
 ---
 Q & As on the Digital Service Standard
@@ -16,7 +17,7 @@ Author: 
 
 Jacqui van Teulingen
 
-Since we [released the Digital Service Standard](../news-media/blog/release-alpha-digital-service-digital_service_standard.md), we’ve had some great questions from our community. The following pick up some of the common themes we’ve been asked about.
+Since we [released the Digital Service Standard](../news-media/blog/foi_act_and_information_publication_scheme.md), we’ve had some great questions from our community. The following pick up some of the common themes we’ve been asked about.
 
 *Q: Does the Standard just apply to Australian Government agencies? If so, what is the likelihood of it being adopted by other levels of government?*
 
@@ -55,11 +56,11 @@ We’ve already published parts of what will become the Guide in the material su
 Related blogs
 -------------
 
-[Digital Community of Practice event – 4 September](digital_community_of_practice_event_4_september.md)
+[Digital Community of Practice event – 4 September](foi_act_and_information_publication_scheme.md)
 
-[‘Showing the thing’ was our theme last week in the Standards team](showing_the_thing_was_our_theme_last_week_in_the_standards_team.md)
+[‘Showing the thing’ was our theme last week in the Standards team](foi_act_and_information_publication_scheme.md)
 
-[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
+[Your homepage is not your front door](foi_act_and_information_publication_scheme.md)
 
 Add new comment
 ---------------
@@ -68,7 +69,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

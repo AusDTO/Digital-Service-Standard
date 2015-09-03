@@ -1,5 +1,6 @@
 ---
-title: creating_cultural_change.md
+title: creating_cultural_change
+permalink: creating_cultural_change.html
 layout: default
 ---
 Creating cultural change
@@ -15,16 +16,16 @@ Improving the way that you produce and procure digital services is more about cu
 How do I?
 ---------
 
--   [Know what you need](../../node/creating_cultural_change.md#need)
--   [Know what you may need to change](../../node/creating_cultural_change.md#needtochange)
--   [Break down barriers to technology change](../../node/creating_cultural_change.md#barriers)
--   [Encourage an environment that supports change](../../node/creating_cultural_change.md#encourage)
+-   [Know what you need](../../node/foi_act_and_information_publication_scheme.md#need)
+-   [Know what you may need to change](../../node/foi_act_and_information_publication_scheme.md#needtochange)
+-   [Break down barriers to technology change](../../node/foi_act_and_information_publication_scheme.md#barriers)
+-   [Encourage an environment that supports change](../../node/foi_act_and_information_publication_scheme.md#encourage)
 
 ### Know what you need
 
 To create digital services based on user needs, not on organisational structures and processes, you need:
 
--   a [team](../../the_team.md) that is knowledgeable about existing and emerging technology options
+-   a [team](../../foi_act_and_information_publication_scheme.md) that is knowledgeable about existing and emerging technology options
 -   a governance and management structure that is an enabler, not a bottleneck or barrier to change
 -   flexible commercial models that meet your needs
 -   a diverse, competitive market from which to choose your suppliers or products
@@ -49,7 +50,7 @@ It may sometimes be necessary and more cost-effective to write-off previous fina
 
 If you’re in this position, it’s also likely that the architecture and hosting of your existing sites may need to be reviewed.
 
-[Top](../../node/creating_cultural_change.md#)
+[Top](../../node/foi_act_and_information_publication_scheme.md#)
 
 ### Break down barriers to change
 

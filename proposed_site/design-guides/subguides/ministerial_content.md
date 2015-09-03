@@ -1,5 +1,6 @@
 ---
-title: ministerial_content.md
+title: ministerial_content
+permalink: ministerial_content.html
 layout: default
 ---
 Ministerial content
@@ -24,7 +25,7 @@ Agency-funded sites must:
 
 -   **not** contain information about a minister’s activities or views that have no relationship to the minister’s official duties as such (for example, favourite books or discussion of unrelated activities in their electorate). Ministers can establish personal websites at their own expense for such purposes
 -   **not** contain material of a party political nature, although individual judgement will be required. For example, a minister’s explanation and defence of government policy might draw distinctions between Government and Opposition policies. Such material may be placed on a ministerial site funded by an agency. However, material that relates solely to party political issues or that could be categorised as ‘how to vote’ material may not be placed on an agency-funded site
--   comply with [additional requirements during caretaker period](../../node/caretaker_conventions.md).
+-   comply with [additional requirements during caretaker period](../../node/foi_act_and_information_publication_scheme.md).
 
 Sometimes agency and ministerial content may need to appear on both types of site. A minister might choose to put material produced by the agency on his or her website and there will be times when it will be appropriate for a ministerial media release to be placed on an agency website.
 
@@ -43,7 +44,7 @@ If agency staff are concerned about material placed (or proposed to be placed) o
 
 ### Branding
 
-The main method of indicating distinction between agency and ministerial websites is through [branding](../../node/branding.md). For example, the appearance of agency media releases and speeches should be clearly distinct from the appearance of ministerial media releases and speeches.
+The main method of indicating distinction between agency and ministerial websites is through [branding](../../node/foi_act_and_information_publication_scheme.md). For example, the appearance of agency media releases and speeches should be clearly distinct from the appearance of ministerial media releases and speeches.
 
 Agency logos should not appear on ministerial websites. If a ministerial website exists as a sub-domain or directory of an agency website, care should be taken not to use agency branding on the ministerial content.
 
@@ -53,9 +54,9 @@ There are three ways to distinguish a ministerial website from an agency website
 
 -   separate domain name using the minister’s portfolio title, for example: pm.gov.au
 -   sub-domain of an agency domain name, for example: minister.agency.gov.au
--   directory within an agency website, for example: agency.gov.au/minister/name/digital_service_standard.md
+-   directory within an agency website, for example: agency.gov.au/minister/name/foi_act_and_information_publication_scheme.md
 
-In nearly all cases, ministerial websites will be located in the [gov.au domain-name space](../../node/domain_names.md). There is a strong preference for agency-sponsored websites to have a gov.au domain name, but even where a minister prefers an alternative domain name, these guidelines still apply.
+In nearly all cases, ministerial websites will be located in the [gov.au domain-name space](../../node/foi_act_and_information_publication_scheme.md). There is a strong preference for agency-sponsored websites to have a gov.au domain name, but even where a minister prefers an alternative domain name, these guidelines still apply.
 
 In accordance with gov.au domain name policies, a minister’s name cannot be used in a gov.au domain name but there is no restriction on using the minister’s name as part of a sub-domain or directory. For example:
 

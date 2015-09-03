@@ -1,5 +1,6 @@
 ---
-title: principles_of_digital_service_design.md
+title: principles_of_digital_service_design
+permalink: principles_of_digital_service_design.html
 layout: default
 ---
 Principles of digital service design
@@ -7,7 +8,7 @@ Principles of digital service design
 
 Guiding principles to design better services
 
-The design principles provide the foundation for the Digital Service Standard’s [service design process](../node/service_design_process.md).
+The design principles provide the foundation for the Digital Service Standard’s [service design process](../node/foi_act_and_information_publication_scheme.md).
 
 1. Users first
 --------------

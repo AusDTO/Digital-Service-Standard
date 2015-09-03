@@ -1,5 +1,6 @@
 ---
-title: search_engine_optimisation.md
+title: search_engine_optimisation
+permalink: search_engine_optimisation.html
 layout: default
 ---
 Search engine optimisation
@@ -12,16 +13,16 @@ Managing how your online content ranks in search engine results within your own 
 Why must I?
 -----------
 
-User experience is improved when content is easier to find. The actions required to make content easy to find are also aligned with better practice for [content development](../../node/online_writing.md), website publishing management and [accessibility](../../node/making_content_accessible.md) work.
+User experience is improved when content is easier to find. The actions required to make content easy to find are also aligned with better practice for [content development](../../node/foi_act_and_information_publication_scheme.md), website publishing management and [accessibility](../../node/foi_act_and_information_publication_scheme.md) work.
 
 How do I?
 ---------
 
 The best way to optimise content for users and search engines is to write useful, quality content using words users will use to search for your content (keywords).
 
--   [Identify keywords](search_engine_optimisation.md#identify-keywords)
--   [Optimise content](search_engine_optimisation.md#optimise-content)
--   [Manage whole-of-government keywords](search_engine_optimisation.md#manage-wog-keywords)
+-   [Identify keywords](../../node/foi_act_and_information_publication_scheme.md#identify-keywords)
+-   [Optimise content](../../node/foi_act_and_information_publication_scheme.md#optimise-content)
+-   [Manage whole-of-government keywords](../../node/foi_act_and_information_publication_scheme.md#manage-wog-keywords)
 
 ### Identify keywords
 
@@ -29,7 +30,7 @@ Learn which keywords users include when searching for your content. You can do t
 
 1.  **Search reports for specific words**
 
-    Search appliances and web analytics reports can provide insight into what users are searching for on the web and within your website. Check with your [Performance Analysts / Analytics Officer](../../the_team.md). Google recently stopped releasing keywords so your reporting tool may not provide this information. However, you may be able to access your keywords if your department is participating in the whole-of-government analytics trial. Contact your [Digital Transformation Coordinator](../../node/digital_transformation_coordinators.md) for details on how to participate.
+    Search appliances and web analytics reports can provide insight into what users are searching for on the web and within your website. Check with your [Performance Analysts / Analytics Officer](../../foi_act_and_information_publication_scheme.md). Google recently stopped releasing keywords so your reporting tool may not provide this information. However, you may be able to access your keywords if your department is participating in the whole-of-government analytics trial. Contact your [Digital Transformation Coordinator](../../node/foi_act_and_information_publication_scheme.md) for details on how to participate.
 
 2.  **Identify indicative words using** **Keyword Planner**
 
@@ -111,7 +112,7 @@ To better influence search results and improve the findability of your content, 
 
 #### Language
 
-Always use plain English and follow [online writing](../../node/online_writing.md) principles. The following tips will also help you to improve findability of your content.
+Always use plain English and follow [online writing](../../node/foi_act_and_information_publication_scheme.md) principles. The following tips will also help you to improve findability of your content.
 
 -   If the content is for a specific audience then ensure the description and first paragraph can be understood by an intelligent, non-expert.
 -   When writing content, consider the circumstances of why your audience would be looking for that content.
@@ -157,7 +158,7 @@ The Digital Transformation Office (DTO) will monitor keywords being used to sear
 -   specific programs or transactions (such as baby bonus, HECS/HELP, disability insurance) - the user is taken directly to the most relevant page about the program or transaction
 -   another level of government (for example, health, education, community services) - an entry point result is provided, otherwise the DTO will work with the jurisdictions to direct users appropriately.
 
-Agencies should assign responsibility for search management to a role within [the team](../../the_team.md) (existing or new) and also provide the DTO with their contact details by emailing <analytics@dto.gov.au>.
+Agencies should assign responsibility for search management to a role within [the team](../../foi_act_and_information_publication_scheme.md) (existing or new) and also provide the DTO with their contact details by emailing <analytics@dto.gov.au>.
 
 **Last updated:** 11 August 2015 | [Provide feedback on this page](../../feedback%3Furl_from=SEO.html)
 

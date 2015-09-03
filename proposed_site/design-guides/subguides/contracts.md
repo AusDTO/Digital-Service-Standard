@@ -1,5 +1,6 @@
 ---
-title: contracts.md
+title: contracts
+permalink: foi_act_and_information_publication_scheme.md
 layout: default
 ---
 Contracts
@@ -20,5 +21,5 @@ Agencies must publish details of:
 
 For further guidance and templates refer to [Listing of contract details on the internet (Meeting the Senate Order on Departmental and agency contracts) – FMG 8](http://www.finance.gov.au/publications/fmg-series/08-listing-of-contract-details.html).
 
-**Last updated:** 21 July 2015 | [Provide feedback on this page](../../feedback%3Furl_from=contracts.md)
+**Last updated:** 21 July 2015 | [Provide feedback on this page](../../feedback%3Furl_from=foi_act_and_information_publication_scheme.md)
 

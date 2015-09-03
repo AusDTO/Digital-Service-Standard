@@ -1,5 +1,6 @@
 ---
-title: where_are_we_heading_a_future_state_for_user_experience.md
+title: where_are_we_heading_a_future_state_for_user_experience
+permalink: where_are_we_heading_a_future_state_for_user_experience.html
 layout: default
 ---
 Where are we heading: A future state for user experience
@@ -40,7 +41,7 @@ The prototypes include options for:
 -   syndicating content to non-government websites
 -   exploring options around logging in and filtering information based on user needs or behaviour.
 
-You can explore the prototypes via the [Information layer prototypes index](http://ausdto.github.io/dto-proto/digital_service_standard.md), or watch videos of the concept options in the following Youtube playlists:
+You can explore the prototypes via the [Information layer prototypes index](http://ausdto.github.io/dto-proto/foi_act_and_information_publication_scheme.md), or watch videos of the concept options in the following Youtube playlists:
 
 -   [Prototypes for "Losing your job"](https://www.youtube.com/playlist?list=PLV2mhYZmTBFh48zvtreIHfmpW5LYr9tE0)
 
@@ -51,10 +52,10 @@ We identified that some of the functionality required to support this future sta
 -   discoverable and consumable content
 -   a whole of government services catalogue
 -   a trusted identity framework
--   the whole of [government analytics](../news-media/blog/building-better-services-analytics.html) and [user research](user_research.md), 
+-   the whole of [government analytics](../news-media/blog/foi_act_and_information_publication_scheme.md) and [user research](foi_act_and_information_publication_scheme.md), 
 -   the continued role of overarching websites like [australia.gov.au](http://australia.gov.au/) and [business.gov.au](http://business.gov.au/) to provide a concierge service. 
 
-As we get feedback on the prototype and it is tested and defined we’ll map out the plan for how to transition to a future state. Once finalised it will be added to the [Digital Service Design Guide](../digital_service_design_guide.md) to support agencies in future planning.
+As we get feedback on the prototype and it is tested and defined we’ll map out the plan for how to transition to a future state. Once finalised it will be added to the [Digital Service Design Guide](../foi_act_and_information_publication_scheme.md) to support agencies in future planning.
 
 **What do you think?**
 
@@ -67,16 +68,16 @@ We’ll also be holding a number of public consultations and consultative event
 Related blogs
 -------------
 
-[How do Australians really feel about digital government services?](how_do_australians_really_feel_about_digital_government_services.md)
+[How do Australians really feel about digital government services?](foi_act_and_information_publication_scheme.md)
 
-[Getting inside your head: Analysing search behaviours](getting_inside_your_head_analysing_search_behaviours.md)
+[Getting inside your head: Analysing search behaviours](foi_act_and_information_publication_scheme.md)
 
-[Your homepage is not your front door](your_homepage_is_not_your_front_door.md)
+[Your homepage is not your front door](foi_act_and_information_publication_scheme.md)
 
 Comments (6)
 ------------
 
-Nathan Wall replied on Mon, 2015-07-13 14:42 [Permalink](../comment/2015_16_digital_transformation_agenda_budget_initiatives.md#comment-941)
+Nathan Wall replied on Mon, 2015-07-13 14:42 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-941)
 
 Comment: 
 
@@ -92,7 +93,7 @@ NW
 
 -   [reply](https://www.dto.gov.au/comment/reply/781/941)
 
-John Macdonald replied on Thu, 2015-07-16 12:50 [Permalink](../comment/common_government_content_and_features.md#comment-991)
+John Macdonald replied on Thu, 2015-07-16 12:50 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-991)
 
 Comment: 
 
@@ -100,7 +101,7 @@ Hi Sharyn, From what I can see on the videos so far - it looks really good. Well
 
 -   [reply](https://www.dto.gov.au/comment/reply/781/991)
 
-simonfj replied on Thu, 2015-07-16 15:25 [Permalink](../comment/ministerial_content.md#comment-996)
+simonfj replied on Thu, 2015-07-16 15:25 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-996)
 
 Comment: 
 
@@ -128,7 +129,7 @@ Sorry if this one appears to be a promo for a piece of software. I'm just making
 
 -   [reply](https://www.dto.gov.au/comment/reply/781/996)
 
-harnam.khaira@f... replied on Tue, 2015-07-21 09:20 [Permalink](../comment/1126.html#comment-1126)
+harnam.khaira@f... replied on Tue, 2015-07-21 09:20 [Permalink](../comment/11foi_act_and_information_publication_scheme.md#comment-1126)
 
 Comment: 
 
@@ -152,7 +153,7 @@ The characteristics of approach we are considering are: (1) understanding and el
 
 -   [reply](https://www.dto.gov.au/comment/reply/781/1126)
 
-Etienne replied on Tue, 2015-07-21 16:45 [Permalink](../comment/showing_the_thing_was_our_theme_last_week_in_the_standards_team.md#comment-1131)
+Etienne replied on Tue, 2015-07-21 16:45 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-1131)
 
 Comment: 
 
@@ -166,7 +167,7 @@ But obviously... only proper user testing can tell for sure! :-)
 
 -   [reply](https://www.dto.gov.au/comment/reply/781/1131)
 
-Meg Howie replied on Wed, 2015-07-22 12:11 [Permalink](../comment/1engage.md#comment-1141)
+Meg Howie replied on Wed, 2015-07-22 12:11 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1141)
 
 Comment: 
 
@@ -183,7 +184,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

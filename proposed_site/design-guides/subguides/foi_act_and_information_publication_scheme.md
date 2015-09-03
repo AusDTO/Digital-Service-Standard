@@ -1,5 +1,6 @@
 ---
-title: foi_act_and_information_publication_scheme.md
+title: foi_act_and_information_publication_scheme
+permalink: foi_act_and_information_publication_scheme.html
 layout: default
 ---
 FOI Act and Information Publication Scheme

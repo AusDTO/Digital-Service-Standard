@@ -1,5 +1,6 @@
 ---
-title: open_standards.md
+title: open_standards
+permalink: open_standards.html
 layout: default
 ---
 Open standards
@@ -26,9 +27,9 @@ By implementing open standards for software interoperability, data and document 
 How do I?
 ---------
 
--   [Understand open standards](../../node/open_standards.md#understand)
--   [Select the right standards](../../node/open_standards.md#select)
--   [Use the National Standards Framework](../../node/open_standards.md#use)
+-   [Understand open standards](../../node/foi_act_and_information_publication_scheme.md#understand)
+-   [Select the right standards](../../node/foi_act_and_information_publication_scheme.md#select)
+-   [Use the National Standards Framework](../../node/foi_act_and_information_publication_scheme.md#use)
 
 ### Understand open standards
 
@@ -49,13 +50,13 @@ There are 6 open standard principles to follow when thinking about, choosing and
 5.  **Strategic focus**: sufficient research and business analysis has been undertaken to enable an informed decision to be made
 6.  **Transparent**: the processes for selecting, specifying and implementing the standard is both fair and transparent
 
-[Top](../../node/open_standards.md#)
+[Top](../../node/foi_act_and_information_publication_scheme.md#)
 
 ### Select the right standards
 
 The Digital Transformation Office will identify some compulsory open standards which will be established through the [National Standards Framework](http://www.finance.gov.au/policy-guides-procurement/national-standards-framework/) (NSF) process and explained in the Digital Service Design Guide. These standards will also be published on [GovShare](http://www.govshare.gov.au/).
 
-Where you have a choice of which standard to adopt, do a thorough assessment of existing standards and other cross-agency initiatives. Choose one that meets your needs that is consistent with the [Digital Service Standard requirements](../../standard/digital_service_standard.md) and submit it through the [NSF process](http://www.finance.gov.au/policy-guides-procurement/national-standards-framework/).
+Where you have a choice of which standard to adopt, do a thorough assessment of existing standards and other cross-agency initiatives. Choose one that meets your needs that is consistent with the [Digital Service Standard requirements](../../standard/foi_act_and_information_publication_scheme.md) and submit it through the [NSF process](http://www.finance.gov.au/policy-guides-procurement/national-standards-framework/).
 
 Initial guidance on data exchange open standards is available in the [Messaging Decision Support Tool](https://www.govshare.gov.au/item-details/?rid=53589) on GovShare. This work was approved for use by agencies by the Chief Information Officers Committee (CIOC) in December 2013.
 
@@ -100,5 +101,5 @@ The standard must be published, thoroughly documented, and publicly available.
 
 **Last updated:**  12 April 2015  |  [Provide feedback on this page](../../feedback-design-guidance%3Furl_from=Using%2520Open%2520Standards.html)
 
-[Top](../../node/open_standards.md#)
+[Top](../../node/foi_act_and_information_publication_scheme.md#)
 

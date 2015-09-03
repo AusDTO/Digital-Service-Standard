@@ -1,5 +1,6 @@
 ---
-title: making_content_accessible.md
+title: making_content_accessible
+permalink: making_content_accessible.html
 layout: default
 ---
 Making content accessible
@@ -19,11 +20,11 @@ The Australian Government has also approved the *[UN Convention on the Rights of
 How do I?
 ---------
 
--   [Ensure internal policy and procedures are compliant](making_content_accessible.md#ensure)
--   [Develop an accessible website layout and design](making_content_accessible.md#develop)
--   [Write accessible content](making_content_accessible.md#write)
--   [Select an appropriate format](making_content_accessible.md#select)
--   [Update your procurement processes](making_content_accessible.md#procurement)
+-   [Ensure internal policy and procedures are compliant](foi_act_and_information_publication_scheme.md#ensure)
+-   [Develop an accessible website layout and design](foi_act_and_information_publication_scheme.md#develop)
+-   [Write accessible content](foi_act_and_information_publication_scheme.md#write)
+-   [Select an appropriate format](foi_act_and_information_publication_scheme.md#select)
+-   [Update your procurement processes](foi_act_and_information_publication_scheme.md#procurement)
 
 ### Ensure internal policy and procedures are compliant
 
@@ -61,7 +62,7 @@ You should identify the purpose and intent of the content in order to determine 
 
 ![Attention](../sites/g/files/net261/f/styles/large/public/attention32.png%3Fitok=wqHBFd4O "Attention") *Web accessibility should not be a reason for not publishing online content as no information is more inaccessible than inaccessible information. Instead, any material identified as non-compliant requires a risk assessment and to be managed accordingly. *
 
-[Top](making_content_accessible.md#)
+[Top](foi_act_and_information_publication_scheme.md#)
 
 ### Select an appropriate format
 
@@ -104,5 +105,5 @@ Updating your procurement processes can help your agency achieve value for money
 
 **Last updated:** 26 June 2015 ** |**  [Provide feedback on this page](../feedback%3Furl_from=MakingContentAccessible.html)
 
-[Top](making_content_accessible.md#)
+[Top](foi_act_and_information_publication_scheme.md#)
 

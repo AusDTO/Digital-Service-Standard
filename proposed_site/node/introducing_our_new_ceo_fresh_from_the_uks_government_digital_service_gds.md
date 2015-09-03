@@ -1,5 +1,6 @@
 ---
-title: introducing_our_new_ceo_fresh_from_the_uks_government_digital_service_gds.md
+title: introducing_our_new_ceo_fresh_from_the_uks_government_digital_service_gds
+permalink: introducing_our_new_ceo_fresh_from_the_uks_government_digital_service_gds.html
 layout: default
 ---
 Introducing our new CEO – fresh from the UK’s Government Digital Service (GDS).
@@ -47,16 +48,16 @@ From these experiences, I’ve refined an approach to eating the elephant of ser
 Related blogs
 -------------
 
-[Recruitment campaign to find Australia's best tech talent](recruitment_campaign_to_find_australias_best_tech_talent.md)
+[Recruitment campaign to find Australia's best tech talent](foi_act_and_information_publication_scheme.md)
 
-[Digital Community of Practice event – 4 September](digital_community_of_practice_event_4_september.md)
+[Digital Community of Practice event – 4 September](foi_act_and_information_publication_scheme.md)
 
-[‘Showing the thing’ was our theme last week in the Standards team](showing_the_thing_was_our_theme_last_week_in_the_standards_team.md)
+[‘Showing the thing’ was our theme last week in the Standards team](foi_act_and_information_publication_scheme.md)
 
 Comments (10)
 -------------
 
-Stephen Allott replied on Tue, 2015-07-14 21:27 [Permalink](../comment/new_services_for_business.md#comment-951)
+Stephen Allott replied on Tue, 2015-07-14 21:27 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-951)
 
 Comment: 
 
@@ -64,7 +65,7 @@ Good luck Paul. We shall really miss you at GDS.
 
 -   [reply](https://www.dto.gov.au/comment/reply/796/951)
 
-Craig Thomler replied on Wed, 2015-07-15 11:08 [Permalink](../comment/better_grants_administration.md#comment-956)
+Craig Thomler replied on Wed, 2015-07-15 11:08 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-956)
 
 Comment: 
 
@@ -82,7 +83,7 @@ Craig
 
 -   [reply](https://www.dto.gov.au/comment/reply/796/956)
 
-Gail replied on Wed, 2015-07-15 12:48 [Permalink](../comment/trusted_digital_identity_framework.md#comment-961)
+Gail replied on Wed, 2015-07-15 12:48 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-961)
 
 Comment: 
 
@@ -93,7 +94,7 @@ All the best
 
 -   [reply](https://www.dto.gov.au/comment/reply/796/961)
 
-Steven De Costa replied on Wed, 2015-07-15 15:35 [Permalink](../comment/service_design_process.md#comment-971)
+Steven De Costa replied on Wed, 2015-07-15 15:35 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-971)
 
 Comment: 
 
@@ -103,7 +104,7 @@ Rock on and have fun!
 
 -   [reply](https://www.dto.gov.au/comment/reply/796/971)
 
-Shayne Phillips replied on Wed, 2015-07-15 19:05 [Permalink](../comment/records_management.md#comment-976)
+Shayne Phillips replied on Wed, 2015-07-15 19:05 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-976)
 
 Comment: 
 
@@ -111,7 +112,7 @@ Welcome to Oz,..Great vision and robust background. Look forward to the journey 
 
 -   [reply](https://www.dto.gov.au/comment/reply/796/976)
 
-Anne Kealley replied on Mon, 2015-07-20 11:14 [Permalink](../comment/case_study_opening_government_data_with_the_nationalmap.md#comment-1046)
+Anne Kealley replied on Mon, 2015-07-20 11:14 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-1046)
 
 Comment: 
 
@@ -119,7 +120,7 @@ Confidence inspiring appointment going by Paul's presentation. Worth watching.
 
 -   [reply](https://www.dto.gov.au/comment/reply/796/1046)
 
-James Dellow replied on Mon, 2015-07-20 11:30 [Permalink](../comment/about_us.md#comment-1051)
+James Dellow replied on Mon, 2015-07-20 11:30 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-1051)
 
 Comment: 
 
@@ -127,7 +128,7 @@ Paul - Welcome to Australia in your new role at the DTO. Looking forward to seei
 
 -   [reply](https://www.dto.gov.au/comment/reply/796/1051)
 
-@MischNarracott replied on Mon, 2015-07-20 13:45 [Permalink](../comment/dtogovau_gets_the_first_of_many_makeovers.md#comment-1071)
+@MischNarracott replied on Mon, 2015-07-20 13:45 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-1071)
 
 Comment: 
 
@@ -141,7 +142,7 @@ Cheers!
 
 -   [reply](https://www.dto.gov.au/comment/reply/796/1071)
 
-Don Easter replied on Wed, 2015-07-29 14:10 [Permalink](../comment/1301.html#comment-1301)
+Don Easter replied on Wed, 2015-07-29 14:10 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1301)
 
 Comment: 
 
@@ -153,7 +154,7 @@ For about 3 years 2011-2014 I worked with the Australian Government as a part-ti
 
 -   [reply](https://www.dto.gov.au/comment/reply/796/1301)
 
-Gerry replied on Thu, 2015-08-06 13:09 [Permalink](../comment/1531.html#comment-1531)
+Gerry replied on Thu, 2015-08-06 13:09 [Permalink](../comment/1foi_act_and_information_publication_scheme.md#comment-1531)
 
 Comment: 
 
@@ -168,7 +169,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 

@@ -1,5 +1,6 @@
 ---
-title: measurement.md
+title: measurement
+permalink: foi_act_and_information_publication_scheme.md
 layout: default
 ---
 Measurement
@@ -12,7 +13,7 @@ It’s essential to measure and monitor how your service is performing, so you c
 Key performance indicators
 --------------------------
 
-The [Digital Service Standard](../standard/digital_service_standard.md) requires regular reporting of 4 key performance indicators (KPIs) to measure the ongoing performance of your service.
+The [Digital Service Standard](../standard/foi_act_and_information_publication_scheme.md) requires regular reporting of 4 key performance indicators (KPIs) to measure the ongoing performance of your service.
 
 1.  **Cost per transaction** - the total estimated cost of your service per month (it varies for some services) divided by the number of completed transactions.
 2.  **Digital take-up** - the percentage of your target take-up audience you have reached.
@@ -21,7 +22,7 @@ The [Digital Service Standard](../standard/digital_service_standard.md) requir
 
 These aren’t the only things your service should measure. There are other unique indicators that will help you judge the effectiveness of your service.
 
--   **[Analytic tools](analytics_tools.md) **- choosing the right tools to measure your service.
+-   **[Analytic tools](foi_act_and_information_publication_scheme.md) **- choosing the right tools to measure your service.
 -   **Other performance indicators** - other metrics your service might measure or track.
 -   **Using open data** - how to make use of the performance information your service collects.
 
@@ -30,7 +31,7 @@ What happens to your data
 
 Once live, the performance of your service will be displayed on a Digital Service Dashboard. This data will be presented in modules capable of being uniquely configured. These will be automated to update monthly and (where possible) will be visible to the public.
 
-*This content has been adapted from the [UK Government Digital Service Design Manual guide on Measurement](https://www.gov.uk/service-manual/measurement/digital_service_standard.md) under the [Open Government Licence v2.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2).*
+*This content has been adapted from the [UK Government Digital Service Design Manual guide on Measurement](https://www.gov.uk/service-manual/measurement/foi_act_and_information_publication_scheme.md) under the [Open Government Licence v2.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2).*
 
-**Last updated: **26 March 2015  | [Provide feedback on this page](../feedback%3Furl_from=digital_service_design_guide.md)
+**Last updated: **26 March 2015  | [Provide feedback on this page](../feedback%3Furl_from=foi_act_and_information_publication_scheme.md)
 

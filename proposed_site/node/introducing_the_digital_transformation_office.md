@@ -1,5 +1,6 @@
 ---
-title: introducing_the_digital_transformation_office.md
+title: introducing_the_digital_transformation_office
+permalink: introducing_the_digital_transformation_office.html
 layout: default
 ---
 Introducing the Digital Transformation Office
@@ -31,7 +32,7 @@ We will be taking an agile and open approach to the way in which services and in
 
 To make a start today we're going live and releasing an alpha version of the new digital service standard. The standard will set out the criteria that all Australian government services and information will need to meet to ensure they're easier to find and easier to interact with. From the middle of 2015 all government agencies will need to ensure that services and information that they are developing or improving, comply with the standard. Most importantly the standard will put the needs of the user first. Releasing the standard in this way, in an Alpha form and seeking feedback, is a reflection of the new approach we want to take. 
 
-Getting the input from the public and from experts out there in the community including overseas on the best way in which these services can be delivered. So if you're interested follow us on [Twitter](https://twitter.com/ausdto). Get engaged through [our website](../digital_service_standard.md) and stay tuned for bigger announcements from Malcolm Turnbull the Minister for Communications.
+Getting the input from the public and from experts out there in the community including overseas on the best way in which these services can be delivered. So if you're interested follow us on [Twitter](https://twitter.com/ausdto). Get engaged through [our website](../foi_act_and_information_publication_scheme.md) and stay tuned for bigger announcements from Malcolm Turnbull the Minister for Communications.
 
 David Hazlehurst
 Acting CEO
@@ -41,16 +42,16 @@ Acting CEO
 Related blogs
 -------------
 
-[Recruitment campaign to find Australia's best tech talent](recruitment_campaign_to_find_australias_best_tech_talent.md)
+[Recruitment campaign to find Australia's best tech talent](foi_act_and_information_publication_scheme.md)
 
-[Digital Community of Practice event – 4 September](digital_community_of_practice_event_4_september.md)
+[Digital Community of Practice event – 4 September](foi_act_and_information_publication_scheme.md)
 
-[‘Showing the thing’ was our theme last week in the Standards team](showing_the_thing_was_our_theme_last_week_in_the_standards_team.md)
+[‘Showing the thing’ was our theme last week in the Standards team](foi_act_and_information_publication_scheme.md)
 
 Comments (8)
 ------------
 
-Pallavi replied on Wed, 2015-04-08 18:08 [Permalink](../comment/11.html#comment-11)
+Pallavi replied on Wed, 2015-04-08 18:08 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-11)
 
 Comment: 
 
@@ -58,7 +59,7 @@ Very Impressive. Looks like this will be outcome and mterics driven. Not sure ho
 
 -   [reply](https://www.dto.gov.au/comment/reply/206/11)
 
-Anonymous replied on Tue, 2015-04-14 16:01 [Permalink](../comment/26.html#comment-26)
+Anonymous replied on Tue, 2015-04-14 16:01 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-26)
 
 Comment: 
 
@@ -66,7 +67,7 @@ Hi David. I can't seem to find comments published anywhere on the DTO Blog even 
 
 -   [reply](https://www.dto.gov.au/comment/reply/206/26)
 
-Heidi replied on Thu, 2015-04-16 22:06 [Permalink](../comment/31.html#comment-31)
+Heidi replied on Thu, 2015-04-16 22:06 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-31)
 
 Comment: 
 
@@ -74,7 +75,7 @@ Yay!
 
 -   [reply](https://www.dto.gov.au/comment/reply/206/31)
 
-Craig replied on Mon, 2015-04-20 15:25 [Permalink](../comment/66.html#comment-66)
+Craig replied on Mon, 2015-04-20 15:25 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-66)
 
 Comment: 
 
@@ -92,7 +93,7 @@ PS - and fix your blog commenting mechanism so that it correctly presents paragr
 
 -   [reply](https://www.dto.gov.au/comment/reply/206/66)
 
-Jen replied on Thu, 2015-04-23 14:17 [Permalink](../comment/76.html#comment-76)
+Jen replied on Thu, 2015-04-23 14:17 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-76)
 
 Comment: 
 
@@ -100,7 +101,7 @@ Absolutely agree with the above.
 
 -   [reply](https://www.dto.gov.au/comment/reply/206/76)
 
-Nisha replied on Wed, 2015-07-01 14:12 [Permalink](../comment/701.html#comment-701)
+Nisha replied on Wed, 2015-07-01 14:12 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-701)
 
 Comment: 
 
@@ -108,7 +109,7 @@ Cannot agree more! Please conduct relevant and regular consultations with the ex
 
 -   [reply](https://www.dto.gov.au/comment/reply/206/701)
 
-Curmudgeon replied on Fri, 2015-05-08 10:04 [Permalink](../comment/86.html#comment-86)
+Curmudgeon replied on Fri, 2015-05-08 10:04 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-86)
 
 Comment: 
 
@@ -116,7 +117,7 @@ It's a small point, but an important one to remember - the Australian Government
 
 -   [reply](https://www.dto.gov.au/comment/reply/206/86)
 
-thoughts replied on Fri, 2015-05-08 13:44 [Permalink](../comment/91.html#comment-91)
+thoughts replied on Fri, 2015-05-08 13:44 [Permalink](../comment/foi_act_and_information_publication_scheme.md#comment-91)
 
 Comment: 
 
@@ -131,7 +132,7 @@ Your name
 
 Comment (mandatory)
 
-[More information about text formats](../filter/tips.html)
+[More information about text formats](../filter/foi_act_and_information_publication_scheme.md)
 
 ### Plain text
 
