@@ -7,6 +7,6 @@ We appreciate and encourage your feedback and suggestions on these documents. Th
 You may also propose changes to the content directly by submitting a [pull request] (https://help.github.com/articles/creating-a-pull-request/) via GitHub's in-browser editor. Your changes will be reviewed by our editors before being merged into the document. 
 
 ###Writing on GitHub
-For more information on how to write on GitHub, please see [Markdown Basics] (https://help.github.com/articles/markdown-basics/) or [GitHub Flavoured Markdown Help Page] (https://help.github.com/articles/github-flavored-markdown/). You may also be interested in how the changes are made in [GitHub Flow] (https://guides.github.com/introduction/flow/). 
+For more information on how to write on GitHub, please see [Markdown Basics] (https://help.github.com/articles/markdown-basics/) or [GitHub Flavoured Markdown Help Page] (https://help.github.com/articles/github-flavored-markdown/). You may also be interested in how the changes are made in [GitHub Flow] (https://guides.github.com/introduction/flow/). These flow through to the [Waffle Board] (https://waffle.io/AusDTO/Digital-Service-Standard) kanban chart.
 
 If you would like to view and discuss the changes that other people have proposed, please visit the "Pull Requests" section and browse the issues.
