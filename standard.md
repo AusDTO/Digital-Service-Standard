@@ -11,8 +11,8 @@ Standard](/standard/scope-digital-service-standard) must meet the
 criteria before they can be launched. After launch, we will report
 against our service performance.
 
-This Standard is in beta phase and is intended for service delivery
-teams in Australian Government agencies. The beta version was developed
+This Standard is in alpha phase and is intended for service delivery
+teams in Australian Government agencies. The alpha version was developed
 with Government agencies and will be continuously improved to reflect
 emerging best practice. We encourage
 your [feedback](/feedback-design-guidance?url_from=standardpage) on the
