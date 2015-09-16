@@ -1,6 +1,6 @@
 <h1>Assisted digital</h1>
 Assist users to interact and transact with government digitally, and provide alternatives for those who can’t.<p><a id="top" name="top"></a>A whole-of-government assisted digital strategy will ensure that assisted digital support is delivered consistently across government services and is a priority for all new and enhanced digital services.</p>
-<p>All agencies with <a href="/standard/scope-digital-service-standard">services in scope</a> will need to outline their plan for providing digital assistance as part of their <a href="/standard/digital-transformation-plan">Digital Transformation Plan</a>.</p>
+<p>All agencies with <a href="http://www.dto.gov.au/standard/scope-digital-service-standard">services in scope</a> will need to outline their plan for providing digital assistance as part of their <a href="http://www.dto.gov.au/standard/digital-transformation-plan">Digital Transformation Plan</a>.</p>
 <p>As this guide evolves it will outline the circumstances in which a person may require assistance with digital interactions and the ways that this may be provided.</p>
 <h2>Why must I?</h2>
 <p><a href="http://lpaweb-static.s3.amazonaws.com/Coalition%27s%20Policy%20for%20E-Government%20and%20the%20Digital%20Economy.pdf" target="_blank" title="Exiting DTO website">The Coalition’s Policy for E-Government and the Digital Economy (PDF 1.18 MB)</a> designates the Internet as the default way for government to interact with users, other than for defined exceptions. These defined exceptions may be an inability to interact digitally due to location, disability, language, or digital literacy.</p>
@@ -15,7 +15,7 @@ Assist users to interact and transact with government digitally, and provide alt
 <ul><li>those who will get there but require a little encouragement</li>
 <li>those who are almost there but need some assistance</li>
 <li>those who can’t get there and will need ongoing support.</li>
-</ul><p>Every service will have different mixes of assisted digital users. During the <a href="/standard/service-design-process#discoverdefine">Discover and Define phase</a> you need to develop an understanding of how many of your current non-digital users need assisted digital support and learn what their needs are.</p>
+</ul><p>Every service will have different mixes of assisted digital users. During the <a href="http://www.dto.gov.au/standard/service-design-process#discoverdefine">Discover and Define phase</a> you need to develop an understanding of how many of your current non-digital users need assisted digital support and learn what their needs are.</p>
 <h3><a id="identifyAR" name="identifyAR"></a>Identify assistance required</h3>
 <p class="lead-in">Assisted digital support can be delivered in many ways, including:</p>
 <ul><li>online, with access to appropriate support</li>
