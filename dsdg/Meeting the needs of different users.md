@@ -1,4 +1,4 @@
-Meeting the needs of different users {#page-title .page__title .title}
+Meeting the needs of different users 
 ====================================
 28/04/2015 - 2:01pm
 
