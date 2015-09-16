@@ -17,7 +17,7 @@ You can move between the phases at any time. Services that can no longer
 be improved should be considered for [retirement](#retire).
 
 The phases are supported by [design
-principles](/standard/design-principles) to ensure good design outcomes
+principles](http://www.dto.gov.au/standard/design-principles) to ensure good design outcomes
 are achieved.
 
 ![Service Design
