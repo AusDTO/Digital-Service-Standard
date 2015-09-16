@@ -12,7 +12,7 @@ government?*
 
 The Standard applies to all Australian Government (federal) agencies
 with [in-scope
-services](http://www.dto.gov.au/standard/digital-transition-plan/scope-digital-service-standard).
+services](http://www.dto.gov.au/standard/scope-digital-service-standard).
 We can’t speak for state, territory or local governments on adopting the
 Standard, but of course their digital strategies have the same intent -
 to deliver better services.  The standard will be updated and improved
@@ -22,7 +22,7 @@ practice examples coming from state-based services.
 *Q: What is the format of the plan that some agencies need to provide by
 September, and what does the plan need to cover?*
 
-[Digital Transformation Plans](http://www.dto.gov.au/standard/digital-transition-plan) will
+[Digital Transformation Plans](http://www.dto.gov.au/standard/digital-transformation-plan) will
 outline how agencies will transform their services in line with the
 Standard. This includes when agencies will have their high volume
 services available digitally and when they will commence adoption of
