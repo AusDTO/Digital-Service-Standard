@@ -8,7 +8,7 @@ The Digital Transformation Office (DTO) is supporting agencies in
 planning their transformation to provide users with a better experience
 when dealing with government. The DTO has established a network of
 [Digital Transformation
-Coordinators](/standard/digital-transformation-plan/digital-transformation-coordinators)
+Coordinators](http://www.dto.gov.au/standard/digital-transformation-plan/digital-transformation-coordinators)
 (DTCs) that supports each agency in the development of a Digital
 Transformation Plan and progress of services through digital
 transformation.
@@ -19,12 +19,12 @@ Digital Transformation Plan
 All non-corporate Commonwealth agencies (most former *Financial
 Management Accountability Act 1997* agencies) with high volume
 transaction services (that is, 50,000 transactions per annum) [in scope
-of the Standard](/standard/scope-digital-service-standard) are required
+of the Standard](http://www.dto.gov.au/standard/scope-digital-service-standard) are required
 to develop and publish a Digital Transformation Plan.
 
 The Digital Transformation Plan enables agencies to be transparent about
 their planned transformation activities and report on their progress
-against the [Digital Transformation Agenda](/budget). 
+against the [Digital Transformation Agenda](http://www.dto.gov.au/budget). 
 
 ### Scope
 
@@ -45,7 +45,7 @@ needs to be met, the vision for the agency, and how it will get there.
         user experience
     -   identification, prioritisation and planning the transformation
         of high volume transactional services to comply with the
-        [Digital Service Standard](/standard)
+        [Digital Service Standard](http://www.dto.gov.au/standard)
     -   an action plan that addresses the changes required at the
         organisational, cultural and capability levels.
 
@@ -55,7 +55,7 @@ The DTO will make available a secure online tool, to assist agencies in
 preparing and submitting their plan, progressively from the start of
 August. The DTO will manage access to the tool via [Digital
 Transformation
-Coordinators](/standard/digital-transformation-plan/digital-transformation-coordinators)
+Coordinators](http://www.dto.gov.au/standard/digital-transformation-plan/digital-transformation-coordinators)
 and other nominated persons at each agency.
 
 The online planning tool will allow a draft plan to be saved and
@@ -63,7 +63,7 @@ completed over several weeks. It will generate an agency executive
 summary for approval and provide data for reporting service
 transformation on the DTO dashboard. The transformation planning process
 is being supported through workshops and guidance from the DTO. You can
-keep an eye on our regular [blog updates](/blog) and contact your DTC
+keep an eye on our regular [blog updates](http://www.dto.gov.au/blog) and contact your DTC
 for more information.
 
 Agencies with high volume transactional services must submit plans to
@@ -106,7 +106,7 @@ Key elements in planning agency transformation include:
 -   Level of digital engagement with users
 -   Portfolio and organisational management – governance, structure
 -   Compliance and processes; for example, processes to check the
-    service aligns with [Digital Service Standard](/standard)
+    service aligns with [Digital Service Standard](http://www.dto.gov.au/standard)
 -   Service delivery partnerships; for example, with third parties
 -   Digital capabilities; including people, information and technology
 -   Service delivery contestability – is there a way to redesign the
@@ -143,7 +143,7 @@ digital transformation. This involves:
 -   addressing potential barriers to going digital (such as legislative,
     technical, infrastructure, service complexity, and so on)
 -   catering for the needs of people who require [assisted
-    digital](/design-guides/guide/assisted-digital) support
+    digital](http://www.dto.gov.au/design-guides/guide/assisted-digital) support
 -   plans to integrate non-digital services with digital ones.
 
 ### Transformation implementation
@@ -152,7 +152,7 @@ Agencies need to use an integrated approach, based on user needs, to
 build internal capability as well as services. Agencies should translate
 user needs into services that are simple and intuitive enough so that
 users succeed digitally, first time, every time. The [digital service
-design principles](/standard/design-principles) should underpin agency
+design principles](http://www.dto.gov.au/standard/design-principles) should underpin agency
 implementation.
 
 ### Evaluation and assessment
@@ -172,7 +172,7 @@ Some questions to consider include:
 -   Do service delivery staff have the appropriate knowledge and skills
     as well as access to the digital transformation process?
 -   Does the service comply with the [Digital Service
-    Standard](/standard/)?
+    Standard](http://www.dto.gov.au/standard/)?
 -   Does the new service meet the key needs of the user and address
     user-engagement trends?
 -   What proportion of the service is now digital?
