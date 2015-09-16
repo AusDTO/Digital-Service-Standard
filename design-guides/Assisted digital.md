@@ -1,13 +1,5 @@
-<h1 class="page__title title" id="page-title">Assisted digital</h1>
-                                          
-<article class="node-361 node node-page view-mode-full clearfix" about="/design-guides/guide/assisted-digital" typeof="sioc:Item foaf:Document">
-
-      <header>
-                  <span property="dc:title" content="Assisted digital" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
-      
-          </header>
-  
-  <div class="field field-name-field-summary field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Assist users to interact and transact with government digitally, and provide alternatives for those who can’t.</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a id="top" name="top"></a>A whole-of-government assisted digital strategy will ensure that assisted digital support is delivered consistently across government services and is a priority for all new and enhanced digital services.</p>
+<h1>Assisted digital</h1>
+Assist users to interact and transact with government digitally, and provide alternatives for those who can’t.<p><a id="top" name="top"></a>A whole-of-government assisted digital strategy will ensure that assisted digital support is delivered consistently across government services and is a priority for all new and enhanced digital services.</p>
 <p>All agencies with <a href="/standard/scope-digital-service-standard">services in scope</a> will need to outline their plan for providing digital assistance as part of their <a href="/standard/digital-transformation-plan">Digital Transformation Plan</a>.</p>
 <p>As this guide evolves it will outline the circumstances in which a person may require assistance with digital interactions and the ways that this may be provided.</p>
 <h2>Why must I?</h2>
