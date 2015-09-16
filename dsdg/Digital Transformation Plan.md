@@ -1,56 +1,5 @@
 ---
-title: |
-    Digital Transformation Plan | Digital Transformation Office, Australian
-    Government
-...
-
-[Skip to main content](#main-content)
-
-It looks like you're using an old version of Internet Explorer. For the
-best experience, please update your browser.
-
-[![Home](https://www.dto.gov.au/sites/g/files/net261/f/dto_crest_inline_0.png)](/ "Home")[](#open-menu)
-
-MENU
-
-Search dto.gov.au
-
-Search
-
--   [Home](/)
--   [Blog](/blog)
--   [Digital Service Standard](/standard)
-    -   [The Standard](/standard)
-    -   [Design guides](/design-guides)
-    -   [Transformation planning](/standard/digital-transformation-plan)
-    -   [Common solutions](/standard/common-government-solutions)
-    -   [Case studies](/standard/case-studies)
-    -   [Glossary](/standard/glossary)
--   [Engage](/engage)
--   [About us](/about)
-
-You are here {.element-invisible}
-------------
-
-1.  [Home](/) /
-2.  [Digital Service Standard](/standard) /
-3.  Digital Transformation Plan
-
--   [The Standard](/standard)
--   [Design guides](/design-guides)
--   [Transformation planning](/standard/digital-transformation-plan)
-    -   [Digital Transformation
-        Coordinators](/standard/digital-transformation-plan/digital-transformation-coordinators)
-    -   [Measurement](/standard/digital-transformation-plan/measurement)
-    -   [Creating cultural
-        change](/standard/digital-transformation-plan/creating-cultural-change)
--   [Common solutions](/standard/common-government-solutions)
--   [Case studies](/standard/case-studies)
--   [Glossary](/standard/glossary)
-
-[Go to top of page](#skip-link)
-
-Digital Transformation Plan {#page-title .page__title .title}
+Digital Transformation Plan 
 ===========================
 
 Supporting agencies to transform their service delivery
@@ -231,26 +180,4 @@ Some questions to consider include:
     services?
 -   Does the digital service integrate seamlessly?
 
-**Last updated:** 23 July 2015 | [Provide feedback for this
-page](/feedback?url_from=Digitaltransformationplanning)
-
-Connect with DTO
-----------------
-
-[](https://twitter.com/AusDTO "DTO Twitter")
-
-[](https://www.youtube.com/channel/UCmDkFN3UlK2wSKDQQhd-Y-A "DTO Youtube")
-
-[](https://www.linkedin.com/company/digital-transformation-office "DTO Linkedin")
-
-Footer Sub Menu {.block__title .block-title}
----------------
-
--   [About](/about "Link to about the DTO")
--   [Accessibility](/web-accessibility)
--   [Copyright](/copyright)
--   [Disclaimer](/disclaimer)
--   [Privacy Statement](/privacy-statement)
--   [Budget](/budget)
--   [Site map](/sitemap)
--   [Contact us](/engage)
+**Last updated:** 23 July 2015 
