@@ -7,7 +7,7 @@ simpler, faster and easier to use. Meeting the criteria means we can
 consistently provide high quality services and satisfy our users' needs.
 
 All services within the [scope of the
-Standard](/standard/scope-digital-service-standard) must meet the
+Standard](http://www.dto.gov.au/standard/scope-digital-service-standard) must meet the
 criteria before they can be launched. After launch, we will report
 against our service performance.
 
@@ -15,10 +15,10 @@ This Standard is in alpha phase and is intended for service delivery
 teams in Australian Government agencies. The alpha version was developed
 with Government agencies and will be continuously improved to reflect
 emerging best practice. We encourage
-your [feedback](/feedback-design-guidance?url_from=standardpage) on the
+your [feedback](http://www.dto.gov.au/feedback-design-guidance?url_from=standardpage) on the
 Standard to ensure it continues to deliver high quality outcomes.
 
-The Standard is supported by [Design Guides](/design-guides). The Guides
+The Standard is supported by [Design Guides](http://www.dto.gov.au/design-guides). The Guides
 will help agencies design trusted and cost-effective government services
 that are welcomed by users. In consultation with you - the service
 practitioners in government - we will continue to develop the Guides
