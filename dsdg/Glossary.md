@@ -1,49 +1,4 @@
----
-title: 'Glossary | Digital Transformation Office, Australian Government'
-...
-
-[Skip to main content](#main-content)
-
-It looks like you're using an old version of Internet Explorer. For the
-best experience, please update your browser.
-
-[![Home](https://www.dto.gov.au/sites/g/files/net261/f/dto_crest_inline_0.png)](/ "Home")[](#open-menu)
-
-MENU
-
-Search dto.gov.au
-
-Search
-
--   [Home](/)
--   [Blog](/blog)
--   [Digital Service Standard](/standard)
-    -   [The Standard](/standard)
-    -   [Design guides](/design-guides)
-    -   [Transformation planning](/standard/digital-transformation-plan)
-    -   [Common solutions](/standard/common-government-solutions)
-    -   [Case studies](/standard/case-studies)
-    -   [Glossary](/standard/glossary)
--   [Engage](/engage)
--   [About us](/about)
-
-You are here {.element-invisible}
-------------
-
-1.  [Home](/) /
-2.  [Digital Service Standard](/standard) /
-3.  Glossary
-
--   [The Standard](/standard)
--   [Design guides](/design-guides)
--   [Transformation planning](/standard/digital-transformation-plan)
--   [Common solutions](/standard/common-government-solutions)
--   [Case studies](/standard/case-studies)
--   [Glossary](/standard/glossary)
-
-[Go to top of page](#skip-link)
-
-Glossary {#page-title .page__title .title}
+Glossary 
 ========
 
 This glossary will grow as guidance evolves. If you have found a term
@@ -139,26 +94,4 @@ registering to vote or applying for a passport.
 
 [Back to top](#)
 
-**Last updated:**23 July 2015 ** |**  [Provide feedback on this
-page](/feedback?url_from=Glossary)
-
-Connect with DTO
-----------------
-
-[](https://twitter.com/AusDTO "DTO Twitter")
-
-[](https://www.youtube.com/channel/UCmDkFN3UlK2wSKDQQhd-Y-A "DTO Youtube")
-
-[](https://www.linkedin.com/company/digital-transformation-office "DTO Linkedin")
-
-Footer Sub Menu {.block__title .block-title}
----------------
-
--   [About](/about "Link to about the DTO")
--   [Accessibility](/web-accessibility)
--   [Copyright](/copyright)
--   [Disclaimer](/disclaimer)
--   [Privacy Statement](/privacy-statement)
--   [Budget](/budget)
--   [Site map](/sitemap)
--   [Contact us](/engage)
+**Last updated:**23 July 2015
