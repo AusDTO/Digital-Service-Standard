@@ -285,4 +285,4 @@ phases*](https://www.gov.uk/service-manual/phases)* under the *[*Open
 Government Licence
 v2.0*](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/).
 
-**Last updated:** 21 July 2015 **
+**Last updated:** 21 July 2015
