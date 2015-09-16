@@ -1,16 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Content-Style-Type" content="text/css" />
-  <meta name="generator" content="pandoc" />
-  <title></title>
-  <style type="text/css">code{white-space: pre;}</style>
-</head>
-<body>
-<h1>
-Glossary
-</h1>
+<h1>Glossary</h1>
 <p>
 This glossary will grow as guidance evolves. If you have found a term that needs to be defined here <a href="/feedback?url_from=Glossary">let us know</a>.
 </p>
@@ -161,5 +149,3 @@ A <strong>transaction</strong> is a single exchange carried out between an ind
 <p>
 <strong>Last updated: </strong><span style="font-size: 14.76px;">23 July 2015 </span><strong> |</strong><span style="font-size: 14.76px;">  </span><a href="/feedback?url_from=Glossary" style="line-height: 22.15px; font-size: 14.76px;">Provide feedback on this page</a>
 </p>
-</body>
-</html>
