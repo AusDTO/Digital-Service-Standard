@@ -1,56 +1,4 @@
----
-title: |
-    Service design process | Digital Transformation Office, Australian
-    Government
-...
-
-[Skip to main content](#main-content)
-
-It looks like you're using an old version of Internet Explorer. For the
-best experience, please update your browser.
-
-[![Home](https://www.dto.gov.au/sites/g/files/net261/f/dto_crest_inline_0.png)](/ "Home")[](#open-menu)
-
-MENU
-
-Search dto.gov.au
-
-Search
-
--   [Home](/)
--   [Blog](/blog)
--   [Digital Service Standard](/standard)
-    -   [The Standard](/standard)
-    -   [Design guides](/design-guides)
-    -   [Transformation planning](/standard/digital-transformation-plan)
-    -   [Common solutions](/standard/common-government-solutions)
-    -   [Case studies](/standard/case-studies)
-    -   [Glossary](/standard/glossary)
--   [Engage](/engage)
--   [About us](/about)
-
-You are here {.element-invisible}
-------------
-
-1.  [Home](/) /
-2.  [Digital Service Standard](/standard) /
-3.  Service design process
-
--   [The Standard](/standard)
-    -   [Scope of the
-        Standard](/standard/scope-digital-service-standard)
-    -   [Meeting the Standard](/standard/meeting-standard)
-    -   [Design principles](/standard/design-principles)
-    -   [Service design process](/standard/service-design-process)
--   [Design guides](/design-guides)
--   [Transformation planning](/standard/digital-transformation-plan)
--   [Common solutions](/standard/common-government-solutions)
--   [Case studies](/standard/case-studies)
--   [Glossary](/standard/glossary)
-
-[Go to top of page](#skip-link)
-
-Service design process {#page-title .page__title .title}
+Service design process 
 ======================
 
 Focussing on users’ experience to design and deliver better solutions
@@ -115,7 +63,7 @@ new [user research](/design-guides/guide/user-research) to: 
 -   understand what proportion of your users will need [assisted digital
     support](/design-guides/guide/assisted-digital).
 
-#### *Conduct environmental scan* {style="line-height: 22.15px;"}
+#### *Conduct environmental scan* 
 
 Understand the context for the user and government including any
 possible impacts the change will have on existing services. Analyse
@@ -129,12 +77,12 @@ This should provide you with a better understanding of the legacy
 interfaces and infrastructure you must deal with, and what existing
 processes are in place for replacing or decommissioning services.
 
-#### *Form the team* {style="line-height: 22.15px;"}
+#### *Form the team* 
 
 Identify and bring together stakeholders and core members to form [the
 team](/design-guides/guide/team).
 
-#### *Get together* {style="line-height: 22.15px;"}
+#### *Get together* 
 
 Run a series of [workshops](/design-guides/subguides/workshops) with the
 team. Start with an ABCD approach to drive a conversation and develop
@@ -145,7 +93,7 @@ supporting documentation.
 3.  How will we get there?
 4.  What will need to be done?
 
-#### *Tools* {style="line-height: 22.15px;"}
+#### *Tools* 
 
 -   [Workshops](/design-guides/subguides/workshops)
 -   [High level design](/design-guides/subguides/high-level-design)
@@ -159,7 +107,7 @@ supporting documentation.
 -   Sketches / whiteboard diagrams
 -   [KPI assessment](/standard/digital-transformation-plan/measurement)
 
-### 2. Create and Iterate {style="line-height: 22.15px;"}
+### 2. Create and Iterate 
 
 Create and iterate an end-to-end solution that fits within the natural
 pathway of users
@@ -174,7 +122,7 @@ pathway of users
     simple, clear and as fast as possible while maintaining integrity of
     the service
 
-#### *Develop options* {style="line-height: 22.15px;"}
+#### *Develop options* 
 
 Develop options by using [user
 research](/design-guides/guide/user-research) and involving a wide range
@@ -186,7 +134,7 @@ When considering options, agree on what operational support
 and resourcing is needed to maintain the service or product
 post-production and who will provide it.
 
-#### *Test early and test often* {style="line-height: 22.15px;"}
+#### *Test early and test often* 
 
 Create and share the emerging design and thinking as early as possible.
 Be willing to share your
@@ -222,7 +170,7 @@ notes](https://www.dto.gov.au/sites/g/files/net261/f/styles/large/public/Walkthr
 a long wall to demonstrate a user’s experience through the whole
 service.*
 
-#### *Capture and document* {style="line-height: 22.15px;"}
+#### *Capture and document* 
 
 Capture and document insights obtained from the user research activities
 you undertake in this phase. Document your designs throughout
@@ -230,7 +178,7 @@ development including why certain decisions were made. Knowing why the
 service was designed that way will make it easier when making future
 improvements.
 
-#### *Tools* {style="line-height: 22.15px;"}
+#### *Tools* 
 
 -   [User research](/design-guides/guide/user-research)
 -   [Workshops](/design-guides/subguides/workshops)
@@ -241,14 +189,14 @@ improvements.
 -   [Usability testing](/design-guides/guide/usability-testing)
 -   [User stories](/design-guides/subguides/user-stories)
 
-### 3. Deliver, Evaluate and Improve {style="line-height: 22.15px;"}
+### 3. Deliver, Evaluate and Improve 
 
 Deliver the service according to feedback received during [usability
 testing](/design-guides/guide/usability-testing). As far as possible
 think about the future changing needs of users and aim to
 support scalability to accommodate changes.  
 
-#### *Go live* {style="line-height: 22.15px;"}
+#### *Go live* 
 
 Check the service meets the Australian Government requirements
 on [accessibility](/design-guides/guide/making-content-accessible), [branding](/design-guides/guide/branding) and [common
@@ -265,7 +213,7 @@ services.
 Once the tested product meets all security, government and performance
 requirements it is ready to go live.
 
-#### *Monitor the service* {style="line-height: 22.15px;"}
+#### *Monitor the service* 
 
 Gather and assess stakeholder and user feedback.
 Analyse dashboard results to identify issues that can be improved or
@@ -284,7 +232,7 @@ opportunities for future improvements.
 Monitoring of the service should allow sufficient time to cover usage
 periods and the range of user activities.
 
-#### *Influence future design and improvements* {style="line-height: 22.15px;"}
+#### *Influence future design and improvements* 
 
 Services will continue to undergo evaluation and improvement; reacting
 to new needs and demands of the wider environment.
@@ -295,14 +243,14 @@ improvement; research solutions; iterate; and release. That should be a
 constant rhythm for the [operating team](/design-guides/guide/team), and
 done rapidly.
 
-#### *Tools* {style="line-height: 22.15px;"}
+#### *Tools* 
 
 -   [User research](/design-guides/guide/user-research)
 -   User feedback
 -   Dashboard
 -   [KPI assessment](/standard/digital-transformation-plan/measurement)
 
-Retiring a service {style="line-height: 22.15px;"}
+Retiring a service 
 ------------------
 
 When it is clear a service is no longer required, or those particular
@@ -337,30 +285,4 @@ phases*](https://www.gov.uk/service-manual/phases)* under the *[*Open
 Government Licence
 v2.0*](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/).
 
-**Last updated:** 21 July 2015 ** |**  [Provide feedback on this
-page](/feedback?url_from=DesignProcess)
-
-[Top](#)
-
- 
-
-Connect with DTO
-----------------
-
-[](https://twitter.com/AusDTO "DTO Twitter")
-
-[](https://www.youtube.com/channel/UCmDkFN3UlK2wSKDQQhd-Y-A "DTO Youtube")
-
-[](https://www.linkedin.com/company/digital-transformation-office "DTO Linkedin")
-
-Footer Sub Menu {.block__title .block-title}
----------------
-
--   [About](/about "Link to about the DTO")
--   [Accessibility](/web-accessibility)
--   [Copyright](/copyright)
--   [Disclaimer](/disclaimer)
--   [Privacy Statement](/privacy-statement)
--   [Budget](/budget)
--   [Site map](/sitemap)
--   [Contact us](/engage)
+**Last updated:** 21 July 2015 **
