@@ -12,7 +12,7 @@ identify ways to improve your service over time.
 Key performance indicators 
 --------------------------
 
-The [Digital Service Standard](/standard) requires regular reporting of
+The [Digital Service Standard](http://www.dto.gov.au/standard) requires regular reporting of
 4 key performance indicators (KPIs) to measure the ongoing performance
 of your service.
 
@@ -32,7 +32,7 @@ other unique indicators that will help you judge the effectiveness of
 your service.
 
 -   **[Analytic
-    tools](/design-guides/guide/analytics-tools) **- choosing the right
+    tools](http://www.dto.gov.au/design-guides/guide/analytics-tools) **- choosing the right
     tools to measure your service.
 -   **Other performance indicators** - other metrics your service might
     measure or track.
