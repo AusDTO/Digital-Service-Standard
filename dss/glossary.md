@@ -147,5 +147,4 @@ A <strong>transaction</strong> is a single exchange carried out between an ind
 <span style="line-height: 22.15px; font-size: 13.63px;"><a href="#" style="line-height: 22.15px; font-size: 13.63px;">Back to top</a></span>
 </p>
 <p>
-<strong>Last updated: </strong><span style="font-size: 14.76px;">23 July 2015 </span><strong> |</strong><span style="font-size: 14.76px;">  </span><a href="/feedback?url_from=Glossary" style="line-height: 22.15px; font-size: 14.76px;">Provide feedback on this page</a>
-</p>
+<strong>Last updated: </strong>23 July 2015</p>
