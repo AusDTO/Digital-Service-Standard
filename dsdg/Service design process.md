@@ -54,14 +54,14 @@ agreed view on the following questions.
 #### *Undertake user research *
 
 Identify your users and get to know them. Analyse existing or undertake
-new [user research](/design-guides/guide/user-research) to: 
+new [user research](http://www.dto.gov.au/design-guides/guide/user-research) to: 
 
 -   get valuable insight into users’ expectations of future government
     services, or their experience and thoughts on an existing service
 -   understand more about users’ overall experience with government, not
     just the service you are designing
 -   understand what proportion of your users will need [assisted digital
-    support](/design-guides/guide/assisted-digital).
+    support](http://www.dto.gov.au/design-guides/guide/assisted-digital).
 
 #### *Conduct environmental scan* 
 
@@ -80,11 +80,11 @@ processes are in place for replacing or decommissioning services.
 #### *Form the team* 
 
 Identify and bring together stakeholders and core members to form [the
-team](/design-guides/guide/team).
+team](http://www.dto.gov.au/design-guides/guide/team).
 
 #### *Get together* 
 
-Run a series of [workshops](/design-guides/subguides/workshops) with the
+Run a series of [workshops](http://www.dto.gov.au/design-guides/subguides/workshops) with the
 team. Start with an ABCD approach to drive a conversation and develop
 supporting documentation.
 
@@ -95,17 +95,17 @@ supporting documentation.
 
 #### *Tools* 
 
--   [Workshops](/design-guides/subguides/workshops)
--   [High level design](/design-guides/subguides/high-level-design)
+-   [Workshops](http://www.dto.gov.au/design-guides/subguides/workshops)
+-   [High level design](http://www.dto.gov.au/design-guides/subguides/high-level-design)
 -   ABCD modelling
--   [Personas](/design-guides/subguides/personas) and
-    [scenarios](/design-guides/subguides/scenarios)
+-   [Personas](http://www.dto.gov.au/design-guides/subguides/personas) and
+    [scenarios](http://www.dto.gov.au/design-guides/subguides/scenarios)
 -   [User
     pathways](https://www.dto.gov.au/design-guides/subguides/user-pathways)
--   [Wireframes](/design-guides/subguides/wireframing)
--   [Prototypes](/design-guides/subguides/prototyping)
+-   [Wireframes](http://www.dto.gov.au/design-guides/subguides/wireframing)
+-   [Prototypes](http://www.dto.gov.au/design-guides/subguides/prototyping)
 -   Sketches / whiteboard diagrams
--   [KPI assessment](/standard/digital-transformation-plan/measurement)
+-   [KPI assessment](http://www.dto.gov.au/standard/digital-transformation-plan/measurement)
 
 ### 2. Create and Iterate 
 
@@ -118,14 +118,14 @@ pathway of users
     and designing services, taking into consideration their environment
     and constraints
 -   Concentrate on delivering services which make the [user
-    journey](/design-guides/subguides/user-pathways) and experience as
+    journey](http://www.dto.gov.au/design-guides/subguides/user-pathways) and experience as
     simple, clear and as fast as possible while maintaining integrity of
     the service
 
 #### *Develop options* 
 
 Develop options by using [user
-research](/design-guides/guide/user-research) and involving a wide range
+research](http://www.dto.gov.au/design-guides/guide/user-research) and involving a wide range
 of stakeholders from the private, industry and other parts of the public
 sector. Run a series of workshops with these stakeholders to develop
 your options.
@@ -138,7 +138,7 @@ post-production and who will provide it.
 
 Create and share the emerging design and thinking as early as possible.
 Be willing to share your
-draft [wireframes](/design-guides/subguides/wireframing) or [prototypes](/design-guides/subguides/prototyping) with
+draft [wireframes](http://www.dto.gov.au/design-guides/subguides/wireframing) or [prototypes](http://www.dto.gov.au/design-guides/subguides/prototyping) with
 increasing detail and functionality (for example, low and high fidelity
 prototypes). Keep in mind people are less likely to provide feedback on
 something that looks finished. Early engagement and consultation will
@@ -180,14 +180,14 @@ improvements.
 
 #### *Tools* 
 
--   [User research](/design-guides/guide/user-research)
--   [Workshops](/design-guides/subguides/workshops)
--   [User pathways](/design-guides/subguides/user-pathways)
+-   [User research](http://www.dto.gov.au/design-guides/guide/user-research)
+-   [Workshops](http://www.dto.gov.au/design-guides/subguides/workshops)
+-   [User pathways](http://www.dto.gov.au/design-guides/subguides/user-pathways)
 -   [High level design /
-    blueprints](/design-guides/subguides/high-level-design)
--   [Prototyping](/design-guides/subguides/prototyping)
--   [Usability testing](/design-guides/guide/usability-testing)
--   [User stories](/design-guides/subguides/user-stories)
+    blueprints](http://www.dto.gov.au/design-guides/subguides/high-level-design)
+-   [Prototyping](http://www.dto.gov.au/design-guides/subguides/prototyping)
+-   [Usability testing](http://www.dto.gov.au/design-guides/guide/usability-testing)
+-   [User stories](http://www.dto.gov.au/design-guides/subguides/user-stories)
 
 ### 3. Deliver, Evaluate and Improve 
 
@@ -199,12 +199,12 @@ support scalability to accommodate changes.  
 #### *Go live* 
 
 Check the service meets the Australian Government requirements
-on [accessibility](/design-guides/guide/making-content-accessible), [branding](/design-guides/guide/branding) and [common
-website elements](/design-guides/guide/common-website-elements).
+on [accessibility](http://www.dto.gov.au/design-guides/guide/making-content-accessible), [branding](http://www.dto.gov.au/design-guides/guide/branding) and [common
+website elements](http://www.dto.gov.au/design-guides/guide/common-website-elements).
 
 Ensure your analytics are configured accurately to monitor the [key
 performance
-indicators](/standard/digital-transformation-plan/measurement) identified
+indicators](http://www.dto.gov.au/standard/digital-transformation-plan/measurement) identified
 in building your service.
 
 Make sure you have planned the transition or integration of any existing
@@ -240,15 +240,15 @@ to new needs and demands of the wider environment.
 You may need to repeat the whole design process for smaller pieces of
 work as the service continues running. Find something that needs
 improvement; research solutions; iterate; and release. That should be a
-constant rhythm for the [operating team](/design-guides/guide/team), and
+constant rhythm for the [operating team](http://www.dto.gov.au/design-guides/guide/team), and
 done rapidly.
 
 #### *Tools* 
 
--   [User research](/design-guides/guide/user-research)
+-   [User research](http://www.dto.gov.au/design-guides/guide/user-research)
 -   User feedback
 -   Dashboard
--   [KPI assessment](/standard/digital-transformation-plan/measurement)
+-   [KPI assessment](http://www.dto.gov.au/standard/digital-transformation-plan/measurement)
 
 Retiring a service 
 ------------------
@@ -269,7 +269,7 @@ In parallel to the work required to retire a services, and sometimes
 during the 3 phases, it will be necessary to archive content and records
 relating to the service. Whenever content is removed from a site you
 must consider the [records managing
-requirements](/design-guides/guide/records-management) and appropriate
+requirements](http://www.dto.gov.au/design-guides/guide/records-management) and appropriate
 archiving actions. ‘Archiving’, in this case meaning taking material out
 of active use and storing it elsewhere.
 
