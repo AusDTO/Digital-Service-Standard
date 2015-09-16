@@ -1,7 +1,7 @@
 Scope of the Digital Service Standard 
 =====================================
 
-The [Digital Service Standard](/standard) (the Standard) applies to all
+The [Digital Service Standard](http://www.dto.gov.au/standard) (the Standard) applies to all
 existing and new Australian Government (federal) services that are:
 
 -   [high volume transaction services](#_High_volume_Ttransaction) (for
@@ -31,11 +31,11 @@ is:
 
 If the service does not meet one or more of the criteria outlined above
 then it may not have to meet the Standard. For further clarity, [contact
-us](/contact-us) for advice.
+us](http://www.dto.gov.au/contact-us) for advice.
 
 If the service is already operating, the agency responsible will need to
 provide a [Digital Transformation
-Plan](/standard/digital-transformation-plan), by September 2015, on how
+Plan](http://www.dto.gov.au/standard/digital-transformation-plan), by September 2015, on how
 it will adopt the Standard.
 
 Digital information services 
@@ -50,7 +50,7 @@ the Standard before it can go live.
 Existing websites and publications will also need to be updated to
 follow the Standard. Australian Government agencies must provide
 a [Digital Transformation
-Plan](/standard/digital-transformation-plan) outlining how they will
+Plan](http://www.dto.gov.au/standard/digital-transformation-plan) outlining how they will
 adopt the Standard for each of their information services by September
 2015.
 
@@ -70,7 +70,7 @@ Standard, either in full or in part. These will need to be addressed
 over time. 
 
 Full or partial exemptions from the Standard may be appropriate in
-certain cases – [contact us](/contact-us) for advice.
+certain cases – [contact us](http://www.dto.gov.au/contact-us) for advice.
 
 *This content has been adapted from the *[*UK Government Digital Service
 Design Manual guide on Scope of the
