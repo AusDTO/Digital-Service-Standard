@@ -1,56 +1,4 @@
----
-title: |
-    Meeting the Standard | Digital Transformation Office, Australian
-    Government
-...
-
-[Skip to main content](#main-content)
-
-It looks like you're using an old version of Internet Explorer. For the
-best experience, please update your browser.
-
-[![Home](https://www.dto.gov.au/sites/g/files/net261/f/dto_crest_inline_0.png)](/ "Home")[](#open-menu)
-
-MENU
-
-Search dto.gov.au
-
-Search
-
--   [Home](/)
--   [Blog](/blog)
--   [Digital Service Standard](/standard)
-    -   [The Standard](/standard)
-    -   [Design guides](/design-guides)
-    -   [Transformation planning](/standard/digital-transformation-plan)
-    -   [Common solutions](/standard/common-government-solutions)
-    -   [Case studies](/standard/case-studies)
-    -   [Glossary](/standard/glossary)
--   [Engage](/engage)
--   [About us](/about)
-
-You are here {.element-invisible}
-------------
-
-1.  [Home](/) /
-2.  [Digital Service Standard](/standard) /
-3.  Meeting the Standard
-
--   [The Standard](/standard)
-    -   [Scope of the
-        Standard](/standard/scope-digital-service-standard)
-    -   [Meeting the Standard](/standard/meeting-standard)
-    -   [Design principles](/standard/design-principles)
-    -   [Service design process](/standard/service-design-process)
--   [Design guides](/design-guides)
--   [Transformation planning](/standard/digital-transformation-plan)
--   [Common solutions](/standard/common-government-solutions)
--   [Case studies](/standard/case-studies)
--   [Glossary](/standard/glossary)
-
-[Go to top of page](#skip-link)
-
-Meeting the Standard {#page-title .page__title .title}
+Meeting the Standard 
 ====================
 
 Does the service meet the Standard?
@@ -73,7 +21,7 @@ Helping you meet the Standard is important.
     to meet the Standard
 3.  [Failing to meet the Standard](#failing) - help is available 
 
-Assurance against the Standard {style="line-height: 22.15px;"}
+Assurance against the Standard 
 ------------------------------
 
 ### Assessment and reporting
@@ -100,7 +48,7 @@ their assessment report.  
 If support is needed to assess the service, the DTO can help -
 please [contact us](/contact-us).
 
-### Providing evidence {style="line-height: 22.15px;"}
+### Providing evidence 
 
 Publishing good, frequent information about how services are performing
 is really important. It not only demonstrates commitment to meeting the
@@ -118,7 +66,7 @@ test their assumptions with a wider community.
 It also means that there is a published audit trail of progress to
 support the assessment process.
 
-Keeping the Standard {style="line-height: 22.15px;"}
+Keeping the Standard 
 --------------------
 
 The launch of a service is only the beginning. Once it has been
@@ -145,7 +93,7 @@ In keeping the Standard, service teams must:
     support](/design-guides/guide/assisted-digital) is targeted at the
     people who really need it.
 
-Failing to meet the standard {style="line-height: 22.15px;"}
+Failing to meet the standard 
 ----------------------------
 
 A service may fail to meet the Standard at 2 points:
@@ -163,7 +111,7 @@ service meets the relevant criteria of the Standard, the service should
 not progress to the next phase. Where an assessment fails to progress a
 service, [help is available](/contact-us).
 
-### Ongoing performance {style="line-height: 22.15px;"}
+### Ongoing performance 
 
 The DTO will use assessment reports and the Digital Service Dashboard to
 monitor service performance. This includes identifying services that are
@@ -178,28 +126,4 @@ Standard](https://www.gov.uk/service-manual/digital-by-default/scope-of-the-stan
 the **[Open Government Licence
 v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/).*
 
-Last updated: 30 March  |  [Provide feedback on this
-page](/feedback?url_from=Meetingthestandard)
-
-[Top](#)
-
-Connect with DTO
-----------------
-
-[](https://twitter.com/AusDTO "DTO Twitter")
-
-[](https://www.youtube.com/channel/UCmDkFN3UlK2wSKDQQhd-Y-A "DTO Youtube")
-
-[](https://www.linkedin.com/company/digital-transformation-office "DTO Linkedin")
-
-Footer Sub Menu {.block__title .block-title}
----------------
-
--   [About](/about "Link to about the DTO")
--   [Accessibility](/web-accessibility)
--   [Copyright](/copyright)
--   [Disclaimer](/disclaimer)
--   [Privacy Statement](/privacy-statement)
--   [Budget](/budget)
--   [Site map](/sitemap)
--   [Contact us](/engage)
+Last updated: 30 March 
