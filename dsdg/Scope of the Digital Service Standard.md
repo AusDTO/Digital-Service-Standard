@@ -1,56 +1,4 @@
----
-title: |
-    Scope of the Digital Service Standard | Digital Transformation Office,
-    Australian Government
-...
-
-[Skip to main content](#main-content)
-
-It looks like you're using an old version of Internet Explorer. For the
-best experience, please update your browser.
-
-[![Home](https://www.dto.gov.au/sites/g/files/net261/f/dto_crest_inline_0.png)](/ "Home")[](#open-menu)
-
-MENU
-
-Search dto.gov.au
-
-Search
-
--   [Home](/)
--   [Blog](/blog)
--   [Digital Service Standard](/standard)
-    -   [The Standard](/standard)
-    -   [Design guides](/design-guides)
-    -   [Transformation planning](/standard/digital-transformation-plan)
-    -   [Common solutions](/standard/common-government-solutions)
-    -   [Case studies](/standard/case-studies)
-    -   [Glossary](/standard/glossary)
--   [Engage](/engage)
--   [About us](/about)
-
-You are here {.element-invisible}
-------------
-
-1.  [Home](/) /
-2.  [Digital Service Standard](/standard) /
-3.  Scope of the Digital Service Standard
-
--   [The Standard](/standard)
-    -   [Scope of the
-        Standard](/standard/scope-digital-service-standard)
-    -   [Meeting the Standard](/standard/meeting-standard)
-    -   [Design principles](/standard/design-principles)
-    -   [Service design process](/standard/service-design-process)
--   [Design guides](/design-guides)
--   [Transformation planning](/standard/digital-transformation-plan)
--   [Common solutions](/standard/common-government-solutions)
--   [Case studies](/standard/case-studies)
--   [Glossary](/standard/glossary)
-
-[Go to top of page](#skip-link)
-
-Scope of the Digital Service Standard {#page-title .page__title .title}
+Scope of the Digital Service Standard 
 =====================================
 
 The [Digital Service Standard](/standard) (the Standard) applies to all
@@ -69,7 +17,7 @@ The Standard does not apply to state/territory or local government
 services. However, these jurisdictions may elect to apply the Standard
 to service delivery.
 
-High volume transaction services {style="line-height: 22.15px;"}
+High volume transaction services 
 --------------------------------
 
 A digital service must meet the Standard before it can go live, if it
@@ -90,7 +38,7 @@ provide a [Digital Transformation
 Plan](/standard/digital-transformation-plan), by September 2015, on how
 it will adopt the Standard.
 
-Digital information services {style="line-height: 22.15px;"}
+Digital information services 
 ----------------------------
 
 All information that is the responsibility of, or is partly owned and/or
@@ -110,7 +58,7 @@ Personal ministerial websites (that contain material on a minister’s
 party political activities or views on issues not related to their
 ministerial role) are **not **included in the scope of the Standard.
 
-The Standard may not apply to everything {style="line-height: 22.15px;"}
+The Standard may not apply to everything 
 ----------------------------------------
 
 Australian Government services cover a vast variety of activities
@@ -130,26 +78,4 @@ Standard*](https://www.gov.uk/service-manual/digital-by-default/scope-of-the-sta
 the *[*Open Government Licence
 v2.0*](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/)*.*
 
-**Last updated**: 10 June 2015  |  [Provide feedback on this
-page](/feedback?url_from=Scope)
-
-Connect with DTO
-----------------
-
-[](https://twitter.com/AusDTO "DTO Twitter")
-
-[](https://www.youtube.com/channel/UCmDkFN3UlK2wSKDQQhd-Y-A "DTO Youtube")
-
-[](https://www.linkedin.com/company/digital-transformation-office "DTO Linkedin")
-
-Footer Sub Menu {.block__title .block-title}
----------------
-
--   [About](/about "Link to about the DTO")
--   [Accessibility](/web-accessibility)
--   [Copyright](/copyright)
--   [Disclaimer](/disclaimer)
--   [Privacy Statement](/privacy-statement)
--   [Budget](/budget)
--   [Site map](/sitemap)
--   [Contact us](/engage)
+**Last updated**: 10 June 2015 
