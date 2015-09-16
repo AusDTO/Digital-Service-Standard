@@ -2,7 +2,7 @@ Q & As on the Digital Service Standard
 ======================================
 
 Since we [released the Digital Service
-Standard](/news-media/blog/release-alpha-digital-service-standard),
+Standard](http://www.dto.gov.au/news-media/blog/release-alpha-digital-service-standard),
 we’ve had some great questions from our community. The following pick up
 some of the common themes we’ve been asked about.
 
@@ -12,7 +12,7 @@ government?*
 
 The Standard applies to all Australian Government (federal) agencies
 with [in-scope
-services](/standard/digital-transition-plan/scope-digital-service-standard).
+services](http://www.dto.gov.au/standard/digital-transition-plan/scope-digital-service-standard).
 We can’t speak for state, territory or local governments on adopting the
 Standard, but of course their digital strategies have the same intent -
 to deliver better services.  The standard will be updated and improved
@@ -22,7 +22,7 @@ practice examples coming from state-based services.
 *Q: What is the format of the plan that some agencies need to provide by
 September, and what does the plan need to cover?*
 
-[Digital Transformation Plans](/standard/digital-transition-plan) will
+[Digital Transformation Plans](http://www.dto.gov.au/standard/digital-transition-plan) will
 outline how agencies will transform their services in line with the
 Standard. This includes when agencies will have their high volume
 services available digitally and when they will commence adoption of
@@ -54,7 +54,7 @@ However, an app should only be developed if the user needs research
 supports the need for one. All services need to be usable from any
 device, so services using an app will need to provide alternative access
 points. There is some initial guidance in [How to apply the
-Standard](http://www.dto.gov.au/standard/how-apply-standard) that we
+Standard](http://www.dto.gov.au/design-guides) that we
 will update over the coming months in creating a Digital Service Design
 Guide. 
 
