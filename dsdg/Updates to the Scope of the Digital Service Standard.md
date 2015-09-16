@@ -1,4 +1,4 @@
-Updates to the Scope of the Digital Service Standard {#page-title .page__title .title}
+Updates to the Scope of the Digital Service Standard 
 ====================================================
 16/06/2015 - 10:59am
 
