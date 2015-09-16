@@ -52,7 +52,7 @@ You are here {.element-invisible}
 
 [Go to top of page](#skip-link)
 
-Digital Transformation Coordinators {#page-title .page__title .title}
+Digital Transformation Coordinators 
 ===================================
 
 Key agency contacts with the Digital Transformation Office
