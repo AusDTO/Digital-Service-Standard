@@ -25,7 +25,7 @@ How do I?
 To create digital services based on user needs, not on organisational
 structures and processes, you need:
 
--   a [team](/design-guides/guide/team) that is knowledgeable about
+-   a [team](http://www.dto.gov.au/design-guides/guide/team) that is knowledgeable about
     existing and emerging technology options
 -   a governance and management structure that is an enabler, not a
     bottleneck or barrier to change
