@@ -8,10 +8,6 @@ know](/feedback?url_from=Glossary).
 [A  -  F](#a) | [G  -  L](#g) | [M  -  R](#m) | [S  -  Z](#s)
 -------------------------------------------------------------
 
-Term
-
-Description
-
 ### A
 
 **Alpha **
@@ -94,4 +90,4 @@ registering to vote or applying for a passport.
 
 [Back to top](#)
 
-**Last updated:**23 July 2015
+**Last updated:** 23 July 2015
