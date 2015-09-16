@@ -101,7 +101,7 @@ A service may fail to meet the Standard at 2 points:
 1.  during service design prior to going live, or
 2.  when live, if it falls below the agencies performance targets.
 
-### Failure during service design {style="line-height: 22.15px;"}
+### Failure during service design 
 
 Progress towards meeting the Standard should be assessed and reported at
 every phase the service passes through.
@@ -126,4 +126,4 @@ Standard](https://www.gov.uk/service-manual/digital-by-default/scope-of-the-stan
 the **[Open Government Licence
 v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/).*
 
-Last updated: 30 March 
+**Last updated:** 30 March 
