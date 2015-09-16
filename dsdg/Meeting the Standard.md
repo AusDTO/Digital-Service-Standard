@@ -4,7 +4,7 @@ Meeting the Standard
 Does the service meet the Standard?
 
 All services within the [scope of the
-Standard](/standard/scope-digital-service-standard) must be assessed
+Standard](http://www.dto.gov.au/standard/scope-digital-service-standard) must be assessed
 against the criteria of the [Standard](http://www.dto.gov.au/standard) at each phase of
 service development.
 
