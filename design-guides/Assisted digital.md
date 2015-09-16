@@ -9,7 +9,7 @@ All agencies with <a href="http://www.dto.gov.au/standard/scope-digital-service-
 
 As this guide evolves it will outline the circumstances in which a person may require assistance with digital interactions and the ways that this may be provided.
 
-## Why must I?
+Why must I?
 -----------
 [The Coalition’s Policy for E-Government and the Digital Economy](http://lpaweb-static.s3.amazonaws.com/Coalition%27s%20Policy%20for%20E-Government%20and%20the%20Digital%20Economy.pdf) (PDF 1.18 MB) designates the Internet as the default way for government to interact with users, other than for defined exceptions. These defined exceptions may be an inability to interact digitally due to location, disability, language, or digital literacy.
 
@@ -17,8 +17,8 @@ As this guide evolves it will outline the circumstances in which a person may re
 
 People who need help to interact digitally will be assisted to use digital channels. Those unable to will be provided with the support through appropriate channels such as shop-fronts, telephone, video or authorised representatives.
 
-## How do I?
-
+How do I?
+---------
 - Identify assisted digital users
 - Identify assistance required
 - Make sure users know where to get help
