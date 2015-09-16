@@ -1,72 +1,18 @@
----
-title: |
-    Creating cultural change | Digital Transformation Office, Australian
-    Government
-...
-
-[Skip to main content](#main-content)
-
-It looks like you're using an old version of Internet Explorer. For the
-best experience, please update your browser.
-
-[![Home](https://www.dto.gov.au/sites/g/files/net261/f/dto_crest_inline_0.png)](/ "Home")[](#open-menu)
-
-MENU
-
-Search dto.gov.au
-
-Search
-
--   [Home](/)
--   [Blog](/blog)
--   [Digital Service Standard](/standard)
-    -   [The Standard](/standard)
-    -   [Design guides](/design-guides)
-    -   [Transformation planning](/standard/digital-transformation-plan)
-    -   [Common solutions](/standard/common-government-solutions)
-    -   [Case studies](/standard/case-studies)
-    -   [Glossary](/standard/glossary)
--   [Engage](/engage)
--   [About us](/about)
-
-You are here {.element-invisible}
-------------
-
-1.  [Home](/) /
-2.  [Digital Service Standard](/standard) /
-3.  [Digital Transformation Plan](/standard/digital-transformation-plan)
-    /
-4.  Creating cultural change
-
--   [The Standard](/standard)
--   [Design guides](/design-guides)
--   [Transformation planning](/standard/digital-transformation-plan)
-    -   [Digital Transformation
-        Coordinators](/standard/digital-transformation-plan/digital-transformation-coordinators)
-    -   [Measurement](/standard/digital-transformation-plan/measurement)
-    -   [Creating cultural
-        change](/standard/digital-transformation-plan/creating-cultural-change)
--   [Common solutions](/standard/common-government-solutions)
--   [Case studies](/standard/case-studies)
--   [Glossary](/standard/glossary)
-
-[Go to top of page](#skip-link)
-
-Creating cultural change {#page-title .page__title .title}
+Creating cultural change 
 ========================
 
 Digital services and the technology on which they’re built should enable
 change. This allows you the freedom to evolve your services according to
 changing user needs, expectations and technology innovation.
 
-Why must I? {style="line-height: 22.1520004272461px;"}
+Why must I? 
 -----------
 
 Improving the way that you produce and procure digital services is more
 about cultural and behavioural change than it is about IT. Technology
 alone cannot improve public services.
 
-How do I? {style="line-height: 22.1520004272461px;"}
+How do I? 
 ---------
 
 -   [Know what you need](#need)
@@ -74,7 +20,7 @@ How do I? {style="line-height: 22.1520004272461px;"}
 -   [Break down barriers to technology change](#barriers)
 -   [Encourage an environment that supports change](#encourage)
 
-### Know what you need {style="line-height: 22.1520004272461px;"}
+### Know what you need 
 
 To create digital services based on user needs, not on organisational
 structures and processes, you need:
@@ -90,9 +36,9 @@ structures and processes, you need:
 -   pricing competition and the ability to switch between alternative
     suppliers.
 
-### Know what you may need to change {style="line-height: 22.1520004272461px;"}
+### Know what you may need to change 
 
-#### Your team {style="line-height: 22.1520004272461px;"}
+#### Your team 
 
 To create better public services you’ll need to change existing
 behaviours and cultures, and transition to new ways of working. You may
@@ -100,13 +46,13 @@ need to develop skills within your team and keep up-to-date on new
 methods and technologies. It may sometimes be necessary to change your
 physical working environment to get the best out of your team.
 
-#### Governance and information management {style="line-height: 22.1520004272461px;"}
+#### Governance and information management 
 
 You may need to change governance and management structures to enable
 you to run projects in a more flexible and agile way. You’ll also need
 an effective approach to information management.
 
-#### New suppliers and technology {style="line-height: 22.1520004272461px;"}
+#### New suppliers and technology 
 
 You’ll need to build relationships with new suppliers that you may have
 found through new procurement routes, such as the [Cloud services
@@ -124,7 +70,7 @@ hosting of your existing sites may need to be reviewed.
 
 [Top](#)
 
-### Break down barriers to change {style="line-height: 22.1520004272461px;"}
+### Break down barriers to change 
 
 You may come across disinterest or resistance when you try to make
 necessary changes to your technology or how your service is provided.
@@ -169,7 +115,7 @@ cost of a new solution.
 Building on open standards or selecting products which use them will
 help you to avoid this problem in the future.
 
-### Encourage an environment that supports change {style="line-height: 22.1520004272461px;"}
+### Encourage an environment that supports change 
 
 A flexible environment enables service managers to develop services and
 make them responsive to user needs. It also avoids more risky big bang
@@ -186,26 +132,4 @@ change](https://www.gov.uk/service-manual/technology/culture-that-supports-chang
 the [Open Government Licence
 v2.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2).*
 
-**Last updated:** 26 March 2015 | [Provide feedback on this
-page](/feedback?url_from=CreatingCulturalChange)
-
-Connect with DTO
-----------------
-
-[](https://twitter.com/AusDTO "DTO Twitter")
-
-[](https://www.youtube.com/channel/UCmDkFN3UlK2wSKDQQhd-Y-A "DTO Youtube")
-
-[](https://www.linkedin.com/company/digital-transformation-office "DTO Linkedin")
-
-Footer Sub Menu {.block__title .block-title}
----------------
-
--   [About](/about "Link to about the DTO")
--   [Accessibility](/web-accessibility)
--   [Copyright](/copyright)
--   [Disclaimer](/disclaimer)
--   [Privacy Statement](/privacy-statement)
--   [Budget](/budget)
--   [Site map](/sitemap)
--   [Contact us](/engage)
+**Last updated:** 26 March 2015 
