@@ -47,6 +47,6 @@ Ensure non-digital users can access the help they need to use the service.
 
 This support is required to help non-digital users. However, it should not be heavily promoted beyond the target users as the intent is to encourage most people to interact digitally and independently.
 
-<em>This content has been adapted from [UK Government Service Design Manual guide on Assisted digital](https://www.gov.uk/service-manual/assisted-digital/index.html) under the [Open Government Licence v2.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/) and [ICT.govt.nz’s Action 1: Assisted digital](https://ict.govt.nz/programmes-and-initiatives/digital-transformation/result-10/action-01/) under the [Creative Commons Attribution 3.0 New Zealand license](http://creativecommons.org/licenses/by/3.0/nz/).</em>
+*This content has been adapted from [UK Government Service Design Manual guide on Assisted digital](https://www.gov.uk/service-manual/assisted-digital/index.html) under the [Open Government Licence v2.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/) and [ICT.govt.nz’s Action 1: Assisted digital](https://ict.govt.nz/programmes-and-initiatives/digital-transformation/result-10/action-01/) under the [Creative Commons Attribution 3.0 New Zealand license](http://creativecommons.org/licenses/by/3.0/nz/).*
 
 **Last updated:** 13 April 2015
