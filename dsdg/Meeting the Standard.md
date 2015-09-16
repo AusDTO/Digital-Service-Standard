@@ -5,7 +5,7 @@ Does the service meet the Standard?
 
 All services within the [scope of the
 Standard](/standard/scope-digital-service-standard) must be assessed
-against the criteria of the [Standard](/standard) at each phase of
+against the criteria of the [Standard](http://www.dto.gov.au/standard) at each phase of
 service development.
 
 The agency who owns the service must make sure their service meets and
@@ -46,7 +46,7 @@ a Digital Service Dashboard (currently being developed) and provide
 their assessment report.  
 
 If support is needed to assess the service, the DTO can help -
-please [contact us](/contact-us).
+please [contact us](http://www.dto.gov.au/contact-us).
 
 ### Providing evidence 
 
@@ -90,7 +90,7 @@ In keeping the Standard, service teams must:
     ahead of the service’s launch
 -   show digital take-up is increasing in line with plans submitted
     ahead of the service’s launch, and [assisted digital
-    support](/design-guides/guide/assisted-digital) is targeted at the
+    support](http://www.dto.gov.au/design-guides/guide/assisted-digital) is targeted at the
     people who really need it.
 
 Failing to meet the standard 
@@ -109,7 +109,7 @@ every phase the service passes through.
 If the agency team performing the assessment aren’t satisfied that a
 service meets the relevant criteria of the Standard, the service should
 not progress to the next phase. Where an assessment fails to progress a
-service, [help is available](/contact-us).
+service, [help is available](http://www.dto.gov.au/contact-us).
 
 ### Ongoing performance 
 
