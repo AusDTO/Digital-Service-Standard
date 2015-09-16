@@ -1,51 +1,4 @@
----
-title: |
-    Common government solutions | Digital Transformation Office, Australian
-    Government
-...
-
-[Skip to main content](#main-content)
-
-It looks like you're using an old version of Internet Explorer. For the
-best experience, please update your browser.
-
-[![Home](https://www.dto.gov.au/sites/g/files/net261/f/dto_crest_inline_0.png)](/ "Home")[](#open-menu)
-
-MENU
-
-Search dto.gov.au
-
-Search
-
--   [Home](/)
--   [Blog](/blog)
--   [Digital Service Standard](/standard)
-    -   [The Standard](/standard)
-    -   [Design guides](/design-guides)
-    -   [Transformation planning](/standard/digital-transformation-plan)
-    -   [Common solutions](/standard/common-government-solutions)
-    -   [Case studies](/standard/case-studies)
-    -   [Glossary](/standard/glossary)
--   [Engage](/engage)
--   [About us](/about)
-
-You are here {.element-invisible}
-------------
-
-1.  [Home](/) /
-2.  [Digital Service Standard](/standard) /
-3.  Common government solutions
-
--   [The Standard](/standard)
--   [Design guides](/design-guides)
--   [Transformation planning](/standard/digital-transformation-plan)
--   [Common solutions](/standard/common-government-solutions)
--   [Case studies](/standard/case-studies)
--   [Glossary](/standard/glossary)
-
-[Go to top of page](#skip-link)
-
-Common government solutions {#page-title .page__title .title}
+Common government solutions 
 ===========================
 
 Using common solutions to design better services
@@ -65,7 +18,7 @@ few common platforms the DTO is involved in. If you know of any
 additional common platforms or web services, please let us know via the
 feedback form below.
 
-Tell Us Once {style="line-height: 22.15px;"}
+Tell Us Once 
 ------------
 
 We're working to make it easier for people to 'Tell Us Once' about their
@@ -79,7 +32,7 @@ it to more services.
 For businesses, were working on a Tell Us Once service using Australian
 Business Register. 
 
-myGov Inbox {style="line-height: 22.15px;"}
+myGov Inbox 
 -----------
 
 Another shared platform we're working on is
@@ -89,7 +42,7 @@ electronically rather than by paper. A few agencies like Centrelink and
 Medicare are already using the myGov Inbox and the Australian Tax Office
 will commence using it shortly.
 
-Digital Identity {style="line-height: 22.15px;"}
+Digital Identity 
 ----------------
 
 We're working on the development of a National Trusted Digital Identity
@@ -101,7 +54,7 @@ best to improve and expand these common solutions across government. As
 with all new government services and solutions, Tell Us Once
 and myGov Inbox are built on open, interoperable standards.
 
-Common government solutions {style="line-height: 22.15px;"}
+Common government solutions 
 ---------------------------
 
 -   [myGov Inbox](https://my.gov.au/) - a digital mail service for
@@ -120,26 +73,4 @@ Common government solutions {style="line-height: 22.15px;"}
 -   [Standard Business Reporting](http://www.sbr.gov.au/) - a
     standardised approach to reporting to government for business
 
-**Last updated:**26 March 2015 | [Provide feedback on this
-page](/feedback?url_from=Commonsolutions)
-
-Connect with DTO
-----------------
-
-[](https://twitter.com/AusDTO "DTO Twitter")
-
-[](https://www.youtube.com/channel/UCmDkFN3UlK2wSKDQQhd-Y-A "DTO Youtube")
-
-[](https://www.linkedin.com/company/digital-transformation-office "DTO Linkedin")
-
-Footer Sub Menu {.block__title .block-title}
----------------
-
--   [About](/about "Link to about the DTO")
--   [Accessibility](/web-accessibility)
--   [Copyright](/copyright)
--   [Disclaimer](/disclaimer)
--   [Privacy Statement](/privacy-statement)
--   [Budget](/budget)
--   [Site map](/sitemap)
--   [Contact us](/engage)
+**Last updated:**26 March 2015 
