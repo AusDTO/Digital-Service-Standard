@@ -1,11 +1,9 @@
-Q & As on the Digital Service Standard {#page-title .page__title .title}
+Q & As on the Digital Service Standard 
 ======================================
 
 22/04/2015 - 2:22pm
 
-Author: 
-
-Jacqui van Teulingen
+Author:Jacqui van Teulingen
 
 Since we [released the Digital Service
 Standard](/news-media/blog/release-alpha-digital-service-standard),
