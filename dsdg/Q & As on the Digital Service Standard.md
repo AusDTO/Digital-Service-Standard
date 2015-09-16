@@ -1,10 +1,6 @@
 Q & As on the Digital Service Standard 
 ======================================
 
-22/04/2015 - 2:22pm
-
-Author: Jacqui van Teulingen
-
 Since we [released the Digital Service
 Standard](/news-media/blog/release-alpha-digital-service-standard),
 we’ve had some great questions from our community. The following pick up
