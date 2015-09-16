@@ -4,7 +4,7 @@ Digital Transformation Coordinators
 Key agency contacts with the Digital Transformation Office
 
 All non-corporate Commonwealth entities (most former FMA Act agencies)
-are required by the [Digital Transformation Agenda](/budget) to have a
+are required by the [Digital Transformation Agenda](http://www.dto.gov.au/budget) to have a
 Digital Transformation Coordinator (DTC).
 
 The DTC is the primary person for liaison between the DTO and their
@@ -24,7 +24,7 @@ On behalf of their agency the DTC role involves:
     change, adopting a whole-of-government mentality
 -   collaborating with other DTCs across government
 -   ensuring that existing and new services are aligned with and meet
-    the [Digital Service Standard](/standard)
+    the [Digital Service Standard](http://www.dto.gov.au/standard)
 -   making sure their agency uses government service delivery common
     platforms and joined-up services.
 
