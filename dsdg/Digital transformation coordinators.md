@@ -1,5 +1,3 @@
-[![Home](https://www.dto.gov.au/sites/g/files/net261/f/dto_crest_inline_0.png)](/ "Home")[](#open-menu)
-
 Digital Transformation Coordinators 
 ===================================
 
