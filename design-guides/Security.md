@@ -1,5 +1,9 @@
 # Information Security 
 
+This guide is designed to assist agile development teams to design, build, and operate secure digital services.  Therefore the focus is application layer security practices that are the primary concern of the agile developmet team and less on physical and network security that should be largely managed by the data centre service provider. This guide draws on information from the ASD [Information Security Manual](http://www.asd.gov.au/infosec/ism/index.htm) (ISM) and from the the [Open Web Application Security Project](https://www.owasp.org) (OWASP). The information presented in this guide is aligned with and in no way supersedes the ASD ISM which remains the authoritative reference.
+
+## Why Must I?
+
 The [Australian Cyber Security Centre](https://acsc.gov.au/) (ACSC) [2015 Threat Report](https://www.acsc.gov.au/publications/ACSC_Threat_Report_2015.pdf) provides an indication of the current security threats faced by Australian Government Agencies.
  * There are over 12 million internet subscribers and 21 million internet connected mobile devices in Australia
  * [CERT Australia](https://www.cert.gov.au/) responded to over 11,000 cyber security incidents affecting australian business in 2014.
@@ -10,7 +14,7 @@ The [Australian Cyber Security Centre](https://acsc.gov.au/) (ACSC) [2015 Threat
 
 Cyber security incidents are increasing at a compound rate of about 30% per year. As the number of government digital services increases, so does the "attack surface" and the likely number of security incidents. The threat environment means that agencies building digital services must assume that the service will be attacked and must apply appropriate security measures to mitigate the potential consequences.
 
-This guide is designed to assist agile development teams to design, build, and operate secure digital services.  Therefore the focus is application layer security practices that are the primary concern of the agile developmet team and less on physical and network security that should be largely managed by the data centre service provider. This guide draws on information from the ASD [Information Security Manual](http://www.asd.gov.au/infosec/ism/index.htm) (ISM) and from the the [Open Web Application Security Project](https://www.owasp.org) (OWASP). The information presented in this guide is aligned with and in no way supersedes the ASD ISM which remains the authoritative reference.
+## How Do I?
 
 There are a number of sub-guides that cover key security practices:
  * Threat Modeling - provides a methodology to identify potential threats and vulnerabilities.
