@@ -10,3 +10,7 @@ You may also propose changes to the content directly by submitting a [pull reque
 For more information on how to write on GitHub, please see [Markdown Basics] (https://help.github.com/articles/markdown-basics/) or [GitHub Flavoured Markdown Help Page] (https://help.github.com/articles/github-flavored-markdown/). You may also be interested in how the changes are made in [GitHub Flow] (https://guides.github.com/introduction/flow/). These flow through to the [Waffle Board] (https://waffle.io/AusDTO/Digital-Service-Standard) kanban chart.
 
 If you would like to view and discuss the changes that other people have proposed, please visit the "Pull Requests" section and browse the issues.
+
+
+###Jira Integration
+We are in the process of integrating this repository with our Jira site. Contact the DSS team if you require more information.
