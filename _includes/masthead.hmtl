@@ -1,0 +1,44 @@
+  <div class="nav-head-container">
+    <a href="/" title="Home" rel="home" class="header__logo" id="logo"><img src="https://www.dto.gov.au/sites/g/files/net466/f/dto_crest_inline_0.png" alt="Home" class="header__logo-image" />
+    <!--<div class="mobile-header">Digital Transformation Office</div></a>-->
+    <!--<a href="/" title="Home" rel="home" class="header__logo" id="logo"><img src="/sites/all/themes/custom/dto_whitesite/images/update/government-crest.png" alt="Home" class="header__logo-image" /><span class="title">Digital Transformation Office</span></a>-->
+    <a class="mobile-nav" href="#open-menu"><div class="top"></div><div class="middle"></div><div class="bottom"></div>MENU</a>
+    <nav class="header__secondary-menu" role="navigation">
+    </nav>
+    <div class="header__region region region-header">
+      <div id="block-search-api-page-default-search" class="block block-search-api-page contextual-links-region first odd">
+	<div class="block__content">
+	  <form class="search-form-widget" action="/standard" method="post" id="search-api-page-search-form-default-search" accept-charset="UTF-8">
+	    <div>
+	      <div class="form-item form-type-textfield form-item-keys-1">
+		<label class="element-invisible" for="edit-keys-1">Search dto.gov.au </label>
+		<input placeholder="Search dto.gov.au" type="text" id="edit-keys-1" name="keys_1" value="" size="15" maxlength="128" class="form-text" />
+	      </div>
+	      <input type="hidden" name="id" value="1" />
+	      <button type="submit" id="edit-submit-1" name="op" value="Search" class="form-submit" />Search</button>
+              <input type="hidden" name="form_build_id" value="form-7DlC5jS1EFsMXrMWXnrG-Pc-jt-sczgeNKYug1d3ZQg" />
+	      <input type="hidden" name="form_id" value="search_api_page_search_form_default_search" />
+            </div>
+          </form>
+        </div>
+      </div>
+      <div id="block-block-56" class="block block-block contextual-links-region even">
+	<div class="block__content">
+	  <p><a class="sb-icon-search" href="#open-search"> </a></p>
+        </div>
+      </div>
+      <div id="block-menu-block-2" class="block block-menu-block contextual-links-region last odd" role="navigation">
+	<div class="block__content">
+	  <div class="menu-block-wrapper menu-block-2 menu-name-main-menu parent-mlid-0 menu-level-1">
+	    <ul class="menu">
+	      <li class="menu__item is-leaf first leaf menu-mlid-589"><a href="/" class="menu__link">Home</a></li>
+	      <li class="menu__item is-leaf leaf menu-mlid-2391"><a href="/blog" class="menu__link">Blog</a></li>
+	      <li class="menu__item is-active is-active-trail is-parent is-leaf leaf has-children active-trail active menu-mlid-1391"><a href="/standard" class="menu__link is-active-trail active-trail active">Digital Service Standard</a></li>
+	      <li class="menu__item is-leaf leaf menu-mlid-1231"><a href="/engage" title="" class="menu__link">Engage</a></li>
+	      <li class="menu__item is-leaf last leaf menu-mlid-2626"><a href="/about" class="menu__link">About us</a></li>
+	    </ul>
+	  </div>
+	</div>
+      </div>
+    </div>
+  </div>
