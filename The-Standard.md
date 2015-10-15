@@ -12,7 +12,7 @@ criteria before they can be launched. After launch, we will report
 against our service performance.
 
 This Standard is in beta stage. We encourage
-your [feedback](http://www.dto.gov.au/feedback-design-guidance?url_from=standardpage) on the
+your feedback on the
 Standard to ensure it continues to deliver high quality outcomes.
 
 The Standard is supported by [Design Guides](http://www.dto.gov.au/design-guides). The Guides
