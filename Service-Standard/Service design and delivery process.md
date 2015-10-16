@@ -23,6 +23,5 @@ Define a minimum viable product from the successful prototype in Alpha. Build th
    ----  
 Put the team and processes in place to continue operating and improving the service. Phasing out the old services, and consolidating existing non‑digital channels.
 
-[Service design and delivery process - poster (PDF - 106 KB)](http://www.dto.gov.au/sites/g/files/net586/f/DTOServiceDesignProcessPosterv3.pdf)
 
-**Last updated:** 9 October 2015
+**Last updated:** 16 October 2015
