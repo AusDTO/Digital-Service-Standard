@@ -11,17 +11,7 @@ Standard](http://www.dto.gov.au/standard/scope-digital-service-standard) must m
 criteria before they can be launched. After launch, we will report
 against our service performance.
 
-<<<<<<< HEAD
-This Standard is in beta stage. We encourage
-your feedback on the
-=======
-This Standard is in alpha phase and is intended for service delivery
-teams in Australian Government agencies. The alpha version was developed
-with Government agencies and will be continuously improved to reflect
-emerging best practice. We encourage
-your [feedback](http://www.dto.gov.au/feedback-design-guidance?url_from=standardpage) on the
->>>>>>> parent of b9ee5fe... Merge pull request #20 from AusDTO/jools-dto-patch-1
-Standard to ensure it continues to deliver high quality outcomes.
+This Standard is in beta stage. We encourage your feedback on the Standard to ensure it continues to deliver high quality outcomes.
 
 The Standard is supported by [Design Guides](http://www.dto.gov.au/design-guides). The Guides
 will help agencies design trusted and cost-effective government services
@@ -31,65 +21,53 @@ over the coming months, so stay tuned for updates.
 
 You will notice we are speaking a new language; we are personalising our
 content and making things clearer. We welcome your participation, so get
-involved!  
+involved!
 
 The Criteria
 ------------
 
 Government agencies will be expected to:
 
-1.  Understand user needs, conduct research to develop a deep knowledge
-    of who the service users are and what that means for digital and
-    assisted digital service design​
+1.  Understand user needs. Research to develop a deep knowledge
+    of the users and their context for the service
 
 2.  Establish a sustainable multi-disciplinary team that can design,
     build, operate and iterate the service, led by an experienced
     service manager with decision-making responsibility
 
-3.  Adopt a user-centred design approach​
+3.  Design and build the product using the service design and delivery process, taking an agile and user-centred approach
 
-4.  Establish benchmarks to measure user satisfaction, digital take-up,
-    completion rates and cost per transactions and report performance
-    publicly​
-
-5.  Evaluate what data, tools and systems will be used to build, host,
+4.  Understand the data, tools and systems required to build, host,
     operate and measure the service and how to adopt, adapt or procure
     them
 
-6.  Assess what personal user data and information the service will be
-    providing, using or storing and put in place appropriate measures to
+5.  Assess what information and personal user data the service will be
+    providing, using or storing. Put in place appropriate measures to
     address security risks, legal responsibilities and privacy
-    considerations​
+    considerations
 
-7.  Build the service using agile, iterative, collaborative and user-centred methods
+6.  Measure user satisfaction, digital take-up,
+    completion rate and cost per transaction and report performance
+    publicly. Identify, measure and report other metrics appropriate to you service
 
-8.  Build the service with consistent look, feel, tone and function that
-    meets the needs of users including those with disability
+7.  Incoporate open standards and common government solutions
+    where appropriate
 
-9.  Use web service APIs, open standards and common government solutions
-    where possible and make all new source code open and reusable where
+8.  Make all new source code open and reusable where
     appropriate
 
-10. Test the service on all common browsers and devices, using dummy
-    accounts and selecting representative samples of users
+9.  Use responsive design methods and test that the services can be accessed on all common browsers and devices
 
-11. Integrate the service with any non-digital interactions​
+10. Ensure the service is accessible to all users regardless of the abilities and environment
 
-12. Put appropriate assisted digital support in place that's aimed
-    towards those who genuinely need it
+11. Show the end-to-end user experience in an environment that replicates the live version with a representative sample of users
 
-13. Consolidate or phase out existing alternative channels where
-    appropriate​
+12. Ensure that people who use the digital service can also use the other available channels if needed, without repetition or confusion
 
-14. Undertake ongoing user research and usability testing to
-    continuously inform service improvement​
+13. Encourage users to choose the digital service and Consolidate or phase out existing alternative channels where
+    appropriate
 
-15. Use data and analytics tools to collect and report performance data;
-    informing continual service improvements​
-
-16. Provide ongoing assurance, supported by analytics, that the service
-    is simple and intuitive enough that users succeed first time
-    unaided​
+14. Make sure that the service is simple enough that users succeed first time unaided
 
 *The Digital Service Standard has been adapted from the [UK Government’s
 Digital by Default Service
