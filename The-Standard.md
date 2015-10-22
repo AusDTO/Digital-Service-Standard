@@ -35,7 +35,7 @@ Government agencies will be expected to:
     build, operate and iterate the service, led by an experienced
     service manager with decision-making responsibility
 
-3.  Design and build the product using the service design and delivery process, taking an agile and user-centred approach
+3.  Design and build the product using the [service design and delivery process](https://www.dto.gov.au/standard/service-design-and-delivery-process), taking an agile and user-centred approach
 
 4.  Understand the data, tools and systems required to build, host,
     operate and measure the service and how to adopt, adapt or procure
