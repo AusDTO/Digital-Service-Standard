@@ -64,7 +64,7 @@ Government agencies will be expected to:
 
 12. Ensure that people who use the digital service can also use the other available channels if needed, without repetition or confusion
 
-13. Encourage users to choose the digital service and Consolidate or phase out existing alternative channels where
+13. Encourage users to choose the digital service and consolidate or phase out existing alternative channels where
     appropriate
 
 14. Make sure that the service is simple enough that users succeed first time unaided
