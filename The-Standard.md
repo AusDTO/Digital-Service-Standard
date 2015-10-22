@@ -50,7 +50,7 @@ Government agencies will be expected to:
     completion rate and cost per transaction and report performance
     publicly. Identify, measure and report other metrics appropriate to you service
 
-7.  Incoporate open standards and common government solutions
+7.  Incorporate open standards and common government solutions
     where appropriate
 
 8.  Make all new source code open and reusable where
